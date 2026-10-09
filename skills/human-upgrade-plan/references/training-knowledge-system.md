@@ -7,8 +7,13 @@
 - 项目与通用理论：[event-frameworks](event-frameworks.md)。
 - 恢复与工作场景：[recovery-working-athletes](recovery-working-athletes.md)。
 - 已核验证据卡：[evidence/recovery-work](evidence/recovery-work.md)，6篇，阅读深度逐项注明。
+- **近三年核心50篇索引**：[evidence/INDEX-core50-2023-2026](evidence/INDEX-core50-2023-2026.md)
+  - 冬季/寒冷：[winter-cold-core-2023-2026](evidence/winter-cold-core-2023-2026.md)（12）
+  - 工作日/时间效率：[workday-time-core-2023-2026](evidence/workday-time-core-2023-2026.md)（13）
+  - 恢复·睡眠·饮食：[recovery-nutrition-core-2023-2026](evidence/recovery-nutrition-core-2023-2026.md)（14）
+  - 手表/心率带/跑步豆：[wearables-devices-core-2023-2026](evidence/wearables-devices-core-2023-2026.md)（11）
 - 设备与 COROS MCP：[device-data](device-data.md)。
-- 向用户解释计划时：先选与课型真正相关的 1–2 张本地卡；没有相关卡再检索，并标明阅读深度。
+- 向用户解释计划时：先选与课型真正相关的 1–2 张本地卡；没有相关卡再检索，并标明阅读深度。默认只引用摘要已核验内容，不把厂商手表分数当全文证据。
 
 ## 给用户讲解时的默认顺序
 

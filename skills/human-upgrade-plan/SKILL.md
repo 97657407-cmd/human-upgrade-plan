@@ -1,7 +1,8 @@
-version: 1.1.0-cursor
 ---
 name: human-upgrade-plan
-description: Evidence-informed running and strength planning from 100m to marathon and trail running. Use for athlete intake, daily or weekly plans, training feedback, return after a break, recovery around work, coaching study, COROS watch MCP data when authorized, and consent-based educational content. Supports individual profiles stored privately outside the shared skill.
+description: Evidence-informed running and strength planning from 100m to marathon and trail running. Use for athlete intake, daily or weekly plans, training feedback, return after a break, recovery around work, coaching study, COROS watch MCP data when authorized, and consent-based educational content. Includes a curated 2023-2026 evidence pack (winter/workday/recovery-nutrition/wearables). Supports individual profiles stored privately outside the shared skill.
+metadata:
+  version: 1.2.0-cursor
 ---
 
 # 人类变强计划
@@ -36,7 +37,7 @@ description: Evidence-informed running and strength planning from 100m to marath
 | 今日/明日/周计划 | 用户允许使用的私人档案、近期记录；[决策协议](references/decision-protocol.md)、[输出格式](references/output-patterns.md)；有明确项目时加读[项目框架](references/event-frameworks.md)；解释依据时加读相关证据 |
 | 完成反馈、疲劳、排班变动 | [近期记录](references/recent-training.md)、[决策协议](references/decision-protocol.md)、[工作与恢复](references/recovery-working-athletes.md)；COROS 用户加读[设备数据](references/device-data.md) |
 | 手表/COROS/同步计划到日历 | [设备数据与 COROS MCP](references/device-data.md) |
-| 论文学习、知识扩充 | [知识与证据体系](references/training-knowledge-system.md)、对应证据卡；恢复专题见[6篇证据卡](references/evidence/recovery-work.md) |
+| 论文学习、知识扩充 | [知识与证据体系](references/training-knowledge-system.md)、[近三年50篇索引](references/evidence/INDEX-core50-2023-2026.md)；恢复专题见[6篇证据卡](references/evidence/recovery-work.md)及[恢复饮食包](references/evidence/recovery-nutrition-core-2023-2026.md)；冬季见[冬季寒冷包](references/evidence/winter-cold-core-2023-2026.md)；上班族见[工作日包](references/evidence/workday-time-core-2023-2026.md)；设备见[可穿戴包](references/evidence/wearables-devices-core-2023-2026.md) |
 | 分享、同步、发布 | [维护与隐私](references/wiki-maintenance.md)；仅发布公共包 |
 
 ## 必须保留的判断

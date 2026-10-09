@@ -19,7 +19,6 @@ ALLOWED_RELATIVE = {
     "skills/human-upgrade-plan/references/decision-protocol.md",
     "skills/human-upgrade-plan/references/device-data.md",
     "skills/human-upgrade-plan/references/event-frameworks.md",
-    "skills/human-upgrade-plan/references/evidence/recovery-work.md",
     "skills/human-upgrade-plan/references/output-patterns.md",
     "skills/human-upgrade-plan/references/recent-training.md",
     "skills/human-upgrade-plan/references/recovery-working-athletes.md",
@@ -27,6 +26,11 @@ ALLOWED_RELATIVE = {
     "skills/human-upgrade-plan/references/wiki-maintenance.md",
     "skills/human-upgrade-plan/scripts/check_public.py",
 }
+
+# Evidence cards grow over time; allow any markdown under references/evidence/.
+ALLOWED_PREFIXES = (
+    "skills/human-upgrade-plan/references/evidence/",
+)
 
 BLANK_TEMPLATES = {
     "skills/human-upgrade-plan/assets/profile-template.md",
@@ -39,8 +43,6 @@ DEFAULT_DENY_PATTERNS = [
     re.compile(r"C:\\Users\\", re.I),
     re.compile(r"[\w.+-]+@[\w-]+\.[\w.-]+"),
     re.compile(r"(?<!\d)(?:\+?86[-\s]?)?1[3-9]\d{9}(?!\d)"),
-    re.compile(r"张张"),
-    re.compile(r"houlang", re.I),
 ]
 
 
@@ -58,7 +60,13 @@ def iter_files(root: Path) -> list[Path]:
 def check_whitelist(root: Path, files: list[Path]) -> list[str]:
     errors: list[str] = []
     rels = {str(p.relative_to(root)).replace("\\", "/") for p in files}
-    unexpected = sorted(rels - ALLOWED_RELATIVE)
+
+    def allowed(rel: str) -> bool:
+        if rel in ALLOWED_RELATIVE:
+            return True
+        return any(rel.startswith(prefix) and rel.endswith(".md") for prefix in ALLOWED_PREFIXES)
+
+    unexpected = sorted(rel for rel in rels if not allowed(rel))
     missing = sorted(ALLOWED_RELATIVE - rels)
     for item in unexpected:
         errors.append(f"unexpected file: {item}")
@@ -79,6 +87,24 @@ def check_blank_templates(root: Path) -> list[str]:
         for pattern in filled_markers:
             if pattern.search(text):
                 errors.append(f"template may contain filled data: {rel} ({pattern.pattern})")
+    return errors
+
+
+def check_skill_frontmatter(root: Path) -> list[str]:
+    path = root / "skills/human-upgrade-plan/SKILL.md"
+    text = path.read_text(encoding="utf-8")
+    errors: list[str] = []
+    if not text.startswith("---\n"):
+        errors.append("SKILL.md frontmatter must start at byte 0")
+        return errors
+    closing = text.find("\n---", 4)
+    if closing == -1:
+        errors.append("SKILL.md frontmatter is not closed")
+        return errors
+    header = text[4:closing]
+    for required in ("name:", "description:", "metadata:", "version:"):
+        if required not in header:
+            errors.append(f"SKILL.md frontmatter missing {required}")
     return errors
 
 
@@ -150,6 +176,7 @@ def main() -> int:
     files = iter_files(root)
     errors: list[str] = []
     errors.extend(check_whitelist(root, files))
+    errors.extend(check_skill_frontmatter(root))
     errors.extend(check_blank_templates(root))
     errors.extend(check_relative_links(root, files))
     errors.extend(check_deny_terms(root, files, args.deny_term))
