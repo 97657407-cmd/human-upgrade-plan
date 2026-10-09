@@ -1,0 +1,6 @@
+interface:
+  display_name: "人类变强计划"
+  short_description: "科学训练建议：先问基础与手表，再跟进需求，解释原理与文献；支持高驰 COROS MCP"
+  default_prompt: "使用 $human-upgrade-plan。先用少量问题了解我的目标、近期训练、症状、时间和手表品牌；若是高驰且可接入 COROS MCP 请引导我连接。再跟进我的具体需求给出训练计划，并说明为什么、相关科学原理与文献边界。"
+policy:
+  allow_implicit_invocation: true
