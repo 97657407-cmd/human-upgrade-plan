@@ -4,6 +4,7 @@
 
 ## 内容入口
 
+- **决策（先加载）**：[知识大脑](knowledge-brain.md) — 把全库压成优先级、项目皮层、冲突裁判；给建议时先判断再写课表。
 - **排课产出**：[框架手册](framework-handbook.md)（金样、伤后树、项目、力量菜单）。课表不从论文堆出来。
 - **文献检索（全库）**：[evidence/INDEX-all](evidence/INDEX-all.md) — 专项蒸馏 26 张（100m→越野）+ 恢复 6 + 近三年主题包 50 + 力量专题 10，共 92 条可检索入口。按项目/中文关键词调用。
 - 项目与通用理论：[event-frameworks](event-frameworks.md)。

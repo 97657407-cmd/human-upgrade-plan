@@ -1,7 +1,7 @@
 ---
 name: human-upgrade-plan
-version: 1.5.0-cursor
-description: Evidence-informed running and strength planning from 100m to marathon and trail running. Use for athlete intake, weekly plans that follow the framework handbook, training feedback, return after a break, recovery around work, coaching study, COROS MCP when authorized, and consent-based educational content. Literature library: event-specific cards (100m–trail) plus 2023-2026 packs (winter/workday/nutrition/wearables/strength). Retrieve via INDEX-all; do not dump the library into the week plan. Supports private profiles outside the shared skill.
+version: 1.6.0-cursor
+description: Evidence-informed running and strength planning from 100m to trail. Load the knowledge brain to decide, the framework handbook to write the week, and INDEX-all for 1-2 evidence cards. Use for intake, weekly plans, feedback, return after a break, workday recovery, coaching study, COROS MCP when authorized. Do not dump the literature library into the plan. Private profiles stay outside the shared skill.
 ---
 
 # 人类耐力变强计划
@@ -16,14 +16,14 @@ description: Evidence-informed running and strength planning from 100m to marath
 2. **设备与数据源**  
    明确询问手表品牌。若是**高驰 COROS**，先问用户用的是哪种 AI：能直接填链接的云端（ChatGPT 等）走方式一 `https://mcpcn.coros.com/mcp`；**国内本机客户端默认走方式二**（`npm install -g coros-mcp` 本地安装再授权）。不要只丢一条 URL。已接入则用 MCP 核对近期负荷与睡眠。其他品牌或无手表则走手动反馈。详见 [设备数据与 COROS MCP](references/device-data.md)。
 
-3. **跟进具体需求 + 匹配计划类型**  
-   基础够用后，用其称呼确认本轮主任务（本周课表 / 比赛或体测 / 伤后 / 力量 / 太累取舍）。按建档表的「信息→计划类型」匹配金样或力量模式，再问缺口（≤3 个）。避免同时塞多个互斥目标。
+3. **跟进具体需求 + 用知识大脑判断**  
+   基础够用后，用其称呼确认本轮主任务。**必须先读 [知识大脑](references/knowledge-brain.md)**：按优先级和冲突裁判做取舍（主目标只有一个、本周一个主刺激、睡眠/伤病优先），再匹配金样或力量模式。缺口 ≤3 个。不要跳过大脑直接堆课。
 
 4. **给出可执行训练建议（必须走框架手册）**  
-   周结构只按 [训练计划框架手册](references/framework-handbook.md) 四步产出：建档匹配 → 伤后树或金样 → 项目课型与力量菜单 → 输出格式。有痛未到 S5 不要排质量课。按**实际场地器械**改动作。不要把文献总索引展开成七天课表。阶段与剂量受 [决策协议](references/decision-protocol.md) 约束。信息不足时给**条件分支**。
+   判断完成后，周结构只按 [训练计划框架手册](references/framework-handbook.md) 写成七天。有痛未到 S5 不要排质量课。按**实际场地器械**改动作。不要把文献总索引展开成课表。剂量受 [决策协议](references/decision-protocol.md) 约束。信息不足时给**条件分支**。
 
-5. **必须解释“为什么”（文献从总索引检索）**  
-   每份计划至少说明：设计目的、负荷依据、与前后课衔接、何时减量/取消。原理、文献、针对该用户的推断分开写。文献从 [全库总索引 INDEX-all](references/evidence/INDEX-all.md) 按项目/关键词检索，**一次最多挂 1–2 张卡**。深度与边界见 [知识与证据](references/training-knowledge-system.md)。用户要学论文时再按总索引多读。
+5. **必须解释“为什么”（大脑定原理，索引钉 1–2 张卡）**  
+   设计目的、负荷依据、前后衔接、取消条件写清。原理用知识大脑的皮层，文献从 [INDEX-all](references/evidence/INDEX-all.md) 钉 **1–2 张**最相关卡，推断单独标。见 [知识与证据](references/training-knowledge-system.md)。用户要学论文时再按总索引多读，仍用大脑说明改哪一个训练变量。
 
 6. **反馈闭环**  
    告诉用户下次应回报什么；有 COROS MCP 时优先拉取实际完成，再对照计划调整。未反馈不记为已完成。
@@ -33,7 +33,7 @@ description: Evidence-informed running and strength planning from 100m to marath
 | 请求 | 按需读取 |
 |---|---|
 | 新用户、目标评估 | [用户建档](references/athlete-profile.md)、[近期记录](references/recent-training.md)、[设备数据](references/device-data.md) |
-| 今日/明日/周计划 | 先读[框架手册](references/framework-handbook.md)；再读私人档案、[决策协议](references/decision-protocol.md)、[输出格式](references/output-patterns.md)、[项目框架](references/event-frameworks.md)；「为什么」从[INDEX-all](references/evidence/INDEX-all.md)抽 1–2 张卡 |
+| 今日/明日/周计划 | **先读[知识大脑](references/knowledge-brain.md)** 做判断；再按[框架手册](references/framework-handbook.md)写课表；私人档案、[决策协议](references/decision-protocol.md)、[输出格式](references/output-patterns.md)、[项目框架](references/event-frameworks.md)；「为什么」从[INDEX-all](references/evidence/INDEX-all.md)钉 1–2 张卡 |
 | 完成反馈、疲劳、排班变动 | [近期记录](references/recent-training.md)、[决策协议](references/decision-protocol.md)、[工作与恢复](references/recovery-working-athletes.md)；COROS 用户加读[设备数据](references/device-data.md) |
 | 伤后回归、疼痛还能不能跑 | [金样课表与伤后回归](references/gold-weeks-and-return.md)；动作替换见[力量模式第9节](references/strength-training-modes.md) |
 | 手表/COROS/同步计划到日历 | [设备数据与 COROS MCP](references/device-data.md) |

@@ -21,6 +21,7 @@ ALLOWED_RELATIVE = {
     "skills/human-upgrade-plan/references/event-frameworks.md",
     "skills/human-upgrade-plan/references/framework-handbook.md",
     "skills/human-upgrade-plan/references/gold-weeks-and-return.md",
+    "skills/human-upgrade-plan/references/knowledge-brain.md",
     "skills/human-upgrade-plan/references/output-patterns.md",
     "skills/human-upgrade-plan/references/recent-training.md",
     "skills/human-upgrade-plan/references/recovery-working-athletes.md",
