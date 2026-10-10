@@ -22,6 +22,8 @@ ALLOWED_RELATIVE = {
     "skills/human-upgrade-plan/references/output-patterns.md",
     "skills/human-upgrade-plan/references/recent-training.md",
     "skills/human-upgrade-plan/references/recovery-working-athletes.md",
+    "skills/human-upgrade-plan/references/strength-training-modes.md",
+    "skills/human-upgrade-plan/references/tcm-asian-diet-training.md",
     "skills/human-upgrade-plan/references/training-knowledge-system.md",
     "skills/human-upgrade-plan/references/wiki-maintenance.md",
     "skills/human-upgrade-plan/scripts/check_public.py",
