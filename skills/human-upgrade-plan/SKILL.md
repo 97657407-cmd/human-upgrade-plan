@@ -1,7 +1,7 @@
 ---
 name: human-upgrade-plan
-version: 1.10.6-cursor
-description: Evidence-informed running and strength planning from 100m to trail. Ask where they train and refresh temperature/humidity each session. Every session has a warmup scaled to recreational vs trained athletes; adjust from warmup feedback. Read last COROS workout. Race-day pacing from weather and readiness. Not medical diagnosis.
+version: 1.10.7-cursor
+description: Evidence-informed running and strength planning from 100m to trail. Ask where they train and look up that city's forecast each session. Every session has a warmup scaled to recreational vs trained athletes; adjust from warmup feedback. Read last COROS workout. Race-day pacing from weather and readiness. Not medical diagnosis.
 ---
 
 # 人类耐力变强计划
@@ -21,7 +21,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
    基础够用后，用其称呼确认本轮主任务。**必须先读 [知识大脑](references/knowledge-brain.md)**：按优先级和冲突裁判做取舍（主目标只有一个、本周一个主刺激、睡眠/伤病优先），再匹配金样或力量模式。缺口 ≤3 个。不要跳过大脑直接堆课。
 
 4. **给出可执行训练建议（每堂必须带热身；先更新该地点天气）**  
-   写课前问/确认今天在哪练，用公开预报或口述更新**气温、湿度、风、降水**（室内跑步机按更热一档）。抄 [热身与练后手册](references/warmup-recovery-framework.md)：项目速查 × **大众短热身 vs 专业完整 RAMP** × 气温湿度表。有热身反馈则先改热身再改主课。  
+   写课前确认今天在哪练。**助手必须检索该城市、该训练时段的公开预报**（气温、相对湿度、风、降水），写进课表头；检索失败再请用户看一眼天气 App，禁止默认「全国同一气温」。室内跑步机按更热一档。抄 [热身与练后手册](references/warmup-recovery-framework.md)：项目速查 × **大众短热身 vs 专业完整 RAMP** × 气温湿度表。有热身反馈则先改热身再改主课。热身不能当零伤保证（IWR33）。  
    用户报了比赛/体测日期：先读 [长期备赛框架](references/race-prep-framework.md)，赛前 14 天或问成绩再读 [赛事预测与赛日策略](references/race-day-strategy.md)。无比赛日期则 [当周框架手册](references/framework-handbook.md)。有痛未到 S5 不要排质量课。不要一次输出整季逐日表。
 
 5. **必须解释“为什么”（大脑定原理，索引钉 1–2 张卡）**  

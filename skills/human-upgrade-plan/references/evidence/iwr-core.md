@@ -417,6 +417,36 @@ Br J Sports Med. 2007;41(6):380-384. PMID [17224434](https://pubmed.ncbi.nlm.nih
 
 ---
 
+### IWR33 热身防伤：证据不够当零伤保证
+
+**Fradkin AJ, Gabbe BJ, Cameron PA. Does warming up prevent injury in sport? The evidence from randomised controlled trials?**  
+J Sci Med Sport. 2006;9(3):214-220. PMID [16679062](https://pubmed.ncbi.nlm.nih.gov/16679062/)  
+证据类型：系统综述，5 项 RCT（热身含活动，不只拉伸）
+
+**一句话精华**  
+5 项里 3 项显示热身降低伤风险，2 项没有。不足以规定「必须某种热身才不算冒险」，总体略偏向有热身更好。
+
+**大众** 仍做短升温+少量动态，目的是把课跑完、少在冷肌上加速；不靠 20 min 仪式换零伤。防伤力量见 IWR01。  
+**专业** 完整 RAMP 主要为表现和肌温，不把伤病风险说成已被热身消除。  
+**阅读深度**：摘要口径。
+
+---
+
+### IWR34 热里核心起得越高，能撑越短
+
+**González-Alonso J, Teller C, Andersen SL, Jensen FB, Hyldig T, Nielsen B. Influence of body temperature on the development of fatigue during prolonged exercise in the heat.**  
+J Appl Physiol. 1999;86(3):1032-1039. PMID [10066720](https://pubmed.ncbi.nlm.nih.gov/10066720/)  
+证据类型：实验室，受训自行车手，热环境骑到力竭；预先把核心温度抬到不同水平
+
+**一句话精华**  
+力竭发生在相近的高核心温度；出发时已经更热，能撑的时间明显更短。湿度高、无风、室内跑步机 = 散热更差，等于出发前就在囤热。
+
+**所有耐力** 热天/很湿：热身缩短，不要用慢跑把核心先烧热（接 IWR32）。  
+**大众** 夏天路跑尤其如此。  
+**阅读深度**：摘要口径。自行车实验室 ≠ 路跑，方向可外推。
+
+---
+
 ## 与旧文件
 
 | 主题 | 文件 |
