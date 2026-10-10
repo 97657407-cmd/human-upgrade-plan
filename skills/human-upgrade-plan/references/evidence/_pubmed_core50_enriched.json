@@ -1,0 +1,2409 @@
+{
+  "36373406": {
+    "pmid": "36373406",
+    "title": "Exercise-induced bronchoconstriction in elite athletes: a narrative review.",
+    "abstract": "Exercise-induced bronchoconstriction (EIB) is the most common chronic disease among elite athletes and when left untreated, can impact both respiratory health and sports performance. In recent years, there has been an increase in the awareness and detection of EIB in elite athletes. This narrative review aims to evaluate the risk, prevention, diagnosis, medication, and anti-doping policies of EIB in elite athletes, and to provide more references for athletes with EIB. The results showed that athletes of endurance, winter, and water sports generally have a higher prevalence of EIB than athletes of other sports. Adaptive warm-up before formal exercise and using heat exchange masks at low temperatures are effective ways for athletes to prevent EIB. For physicians, the exercise challenge test and eucapnic voluntary hyperpnea are the recommended diagnostic methods for EIB in athletes. The treatment of athletes with EIB is medication-based, such as inhaled corticosteroids and beta-2 agonists, but current anti-doping policies should be considered when used.",
+    "journal": "The Physician and sportsmedicine",
+    "year": "2023",
+    "doi": "10.1080/00913847.2022.2148137",
+    "authors": [
+      "He T",
+      "Song T"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": "13525907",
+    "oa": true,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1080/00913847.2022.2148137",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1080/00913847.2022.2148137"
+          }
+        ]
+      }
+    }
+  },
+  "36965010": {
+    "pmid": "36965010",
+    "title": "Asthma and exercise-induced bronchoconstriction in athletes: Diagnosis, treatment, and anti-doping challenges.",
+    "abstract": "Athletes often experience lower airway dysfunction, such as asthma and exercise-induced bronchoconstriction (EIB), which affects more than half the athletes in some sports, not least in endurance sports. Symptoms include coughing, wheezing, and breathlessness, alongside airway narrowing, hyperresponsiveness, and inflammation. Early diagnosis and management are essential. Not only because untreated or poorly managed asthma and EIB potentially affects competition performance and training, but also because untreated airway inflammation can result in airway epithelial damage, remodeling, and fibrosis. Asthma and EIB do not hinder performance, as advancements in treatment strategies have made it possible for affected athletes to compete at the highest level. However, practitioners and athletes must ensure that the treatment complies with general guidelines and anti-doping regulations to prevent the risk of a doping sanction because of inadvertently exceeding specified dosing limits. In this review, we describe considerations and challenges in diagnosing and managing athletes with asthma and EIB. We also discuss challenges facing athletes with asthma and EIB, while also being subject to anti-doping regulations.",
+    "journal": "Scandinavian journal of medicine & science in sports",
+    "year": "2024",
+    "doi": "10.1111/sms.14358",
+    "authors": [
+      "Hostrup M",
+      "Hansen ESH",
+      "Rasmussen SM",
+      "Jessen S",
+      "Backer V"
+    ],
+    "types": [
+      "Review",
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1111/sms.14358",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sms.14358"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1111/sms.14358"
+          }
+        ]
+      }
+    }
+  },
+  "36527593": {
+    "pmid": "36527593",
+    "title": "Effects of Cold-Water Immersion Compared with Other Recovery Modalities on Athletic Performance Following Acute Strenuous Exercise in Physically Active Participants: A Systematic Review, Meta-Analysis, and Meta-Regression.",
+    "abstract": "BACKGROUND: Studies investigating the effects of common recovery modalities following acute strenuous exercise have reported mixed results.\nOBJECTIVES: This systematic review with meta-analysis and meta-regression compared the effects of cold-water immersion (CWI) against other common recovery modalities on recovery of athletic performance, perceptual outcomes, and creatine kinase (CK) following acute strenuous exercise in physically active populations.\nSTUDY DESIGN: Systematic review, meta-analysis, and meta-regression.\nMETHODS: The MEDLINE, SPORTDiscus, Scopus, Web of Science, Cochrane Library, EmCare, and Embase databases were searched up until September 2022. Studies were included if they were peer reviewed, published in English, included participants who were involved in sport or deemed physically active, compared CWI with other recovery modalities following an acute bout of strenuous exercise, and included measures of performance, perceptual measures of recovery, or CK.\nRESULTS: Twenty-eight studies were meta-analysed. CWI was superior to other recovery methods for recovering from muscle soreness, and similar to other methods for recovery of muscular power and flexibility. CWI was more effective than active recovery, contrast water therapy and warm-water immersion for most recovery outcomes. Air cryotherapy was significantly more effective than CWI for the promotion of recovery of muscular strength and the immediate recovery of muscular power (1-h post-exercise). Meta-regression revealed that water temperature and exposure duration were rarely exposure moderators.\nCONCLUSION: CWI is effective for promoting recovery from acute strenuous exercise in physically active populations compared with other common recovery methods.\nPROTOCOL REGISTRATION: Open Science Framework: https://doi.org/10.17605/OSF.IO/NGP7C.",
+    "journal": "Sports medicine (Auckland, N.Z.)",
+    "year": "2023",
+    "doi": "10.2165/00007256-200535030-00004",
+    "authors": [
+      "Moore E",
+      "Fuller JT",
+      "Bellenger CR",
+      "Saunders S",
+      "Halson SL",
+      "Broatch JR",
+      "Buckley JD"
+    ],
+    "types": [
+      "Meta-Analysis",
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1007/s40279-022-01800-1",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s40279-022-01800-1"
+          }
+        ]
+      }
+    }
+  },
+  "36744038": {
+    "pmid": "36744038",
+    "title": "Effects of cold water immersion after exercise on fatigue recovery and exercise performance--meta analysis.",
+    "abstract": "Cold water immersion (CWI) is very popular as a method reducing post-exercise muscle stiffness, eliminating fatigue, decreasing exercise-induced muscle damage (EIMD), and recovering sports performance. However, there are conflicting opinions as to whether CWI functions positively or negatively. The mechanisms of CWI are still not clear. In this systematic review, we used meta-analysis aims to examine the effect of CWI on fatigue recovery after high-intensity exercise and exercise performance. A total of 20 studies were retrieved and included from PubMed, PEDro and Elsevier databases in this review. Publication years of articles ranged from 2002 to 2022. In selected studies including randomized controlled trials (RCTs) and Crossover design (COD). Analyses of subjective indicators such as delayed-onset muscle soreness (DOMS) and ratings of perceived exertion (RPE), and objective indicators such as countermovement jump (CMJ) and blood plasma markers including creatine kinase(CK), lactate/lactate dehydrogenase(LDH), C-reactive protein(CRP), and IL-6 were performed. Pooled data showed as follows: CWI resulted in a significant decline in subjective characteristics (delayed-onset muscle soreness and perceived exertion at 0 h); CWI reduced countermovement jump(CMJ) significantly at 0 h, creatine kinase(CK) was lowered at 24 h, and lactate at 24 and 48 h. There was no evidence that CWI affects C-reactive protein(CRP) and IL-6 during a 48-h recovery period. Subgroup analysis revealed that different CWI sites and water temperatures have no effect on post-exercise fatigue recovery. Recommended athletes immersed in cold water immediately after exercise, which can effectively reduce muscle soreness and accelerate fatigue recovery.",
+    "journal": "Frontiers in physiology",
+    "year": "2023",
+    "doi": "10.1111/j.1600-0838.2012.01477.x",
+    "authors": [
+      "Xiao F",
+      "Kabachkova AV",
+      "Jiao L",
+      "Zhao H",
+      "Kapilevich LV"
+    ],
+    "types": [
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC9896520",
+      "doi": "10.3389/fphys.2023.1006512",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fphys.2023.1006512/pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fphys.2023.1006512"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9896520"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9896520?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "42667675": {
+    "pmid": "42667675",
+    "title": "The cold-water immersion recovery-adaptation paradox: Reconciling acute parasympathetic and analgesic benefits with chronic hypertrophy attenuation.",
+    "abstract": "Cold-water immersion (CWI) is among the most widely used post-exercise recovery modalities in elite sport and clinical rehabilitation, yet a fundamental paradox now emerges from the evidence: the same protocols that accelerate parasympathetic reactivation and reduce perceived muscle soreness also suppress the molecular and cellular machinery of skeletal-muscle hypertrophy when applied repeatedly across resistance-training mesocycles. This narrative review synthesises the multi-axis acute physiological response to CWI, the meta-analytic evidence supporting its acute recovery benefits, and the molecular, cellular and longitudinal evidence documenting its chronic attenuation of resistance-training adaptations. Acute CWI (10-15°C, 10-15 min) consistently augments parasympathetic reactivation, reduces soreness within 24-72 h (network meta-analytic SUCRA 88%) and modulates inflammatory time-courses. In parallel, equivalent protocols attenuate post-resistance-exercise mechanistic target of rapamycin complex 1 signalling, ribosomal biogenesis and satellite-cell-mediated myonuclear addition, translating into reduced type II fibre cross-sectional area and modest impairments of strength gain (effect size -0.23). Endurance-related microvascular and mitochondrial adaptations appear less affected and may be selectively enhanced. A protocol-by-goal decision framework links CWI parameters - water temperature, duration, body coverage and temporal placement - to expected adaptive outcomes across hypertrophy, strength, endurance and concurrent training contexts. CWI is neither uniformly beneficial nor uniformly harmful; its effects are predictable and depend on the training goal. CWI should be used when fast recovery between sessions matters most, and withheld after resistance training when muscle growth is the main goal of the training block.",
+    "journal": "Experimental physiology",
+    "year": "2026",
+    "doi": "10.1113/EP094042",
+    "authors": [
+      "Tornero-Aguilera JF",
+      "Lozano-Meca J",
+      "López-Moreno M",
+      "Sancho-Haro ES",
+      "Muñoz-López M",
+      "Baz-Valle E",
+      "López-Gil JF",
+      "Yáñez-Sepúlveda R"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC13525907",
+      "doi": "10.1113/ep094042",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1113/EP094042"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13525907"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13525907?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "40983804": {
+    "pmid": "40983804",
+    "title": "Isolated and Combined Effects of Cold, Heat and Hypoxia Therapies on Muscle Recovery Following Exercise-Induced Muscle Damage.",
+    "abstract": "The optimisation of muscle recovery from exercise-induced muscle damage (EIMD) is a major issue in sports medicine. This comprehensive review examines the effects of four environmental stressors, including cold (cold therapy), heat (heat therapy), hot-cold alternation (contrast therapy) and reduced oxygen availability (hypoxia therapy), on muscle recovery following EIMD. The analysis of related randomised controlled trials assessed the influences of these stressors on five markers of recovery (muscular performance, joint amplitude, muscle pain, swelling and blood biomarkers). Although cold therapy has been widely studied, the lack of consensus on its application modalities leads to controversial debates regarding its effectiveness for muscle recovery. Heat therapy, particularly hot water immersion, appears to be the most effective method for restoring muscle function. However, the use of local heating techniques is less well understood. Moreover, contrast therapy seems to be promising for reducing swelling post-EIMD; however, the lack of studies and the variety of utilised techniques involving contrast therapy limit conclusions. Finally, local hypoxia, which is elicited by intermittent blood flow restriction, demonstrates potential for reducing inflammation and improving the recovery of muscle function, based on the appropriate application of protocols. By synthesising existing data, this comprehensive review shows that most environmental stress-based therapies can be effective, if the modalities of application-such as dose or frequency-are appropriate. It offers practical recommendations for optimising muscle recovery. This review also highlights the need for further research to refine protocols and better understand the potential synergistic effects of these environmental stress-based interventions.",
+    "journal": "Sports medicine (Auckland, N.Z.)",
+    "year": "2025",
+    "doi": "10.3390/ijerph17207377",
+    "authors": [
+      "Rousse Y",
+      "Sautillet B",
+      "Costalat G",
+      "Brocherie F",
+      "Millet GP"
+    ],
+    "types": [
+      "Journal Article",
+      "Review",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC12559053",
+      "doi": "10.1007/s40279-025-02300-8",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s40279-025-02300-8"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12559053"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12559053?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "41032138": {
+    "pmid": "41032138",
+    "title": "Effects of Post-Exercise Heat Exposure on Acute Recovery and Training-Induced Performance Adaptations: A Systematic Review.",
+    "abstract": "BACKGROUND: Whole-body heat exposure, such as sauna bathing or hot water immersion (HWI) has been shown to induce various physiological adaptations that can improve athletic performance. However, the effects of post-exercise heat exposure on acute recovery and promoting training-induced performance adaptations are not well understood. The aim of this systematic review was to summarise the current evidence on the effects of post-exercise heat exposure on physical performance in healthy adults.\nMETHODS: This review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. A systematic search for articles was conducted in December 2023 and updated in June 2025 using the PubMed, SPOLIT, Medline, and SPORTDiscus databases. Eligible studies were randomised or crossover trials comparing whole-body post-exercise heat exposure (≥ 36 °C, e.g., hot water immersion to at least sternum level, or sauna bathing) to passive or placebo recovery. The risk of bias of the included studies was assessed using the Cochrane Collaboration Risk of Bias Tool version 2. Only studies that provided results on maximal physical performance outcomes in healthy adults were included.\nRESULTS: Fourteen studies, including a total of 194 participants, met the inclusion criteria. Nine studies investigated acute effects after heat exposure and five were long-term training intervention studies. The acute studies reported uncertain results, with studies showing no effects (n = 4), beneficial (n = 4), or adverse (n = 1) effects of post-exercise heat exposure on performance recovery. The chronic studies suggested that post-exercise heating may improve running performance, at least in hot conditions. However, repeated heat exposures had no effect on cycling performance or VO2max. The overall quality of the evidence was low to moderate. The heterogeneity of study designs, heating protocols, exercise modes, performance outcomes and recovery times precluded meta-analysis.\nCONCLUSION: Based on the current evidence, it is not possible to draw definitive conclusions about the effects of post-exercise heat exposure on recovery and physical performance development. Additional high-quality studies are needed to determine the optimal heat exposure methods and recovery strategies for different types of training and performance outcomes.",
+    "journal": "Sports medicine - open",
+    "year": "2025",
+    "doi": "10.1136/bjsports-2016-096279",
+    "authors": [
+      "Ahokas EK",
+      "Hennessy RS",
+      "Hanstock HG",
+      "Kyröläinen H",
+      "Ihalainen JK"
+    ],
+    "types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC12488549",
+      "doi": "10.1186/s40798-025-00910-0",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s40798-025-00910-0"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12488549"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12488549?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "40355096": {
+    "pmid": "40355096",
+    "title": "Head, Face, and Neck Cooling for Performance: A Systematic Review and Meta-Analysis.",
+    "abstract": "PURPOSE: Cooling the head, face, and neck can have strong perceptual effects that contribute to improved performance. This systematic review aimed to determine the effect of cooling strategies targeting the head, face, and neck on physical and cognitive performance, determine any associated physiological and perceptual responses, synthesize adverse events, and provide practical applications.\nMETHODS: We conducted a systematic review and multilevel meta-analysis, adhering to PRISMA guidelines. Studies that investigated the effect of cooling strategies targeting the head, face, or neck on a physical or cognitive task using a controlled trial design were included.\nRESULTS: Sixty-three studies were identified, involving 618 participants (86.6% male). Cooling strategies included water-perfused devices (18.7%), phase-change neck collars (17.3%), fanning/cold air (14.7%), phase-change headwear (13.3%), ice/gel packs (13.3%), cold towels (5.3%), menthol application (4.0%), water spraying/dousing (4.0%), or a combination of strategies (9.3%). The effect of cooling on both self-paced and fixed-intensity exercise tasks was inconclusive; the 95% CI of the pooled effect was compatible with no effect and medium beneficial effects but not harmful effects. We were unable to pool cognitive data. Cooling reduced the skin temperature at the target site and improved thermal sensation and comfort. Effects on heart rate and core and mean skin temperatures were negligible. Adverse events were rare, and no intervention subgroup was superior.\nCONCLUSION: We recommend that athletes experiment with a range of head-, face-, and neck-cooling strategies, including using different doses and timings, to determine the optimal strategy for their individual and sport context.",
+    "journal": "International journal of sports physiology and performance",
+    "year": "2025",
+    "doi": "10.1123/ijspp.2024-0561",
+    "authors": [
+      "Stevens CJ",
+      "Borg D",
+      "Brade C",
+      "Carter S",
+      "Filingeri D",
+      "Lee J",
+      "Lim L",
+      "Mündel T"
+    ],
+    "types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1123/ijspp.2024-0561",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1123/ijspp.2024-0561"
+          }
+        ]
+      }
+    }
+  },
+  "36900796": {
+    "pmid": "36900796",
+    "title": "Does Lactate-Guided Threshold Interval Training within a High-Volume Low-Intensity Approach Represent the \"Next Step\" in the Evolution of Distance Running Training?",
+    "abstract": "The aim of the present study was to describe a novel training model based on lactate-guided threshold interval training (LGTIT) within a high-volume, low-intensity approach, which characterizes the training pattern in some world-class middle- and long-distance runners and to review the potential physiological mechanisms explaining its effectiveness. This training model consists of performing three to four LGTIT sessions and one VO2max intensity session weekly. In addition, low intensity running is performed up to an overall volume of 150-180 km/week. During LGTIT sessions, the training pace is dictated by a blood lactate concentration target (i.e., internal rather than external training load), typically ranging from 2 to 4.5 mmol·L-1, measured every one to three repetitions. That intensity may allow for a more rapid recovery through a lower central and peripheral fatigue between high-intensity sessions compared with that of greater intensities and, therefore, a greater weekly volume of these specific workouts. The interval character of LGTIT allows for the achievement of high absolute training speeds and, thus, maximizing the number of motor units recruited, despite a relatively low metabolic intensity (i.e., threshold zone). This model may increase the mitochondrial proliferation through the optimization of both calcium and adenosine monophosphate activated protein kinase (AMPK) signaling pathways.",
+    "journal": "International journal of environmental research and public health",
+    "year": "2023",
+    "doi": "10.1007/s40279-021-01624-5",
+    "authors": [
+      "Casado A",
+      "Foster C",
+      "Bakken M",
+      "Tjelta LI"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC10000870",
+      "doi": "10.3390/ijerph20053782",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/ijerph20053782"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10000870"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10000870?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "39599698": {
+    "pmid": "39599698",
+    "title": "A Snapshot of Vitamin D Status, Performance, Blood Markers, and Dietary Habits in Runners and Non-Runners.",
+    "abstract": "BACKGROUND: Vitamin D can influence athletic performance and infection risk. This study aimed to investigate vitamin D status, hematochemical factors, anthropometric and performance parameters, and dietary habits in runners (n = 23) and sedentary healthy individuals (non-runners, n = 22) during the autumn season.\nMETHODS: Both groups had their serum 25-Hydroxyvitamin D (ng/mL) levels, blood and performance parameters, and dietary habits measured.\nRESULTS: Serum 25-Hydroxyvitamin D levels were significantly lower in non-runners (runners: males 30.0 ± 5.6, females 31.2 ± 5.2 vs. non-runners: males, 22.8 ± 6.5, females 24.7 ± 6.5 ng/mL, p < 0.001). White blood cells, monocyte, and neutrophil levels were higher in non-runners for both males and females. Among the subjects, 23 had optimal vitamin D levels (>29 ng/mL), while 22 had insufficient/deficient levels (<29 ng/mL), with a higher prevalence of insufficiency in non-runners compared to runners (63.6% vs. 34.8%; p = 0.053). Maximal isometric force and jump height were equal in both groups, but VO2max was higher in runners. Linear regression analysis identified monocyte count as the only predictor of vitamin D levels for both males (y = -24.452 x + 40.520; R2 = 0.200; p = 0.015) and females (y = -33.409 x + 45.240; R2 = 0.368; p = 0.003).\nCONCLUSIONS: This study highlights significant differences in vitamin D status between runners and non-runners, with runners exhibiting higher serum 25-Hydroxyvitamin D levels, although this finding is likely due to the increased sun exposure that runners receive. It also provides valuable insights into the vitamin D status of healthy young sedentary individuals and runners, enhancing the understanding of how physical activity influences vitamin D levels.",
+    "journal": "Nutrients",
+    "year": "2024",
+    "doi": "10.2903/j.efsa.2016.4547",
+    "authors": [
+      "Pegreffi F",
+      "Donati Zeppa S",
+      "Gervasi M",
+      "Fernández-Peña E",
+      "Annibalini G",
+      "Bartolacci A",
+      "Formiglio E",
+      "Agostini D"
+    ],
+    "types": [
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC11597173",
+      "doi": "10.3390/nu16223912",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/nu16223912"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11597173"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11597173?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "41718076": {
+    "pmid": "41718076",
+    "title": "Muscle, Neuromuscular, and Cardiac Damage in Trail Running: A Systematic Review.",
+    "abstract": "Background: Trail running (TR) is an endurance discipline characterized by prolonged exercise, irregular terrain, and marked elevation changes, which increase eccentric muscular load and may induce muscular, neuromuscular, and cardiac damage. Objective: This study aimed to systematically review the evidence on muscular, neuromuscular, and cardiac damage associated with TR participation. Methods: This systematic review followed PRISMA 2020 guidelines and was registered in PROSPERO (CRD420251135043). Five databases (PubMed, Web of Science, Scopus, SportDiscus, and ScienceDirect) were searched up to 31 August 2025. Observational, longitudinal, prospective, and case studies involving healthy adolescent or adult trail runners were included. Outcomes comprised muscle damage biomarkers (e.g., creatine kinase, alanine aminotransferase), neuromuscular function (e.g., squat jump performance, maximal voluntary isometric contraction), and cardiac biomarkers (e.g., CK-MB, cardiac troponins, NT-proBNP). Methodological quality was assessed using the National Heart, Lung, and Blood Institute Study Quality Assessment Tool. Results were synthesized qualitatively. Results: Fifteen studies met the inclusion criteria, including a total of 247 participants. Post-race analyses consistently showed marked increases in muscle damage biomarkers and significant reductions in neuromuscular performance. Transient elevations in cardiac biomarkers were also observed, suggesting acute but reversible cardiac stress following TR events. Limitations: Evidence was limited by methodological heterogeneity, small sample sizes, and underrepresentation of female athletes. Conclusions: It was found that trail running induces substantial acute muscular, neuromuscular, and cardiac stress, particularly in events with high eccentric loading. Monitoring biochemical and neuromuscular markers may support training load optimization, recovery strategies, and injury prevention.",
+    "journal": "Muscles (Basel, Switzerland)",
+    "year": "2026",
+    "doi": "10.1136/bmj.n71",
+    "authors": [
+      "García-Valiente I",
+      "Pradas F",
+      "Ortega-Zayas MÁ",
+      "Castellar-Otín C",
+      "García-Giménez A",
+      "Lecina M"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC12921809",
+      "doi": "10.3390/muscles5010009",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/muscles5010009"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12921809"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12921809?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "39565528": {
+    "pmid": "39565528",
+    "title": "Sex Differences in Performance and Performance-Determining Factors in the Olympic Winter Endurance Sports.",
+    "abstract": "BACKGROUND: Most sex comparisons in endurance sports have been derived from performance-matched groups of female and male athletes competing over similar distances within summer sports. Corresponding analyses of sex differences in winter endurance sports have not previously been conducted. In the Olympic Winter Games (OWG), the endurance sports include cross-country skiing (XCS), biathlon (BIA), Nordic combined (NC), ski mountaineering (SkiMo) and long-track speed skating (SpSk). The aim of this narrative review is to provide a comprehensive analysis of the sex differences in performance and performance-determining factors in the OWG endurance sports.\nMAIN BODY: Sex differences in competition speeds are ~ 7-16% in XCS, 12-16% in BIA and 7-11% in SpSk, with race distances often shorter for women compared to men. No comparable data have been published for NC or SkiMo. Slower skiing speeds among women are associated with greater use of the diagonal and gear 2 sub-techniques in classic and skate skiing, respectively. In SpSk, slower skating speeds among women may be related to a less effective push-off being maintained throughout races. Laboratory data have revealed absolute and relative peak aerobic capacity to be 30-63% and 10-27% greater, respectively, in male versus female XCS, BIA, NC, SkiMo and SpSk athletes. There is limited evidence of sex differences in training characteristics, although women currently tend to complete more strength training than men in XCS and BIA. Of note, most data have been derived from studies performed in XCS, with almost no studies investigating sex differences in NC or SkiMo.\nCONCLUSIONS: This review provides a comprehensive overview of sex differences in performance and performance-determining factors within and between OWG endurance sports, which provides a scientific basis for designing training programs and future studies. Due to the lack of research investigating sex differences in NC and SkiMo, these sports, in particular, would be worthy of further attention.\nKEY POINTS: This narrative review provides a novel and comprehensive analysis of sex differences in performance and performance-determining factors in the Olympic winter endurance sports. Sex differences in competition speeds are ~ 7-16% in cross-country skiing, biathlon and speed skating, while no comparable data were available for Nordic combined or ski mountaineering. Since men have historically skied and skated over greater distances than women in cross-country skiing, biathlon and speed skating competitions, the \"true\" sex differences in performance are likely larger than the differences reported in the literature, therefore exceeding the differences typically reported for summer endurance sports. Most information about sex differences in Olympic winter endurance sports is based on studies performed in cross-country skiing. The conspicuous lack of information on Nordic combined and ski mountaineering warrants further research in these sports.",
+    "journal": "Sports medicine - open",
+    "year": "2024",
+    "doi": "10.1007/s40279-023-01850-z",
+    "authors": [
+      "Solli GS",
+      "Sandbakk Ø",
+      "McGawley K"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC11579258",
+      "doi": "10.1186/s40798-024-00792-8",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s40798-024-00792-8"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11579258"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11579258?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "41057224": {
+    "pmid": "41057224",
+    "title": "Effect of exercise snacks on fitness and cardiometabolic health in physically inactive individuals: systematic review and meta-analysis.",
+    "abstract": "OBJECTIVES: To evaluate the effects of brief bouts of exercise spread throughout the day, termed 'exercise snacks', on cardiorespiratory and muscular fitness, and cardiometabolic health outcomes in physically inactive adults and older adults (aged ≥65 years).\nDESIGN: Systematic review and meta-analysis.\nDATA SOURCES: Seven databases were searched from inception to April 2025.\nELIGIBILITY CRITERIA: Randomised controlled trials (RCTs) of adults and older adults, comparing exercise snacks with non-exercising controls.\nRESULTS: 11 RCTs (n=414; 69.1% women, mean age 18.7±0.8 to 74.2±5.6 years) were included. Exercise snacks were defined as structured bouts lasting ≤5 min, performed at least twice daily, ≥3 times/week, for ≥2 weeks. The interventions varied in duration (4-12 weeks), frequency (3-7 days/week) and intensity (moderate-to-vigorous to near-maximal). Exercise snacks significantly improved cardiorespiratory fitness in adults (g=1.37, 95% CI 0.58 to 2.17; p<0.005; I2=71.4 %, k=6) and muscular endurance in older adults (g=0.40, 95% CI 0.06 to 0.75; p=0.02; I2=0 %, k=4), with moderate and very low certainty of evidence, respectively. No significant effects were observed for lower limb muscular strength or cardiometabolic outcomes, including body composition, blood pressure and blood lipid profiles. High compliance (91.1%) and adherence (82.8%) rates were observed.\nCONCLUSIONS: Moderate certainty of evidence indicated that exercise snacks improved cardiorespiratory fitness in physically inactive adults. However, evidence for benefits on muscular endurance in older adults was limited, and the current data do not support their effectiveness for improving other cardiometabolic health markers.\nPROSPERO REGISTRATION NUMBER: CRD42024616514.",
+    "journal": "British journal of sports medicine",
+    "year": "2026",
+    "doi": "10.1136/bjsports-2025-110027",
+    "authors": [
+      "Rodríguez MÁ",
+      "Quintana-Cepedal M",
+      "Cheval B",
+      "Thøgersen-Ntoumani C",
+      "Crespo I",
+      "Olmedillas H"
+    ],
+    "types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1136/bjsports-2025-110027",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1136/bjsports-2025-110027"
+          }
+        ]
+      }
+    }
+  },
+  "40972791": {
+    "pmid": "40972791",
+    "title": "Short bouts of accumulated exercise: Review and consensus statement on definition, efficacy, feasibility, practical applications, and future directions.",
+    "abstract": "BACKGROUND: Insufficient physical activity and prolonged sedentary behavior have emerged as major global public health challenges. Short bouts (≤10 min) of accumulated exercise (SBAE) throughout the day may be a promising strategy to mitigate the adverse effects of prolonged sitting and promote physical activity, ultimately promoting overall health. However, previous ambiguity in defining this concept has resulted in a fragmented and inconsistent evidence base, impeding practical applications, the development of guidelines, and policymaking. The purpose of this study is to establish an operational definition of SBAE by synthesizing systematic reviews and research trials alongside an expert consensus. Additionally, it seeks to evaluate acute and long-term efficacy and feasibility, providing evidence-based recommendations for practice and future research directions.\nMETHODS: A literature search was performed across PubMed and Web of Science, followed by systematic screening and summarization of eligible studies based on predefined inclusion criteria. Inclusion criteria encompassed various modes/types of SBAE (bouts lasting ≤10 min, performed multiple times daily with ≥30 min intervals); both aerobic and resistance exercise were considered. Relevant systematic reviews and research trials were included. Methodological quality, risk of bias, and evidence certainty were assessed. Expert consensus was obtained through a survey to evaluate recommendations and agreement levels on findings.\nRESULTS: After analyzing 27 systematic reviews, 135 research studies, and an expert consensus involving 48 researchers from 11 countries, SBAE is defined as any exercise mode of activity, regardless of intensity, that is accumulated in either continuous or intermittent bouts lasting ≤10 min per session (including multiple intermittent sets) that are performed multiple times (≥2 sessions/day) per day, with intervals of ≥30 min between bouts or otherwise sufficient time for recovery. When used to interrupt prolonged periods of sedentary time, SBAE mitigates the acute adverse effects of sedentary behavior on more than 10 clinical biomarkers of endocrine, cardiovascular, and brain health/function among adults of diverse ages and conditions. Moreover, SBAE was superior for improving acute glycemic control compared to a single continuous exercise session. As a long-term intervention (average of 11 weeks), SBAE can improve over 20 health outcomes, including peak oxygen uptake, resting blood pressure, and metabolic health. Additionally, SBAE might be more effective than continuous exercise for improving longer-term glycemic control and body composition. Long-term completion rates for SBAE interventions are generally high (95%), with low dropout rates (12%) and high adherence rates even without supervision (85%), and its safety has been preliminarily validated.\nCONCLUSION: An operational definition of SBAE is provided along with its classification and acute and long-term efficacy. Practical exercise prescription recommendations and evidence-based strategies for various populations and contexts are provided. Future research should focus on generating high-quality evidence for SBAE in 5 key areas: quantification and monitoring, population-specific responses, optimization of exercise prescriptions, intervention efficacy, and practical implementation. Additionally, addressing policy, environmental, and promotional barriers is crucial for transitioning from expert consensus to public consensus, and for facilitating the application of this strategy in real-world environments.",
+    "journal": "Journal of sport and health science",
+    "year": "2025",
+    "doi": "10.1016/j.jshs.2024.100994",
+    "authors": [
+      "Yin M",
+      "Li Y",
+      "Aziz AR",
+      "Buffey A",
+      "Bishop DJ",
+      "Bao D",
+      "Nassis GP",
+      "Islam H"
+    ],
+    "types": [
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC12860660",
+      "doi": "10.1016/j.jshs.2025.101088",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.jshs.2025.101088"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12860660"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12860660?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "39630056": {
+    "pmid": "39630056",
+    "title": "Optimal Frequency of Interrupting Prolonged Sitting for Cardiometabolic Health: A Systematic Review and Meta-Analysis of Randomized Crossover Trials.",
+    "abstract": "Increasing evidence highlights the efficacy of interruptions in prolonged sitting (i.e., activity/sedentary breaks) for improving cardiometabolic health, but precise conclusions and recommendations regarding the optimal interruption frequency remain poorly defined. This systematic review and meta-analysis aimed to directly compare the effect of different frequencies of interrupting prolonged sitting on cardiometabolic health and to determine potential moderators. Randomized crossover trials with at least two frequency interruptions compared to a prolonged sitting condition were identified via systematic review. We compared the acute effects of high-frequency (≤ 30 min per bout, HF) versus low-frequency (> 30 min per bout, LF) interruption protocols on various cardiometabolic health outcomes via three-level meta-analysis with pooled effects evaluated within a random-effects model and exploration of potential sources of heterogeneity through subgroup analyses. The quality of evidence was assessed using Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) approach. Thirteen studies with 211 participants (24-66 years, 41% female) were included. When comparing HF to LF condition, the HF had a significantly greater reduction in glucose (9 studies [n = 740]; Hedge's g = -0.30, 95% CI [-0.57, -0.03], p = 0.03; I2-level 3 = 42%, PI [-1.01, 0.41]). However, there was no difference in insulin (4 studies [n = 304]; Hedge's g = -0.22, 95% CI [-0.73, 0.29], p = 0.35; I2-level 3 = 52%, PI [-1.18, 0.74]), triglyceride (3 studies [n = 484]; Hedge's g = 0.11, 95% CI [-0.10, 0.30], p = 0.29; I2-level 3 = 0%, PI [-0.10, 0.30]), blood pressure (5 studies [n = 352]; Hedge's g = -0.06, 95% CI [-0.41, 0.28], p = 0.69; I2-level 3 = 35%, PI [-0.81, 0.62]), and superficial femoral flow-mediated dilation (3 studies [n = 98]; Hedge's g = -0.42, 95% CI [-2.43, 1.60], p = 0.47; I2-level 3 = 78%, PI [-4.09, 3.25]) between the two conditions. The quality of evidence was low GRADE for all outcomes. The present study suggests that a higher sedentary interruption frequency might be more efficacious than a lower frequency/higher duration protocol for reducing glucose levels. Based on these findings, interrupting sedentary time at least, every 30 min may be an ideal strategy to improve glucose control.",
+    "journal": "Scandinavian journal of medicine & science in sports",
+    "year": "2024",
+    "doi": "10.1111/sms.14769",
+    "authors": [
+      "Yin M",
+      "Xu K",
+      "Deng J",
+      "Deng S",
+      "Chen Z",
+      "Zhang B",
+      "Zhong Y",
+      "Li H"
+    ],
+    "types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1111/sms.14769",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1111/sms.14769"
+          }
+        ]
+      }
+    }
+  },
+  "38569204": {
+    "pmid": "38569204",
+    "title": "Exercise snacks are a time-efficient alternative to moderate-intensity continuous training for improving cardiorespiratory fitness but not maximal fat oxidation in inactive adults: a randomized controlled trial.",
+    "abstract": "The aims of this study were (1) to determine how stair-climbing-based exercise snacks (ES) compared to moderate-intensity continuous training (MICT) for improving cardiorespiratory fitness (CRF), and (2) to explore whether ES could improve maximal fat oxidation rate (MFO) in inactive adults. Healthy, young, inactive adults (n: 42, age: 21.6 ± 2.3 years, BMI: 22.5 ± 3.6 kg·m-2, peak oxygen uptake (VO2peak): 33.6 ± 6.3 mL·kg-1·min-1) were randomly assigned to ES, MICT, or Control. ES (n = 14) and MICT (n = 13) groups performed three sessions per week over 6 weeks, while the control group (n = 15) maintained their habitual lifestyle. ES involved 3 × 30 s \"all-out\" stair-climbing (6 flight, 126 steps, and 18.9 m total height) bouts separated by >1 h rest, and MICT involved 40 min × 60%-70% HRmax stationary cycling. A significant group × time interaction was found for relative VO2peak (p < 0.05) with ES significantly increasing by 7% compared to baseline (MD = 2.5 mL·kg-1·min-1 (95% CI = 1.2, 3.7), Cohen's d = 0.44), while MICT had no significant effects (MD = 1.0 mL·kg-1·min-1 (-1.1, 3.2), Cohen's d = 0.17), and Control experienced a significant decrease (MD = -1.7 mL·kg-1·min-1 (-2.9, -0.4), Cohen's d = 0.26). MFO was unchanged among the three groups (group × time interaction, p > 0.05 for all). Stair climbing-based ES are a time-efficient alternative to MICT for improving CRF among inactive adults, but the tested ES intervention appears to have limited potential to increase MFO.",
+    "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+    "year": "2024",
+    "doi": "10.1139/apnm-2023-0593",
+    "authors": [
+      "Yin M",
+      "Deng S",
+      "Chen Z",
+      "Zhang B",
+      "Zheng H",
+      "Bai M",
+      "Li H",
+      "Zhang X"
+    ],
+    "types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1139/apnm-2023-0593",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1139/apnm-2023-0593"
+          }
+        ]
+      }
+    }
+  },
+  "39139482": {
+    "pmid": "39139482",
+    "title": "Comparison of acute physiological responses between one long and two short sessions of moderate-intensity training in endurance athletes.",
+    "abstract": "PURPOSE: To compare acute physiological responses and perceived training stress between one long and two short time- and intensity-matched sessions of moderate-intensity training in endurance athletes.\nMETHODS: Fourteen male endurance athletes (VO2max: 69.2 ± 4.2 mL·min-1·kg-1) performed one 6 × 10-min interval session (SINGLE) and two 3 × 10-min interval sessions interspersed with 6.5 h recovery (DOUBLE) of moderate-intensity training on two separate days, while running in the laboratory, using a counterbalanced cross-over trial. The two training days were separated into a first part/session (interval stage 1-3) and second part/session (interval stage 4-6). Respiratory variables, heart rate (HR), blood lactate concentrations (BLa), and rating of perceived exertion (RPE) were collected during sessions, whereas supine heart rate (HR) was assessed in a 60-min recovery period following sessions. Measures of perceived training stress (1-10) were assessed in the morning of the subsequent day.\nRESULTS: HR, Bla, and RPE increased in the second compared to first part of SINGLE (168 ± 7 vs. 173 ± 7 bpm, 2.60 ± 0.75 vs. 3.01 ± 0.81 mmol·L-1, and 13.4 ± 1.0 vs. 14.8 ± 1.1-point, respectively, all p < 0.05). HR and Bla decreased in the second compared to first session of DOUBLE (171 ± 9 vs. 166 ± 9 bpm and 2.72 ± 0.96 vs. 2.14 ± 0.65 mmol·L-1, respectively, both p < 0.05). SINGLE revealed higher supine HR in the recovery period following sessions (65.4 ± 2.5 vs. 60.7 ± 2.5 bpm p < 0.05), session RPE (sRPE, 7.0 ± 1.0 vs. 6.0 ± 1.3-point, p = .001) and sRPE training load (929 ± 112 vs. 743 ± 98, p < 0.001) compared to DOUBLE. In the subsequent morning, increased levels of perceived fatigue and muscle soreness were observed following SINGLE compared to DOUBLE (7.0 ± 2.5 vs. 8.0 ± 1.0-point, p = .049 and 6.0 ± 2.5 vs. 7.0 ± 2.5-point, p = .002, respectively).\nCONCLUSION: One long moderate-intensity training session was associated with a duration-dependent \"drift\" in physiological responses compared to two short time- and intensity-matched sessions, thereby suggesting a higher overall training stimulus. Simultaneously, the lower cost of the two shorter sessions indicates that such organization could allow more accumulated time at this intensity. Overall, these findings serve as a starting point to better understand the pros and cons of organizing moderate-intensity training as one long versus shorter sessions performed more frequently (e.g., as \"double threshold training\") in endurance athletes.",
+    "journal": "Frontiers in physiology",
+    "year": "2024",
+    "doi": "10.1177/1747954119872321",
+    "authors": [
+      "Kjøsen Talsnes R",
+      "Torvik PØ",
+      "Skovereng K",
+      "Sandbakk Ø"
+    ],
+    "types": [
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC11319183",
+      "doi": "10.3389/fphys.2024.1428536",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.3389/fphys.2024.1428536"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fphys.2024.1428536"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11319183"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11319183?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "38261240": {
+    "pmid": "38261240",
+    "title": "Do Exercise-Based Prevention Programs Reduce Injury in Endurance Runners? A Systematic Review and Meta-Analysis.",
+    "abstract": "BACKGROUND: Endurance running is a popular sport and recreational activity yet is associated with a high prevalence of injury. Running related injuries (RRIs) are a leading cause of drop-out and represent a substantial financial burden to runners and healthcare services. There is clear evidence for the use of exercise-based injury prevention programs in games-based and youth sport settings, yet the research investigating the use of exercise to reduce injury risk in endurance runners has not been adequately reviewed recently.\nOBJECTIVES: The aim of this review and meta-analysis was to systematically summarize the current research that has investigated the effect of exercise-based prevention programs and their state of supervision on the risk of RRIs in endurance runners.\nMETHODS: Three databases were searched for relevant studies. Selection and review were completed by two independent reviewers using the following inclusion criteria: (1) study population used endurance running training for health, occupational, or performance outcome(s); (2) participants performed running as their main form of exercise (> 50% of their total training time); (3) study was a randomized controlled trial; (4) a non-running-based exercise intervention was used; (5) a running-only or placebo exercise control group was included; (6) injury rate or incidence was reported; (7) injuries were recorded prospectively alongside the exercise training. Two meta-analyses were conducted using random-effects models, one based on log risk ratio and one based on log incidence rate ratio. The Cochrane Risk of Bias Assessment Tool 2 was used to evaluate the quality of studies and the Grading of Recommendations Assessment, Development and Evaluations approach was employed to grade the certainty of evidence.\nRESULTS: A total of nine articles containing 1904 participants were included in analysis. Overall pooled results showed no significant differences between intervention and control groups in injury risk (z = - 1.60; p = 0.110) and injury rate (z = - 0.98; p = 0.329), while a post hoc analysis evaluating supervised interventions only showed that injury risk was significantly lower in the intervention group compared to the control group (z = - 3.75, p < 0.001). Risk of bias assessment revealed that seven studies included in the analysis were of low quality.\nCONCLUSIONS: Exercise-based interventions do not appear to reduce the risk and rate of running-related injuries. Supervision may be essential for exercise-based intervention programs to reduce risk of RRIs, possibly due to increased compliance. Studies with more robust designs that include supervised exercise interventions should be prioritized in the future.\nTRIAL REGISTRY: Clinical Trial Registration: PROSPERO CRD42021211274.",
+    "journal": "Sports medicine (Auckland, N.Z.)",
+    "year": "2024",
+    "doi": "10.1136/bmjmilitary-2022-002098",
+    "authors": [
+      "Wu H",
+      "Brooke-Wavell K",
+      "Fong DTP",
+      "Paquette MR",
+      "Blagrove RC"
+    ],
+    "types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC11127851",
+      "doi": "10.1007/s40279-024-01993-7",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s40279-024-01993-7"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11127851"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11127851?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "39079169": {
+    "pmid": "39079169",
+    "title": "It's about the long game, not epic workouts: unpacking HIIT for endurance athletes.",
+    "abstract": "High-intensity interval training (HIIT) prescriptions manipulate intensity, duration, and recovery variables in multiple combinations. Researchers often compare different HIIT variable combinations and treat HIIT prescription as a \"maximization problem\", seeking to identify the prescription(s) that induce the largest acute VO2/HR/RPE response. However, studies connecting the magnitude of specific acute HIIT response variables like work time >90% of VO2max and resulting cellular signalling and/or translation to protein upregulation and performance enhancement are lacking. This is also not how successful endurance athletes train. First, HIIT training cannot be seen in isolation. Successful endurance athletes perform most of their training volume below the first lactate turn point (<LT1), with \"threshold training\" and HIIT as integrated parts of a synergistic combination of training intensities and durations. Second, molecular signalling research reveals multiple, \"overlapping\" signalling pathways driving peripheral adaptations, with those pathways most sensitive to work intensity showing substantial feedback inhibition. This makes current training content and longer-term training history critical modulators of HIIT adaptive responses. Third, long term maximization of endurance capacity extends over years. Successful endurance athletes balance low-intensity and high-intensity, low systemic stress, and high systemic stress training sessions over time. The endurance training process is therefore an \"optimization problem\". Effective HIIT sessions generate both cellular signal and systemic stress that each individual athlete responds to and recovers from over weeks, months, and even years of training. It is not \"epic\" HIIT sessions but effective integration of intensity, duration, and frequency of all training stimuli over time that drives endurance performance success.",
+    "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+    "year": "2024",
+    "doi": "10.1139/apnm-2024-0012",
+    "authors": [
+      "Seiler S"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1139/apnm-2024-0012",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1139/apnm-2024-0012"
+          }
+        ]
+      }
+    }
+  },
+  "38015017": {
+    "pmid": "38015017",
+    "title": "Efficacy of morning versus afternoon aerobic exercise training on reducing metabolic syndrome components: A randomized controlled trial.",
+    "abstract": "A supervised intense aerobic exercise program improves the health of individuals with metabolic syndrome (MetS). However, it is unclear whether the timing of training within the 24 h day would influence those health benefits. The present study aimed to determine the influence of morning vs. afternoon exercise on body composition, cardiometabolic health and components of MetS. One hundred thirty-nine individuals with MetS were block randomized into morning (AMEX; n = 42) or afternoon (PMEX; n = 59) exercise training groups, or a non-training control group (Control; n = 38). Exercise training was comprised of 48 supervised high-intensity interval sessions distributed over 16 weeks. Body composition, cardiorespiratory fitness (assessed by   V ̇ O 2 max  ${\\dot V_{{{\\mathrm{O}}_{\\mathrm{2}}}{\\mathrm{max}}}}$  ), maximal fat oxidation (FOmax), blood pressure and blood metabolites were assessed before and after the intervention. Compared with the non-training Control, both exercise groups improved similarly body composition (-0.7% fat loss; P = 0.002), waist circumference (-2.1 cm; P < 0.001), diastolic blood pressure (-3.8 mmHg; P = 0.004) and   V ̇ O 2 max  ${\\dot V_{{{\\mathrm{O}}_{\\mathrm{2}}}{\\mathrm{max}}}}$  (3.5 mL kg-1  min-1; P < 0.001) with no differences between training groups. AMEX, in comparison with PMEX, reduced systolic blood pressure (-4% vs. -1%; P = 0.019), plasma fasting insulin concentration (-12% vs. -5%; P = 0.001) and insulin resistance (-14% vs. -4%; P = 0.006). Furthermore, MetS Z score was further reduced in the AMEX compared to PMEX (-52% vs. -19%; P = 0.021) after training. In summary, high-intensity aerobic exercise training in the morning in comparison to training in the afternoon is somewhat more efficient at reducing cardiometabolic risk factors (i.e. systolic blood pressure and insulin sensitivity). KEY POINTS: The effect of exercise time of day on health promotion is an area that has gained interest in recent years; however, large-scale, randomized-control studies are scarce. People with metabolic syndrome (MetS) are at risk of developing cardiometabolic diseases and reductions in this risk with exercise training can be precisely gauged using a compound score sensitive to subtle evolution in each MetS component (i.e. Z score). Supervised aerobic exercise for 16 weeks (morning and afternoon), without dietary restriction, improved cardiorespiratory and metabolic fitness, body composition and mean arterial pressure compared to a non-exercise control group. However, training in the morning, without changes in exercise dose or intensity, reduced systolic blood pressure and insulin resistance further compared to when training in the afternoon. Thus, high-intensity aerobic exercise training in the morning is somewhat more efficient in improving the health of individuals with metabolic syndrome.",
+    "journal": "The Journal of physiology",
+    "year": "2024",
+    "doi": "10.1113/JP285366",
+    "authors": [
+      "Morales-Palomo F",
+      "Moreno-Cabañas A",
+      "Alvarez-Jimenez L",
+      "Mora-Gonzalez D",
+      "Ortega JF",
+      "Mora-Rodriguez R"
+    ],
+    "types": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC11607890",
+      "doi": "10.1113/jp285366",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1113/JP285366"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1113/JP285366"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1113/JP285366"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1113/JP285366"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11607890"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11607890?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "39767266": {
+    "pmid": "39767266",
+    "title": "Mental Fatigue and Sports Performance of Athletes: Theoretical Explanation, Influencing Factors, and Intervention Methods.",
+    "abstract": "Mental fatigue is an important factor affecting athletes' performance. Explaining the effects of mental fatigue on sports performance from a theoretical point of view can help us deeply understand the interconnection between mental fatigue and sports performance and conduct effective interventions based on this. Combining the relevant literature in China and abroad reveals that the current academic theories on the mechanism of sports fatigue include motivational control theory, underload theory, neural waste disposal hypothesis, and resource depletion theory. The effects of mental fatigue on performance are reflected in aerobic endurance, sports decision-making, tactical performance, and technical performance. Current coping strategies for mental fatigue include physiological coping strategies based on nutrition (caffeine), odor, and noninvasive neuromodulation techniques and psychological and behavioral coping strategies based on music and positive thinking.",
+    "journal": "Behavioral sciences (Basel, Switzerland)",
+    "year": "2024",
+    "doi": "10.3390/ijerph19137825",
+    "authors": [
+      "Wu CH",
+      "Zhao YD",
+      "Yin FQ",
+      "Yi Y",
+      "Geng L",
+      "Xu X"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC11673376",
+      "doi": "10.3390/bs14121125",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/bs14121125"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11673376"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11673376?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "36475378": {
+    "pmid": "36475378",
+    "title": "Prior brain endurance training improves endurance exercise performance.",
+    "abstract": "Mental fatigue (MF) impairs endurance exercise performance. Brain endurance training (BET) describes the systematic repetition of mentally-fatiguing cognitive tasks designed to build resilience to MF and improve endurance performance. Evidence to date shows that mental training during physical training can benefit post-training exercise performance, however, this concurrent BET approach may not be practical for all settings. Therefore, the current study evaluated the effects of mental training before physical training (prior BET) on exercise performance. A randomised control trial design: pre-test, training (BET, control), post-test. During the pre-test and post-test sessions, participants performed a 5-min rhythmic handgrip task requiring the generation of as much force as possible, a 20-min 2-back working memory task, and another 5-min rhythmic handgrip task. Participants were randomly assigned to a BET (n = 12) or control group (n = 12). Both groups completed the same submaximal rhythmic handgrip training for five weeks (four sessions per week). The BET group also completed 20-min cognitive training (2-back working memory task, incongruent colour-word Stroop task) before each submaximal exercise training session. Endurance performance improved more (p < 0.05) following BET (24%) than physical training alone (12%). Compared to the control group, the BET group showed higher prefrontal oxygenation during the post-test exercise tasks (p < 0.05). Both groups were characterised by the same exertion, motivation, heart rate, and heart rate variability. Mental training before physical training improves endurance performance greater than physical training alone. The benefits of prior BET may be explained, at least in part, by improved prefrontal oxygenation.HighlightsThis study provides further evidence that brain endurance training (BET) improves performance over matched physical training.Prior BET (i.e. engaging in mentally demanding cognitive tasks before physical training) offers another option to enhance fatigue resilience, which expands the use of BET to more sports and potentially higher intensity training where concurrent BET will not be practical.The benefits of prior BET may be explained, at least in part, by improved prefrontal oxygenation.",
+    "journal": "European journal of sport science",
+    "year": "2023",
+    "doi": "10.1080/17461391.2022.2153231",
+    "authors": [
+      "Dallaway N",
+      "Lucas S",
+      "Marks J",
+      "Ring C"
+    ],
+    "types": [
+      "Randomized Controlled Trial",
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1080/17461391.2022.2153231",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1080/17461391.2022.2153231"
+          }
+        ]
+      }
+    }
+  },
+  "42221209": {
+    "pmid": "42221209",
+    "title": "Common Risk Factors for Knee Injuries in Runners: A Systematic Review.",
+    "abstract": "BACKGROUND: Knee injuries account for 25% to 30% of running-related injuries (RRIs). Patellofemoral pain syndrome (PFPS), iliotibial band syndrome (ITBS), and patellar tendinopathy (PT) are the most commonly reported knee injuries. The literature focuses on biomechanical factors, whose predictive value is inconsistent, and exposure-related factors remain underexplored.\nPURPOSE: To systematically review and synthesize the evidence on risk factors associated with knee injuries in endurance runners with a focus on both biomechanical and exposure-related factors.\nSTUDY DESIGN: Systematic review; Level of evidence, 3.\nMETHODS: A systematic search of the Medline (PubMed), Embase, and Web of Science was conducted for studies before November 19, 2024. Studies were included if they investigated risk factors for knee injuries in adult endurance runners. Studies were excluded if they were case reports, non-English studies, review articles, studies focusing on nonendurance athletes, or studies focusing on athletes >30 years old. Twenty studies were selected from 1883 articles after screening. Risk factors were categorized as biomechanical or exposure-related.\nRESULTS: Across PFPS, ITBS, and PT, the strongest and most recurrent risk factors were a history of previous injury (odds ratio [OR] range, 1.36-10.19), increased training load or volume (OR range, 1.07-8.94), and structural malalignment (OR range, 1.89-4.12). For general knee injuries, previous injury was the most frequently reported risk factor, associated with a 12.9% higher incidence of reinjury. PFPS was linked to training load and structural malalignment, indicating small to moderate associations between deviations from optimal load and injury risk. For ITBS, kinematic variables (OR range, 3.02-5.62; Cohen's d range, 1.24-2.21) and kinetic variables (OR, 8.88; Cohen's d, 0.82) were most commonly reported, reflecting moderate to very large effects linked to abnormal pelvic motion and impaired shock absorption. For PT, increased training load and volume (OR range, 1.27-8.94) and demographic factors (OR range, 1.06-1.43) were most frequently reported, with runners training >20 hours per week demonstrating a 15% to 20% higher injury incidence.\nCONCLUSION: Knee injuries in endurance runners are influenced by a history of injury, training load, and biomechanical factors. Future injury prevention strategies should integrate biomechanical and contextual factors, including individualized kinematic profiles and conservative training management.",
+    "journal": "Orthopaedic journal of sports medicine",
+    "year": "2026",
+    "doi": "10.1177/1941738119888504",
+    "authors": [
+      "Senthil K",
+      "Whitaker S",
+      "Nazarov M",
+      "Cassidy B",
+      "Edge C",
+      "Cyrus J",
+      "O'Neill C",
+      "Goodloe J"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC13219871",
+      "doi": "10.1177/23259671261444314",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1177/23259671261444314"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13219871"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13219871?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "39903375": {
+    "pmid": "39903375",
+    "title": "Superset Versus Traditional Resistance Training Prescriptions: A Systematic Review and Meta-analysis Exploring Acute and Chronic Effects on Mechanical, Metabolic, and Perceptual Variables.",
+    "abstract": "BACKGROUND: Supersets are a time-efficient resistance training (RT) method that involve the sequencing of two exercises with little or no rest between them. However, despite their common implementation during RT, a comprehensive and quantitative review is still lacking.\nOBJECTIVES: The primary aim of this systematic review and meta-analysis was to compare the acute and chronic effects of superset and traditional set prescriptions on mechanical, metabolic, and perceptual variables. We also aimed to conduct subgroup analyses to determine the effect of different types of supersets (agonist-antagonist, similar biomechanical, and alternate peripheral supersets).\nMETHODS: A systematic literature search was conducted in PubMed, Web of Science, Embase, and EBSCO databases from inception to 10 February 2024. Studies written in English and meeting our inclusion criteria were included. Pooled meta-analysis and subgroup meta-analysis were performed using a random-effects model.\nRESULTS: Nineteen studies involving 313 participants were included. Although there was considerable variance in certain outcomes, our estimated effects suggested that, compared with traditional set prescription, supersets allow for (1) a similar total number of repetitions [standardized mean differences (SMD) =  - 0.03; p = 0.92] and volume load (SMD = 0.05; p = 0.86) with a shorter session duration and increased training efficiency (SMD = 1.74; p = 0.01); (2) higher blood lactate concentration during (SMD = 0.94; p = 0.03) and after (SMD = 1.13; p < 0.01) RT; (3) higher energy cost during RT (SMD = 1.93; p = 0.04); (4) similar creatine kinase concentration after RT (SMD = 0.22; p = 0.36), surface electromyography (SMD = 0.01; p = 0.98), acute muscle swelling (SMD = - 0.28; p = 0.36) and blood pressure (systolic blood pressure [SMD = 0.08; p = 0.71], diastolic blood pressure [SMD = - 0.05; p = 0.85], and mean arterial pressure [SMD = - 0.03; p = 0.88]); (5) higher rating of perceived exertion (SMD = 0.77; p = 0.02) and similar perceived recovery (SMD = 0.32; p = 0.33); and (6) similar chronic adaptations in maximal strength (SMD = 0.10; p = 0.36), strength endurance (SMD = 0.07; p = 0.81), and muscle hypertrophy (SMD =  - 0.05; p = 0.87). The subgroup analysis revealed that utilizing agonist-antagonist supersets leads to a significant increase in the number of repetitions that are able to be completed compared with traditional sets (SMD = 0.68; p = 0.01). Similar biomechanical supersets led to less volume load (SMD =  - 1.08; p < 0.01) compared with traditional sets.\nCONCLUSIONS: Supersets provide a time-efficient alternative to traditional RT, reducing session duration without compromising training volume, muscle activation, perceived recovery, or chronic adaptations in maximal strength, strength endurance, and muscle hypertrophy. Thus, supersets can be effectively implemented by athletes with busy schedules and RT enthusiasts whose main barrier to exercise is time. However, it should be noted that supersets generally induce higher internal loads, more severe muscle damage, and increased perceived exertion, potentially necessitating extended recovery times between sessions. Additionally, superset RT may have a similar potential to traditional RT in eliciting post-exercise hypotension. Regarding different types of supersets, agonist-antagonist supersets are more suitable for maintaining training volume, while similar biomechanical supersets concentrate stimulation on the same muscle group, compromising volume load.\nPROTOCOL REGISTRATION: The original protocol for this review was prospectively registered with the International Prospective Register of Systematic Reviews (PROSPERO) in December 2023 (CRD42023491533).",
+    "journal": "Sports medicine (Auckland, N.Z.)",
+    "year": "2025",
+    "doi": "10.1249/MSS.0000000000002585",
+    "authors": [
+      "Zhang X",
+      "Weakley J",
+      "Li H",
+      "Li Z",
+      "García-Ramos A"
+    ],
+    "types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis",
+      "Comparative Study"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC12011898",
+      "doi": "10.1007/s40279-025-02176-8",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s40279-025-02176-8"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12011898"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12011898?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "38503064": {
+    "pmid": "38503064",
+    "title": "Effectiveness of interventions on sedentary behaviors in office workers: a systematic review and meta-analysis.",
+    "abstract": "OBJECTIVES: Various interventions have sought to break sedentariness among office workers, but their pooled effect on sitting time reduction remains unknown. Also, it is essential to compare the effectiveness of different intervention types.\nSTUDY DESIGN: Systematic review and meta-analysis.\nMETHODS: A literature search was conducted in the PubMed, EMBASE, Scopus, Web of Science, MEDLINE (via EBSCO), PsycINFO, and Cochrane Library databases from inception to May 2, 2023. Two independent reviewers screened eligibility, extracted data, and assessed the risk of bias using the Cochrane risk of bias tool 2.0. Randomized controlled trials aiming to reduce sitting at work were included. The primary outcome was sitting time at work per day. The secondary outcomes included cardiometabolic risk factors, psychological well-being, and work engagement. A random effects model was performed to synthesize continuous data as mean differences with 95% confidence intervals (95% CIs).\nRESULTS: Twenty-four studies with 3169 participants were included. All intervention types in combination significantly reduced workplace sitting by 38 min per workday (95% CI: -47.32 to -28.72; P < 0.001; I2 = 49.78%). Interventions using environmental support (ES), motivational strategies (MS), or multiple components (multi) had all shown a significant reduction in work-time sedentary behavior (SB) relative to control groups. Regarding secondary outcomes, no significant effects were observed in physical or psychological outcomes besides high-density lipoprotein.\nCONCLUSIONS: Findings suggest that SB reduction interventions are generally effective for reducing workplace sitting. Multi interventions with both ES and MS are recommended for future clinical applications. Future studies should aim not only to reduce SB but also to attain the benefits of SB reduction interventions on physical and psychological well-being.",
+    "journal": "Public health",
+    "year": "2024",
+    "doi": "10.1016/j.puhe.2024.02.013",
+    "authors": [
+      "Wang C",
+      "Lu EY",
+      "Sun W",
+      "Chang JR",
+      "Tsang HWH"
+    ],
+    "types": [
+      "Meta-Analysis",
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1016/j.puhe.2024.02.013",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.puhe.2024.02.013"
+          }
+        ]
+      }
+    }
+  },
+  "37752011": {
+    "pmid": "37752011",
+    "title": "2023 International Olympic Committee's (IOC) consensus statement on Relative Energy Deficiency in Sport (REDs).",
+    "abstract": "Relative Energy Deficiency in Sport (REDs) was first introduced in 2014 by the International Olympic Committee's expert writing panel, identifying a syndrome of deleterious health and performance outcomes experienced by female and male athletes exposed to low energy availability (LEA; inadequate energy intake in relation to exercise energy expenditure). Since the 2018 REDs consensus, there have been >170 original research publications advancing the field of REDs science, including emerging data demonstrating the growing role of low carbohydrate availability, further evidence of the interplay between mental health and REDs and more data elucidating the impact of LEA in males. Our knowledge of REDs signs and symptoms has resulted in updated Health and Performance Conceptual Models and the development of a novel Physiological Model. This Physiological Model is designed to demonstrate the complexity of either problematic or adaptable LEA exposure, coupled with individual moderating factors, leading to changes in health and performance outcomes. Guidelines for safe and effective body composition assessment to help prevent REDs are also outlined. A new REDs Clinical Assessment Tool-Version 2 is introduced to facilitate the detection and clinical diagnosis of REDs based on accumulated severity and risk stratification, with associated training and competition recommendations. Prevention and treatment principles of REDs are presented to encourage best practices for sports organisations and clinicians. Finally, methodological best practices for REDs research are outlined to stimulate future high-quality research to address important knowledge gaps.",
+    "journal": "British journal of sports medicine",
+    "year": "2023",
+    "doi": "10.1136/bjsports-2023-106994",
+    "authors": [
+      "Mountjoy M",
+      "Ackerman KE",
+      "Bailey DM",
+      "Burke LM",
+      "Constantini N",
+      "Hackney AC",
+      "Heikura IA",
+      "Melin A"
+    ],
+    "types": [
+      "Journal Article",
+      "Consensus Statement"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1136/bjsports-2023-106994",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://bjsm.bmj.com/content/bjsports/57/17/1073.full.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1136/bjsports-2023-106994"
+          }
+        ]
+      }
+    }
+  },
+  "40221559": {
+    "pmid": "40221559",
+    "title": "Nutritional Strategies to Improve Post-exercise Recovery and Subsequent Exercise Performance: A Narrative Review.",
+    "abstract": "Post-exercise recovery strategies influence the body's ability to restore physiological homeostasis, replenish energy stores, repair muscle damage, and promote desired adaptations, which improve exercise performance. This narrative review examines the impact of nutritional strategies commonly used for enhancing recovery and subsequent exercise performance, particularly when athletes face short recovery periods. Carbohydrate ingestion is essential for glycogen replenishment, especially within the initial hours post-exercise, with its impact dependent on the types, timing, and amount. Protein is essential for accelerating muscle recovery and achieving a positive nitrogen balance, depending on the type and dosage. The co-ingestion of carbohydrates with proteins or fats is explored for its role in maximizing glycogen resynthesis and muscle repair, with evidence supporting the addition of protein to suboptimal carbohydrate intake for enhanced recovery. Moreover, this review addresses the potential benefits of creatine and caffeine co-ingestion for accelerating glycogen synthesis and improving subsequent performance. Hydration strategies, including the use of milk-based beverages and electrolyte solutions, are also discussed, emphasizing their importance in maintaining fluid balance and optimizing recovery. This review also highlights the emerging role of micronutrients such as omega-3 fatty acids, antioxidants, and sodium bicarbonate in reducing muscle damage and improving acid-base balance. Evidence supports the tailored use of these nutritional strategies, particularly for athletes managing tight competition/training schedules. Future research should focus on refining individualized approaches for recovery and investigating the impact of novel supplements on subsequent performance.",
+    "journal": "Sports medicine (Auckland, N.Z.)",
+    "year": "2025",
+    "doi": "10.1007/s40279-025-02213-6",
+    "authors": [
+      "Naderi A",
+      "Rothschild JA",
+      "Santos HO",
+      "Hamidvand A",
+      "Koozehchian MS",
+      "Ghazzagh A",
+      "Berjisian E",
+      "Podlogar T"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC12297025",
+      "doi": "10.1007/s40279-025-02213-6",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://link.springer.com/content/pdf/10.1007/s40279-025-02213-6.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s40279-025-02213-6"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12297025"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12297025?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "40117058": {
+    "pmid": "40117058",
+    "title": "Protein Nutrition for Endurance Athletes: A Metabolic Focus on Promoting Recovery and Training Adaptation.",
+    "abstract": "The purpose of this narrative review is to provide an evidence-based update on the protein needs of endurance athletes with a focus on high-quality metabolic studies conducted on the topics of recovery and training adaptation over the past decade. We use the term 'protein needs' to delineate between the concepts of a daily protein requirement and per meal protein recommendations when devising scientific evidence-based protein guidelines for the endurance athlete to promote post-exercise recovery, enhance the adaptive response to endurance training and improve endurance performance. A habitual protein intake of 1.5 g/kg of body mass (BM)-1·day-1 is typical in male and female endurance athletes. Based on findings from a series of contemporary protein requirement studies, the evidence suggests a daily protein intake of ~ 1.8 g·kgBM-1·day-1 should be advocated for endurance athletes, with the caveat that the protein requirement may be further elevated in excess of 2.0 g·kgBM-1·day-1 during periods of carbohydrate-restricted training and on rest days. Regarding protein recommendations, the current lack of metabolic studies that determine the dose response of muscle protein synthesis to protein ingestion in relation to endurance exercise makes it difficult to present definitive guidelines on optimal per meal protein intakes for endurance athletes. Moreover, there remains no compelling evidence that co-ingesting protein with carbohydrate before or during endurance exercise confers any performance advantage, nor facilitates the resynthesis of liver or muscle glycogen stores during recovery, at least when carbohydrate recommendations are met. However, recent evidence suggests a role for protein nutrition in optimising the adaptive metabolic response to endurance training under conditions of low carbohydrate and/or energy availability that represent increasingly popular periodised strategies for endurance athletes.",
+    "journal": "Sports medicine (Auckland, N.Z.)",
+    "year": "2025",
+    "doi": "10.1152/jappl.1994.76.1.104",
+    "authors": [
+      "Witard OC",
+      "Hearris M",
+      "Morgan PT"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC12152099",
+      "doi": "10.1007/s40279-025-02203-8",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s40279-025-02203-8"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12152099"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12152099?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "40077786": {
+    "pmid": "40077786",
+    "title": "A Review of Carbohydrate Supplementation Approaches and Strategies for Optimizing Performance in Elite Long-Distance Endurance.",
+    "abstract": "Carbohydrate supplementation is a common practice among endurance athletes participating in long-distance competitions. However, glycogen storage regulation, in-competition blood glucose levels, and their relationship with athletic performance are influenced by multiple factors. This review summarizes the recent research progress on carbohydrate supplementation, addressing its applications in the pre-, during-, and post-competition phases. It explores variables that influence the effectiveness of carbohydrate supplementation and provides a summary of strategies, based on six key aspects: carbohydrate properties, multi-nutrient interactions, gastrointestinal function, individual differences (such as age and gender), environmental conditions, and psychological factors. The combination of different types, ratios, and concentrations of carbohydrates has been demonstrated to enhance the efficiency of carbohydrate digestion and absorption. The synergistic combination of protein, sodium, and caffeine intake demonstrates enhanced efficacy in carbohydrate supplementation strategies. Gastrointestinal tolerance training for carbohydrate supplementation has been identified as an effective measure to alleviate gastrointestinal discomfort during high-dose carbohydrate intake. The adjustment of the carbohydrate-to-fat ratio and the type of carbohydrate intake has been found to mitigate the impact of gender and menstrual cycles on glycogen storage and substrate utilization. Modifying the timing of glycogen storage and regulating the concentration and temperature of carbohydrate solutions during competition have been demonstrated to facilitate coping with the elevated energy expenditure and metabolic substrate shift from fat to carbohydrates, triggered by a combination of environmental and psychological factors, including special environmental and climatic conditions (e.g., high altitude, high temperature, high humidity, and cold) and emotional states (e.g., pre-competition stress and anxiety during the competition). To achieve precise carbohydrate supplementation for athletes in major events under various competitive environments, it is necessary to quantitatively assess the effects of carbohydrate supplementation, supported by mechanistic studies. This can be achieved by utilizing wearable devices to monitor the entire competition, coupled with data collection technologies, such as high-throughput profiling. Furthermore, emerging data analytics techniques, such as machine learning and causal inference, should be leveraged to refine supplementation strategies.",
+    "journal": "Nutrients",
+    "year": "2025",
+    "doi": "10.1007/s40279-018-0867-7",
+    "authors": [
+      "Cao W",
+      "He Y",
+      "Fu R",
+      "Chen Y",
+      "Yu J",
+      "He Z"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC11901785",
+      "doi": "10.3390/nu17050918",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/nu17050918"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11901785"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11901785?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "36986096": {
+    "pmid": "36986096",
+    "title": "Carbohydrates and Endurance Exercise: A Narrative Review of a Food First Approach.",
+    "abstract": "Carbohydrate (CHO) supplements such as bars, gels, drinks and powders have become ubiquitous as effective evidence-based CHO sources that improve endurance exercise performance. However, athletes are increasingly turning to more cost-effective 'food-first' approaches for CHO ingestion to improve exercise performance. Mixed CHO foods including cooked lentils, oats, honey, raisins, rice, and potatoes are all effective pre-exercise CHO food sources. Caution is advised when selecting some of these foods as a primary CHO source, as some athletes may be prone to gastrointestinal discomfort-especially regarding those foods where the quantities required for recommended CHO intake may be voluminous (e.g., potatoes). Palatability may be another barrier to the ingestion of some of these CHO-rich foods. Although most of these CHO-rich foods appear effective for exercise performance or recovery when consumed pre- and post-exercise, not all are viable to ingest during exercise due to difficulties in the quantities required, transport, and/or gastrointestinal discomfort. Raisins, bananas and honey may be particularly useful CHO foods for consumption during exercise, as they are easily transportable. Athletes should trial CHO food sources before, during and/or following training before implementation during competition.",
+    "journal": "Nutrients",
+    "year": "2023",
+    "doi": "10.1007/s40279-017-0690-6",
+    "authors": [
+      "Naderi A",
+      "Gobbi N",
+      "Ali A",
+      "Berjisian E",
+      "Hamidvand A",
+      "Forbes SC",
+      "Koozehchian MS",
+      "Karayigit R"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC10054587",
+      "doi": "10.3390/nu15061367",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.mdpi.com/2072-6643/15/6/1367/pdf?version=1678521294"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/nu15061367"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10054587"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10054587?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "37449467": {
+    "pmid": "37449467",
+    "title": "The ergogenic effects of acute carbohydrate feeding on endurance performance: a systematic review, meta-analysis and meta-regression.",
+    "abstract": "A systematic review with meta-analysis was conducted to analyze the effect of carbohydrate (CHO) intake during exercise and some variables that could moderate this effect on endurance performance. We included 136 studies examining the effect of CHO ingestion during endurance exercise in the meta-analysis. The overall effect on performance showed a significant increase after CHO intake compared to the placebo/control groups. A larger effect of CHO consumption is observed in time to exhaustion than in time trials performance test. Moreover, the effectiveness of CHO supplementation was greater the longer the duration of the events. Also, there seems to be a higher effect of CHO intake in lower trained than in higher trained participants. In contrast, the magnitude of performance change of CHO intake is not affected by the dosage, ergometer used, the type of intake of the CHO ingestion and the type of CHO. In addition, a lower rate of perceived exertion and higher power and heart rate are significantly associated with the ingestion of CHO during endurance exercise. These results reinforce that acute CHO feeding is an effective strategy for improving endurance performance, especially, in less trained subjects participating in time to exhaustion tests of longer durations.",
+    "journal": "Critical reviews in food science and nutrition",
+    "year": "2024",
+    "doi": "10.1080/10408398.2023.2233633",
+    "authors": [
+      "Ramos-Campo DJ",
+      "Clemente-Suárez VJ",
+      "Cupeiro R",
+      "Benítez-Muñoz JA",
+      "Andreu Caravaca L",
+      "Rubio-Arias JÁ"
+    ],
+    "types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1080/10408398.2023.2233633",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1080/10408398.2023.2233633"
+          }
+        ]
+      }
+    }
+  },
+  "39536912": {
+    "pmid": "39536912",
+    "title": "Iron deficiency, supplementation, and sports performance in female athletes: A systematic review.",
+    "abstract": "BACKGROUND: Iron facilitates key biological functions underpinning sports performance, and up to 60% of female athletes experience iron deficiency. However, the effects of iron deficiency on sports performance in female athletes is unclear, as are the degree of benefits of iron supplementation (FeSup). This study characterizes the effects of iron deficiency and FeSup on sports performance in high-level female athletes.\nMETHODS: Searches of the electronic databases MEDLINE, SPORTDiscus, Web of Science, Scopus, and CINAHL were performed in July 2023. Studies were included that evaluated the effects of iron deficiency or FeSup on sports performance in high-level (maximal oxygen uptake (VO2max) > 45 mL/kg/min, or trained > 5 h/week) iron deficient (ID) (serum ferritin (sFer) < 40 µg/L) female athletes. Studies were assessed using a modified Downs and Black Quality Assessment Checklist.\nRESULTS: A total of 23 studies comprising 669 athletes (age range: 13-47 years) across 16 sports were included in the review. Iron deficiency negatively affects endurance performance by 3%-4%. However, endurance performance improved by 2%-20% when ID athletes were treated with 100 mg/day of elemental iron for up to 56 days via oral supplementation, or bi-daily via parenteral administration over 8-10 days. ID non-anemic athletes with low sFer stores may be predisposed to reduced maximal aerobic capacity. However, maximal aerobic capacity improved by 6%-15% following 16 mg/day-100 mg/day of elemental iron for 36-126 days. Isokinetic strength and anaerobic power performance may be impeded (-23% to +4%) among ID athletes, but the effect of FeSup on anaerobic power varied markedly (-5% to +9%) following 100 mg/day of elemental iron over 42-56 days, or 100 mg of elemental iron bi-daily over 8-10 days. The quality of studies was moderate (77%), ranging from low (57%) to high (100%). Moststudies (n = 18) contained group sizes ≤ 20 athletes, thus limiting the likelihood of detecting significant effects (statistical power > 0.80).\nCONCLUSION: High-level ID female athletes experience a negative impact on endurance performance, which can be improved by supplementing with ∼100 mg of elemental iron per day or bi-daily. The decrements in other performance parameters characterizing a range of sports coincide with the severity of iron deficiency.",
+    "journal": "Journal of sport and health science",
+    "year": "2025",
+    "doi": "10.1177/02601060231181605",
+    "authors": [
+      "Pengelly M",
+      "Pumpa K",
+      "Pyne DB",
+      "Etxebarria N"
+    ],
+    "types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC11863318",
+      "doi": "10.1016/j.jshs.2024.101009",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.jshs.2024.101009"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11863318"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11863318?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "37052052": {
+    "pmid": "37052052",
+    "title": "Hungry runners - low energy availability in male endurance athletes and its impact on performance and testosterone: mini-review.",
+    "abstract": "Low Energy Availability (LEA) arises from the inability to cover energy needs and requirements of training or normal physiological functions. This value differs from the energy balance, which takes into account the total daily energy intake compared to all the energy expended, regardless of the amount of fat-free mass. Insufficient energy consumption affects recovery, adaptation processes, increases the risk of injury or illness, so all of this can negatively affect performance. This mini-review is written on research articles in Pubmed database related to LEA in endurance-trained men and its impact on performance and testosterone. This article also clarifies the prevalence of LEA in male endurance athletes and its correlation to Relative Energy Deficiency in Sports (RED-S). LEA occurs in male endurance athletes and correlates with decreased testosterone levels, decreased bone density and also Resting Metabolic Rate. In endurance-trained men, there is great potential for the negative consequences of low energy availability. It can also be said that there are possibilities for primary screening, so we recommend regular check-ups of blood markers, body structure and keeping not only training but also dietary records, which can increase awareness of an adequate energy balance.",
+    "journal": "European journal of translational myology",
+    "year": "2023",
+    "doi": "10.1260/174795408786238542",
+    "authors": [
+      "Cupka M",
+      "Sedliak M"
+    ],
+    "types": [
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC10388605",
+      "doi": "10.4081/ejtm.2023.11104",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://pagepressjournals.org/index.php/bam/article/download/11104/10849"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.4081/ejtm.2023.11104"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10388605"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10388605?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "37892531": {
+    "pmid": "37892531",
+    "title": "Considerations of Low Carbohydrate Availability (LCA) to Relative Energy Deficiency in Sport (RED-S) in Female Endurance Athletes: A Narrative Review.",
+    "abstract": "The purpose of this narrative review is to identify health and performance consequences associated with LCA in female endurance athletes. The intake of carbohydrates (CHO) before, during, and after exercise has been demonstrated to support sport performance, especially endurance activities which rely extensively on CHO as a fuel source. However, low energy availability (LEA) and low carbohydrate availability (LCA) are common in female athletes. LEA occurs when energy intake is insufficient compared to exercise energy expenditure, and LEA-related conditions (e.g., Female Athlete Triad (Triad) and Relative Energy Deficiency in Sport (RED-S)) are associated with a myriad of health and performance consequences. The RED-S model highlights 10 health consequences and 10 performance consequences related to LEA. The independent effect of LCA on health and performance has been under-researched, despite current CHO intake being commonly insufficient in athletes. It is proposed that LCA may not only contribute to LEA but also have independent health and performance consequences in athletes. Furthermore, this review highlights current recommendations for CHO intake, as well as recent data on LCA prevalence and menstrual cycle considerations. A literature review was conducted on PubMed, Science Direct, and ResearchGate using relevant search terms (i.e., \"low carbohydrate/energy availability\", \"female distance runners\"). Twenty-one articles were identified and twelve met the inclusion criteria. The total number of articles included in this review is 12, with 7 studies illustrating that LCA was associated with direct negative health and/or performance implications for endurance-based athletes. Several studies included assessed male athletes only, and no studies included a female-only study design. Overall, the cumulative data show that female athletes remain underrepresented in sports science research and that current CHO intake recommendations and strategies may fail to consider female-specific adaptations and hormone responses, such as monthly fluctuations in estrogen and progesterone throughout the menstrual cycle. Current CHO guidelines for female athletes and exercising women need to be audited and explored further in the literature to support female athlete health and performance.",
+    "journal": "Nutrients",
+    "year": "2023",
+    "doi": "10.1371/journal.pone.0235592",
+    "authors": [
+      "Lodge MT",
+      "Ward-Ritacco CL",
+      "Melanson KJ"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC10609849",
+      "doi": "10.3390/nu15204457",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.mdpi.com/2072-6643/15/20/4457/pdf?version=1697807667"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/nu15204457"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10609849"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10609849?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "37462808": {
+    "pmid": "37462808",
+    "title": "The Impact of Sleep Interventions on Athletic Performance: A Systematic Review.",
+    "abstract": "BACKGROUND: Sleep is essential for maximal performance in the athletic population. Despite that, the sport context has many factors that can negatively influence athletes' sleep and subsequent recovery.\nOBJECTIVES: The purpose of this systematic review was to synthesize the most recent literature regarding sleep interventions aimed at improving sleep and subsequent performance in athletes.\nMETHODS: The present systematic review was conducted based on the PRISMA guidelines and the PICOS approach. The search was conducted in May 2022 using the electronic database PubMed, SPORTDiscus via EBSCOhost, and Web of Science. Once extracted, studies were included if they met the following criteria: (1) participants were athletes of individual or team sports; (2) implemented an intervention aimed at improving sleep; (3) measured at least one objective performance/recovery outcome; and (4) reported the relationship between sleep and performance.\nRESULTS: The search returned 1584 records. Following the screening, a total of 25 studies met our inclusion criteria. All the included articles were intervention studies published between 2011 and 2021. The included studies implemented various sleep interventions, such as sleep hygiene, naps, sleep extension, light manipulation, cold water immersion, mindfulness, or a combination of two or more strategies. Sleep extension and naps were the most representative and most effective strategies to improve sleep and performance. Mindfulness and light manipulation demonstrated promising results, but more studies are needed to confirm these findings. Sleep hygiene, removing electronic devices at night, and cold water immersion had no effects on sleep and subsequent performance/recovery, but these results are based on a few studies only.\nCONCLUSION: While acknowledging the limited amount of high-quality evidence reviewed, it appears that increasing sleep duration at night or through napping was the most effective interventions to improve physical and/or cognitive performance. Protocol Registration This protocol was registered in the International Platform of Registered Systematic Review and Meta-Analysis Protocols (INPLASY) on May 11, 2022, with the registration number INPLASY202250069.",
+    "journal": "Sports medicine - open",
+    "year": "2023",
+    "doi": "10.1111/nyas.13996",
+    "authors": [
+      "Cunha LA",
+      "Costa JA",
+      "Marques EA",
+      "Brito J",
+      "Lastella M",
+      "Figueiredo P"
+    ],
+    "types": [
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC10354314",
+      "doi": "10.1186/s40798-023-00599-z",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://sportsmedicine-open.springeropen.com/counter/pdf/10.1186/s40798-023-00599-z"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s40798-023-00599-z"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10354314"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10354314?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "38809828": {
+    "pmid": "38809828",
+    "title": "Does overreaching from endurance-based training impair sleep: A systematic review and meta-analysis.",
+    "abstract": "BACKGROUND: Overreaching is often linked to a deterioration in sleep quality, yet a comprehensive review is lacking. The aim of this systemic review and meta-analysis was to synthesise the literature and quantify the effect of overreaching from endurance-based training on sleep quality.\nMETHOD: The review was conducted following the PRISMA guidelines. The final search was conducted in May 2023 using four electronic databases (Web of Science Core Collection, MEDLINE, Cochrane Central Database, SPORTDiscus). Studies were included for a qualitative review, while random-effects meta-analyses were conducted for objective and subjective sleep.\nRESULTS AND DISCUSSION: The search returned 805 articles. Fourteen studies were included in the systematic review; Three and eight articles were eligible for the meta-analyses (objective and subjective, respectively). On average, the overreaching protocols were sixteen days in length (6 to 28 days) and included exercise modalities such as cycling (number of studies [k] = 5), rowing (k = 4), triathlon (k = 3), running (k = 2), and swimming (k = 1). Actigraphy was the only form of objective sleep measurement used across all studies (k = 3), while various instruments were used to capture subjective sleep quality (k = 13). When comparing objective sleep quality following the overreaching intervention to baseline (or a control), there was a significant reduction in sleep efficiency (mean difference = -2.0%; 95% CI -3.2, -0.8%; Glass' Δ = -0.83; p < 0.01). In contrast, when comparing subjective sleep quality following the overreaching intervention to baseline (or a control), there was no effect on subjective sleep quality (Glass' Δ = -0.27; 95% CI -0.79, 0.25; p = 0.08). Importantly, none of the included studies were judged to have a low risk of bias. While acknowledging the need for more high-quality studies, it appears that overreaching from endurance-based training can deteriorate objective sleep without influencing the perception of sleep quality.\nPROTOCOL REGISTRATION: This protocol was registered in The International Prospective Register of Systematic Reviews (PROSPERO) on 21st November 2022, with the registration number CRD42022373204.",
+    "journal": "PloS one",
+    "year": "2024",
+    "doi": "10.3390/ijerph18031082",
+    "authors": [
+      "Murphy C",
+      "Svansdottir SA",
+      "Dupuy O",
+      "Louis J"
+    ],
+    "types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC11135706",
+      "doi": "10.1371/journal.pone.0303748",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0303748&type=printable"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1371/journal.pone.0303748"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11135706"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11135706?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "39006249": {
+    "pmid": "39006249",
+    "title": "Effects of Acute Sleep Deprivation on Sporting Performance in Athletes: A Comprehensive Systematic Review and Meta-Analysis.",
+    "abstract": "OBJECTIVE: Using meta-analysis to comprehensively and quantitatively evaluate the impact of acute sleep deprivation on different sports performance of athletes, this study aims to provide scientific guidance for coaches in optimizing and adjusting training and competition arrangements.\nMETHODS: Establishing literature inclusion and exclusion criteria, we conducted searches in both Chinese and English databases. Using stata 14.0, we analyzed 75 indicators from 27 included literature, focusing on three aspects: the impact of acute sleep deprivation on overall athletic performance, the impact on sporting performance across various athletic abilities, and the disparities in athletic performance between morning and afternoon following acute sleep deprivation.\nRESULTS: The effect size of acute sleep deprivation on overall athletic performance was -0.56 (P<0.05). Sub-analyses revealed effect sizes of -0.23 (P<0.05) for whole night sleep deprivation, -1.17 (P<0.05) for partial sleep deprivation at the end of the night, and -0.25 (P>0.05) for partial sleep deprivation in the beginning of the night. The effect sizes of acute sleep deprivation on high intensity intermittent exercise, skill control, speed, aerobic endurance, and explosive power indicators were -1.57, -1.06, -0.67, -0.54, and -0.39 respectively (P<0.05). The effect sizes of acute sleep deprivation on the overall athletic performance in the morning and afternoon were -0.30, and -1.11, respectively (P<0.05).\nCONCLUSION: Acute sleep deprivation significantly impairs the overall athletic performance of athletes, with a more pronounced negative impact observed with partial sleep deprivation at the end of the night. Various types of exercise performance are adversely affected by acute sleep deprivation, with magnitude of impact ranking high intensity intermittent, skill control, speed, aerobic endurance, and explosive power. Following acute sleep deprivation, athletes' overall sporting performance in the afternoon is inferior to that in the morning.",
+    "journal": "Nature and science of sleep",
+    "year": "2024",
+    "doi": "10.1097/MCG.0b013e318159c654",
+    "authors": [
+      "Gong M",
+      "Sun M",
+      "Sun Y",
+      "Jin L",
+      "Li S"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC11246080",
+      "doi": "10.2147/nss.s467531",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.2147/NSS.S467531"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11246080"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11246080?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "36877404": {
+    "pmid": "36877404",
+    "title": "Effects of Creatine Monohydrate on Endurance Performance in a Trained Population: A Systematic Review and Meta-analysis.",
+    "abstract": "BACKGROUND: There is robust evidence that creatine monohydrate supplementation can enhance short-term high-intensity exercise in athletes. However, the effect of creatine monohydrate supplementation on aerobic performance and its role during aerobic activities is still controversial.\nOBJECTIVE: The purpose of this systematic review and meta-analysis was to evaluate the supplementation effects of creatine monohydrate on endurance performance in a trained population.\nMETHODS: The search strategy in this systematic review and meta-analysis was designed following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, and PubMed/MEDLINE, Web of Science, and Scopus databases were explored from inception until 19 May, 2022. Only human experimental trials, controlled with a placebo group, evaluating the effects of creatine monohydrate supplementation on endurance performance in a trained population were analyzed in this systematic review and meta-analysis. The methodological quality of included studies was evaluated using the Physiotherapy Evidence Database (PEDro) scale.\nRESULTS: A total of 13 studies satisfied all the eligibility criteria and were included in this systematic review and meta-analysis. The results for the pooled meta-analysis showed a non-significant change in endurance performance after creatine monohydrate supplementation in a trained population (p = 0.47), with a trivial negative effect (pooled standardized mean difference =  - 0.07 [95% confidence interval - 0.32 to 0.18]; I2 = 34.75%). Further, after excluding the studies not evenly distributed around the base of the funnel plot, the results were similar (pooled standardized mean difference =  - 0.07 [95% confidence interval - 0.27 to 0.13]; I2 = 0%; p = 0.49).\nCONCLUSIONS: Creatine monohydrate supplementation was shown to be ineffective on endurance performance in a trained population.\nCLINICAL TRIAL REGISTRATION: The study protocol was registered in the Prospective Register of Systematic Review (PROSPERO) with the following registration number: CRD42022327368.",
+    "journal": "Sports medicine (Auckland, N.Z.)",
+    "year": "2023",
+    "doi": "10.1152/jappl.1995.79.6.2078",
+    "authors": [
+      "Fernández-Landa J",
+      "Santibañez-Gutierrez A",
+      "Todorovic N",
+      "Stajer V",
+      "Ostojic SM"
+    ],
+    "types": [
+      "Meta-Analysis",
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1007/s40279-023-01823-2",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s40279-023-01823-2"
+          }
+        ]
+      }
+    }
+  },
+  "39810703": {
+    "pmid": "39810703",
+    "title": "International Society of Sports Nutrition Position Stand: Long-Chain Omega-3 Polyunsaturated Fatty Acids.",
+    "abstract": "Position Statement: The International Society of Sports Nutrition (ISSN) presents this position based on a critical examination of the literature surrounding the effects of long-chain omega-3 polyunsaturated fatty acid (ω-3 PUFA) supplementation on exercise performance, recovery, and brain health. This position stand is intended to provide a scientific foundation for athletes, dietitians, trainers, and other practitioners regarding the effects of supplemental ω-3 PUFA in healthy and athletic populations. The following conclusions represent the official position of the ISSN: Athletes may be at a higher risk for ω-3 PUFA insufficiency.Diets rich in ω-3 PUFA, including supplements, are effective strategies for increasing ω-3 PUFA levels.ω-3 PUFA supplementation, particularly eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), has been shown to enhance endurance capacity and cardiovascular function during aerobic-type exercise.ω-3 PUFA supplementation may not confer a muscle hypertrophic benefit in young adults.ω-3 PUFA supplementation in combination with resistance training may improve strength in a dose- and duration-dependent manner.ω-3 PUFA supplementation may decrease subjective measures of muscle soreness following intense exercise.ω-3 PUFA supplementation can positively affect various immune cell responses in athletic populations.Prophylactic ω-3 PUFA supplementation may offer neuroprotective benefits in athletes exposed to repeated head impacts.ω-3 PUFA supplementation is associated with improved sleep quality.ω-3 PUFA are classified as prebiotics; however, studies on the gut microbiome and gut health in athletes are currently lacking.",
+    "journal": "Journal of the International Society of Sports Nutrition",
+    "year": "2025",
+    "doi": "10.1136/gutjnl-2017-314968",
+    "authors": [
+      "Jäger R",
+      "Heileson JL",
+      "Abou Sawan S",
+      "Dickerson BL",
+      "Leonard M",
+      "Kreider RB",
+      "Kerksick CM",
+      "Cornish SM"
+    ],
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC11737053",
+      "doi": "10.1080/15502783.2024.2441775",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.1080/15502783.2024.2441775"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1080/15502783.2024.2441775"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11737053"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11737053?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "39508366": {
+    "pmid": "39508366",
+    "title": "Validity of Four Consumer-Grade Optical Heart Rate Sensors for Assessing Volume and Intensity Distribution of Physical Activity.",
+    "abstract": "Consumer-grade optical heart rate (HR) sensors emerged as promising tools to monitor volume and intensity of physical activity (PA). However, no validation study of optical HR sensors included recent comprehensive validation recommendations, required for facilitating usage for medical purposes. Validity of HR data measured with four consumer-grade optical sensors, the wrist-worn Garmin Venu 2S and Polar Vantage M2, and the upper arm-worn Polar Verity Sense and Scosche Rhythm24 were assessed in 32 participants over 24 h including various laboratory-based and free-living activities. Furthermore, validity of time at moderate or vigorous PA intensity zones was analyzed. A medical-grade ECG served as a reference. Reliability was assessed by analyzing data of laboratory-based activities during two visits. Across activities, the mean absolute percentage error ranged from 2.2% to 4.7% and intraclass correlation coefficients ranged from 0.91 to 0.98, indicating high validity for all optical sensors. All sensors validly detected time spent at moderate or vigorous intensities (mean error < 10%), except Polar M2 for moderate PA (mean error 12.8%) and Garmin V2 for vigorous PA (mean error -15.9%). Sensor day-to-day reliability was high, indicated by a mean absolute error of < 5 beats/min. Upper arm-worn sensors consistently outperformed wrist-worn sensors, particularly in activities involving increased arm movement and at higher intensities. Our findings identified an overall high validity of these four consumer-grade optical HR sensors, also for assessing time spent at higher PA intensities. However, differences were observed between sensors regarding activity subtypes and intensity levels. These data support informed decisions when selecting optical sensors for PA monitoring and intervention. Trial Registration: The study was performed in compliance with the Declaration of Helsinki and its current amendments and was prospectively registered at ClinicalTrials.gov (ID NCT05525000).",
+    "journal": "Scandinavian journal of medicine & science in sports",
+    "year": "2024",
+    "doi": "10.1111/sms.14756",
+    "authors": [
+      "Neudorfer M",
+      "Kumar D",
+      "Smeddinck JD",
+      "Kulnik ST",
+      "Niebauer J",
+      "Treff G",
+      "Sareban M"
+    ],
+    "types": [
+      "Clinical Trial",
+      "Journal Article",
+      "Validation Study"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1111/sms.14756",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1111/sms.14756"
+          }
+        ]
+      }
+    }
+  },
+  "37960430": {
+    "pmid": "37960430",
+    "title": "Is Running Power a Useful Metric? Quantifying Training Intensity and Aerobic Fitness Using Stryd Running Power Near the Maximal Lactate Steady State.",
+    "abstract": "We sought to determine the utility of Stryd, a commercially available inertial measurement unit, to quantify running intensity and aerobic fitness. Fifteen (eight male, seven female) runners (age = 30.2 [4.3] years; V·O2max = 54.5 [6.5] ml·kg-1·min-1) performed moderate- and heavy-intensity step transitions, an incremental exercise test, and constant-speed running trials to establish the maximal lactate steady state (MLSS). Stryd running power stability, sensitivity, and reliability were evaluated near the MLSS. Stryd running power was also compared to running speed, V·O2, and metabolic power measures to estimate running mechanical efficiency (EFF) and to determine the efficacy of using Stryd to delineate exercise intensities, quantify aerobic fitness, and estimate running economy (RE). Stryd running power was strongly associated with V·O2 (R2 = 0.84; p < 0.001) and running speed at the MLSS (R2 = 0.91; p < 0.001). Stryd running power measures were strongly correlated with RE at the MLSS when combined with metabolic data (R2 = 0.79; p < 0.001) but not in isolation from the metabolic data (R2 = 0.08; p = 0.313). Measures of running EFF near the MLSS were not different across intensities (~21%; p > 0.05). In conclusion, although Stryd could not quantify RE in isolation, it provided a stable, sensitive, and reliable metric that can estimate aerobic fitness, delineate exercise intensities, and approximate the metabolic requirements of running near the MLSS.",
+    "journal": "Sensors (Basel, Switzerland)",
+    "year": "2023",
+    "doi": "10.1123/IJSPP.2017-0208",
+    "authors": [
+      "van Rassel CR",
+      "Ajayi OO",
+      "Sales KM",
+      "Griffiths JK",
+      "Fletcher JR",
+      "Edwards WB",
+      "MacInnis MJ"
+    ],
+    "types": [
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC10649254",
+      "doi": "10.3390/s23218729",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.mdpi.com/1424-8220/23/21/8729/pdf?version=1698303101"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/s23218729"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10649254"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10649254?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "40663734": {
+    "pmid": "40663734",
+    "title": "Reliability and Validity of Stryd for Measuring Running Kinematics During an Incremental Treadmill Test.",
+    "abstract": "Pinedo-Jauregi, A and Ozaeta-Beaskoetxea, E. Reliability and validity of Stryd for measuring running kinematics during an incremental treadmill test. J Strength Cond Res 39(11): e1295-e1304, 2025-Inertial Measurement Unit devices have become indispensable tools for coaches and researchers. In particular, the Stryd device has been used by coaches to improve athletes' running performance. However, its reliability and validity have not been universally accepted by the scientific community. The aim of this study was to assess the reliability and validity of the Stryd device during an incremental running test. For this purpose, subjects performed an incremental test at speeds ranging from 8 to 17 km·h -1 . Reliability was tested using 2 Stryd devices placed on the same foot, while validity was assessed against the Optojump Next. The results showed that the Stryd device is reliable for measuring power, cadence, ground contact time (GCT), and leg stiffness (coefficients of variation < 3.34%; intraclass correlation coefficients >0.81; SEM <0.51; r > 0.88), but not for vertical oscillation. In terms of validity, the device was found to be valid for measuring cadence (Lin's Concordance Coefficient > 0.78; Mean Absolute Percent Error <2.18%), but not for GCT. In conclusion, the Stryd device seems reliable and valid for some variables, but not for others. The authors advise trainers and scientists using the Stryd device to be cautious, because its measurements are not fully supported by the scientific community.",
+    "journal": "Journal of strength and conditioning research",
+    "year": "2025",
+    "doi": "10.1519/JSC.0000000000005207",
+    "authors": [
+      "Pinedo-Jauregi A",
+      "Ozaeta-Beaskoetxea E"
+    ],
+    "types": [
+      "Journal Article",
+      "Validation Study"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1519/jsc.0000000000005207",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1519/JSC.0000000000005207"
+          }
+        ]
+      }
+    }
+  },
+  "37398957": {
+    "pmid": "37398957",
+    "title": "Is Stryd critical power a meaningful parameter for runners?",
+    "abstract": "Stryd is a foot pod that reliably estimates running power. Our objectives were to examine the efficacy of the website-generated Stryd critical power (CPSTRYD) as a meaningful parameter for runners. 20 runners performed their regular training while wearing Stryd for a minimum of 6 weeks to generate CPSTRYD. Runners completed laboratory graded exercise testing, and outdoor 1500 m and 5000 m time trails. CPSTRYD was most similar to the second ventilatory threshold (VT2) or the onset of blood lactate accumulation (OBLA) and is highly predictive of running performance. Stryd ground contact time (GCT) was a predictor of performance when comparing runners at the same submaximal treadmill speed. CPSTRYD generated from outdoor running is equivalent to that calculated using an established CP model. However, variance between different methods of CP estimation must be a consideration for runners and coaches. Stryd offers meaningful data for runners including a realistic estimate of CP.",
+    "journal": "Biology of sport",
+    "year": "2023",
+    "doi": "10.5114/biolsport.2023.118025",
+    "authors": [
+      "Dearing CG",
+      "Paton CD"
+    ],
+    "types": [
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC10286607",
+      "doi": "10.5114/biolsport.2023.118025",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.termedia.pl/Journal/-78/pdf-47477-10?filename=5_02776_Article.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.5114/biolsport.2023.118025"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10286607"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10286607?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "41722548": {
+    "pmid": "41722548",
+    "title": "Validity of Stryd Running Power for Estimating Metabolic Demand During Incline Treadmill Running.",
+    "abstract": "PURPOSE: Inertial measurement units, like the shoe-mounted Stryd running power meter, offer an alternative metric to guide endurance training. Despite its utility on level running surfaces, whether Stryd can accurately monitor training intensity for inclined running is unclear.\nMETHODS: Ten (4 females) trained runners (28 [8] y, 55.9 [9.1] mL/kg/min) performed a Step-Ramp-Step exercise test to estimate the running power at the respiratory compensation point. On a separate visit, participants performed 5-minute running trials at 0%, 2%, 4%, 6%, and 8% inclines in a random order, with speed adjusted to elicit the running power 10% below respiratory compensation point. Metabolic power and mechanical efficiency were calculated for the final minute of each trial.\nRESULTS: Metabolic power and oxygen uptake at 6% (1063 [191] W, 3.02 [0.53] L/min) and 8% (1079 [219] W, 3.05 [0.62] L/min) were significantly higher (P < .05 for all comparisons) than at 0% (1037 [191] W, 2.95 [0.53] L/min). Consequently, mechanical efficiency was significantly lower at 6% (21.6% [1.4%]; P = .024) and 8% (21.3% [1.3%]; P = .006) compared with 0% (22.1% [1.3%]). These variables were not different from 0% for the 2% and 4% running trials (P > .05). Ventilation (P = .550), breathing frequency (P = .273), heart rate (P = .924), and rating of perceived exertion (P = .709) were not different across inclines.\nCONCLUSIONS: Although Stryd slightly underestimated metabolic power (∼2%-4%) at steeper inclines, running at a fixed Stryd power yielded relatively consistent indications of metabolic demand across incline conditions, suggesting it is a useful metric to guide training during incline treadmill running.",
+    "journal": "International journal of sports physiology and performance",
+    "year": "2026",
+    "doi": "10.1123/ijspp.2025-0382",
+    "authors": [
+      "van Rassel CR",
+      "Gow S",
+      "Watanabe T",
+      "Jaén-Carrillo D",
+      "MacInnis MJ"
+    ],
+    "types": [
+      "Journal Article",
+      "Validation Study"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1123/ijspp.2025-0382",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1123/ijspp.2025-0382"
+          }
+        ]
+      }
+    }
+  },
+  "37898480": {
+    "pmid": "37898480",
+    "title": "A Comparison of Critical Speed and Critical Power in Runners Using Stryd Running Power.",
+    "abstract": "PURPOSE: Although running traditionally relies on critical speed (CS) as an indicator of critical intensity, portable inertial measurement units offer a potential solution for estimating running mechanical power to assess critical power (CP) in runners. The purpose of this study was to determine whether CS and CP differ when assessed using the Stryd device, a portable inertial measurement unit, and if 2 running bouts are sufficient to determine CS and CP.\nMETHODS: On an outdoor running track, 10 trained runners (V˙O2max, 59.0 [4.2] mL·kg-1·min-1) performed 3 running time trials (TT) between 1200 and 4400 m on separate days. CS and CP were derived from 2-parameter hyperbolic speed-time and power-time models, respectively, using 2 (CS2TT and CP2TT) and 3 (CS3TT and CP3TT) TTs. Subsequently, runners performed constant-intensity running for 800 m at their calculated CS3TT and CP3TT.\nRESULTS: Running at the calculated CS3TT speed (3.88 [0.44] m·s-1) elicited an average Stryd running power (271 [28] W) not different from the calculated CP3TT (270 [28]; P = .940; d = 0.02), with excellent agreement between the 2 values (intraclass correlation coefficient = .980). The CS2TT (3.97 [0.42] m·s-1) was not higher than CS3TT (3.89 [0.44] m·s-1; P = .178; d = 0.46); however, CP2TT (278 [29] W) was greater than CP3TT (P = .041; d = 0.75).\nCONCLUSION: The running intensities at CS and CP were similar, supporting the use of running power (Stryd) as a metric of aerobic fitness and exercise prescription, and 2 trials provided a reasonable, albeit higher, estimate of CS and CP.",
+    "journal": "International journal of sports physiology and performance",
+    "year": "2024",
+    "doi": "10.1123/ijspp.2023-0260",
+    "authors": [
+      "van Rassel CR",
+      "Sales KM",
+      "Ajayi OO",
+      "Nagai K",
+      "MacInnis MJ"
+    ],
+    "types": [
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1123/ijspp.2023-0260",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1123/ijspp.2023-0260"
+          }
+        ]
+      }
+    }
+  },
+  "37847189": {
+    "pmid": "37847189",
+    "title": "Can We Predict Long-Duration Running Power Output? Validity of the Critical Power, Power Law, and Logarithmic Models.",
+    "abstract": "Ruiz-Alias, SA, Ñancupil-Andrade, AA, Pérez-Castilla, A, and García-Pinillos, F. Can we predict long-duration running power output? Validity of the critical power, power law, and logarithmic models. J Strength Cond Res 38(2): 306-310, 2024-Predicting long-distance running performance has always been a challenge for athletes and practitioners. To ease this task, different empirical models have been proposed to model the drop of the running work rate with the increase of time. Therefore, this study aims to determine the validity of different models (i.e., CP, power law, and Peronnet) to predict long-duration running power output (i.e., 30 and 60 minutes). In a 4-week training period, 15 highly trained athletes performed 7-time trials (i.e., 3, 4, 5, 10, 20, 30, and 60 minutes) in a randomized order. Then, their power-duration curves (PDCs) were defined through the work-time critical power model (CP work ), power-1/time (CP 1/time ), 2-parameter hyperbolic (CP 2hyp ), 3-parameter hyperbolic (CP 3hyp ), the undisclosed Stryd (CP stryd ), and Golden Cheetah (CP cheetah ) proprietary models, and the power law and Peronnet models using the 3 to 20 minutes time trials. These ones were extrapolated to the 30- and 60-minute power output and compared with the actual performance. The CP 2hyp , CP 3hyp , CP stryd , and CP cheetah provided valid 30- and 60-minute power output estimations (≤2.6%). The CP work and CP 1/time presented a large predicting error for 30 minutes (≥4.4%), which increased for 60 minutes (≥8.1%). The power law and Peronnet models progressively increased their predicting error at the longest duration (30 minutes: ≤-1.6%; 60 minutes: ≤-6.6%), which was conditioned by the endurance capability of the athletes. Therefore, athletes and practitioners are encouraged to applicate the aforementioned valid models to their PDC to estimate the 30-minute and 60-minute power output.",
+    "journal": "Journal of strength and conditioning research",
+    "year": "2024",
+    "doi": "10.1519/JSC.0000000000004609",
+    "authors": [
+      "Ruiz-Alias SA",
+      "Ñancupil-Andrade AA",
+      "Pérez-Castilla A",
+      "García-Pinillos F"
+    ],
+    "types": [
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1519/jsc.0000000000004609",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1519/JSC.0000000000004609"
+          }
+        ]
+      }
+    }
+  },
+  "37888148": {
+    "pmid": "37888148",
+    "title": "Remote Determination of Critical Speed and Critical Power in Recreational Runners.",
+    "abstract": "PURPOSE: This study aimed to compare estimations of critical speed (CS) and work completed above CS (D'), and their analogies for running power (critical power [CP] and W'), derived from raw data obtained from habitual training (HAB) and intentional maximal efforts in the form of time trials (TTs) and 3-minute all-out tests (3MTs) in recreational runners. The test-retest reliability of the 3MT was further analyzed.\nMETHODS: Twenty-three recreational runners (4 female) used a foot pod to record speed, altitude, and power output for 8 consecutive weeks. CS and D', and CP and W', were calculated from the best 3-, 7-, and 12-minute segments recorded in the first 6 weeks of their HAB and in random order in weeks 7 and 8 from 3 TTs (3, 7, and 12 min) and three 3MTs (to assess test-retest reliability).\nRESULTS: There was no difference between estimations of CS or CP derived from HAB, TT, and 3MT (3.44 [0.63], 3.42 [0.53], and 3.76 [0.57] m · s-1 and 281 [41], 290 [45], and 305 [54] W, respectively), and strong agreement between HAB and TT for CS (r = .669) and CP (r = .916). Limited agreement existed between estimates of D'/W'. Moderate reliability of D'/W' was demonstrated between the first and second 3MTs, whereas excellent reliability was demonstrated for CS/CP.\nCONCLUSION: These data suggest that estimations of CS/CP can be derived remotely, from either HAB, TT, or 3MT, although the lower agreement between D'/W' warrants caution when using these measures interchangeably.",
+    "journal": "International journal of sports physiology and performance",
+    "year": "2023",
+    "doi": "10.1123/ijspp.2023-0276",
+    "authors": [
+      "Hunter B",
+      "Ledger A",
+      "Muniz-Pumares D"
+    ],
+    "types": [
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1123/ijspp.2023-0276",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1123/ijspp.2023-0276"
+          }
+        ]
+      }
+    }
+  },
+  "35853460": {
+    "pmid": "35853460",
+    "title": "Practices and Applications of Heart Rate Variability Monitoring in Endurance Athletes.",
+    "abstract": "Heart rate variability reflects fluctuations in the changes in consecutive heartbeats, providing insight into cardiac autonomic function and overall physiological state. Endurance athletes typically demonstrate better cardiac autonomic function than non-athletes, with lower resting heart rates and greater variability. The availability and use of heart rate variability metrics has increased in the broader population and may be particularly useful to endurance athletes. The purpose of this review is to characterize current practices and applications of heart rate variability analysis in endurance athletes. Important considerations for heart rate variability analysis will be discussed, including analysis techniques, monitoring tools, the importance of stationarity of data, body position, timing and duration of the recording window, average heart rate, and sex and age differences. Key factors affecting resting heart rate variability will be discussed, including exercise intensity, duration, modality, overall training load, and lifestyle factors. Training applications will be explored, including heart rate variability-guided training and the identification and monitoring of maladaptive states such as overtraining. Lastly, we will examine some alternative uses of heart rate variability, including during exercise, post-exercise, and for physiological forecasting and predicting performance.",
+    "journal": "International journal of sports medicine",
+    "year": "2023",
+    "doi": "10.1055/a-1864-9726",
+    "authors": [
+      "Lundstrom CJ",
+      "Foreman NA",
+      "Biltz G"
+    ],
+    "types": [
+      "Review",
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "N",
+      "pmcid": null,
+      "doi": "10.1055/a-1864-9726",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "http://www.thieme-connect.de/products/ejournals/pdf/10.1055/a-1864-9726.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1055/a-1864-9726"
+          }
+        ]
+      }
+    }
+  },
+  "40732543": {
+    "pmid": "40732543",
+    "title": "Associations Between Daily Heart Rate Variability and Self-Reported Wellness: A 14-Day Observational Study in Healthy Adults.",
+    "abstract": "Heart rate variability (HRV), particularly the root mean square of successive differences (RMSSD), is widely used as a non-invasive indicator of autonomic nervous system activity and physiological recovery. This study examined whether daily short-term HRV, measured under standardised morning conditions, was associated with self-reported wellness in a non-clinical adult population. Over a 14-day period, 41 participants completed daily five-minute HRV recordings using a Polar H10 chest sensor and the Kubios mobile app, followed by ratings of sleep quality, fatigue, stress, and physical recovery. Bayesian ordinal mixed-effects models revealed that higher RMSSD values were associated with better self-reported sleep (β = 0.510, 95% HDI: 0.239 to 0.779), lower fatigue (β = 0.281, 95% HDI: 0.020 to 0.562), and reduced stress (β = 0.353, 95% HDI: 0.059 to 0.606), even after adjusting for covariates. No association was found between RMSSD and perceived muscle soreness. These findings support the interpretability of RMSSD as a physiological marker of daily recovery and stress in real-world settings. While the effect sizes were modest and individual variability remained substantial, results suggest that consistent HRV monitoring may offer meaningful insight into subjective wellness-particularly when contextualised and tracked over time.",
+    "journal": "Sensors (Basel, Switzerland)",
+    "year": "2025",
+    "doi": "10.1038/s41746-025-01757-1",
+    "authors": [
+      "Hannon J",
+      "O'Hagan A",
+      "Lambe R",
+      "O'Grady B",
+      "Doherty C"
+    ],
+    "types": [
+      "Journal Article",
+      "Observational Study"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC12300306",
+      "doi": "10.3390/s25144415",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/s25144415"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12300306"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12300306?pdf=render"
+          }
+        ]
+      }
+    }
+  },
+  "38956784": {
+    "pmid": "38956784",
+    "title": "Monitoring fatigue state with heart rate-based and subjective methods during intensified training in recreational runners.",
+    "abstract": "The purpose of this study was firstly to examine the sensitivity of heart rate (HR)-based and subjective monitoring markers to intensified endurance training; and secondly, to investigate the validity of these markers to distinguish individuals in different fatigue states. A total of 24 recreational runners performed a 3-week baseline period, a 2-week overload period, and a 1-week recovery period. Performance was assessed before and after each period with a 3000m running test. Recovery was monitored with daily orthostatic tests, nocturnal HR recordings, questionnaires, and exercise data. The participants were divided into subgroups (overreached/OR, n = 8; responders/RESP, n = 12) based on the changes in performance and subjective recovery. The responses to the second week of the overload period were compared between the subgroups. RESP improved their baseline 3000 m time (p < 0.001) after the overload period (-2.5 ± 1.0%), and the change differed (p < 0.001) from OR (0.6 ± 1.2%). The changes in nocturnal HR (OR 3.2 ± 3.1%; RESP -2.8 ± 3.7%, p = 0.002) and HR variability (OR -0.7 ± 1.8%; RESP 2.1 ± 1.6%, p = 0.011) differed between the subgroups. In addition, the decrease in subjective readiness to train (p = 0.009) and increase in soreness of the legs (p = 0.04) were greater in OR compared to RESP. Nocturnal HR, readiness to train, and exercise-derived HR-running power index had ≥85% positive and negative predictive values in the discrimination between OR and RESP individuals. In conclusion, exercise tolerance can vary substantially in recreational runners. The results supported the usefulness of nocturnal HR and subjective recovery assessments in recognizing fatigue states.",
+    "journal": "European journal of sport science",
+    "year": "2024",
+    "doi": "10.1519/jsc.0000000000001458",
+    "authors": [
+      "Nuuttila OP",
+      "Uusitalo A",
+      "Kokkonen VP",
+      "Weerarathna N",
+      "Kyröläinen H"
+    ],
+    "types": [
+      "Journal Article"
+    ],
+    "pmcid": null,
+    "oa": false,
+    "epmc": {
+      "isOpenAccess": "Y",
+      "pmcid": "PMC11235883",
+      "doi": "10.1002/ejsc.12115",
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1002/ejsc.12115"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11235883"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11235883?pdf=render"
+          }
+        ]
+      }
+    }
+  }
+}

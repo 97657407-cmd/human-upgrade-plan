@@ -102,7 +102,7 @@ def check_skill_frontmatter(root: Path) -> list[str]:
         errors.append("SKILL.md frontmatter is not closed")
         return errors
     header = text[4:closing]
-    for required in ("name:", "description:", "metadata:", "version:"):
+    for required in ("name:", "description:", "version:"):
         if required not in header:
             errors.append(f"SKILL.md frontmatter missing {required}")
     return errors

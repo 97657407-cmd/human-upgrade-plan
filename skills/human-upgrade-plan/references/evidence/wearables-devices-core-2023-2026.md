@@ -1,273 +1,380 @@
-# 证据包：手表·心率带·跑步功率豆（近三年 · 11篇）
+# 证据包：手表·心率带·跑步豆（近三年 · 11篇）
 
-核验日期：2026-10-10。光学心率误差、HRV趋势、Stryd/功率与临界功率边界。与 `wearable-models-2025.md`、`device-data.md` 一致。
+核验日期：2026-10-10。质量标准：每卡「一句话精华」+「大众用法」+「专业用法」+「验收」+「研究细节」+「可改训练变量」。
+本包聚焦：光学HR误差、跑步功率/CP/CS、HRV联合决策。
+覆盖：全文关键章节核验 4 篇；摘要核验 7 篇（无OA全文或抓取失败，不伪造精读）。
 
-### consumer-optical-hr-running-2024
+### 40-validity-of-four-consumer-grade-optical-heart-ra
 **Validity of Four Consumer-Grade Optical Heart Rate Sensors for Assessing Volume and Intensity Distribution of Physical Activity.**  
-Scandinavian journal of medicine &amp; science in sports (2024) · PMID [39508366](https://pubmed.ncbi.nlm.nih.gov/39508366/) · DOI `10.1111/sms.14756`
+Scandinavian journal of medicine & science in sports (2024) · PMID [39508366](https://pubmed.ncbi.nlm.nih.gov/39508366/) · DOI `10.1111/sms.14756`  
+作者：Neudorfer M, Kumar D, Smeddinck JD, Kulnik ST et al. · 证据类型：Clinical Trial/Journal Article/Validation Study
 
-**问题/相关决策**：如何把该证据变成训练里可改的变量（剂量、顺序、恢复、监控），而不是收藏论文。
+**一句话精华（可直接讲给学员）**  
+消费级光学心率测训练量有误差——强度课优先胸带或知误差使用。
 
-**设计与对象（摘要）**  
-- Validity of HR data measured with four consumer-grade optical sensors, the wrist-worn Garmin Venu 2S and Polar Vantage M2, and the upper arm-worn Polar Verity Sense and Scosche Rhythm24 were assessed in 32 participants over 24&#x2009;h including various laboratory-based and free-living activities.
-- Across activities, the mean absolute percentage error ranged from 2.2% to 4.7% and intraclass correlation coefficients ranged from 0.91 to 0.98, indicating high validity for all optical sensors.
-- All sensors validly detected time spent at moderate or vigorous intensities (mean error &lt;&#x2009;10%), except Polar M2 for moderate PA (mean error 12.8%) and Garmin V2 for vigorous PA (mean error -15.9%).
-- Sensor day-to-day reliability was high, indicated by a mean absolute error of &lt;&#x2009;5 beats/min.
-- Upper arm-worn sensors consistently outperformed wrist-worn sensors, particularly in activities involving increased arm movement and at higher intensities.
+**大众爱好者怎么用**
+- 轻松跑看手表即可；间歇别死盯腕式HR
+- 异常跳点用体感校准
 
-**关键结果线索**：32 participants, 2.2%, 4.7%, 10%, or 12.8, or -15.9
+**专项/专业运动员怎么用**
+- 关键课用ECG胸带
+- 用HR算TRIMP时声明传感器类型
 
-**可落地用法**
-1. 间歇/HIIT用胸带；光学表误差随强度上升。
-2. 轻松跑可用光学作参考。
-3. 数据丢失/跳点时改RPE继续，不追表。
+**下次用什么验收**  
+腕式与胸带差异；是否误判强度
 
-**外推边界**：摘要级证据；异质性/样本特征可能限制上班族与业余跑者；研究方案不能直接复制为个人处方。持续胸痛、严重呼吸困难、进食障碍风险等走医疗路径。
+**研究细节**  
+观察研究（摘要核验）：四款消费级光学HR传感器测训练量效度。
+
+**可改训练变量**
+- 质量课默认胸带
+- 腕式仅用于Z2监控
+
+**禁止误用 / 边界**  
+研究剂量≠个人处方；摘要核验不能当成全文精读。持续胸痛、严重呼吸困难、进食障碍风险、不明晕厥等走医疗路径。设备分数≠医学诊断；药物/反兴奋剂/补剂须合规与医护协作。
 
 **阅读深度**：摘要核验 · 核验日 2026-10-10
 
+**题录摘要（≤2行，复核用）**  
+Consumer-grade optical heart rate (HR) sensors emerged as promising tools to monitor volume and intensity of physical activity (PA). However, no validation study of optical HR sensors included recent comprehensive valida…
 
-### stryd-kinematics-incremental-2025
+### 41-is-running-power-a-useful-metric-quantifying-tra
+**Is Running Power a Useful Metric? Quantifying Training Intensity and Aerobic Fitness Using Stryd Running Power Near the Maximal Lactate Steady State.**  
+Sensors (Basel, Switzerland) (2023) · PMID [37960430](https://pubmed.ncbi.nlm.nih.gov/37960430/) · DOI `10.1123/IJSPP.2017-0208`  
+作者：van Rassel CR, Ajayi OO, Sales KM, Griffiths JK et al. · 证据类型：Journal Article
+
+**一句话精华（可直接讲给学员）**  
+跑步功率有用，但是“哪家算法的功率”——不能跨设备比绝对值。
+
+**大众爱好者怎么用**
+- 用同一设备看功率趋势，别和别人比瓦数
+- 配速+体感仍是主锚
+
+**专项/专业运动员怎么用**
+- 功率用于内负荷/临界强度探讨时固定设备与固件
+- 坡度/风况改变解释
+
+**下次用什么验收**  
+同路线功率变异；与配速关系是否稳定
+
+**研究细节**  
+观察研究全文：讨论外部/内部机械功率视角；跑步功率方法学差异导致同速不同瓦。
+
+**可改训练变量**
+- 固定一款功率源做周对比
+- 不跨品牌设绝对功率区
+
+**禁止误用 / 边界**  
+研究剂量≠个人处方；已读全文关键章节仍有外推边界。持续胸痛、严重呼吸困难、进食障碍风险、不明晕厥等走医疗路径。设备分数≠医学诊断；药物/反兴奋剂/补剂须合规与医护协作。
+
+**阅读深度**：全文关键章节核验 · 核验日 2026-10-10
+
+**题录摘要（≤2行，复核用）**  
+We sought to determine the utility of Stryd, a commercially available inertial measurement unit, to quantify running intensity and aerobic fitness. Fifteen (eight male, seven female) runners (age = 30.2 [4.3] years; V·O2…
+
+### 42-reliability-and-validity-of-stryd-for-measuring-
 **Reliability and Validity of Stryd for Measuring Running Kinematics During an Incremental Treadmill Test.**  
-Journal of strength and conditioning research (2025) · PMID [40663734](https://pubmed.ncbi.nlm.nih.gov/40663734/) · DOI `10.1519/JSC.0000000000005207`
+Journal of strength and conditioning research (2025) · PMID [40663734](https://pubmed.ncbi.nlm.nih.gov/40663734/) · DOI `10.1519/JSC.0000000000005207`  
+作者：Pinedo-Jauregi A, Ozaeta-Beaskoetxea E · 证据类型：Journal Article/Validation Study
 
-**问题/相关决策**：如何把该证据变成训练里可改的变量（剂量、顺序、恢复、监控），而不是收藏论文。
+**一句话精华（可直接讲给学员）**  
+Stryd测跑步运动学在增量跑中有一定可靠/效度——用于技术趋势而非医学诊断。
 
-**设计与对象（摘要）**  
-- J Strength Cond Res 39(11): e1295-e1304, 2025-Inertial Measurement Unit devices have become indispensable tools for coaches and researchers.
-- In particular, the Stryd device has been used by coaches to improve athletes' running performance.
-- For this purpose, subjects performed an incremental test at speeds ranging from 8 to 17 km&#xb7;h -1 .
-- Reliability was tested using 2 Stryd devices placed on the same foot, while validity was assessed against the Optojump Next.
-- The results showed that the Stryd device is reliable for measuring power, cadence, ground contact time (GCT), and leg stiffness (coefficients of variation &lt; 3.34%; intraclass correlation coefficients &gt;0.81; SEM &lt;0.51; r &gt; 0.88), but not for vertical oscillation.
+**大众爱好者怎么用**
+- 看触地/垂直振幅趋势即可
+- 疼痛时仍看医生不是看豆
 
-**关键结果线索**：es 39, 3.34%, 2.18%
+**专项/专业运动员怎么用**
+- 实验室/跑台增量协议下解释指标
+- 野外效度另行验证
 
-**可落地用法**
-1. 功率/CP/CS用于相对强度与课间对比。
-2. 坡度、风速、疲劳时以RPE校准。
-3. 不把单次功率或预测配速当实验室阈值。
+**下次用什么验收**  
+同一跑台协议重测变异
 
-**外推边界**：摘要级证据；异质性/样本特征可能限制上班族与业余跑者；研究方案不能直接复制为个人处方。持续胸痛、严重呼吸困难、进食障碍风险等走医疗路径。
+**研究细节**  
+观察研究（摘要核验）：Stryd运动学可靠效度。
+
+**可改训练变量**
+- 每月同协议测一次运动学快照
+- 改变鞋/表面分开记录
+
+**禁止误用 / 边界**  
+研究剂量≠个人处方；摘要核验不能当成全文精读。持续胸痛、严重呼吸困难、进食障碍风险、不明晕厥等走医疗路径。设备分数≠医学诊断；药物/反兴奋剂/补剂须合规与医护协作。
 
 **阅读深度**：摘要核验 · 核验日 2026-10-10
 
+**题录摘要（≤2行，复核用）**  
+Pinedo-Jauregi, A and Ozaeta-Beaskoetxea, E. Reliability and validity of Stryd for measuring running kinematics during an incremental treadmill test. J Strength Cond Res 39(11): e1295-e1304, 2025-Inertial Measurement Uni…
 
-### stryd-cp-meaningful-2023
+### 43-is-stryd-critical-power-a-meaningful-parameter-f
 **Is Stryd critical power a meaningful parameter for runners?**  
-Biology of sport (2023) · PMID [37398957](https://pubmed.ncbi.nlm.nih.gov/37398957/) · DOI `10.5114/biolsport.2023.118025`
+Biology of sport (2023) · PMID [37398957](https://pubmed.ncbi.nlm.nih.gov/37398957/) · DOI `10.5114/biolsport.2023.118025`  
+作者：Dearing CG, Paton CD · 证据类型：Journal Article
 
-**问题/相关决策**：如何把该证据变成训练里可改的变量（剂量、顺序、恢复、监控），而不是收藏论文。
+**一句话精华（可直接讲给学员）**  
+Stryd临界功率是否“有生理意义”仍有争议——可当场强锚，不当金标准阈值。
 
-**设计与对象（摘要）**  
-- 20 runners performed their regular training while wearing Stryd for a minimum of 6 weeks to generate CPSTRYD.
-- Runners completed laboratory graded exercise testing, and outdoor 1500 m and 5000 m time trails.
-- CPSTRYD was most similar to the second ventilatory threshold (VT2) or the onset of blood lactate accumulation (OBLA) and is highly predictive of running performance.
+**大众爱好者怎么用**
+- 用CP做训练分区要配合体感/配速
+- 别只因为APP说CP就猛冲
 
-**关键结果线索**：or 1500
+**专项/专业运动员怎么用**
+- CP模型需含较长试次；与LT/MLSS/VT可能不一致
+- 定期重测，状态变就更新
 
-**可落地用法**
-1. 功率/CP/CS用于相对强度与课间对比。
-2. 坡度、风速、疲劳时以RPE校准。
-3. 不把单次功率或预测配速当实验室阈值。
+**下次用什么验收**  
+CP试次质量；分区是否可完成
 
-**外推边界**：摘要级证据；异质性/样本特征可能限制上班族与业余跑者；研究方案不能直接复制为个人处方。持续胸痛、严重呼吸困难、进食障碍风险等走医疗路径。
+**研究细节**  
+观察/方法学全文：讨论CP测定模型与其他阈值不一致来源。
 
-**阅读深度**：摘要核验 · 核验日 2026-10-10
+**可改训练变量**
+- 每6–8周或状态大变时重测CP
+- 分区用CP+RPE双确认
 
+**禁止误用 / 边界**  
+研究剂量≠个人处方；已读全文关键章节仍有外推边界。持续胸痛、严重呼吸困难、进食障碍风险、不明晕厥等走医疗路径。设备分数≠医学诊断；药物/反兴奋剂/补剂须合规与医护协作。
 
-### stryd-incline-metabolic-demand-2026
+**阅读深度**：全文关键章节核验 · 核验日 2026-10-10
+
+**题录摘要（≤2行，复核用）**  
+Stryd is a foot pod that reliably estimates running power. Our objectives were to examine the efficacy of the website-generated Stryd critical power (CPSTRYD) as a meaningful parameter for runners. 20 runners performed t…
+
+### 44-validity-of-stryd-running-power-for-estimating-m
 **Validity of Stryd Running Power for Estimating Metabolic Demand During Incline Treadmill Running.**  
-International journal of sports physiology and performance (2026) · PMID [41722548](https://pubmed.ncbi.nlm.nih.gov/41722548/) · DOI `10.1123/ijspp.2025-0382`
+International journal of sports physiology and performance (2026) · PMID [41722548](https://pubmed.ncbi.nlm.nih.gov/41722548/) · DOI `10.1123/ijspp.2025-0382`  
+作者：van Rassel CR, Gow S, Watanabe T, Jaén-Carrillo D et al. · 证据类型：Journal Article/Validation Study
 
-**问题/相关决策**：如何把该证据变成训练里可改的变量（剂量、顺序、恢复、监控），而不是收藏论文。
+**一句话精华（可直接讲给学员）**  
+坡度跑时Stryd功率估代谢需求有效性有边界——爬坡课别盲目信瓦数。
 
-**设计与对象（摘要）**  
-- Ten (4 females) trained runners (28 [8]&#xa0;y, 55.9 [9.1]&#xa0;mL/kg/min) performed a Step-Ramp-Step exercise test to estimate the running power at the respiratory compensation point.
-- On a separate visit, participants performed 5-minute running trials at 0%, 2%, 4%, 6%, and 8% inclines in a random order, with speed adjusted to elicit the running power 10% below respiratory compensation point.
-- Metabolic power and oxygen uptake at 6% (1063 [191]&#xa0;W, 3.02 [0.53]&#xa0;L/min) and 8% (1079 [219]&#xa0;W, 3.05 [0.62]&#xa0;L/min) were significantly higher (P &lt; .05 for all comparisons) than at 0% (1037 [191]&#xa0;W, 2.95 [0.53]&#xa0;L/min).
-- Consequently, mechanical efficiency was significantly lower at 6% (21.6% [1.4%]; P = .024) and 8% (21.3% [1.3%]; P = .006) compared with 0% (22.1% [1.3%]).
-- These variables were not different from 0% for the 2% and 4% running trials (P &gt; .05).
+**大众爱好者怎么用**
+- 爬坡看努力感与配速/心率组合
+- 功率只作参考
 
-**关键结果线索**：0%, 2%, 4%, 6%, 8%, 10%, 21.6%, 1.4%, 21.3%, 1.3%, 22.1%
+**专项/专业运动员怎么用**
+- 坡度校正与设备假设要进分析
+- 代谢金标准对照场景有限外推
 
-**可落地用法**
-1. 功率/CP/CS用于相对强度与课间对比。
-2. 坡度、风速、疲劳时以RPE校准。
-3. 不把单次功率或预测配速当实验室阈值。
+**下次用什么验收**  
+同坡重复课功率与RPE一致性
 
-**外推边界**：摘要级证据；异质性/样本特征可能限制上班族与业余跑者；研究方案不能直接复制为个人处方。持续胸痛、严重呼吸困难、进食障碍风险等走医疗路径。
+**研究细节**  
+观察研究（摘要核验）：倾斜跑中Stryd功率估代谢需求效度。
+
+**可改训练变量**
+- 爬坡质量课主锚RPE/HR
+- 功率仅趋势记录
+
+**禁止误用 / 边界**  
+研究剂量≠个人处方；摘要核验不能当成全文精读。持续胸痛、严重呼吸困难、进食障碍风险、不明晕厥等走医疗路径。设备分数≠医学诊断；药物/反兴奋剂/补剂须合规与医护协作。
 
 **阅读深度**：摘要核验 · 核验日 2026-10-10
 
+**题录摘要（≤2行，复核用）**  
+PURPOSE: Inertial measurement units, like the shoe-mounted Stryd running power meter, offer an alternative metric to guide endurance training. Despite its utility on level running surfaces, whether Stryd can accurately m…
 
-### predict-long-duration-run-power-2024
+### 45-a-comparison-of-critical-speed-and-critical-powe
+**A Comparison of Critical Speed and Critical Power in Runners Using Stryd Running Power.**  
+International journal of sports physiology and performance (2024) · PMID [37898480](https://pubmed.ncbi.nlm.nih.gov/37898480/) · DOI `10.1123/ijspp.2023-0260`  
+作者：van Rassel CR, Sales KM, Ajayi OO, Nagai K et al. · 证据类型：Journal Article
+
+**一句话精华（可直接讲给学员）**  
+临界速度与临界功率相关但不互换——选一个体系用到底。
+
+**大众爱好者怎么用**
+- 别一会儿CS一会儿CP来回换算硬套
+- 固定一种场强测试
+
+**专项/专业运动员怎么用**
+- 报告时写明CS或CP模型与试次
+- 用于比赛配速要场测验证
+
+**下次用什么验收**  
+所选指标预测短时配速是否准
+
+**研究细节**  
+观察研究（摘要核验）：CS vs CP（Stryd）。
+
+**可改训练变量**
+- 团队/个人选定CS或CP其一
+- 换设备后重测
+
+**禁止误用 / 边界**  
+研究剂量≠个人处方；摘要核验不能当成全文精读。持续胸痛、严重呼吸困难、进食障碍风险、不明晕厥等走医疗路径。设备分数≠医学诊断；药物/反兴奋剂/补剂须合规与医护协作。
+
+**阅读深度**：摘要核验 · 核验日 2026-10-10
+
+**题录摘要（≤2行，复核用）**  
+PURPOSE: Although running traditionally relies on critical speed (CS) as an indicator of critical intensity, portable inertial measurement units offer a potential solution for estimating running mechanical power to asses…
+
+### 46-can-we-predict-long-duration-running-power-outpu
 **Can We Predict Long-Duration Running Power Output? Validity of the Critical Power, Power Law, and Logarithmic Models.**  
-Journal of strength and conditioning research (2024) · PMID [37847189](https://pubmed.ncbi.nlm.nih.gov/37847189/) · DOI `10.1519/JSC.0000000000004609`
+Journal of strength and conditioning research (2024) · PMID [37847189](https://pubmed.ncbi.nlm.nih.gov/37847189/) · DOI `10.1519/JSC.0000000000004609`  
+作者：Ruiz-Alias SA, Ñancupil-Andrade AA, Pérez-Castilla A, García-Pinillos F · 证据类型：Journal Article
 
-**问题/相关决策**：如何把该证据变成训练里可改的变量（剂量、顺序、恢复、监控），而不是收藏论文。
+**一句话精华（可直接讲给学员）**  
+用临界功率模型预测长时跑步功率输出有误差带——超半马别死抠模型瓦数。
 
-**设计与对象（摘要）**  
-- Ruiz-Alias, SA, &#xd1;ancupil-Andrade, AA, P&#xe9;rez-Castilla, A, and Garc&#xed;a-Pinillos, F.
-- J Strength Cond Res 38(2): 306-310, 2024-Predicting long-distance running performance has always been a challenge for athletes and practitioners.
-- To ease this task, different empirical models have been proposed to model the drop of the running work rate with the increase of time.
-- Therefore, this study aims to determine the validity of different models (i.e., CP, power law, and Peronnet) to predict long-duration running power output (i.e., 30 and 60 minutes).
-- In a 4-week training period, 15 highly trained athletes performed 7-time trials (i.e., 3, 4, 5, 10, 20, 30, and 60 minutes) in a randomized order.
+**大众爱好者怎么用**
+- 长距离还是用配速储备+体感
+- 模型当参考
 
-**关键结果线索**：es 38, 2.6%, or 30, 4.4%, or 60, 8.1%, 1.6%, 6.6%
+**专项/专业运动员怎么用**
+- 长时预测效度单独验证
+- 疲劳与供能漂移要进解释
 
-**可落地用法**
-1. 功率/CP/CS用于相对强度与课间对比。
-2. 坡度、风速、疲劳时以RPE校准。
-3. 不把单次功率或预测配速当实验室阈值。
+**下次用什么验收**  
+长课实际可维持功率 vs 预测
 
-**外推边界**：摘要级证据；异质性/样本特征可能限制上班族与业余跑者；研究方案不能直接复制为个人处方。持续胸痛、严重呼吸困难、进食障碍风险等走医疗路径。
+**研究细节**  
+观察研究（摘要核验）：长时跑功率预测效度。
 
-**阅读深度**：摘要核验 · 核验日 2026-10-10
+**可改训练变量**
+- >60–90 min课不用CP当唯一上限
+- 记录实际可维持%CP
 
-
-### running-power-model-choice-2023
-**Can we predict long-duration running power output? A matter of selecting the appropriate predicting trials and empirical model.**  
-European journal of applied physiology (2023) · PMID [37272943](https://pubmed.ncbi.nlm.nih.gov/37272943/) · DOI `10.1007/s00421-023-05243-y`
-
-**问题/相关决策**：如何把该证据变成训练里可改的变量（剂量、顺序、恢复、监控），而不是收藏论文。
-
-**设计与对象（摘要）**  
-- 60&#xa0;min) when using two or three time trial configurations.
-- In a 5-week training period, fifteen highly trained athletes performed nine-time trials (i.e.
-- 1, 2, 3, 4, 5, 10, 20, 30, and 60&#xa0;min) in a randomized order.
-- Their power-duration curves were defined through the work-time (CPwork), power-1/time (CP1/time), two-parameter hyperbolic (CP2hyp), three-parameter hyperbolic (CP3hyp) CP models using different two- and three-time trial configurations.
-- The undisclosed proprietary CP models of the Stryd (CPstryd) and Golden Cheetah training software (CPcheetah)&#xa0;were also computed as well as the non-asymptotic Power law and Peronnet models.
-
-**关键结果线索**：95%
-
-**可落地用法**
-1. 功率/CP/CS用于相对强度与课间对比。
-2. 坡度、风速、疲劳时以RPE校准。
-3. 不把单次功率或预测配速当实验室阈值。
-
-**外推边界**：摘要级证据；异质性/样本特征可能限制上班族与业余跑者；研究方案不能直接复制为个人处方。持续胸痛、严重呼吸困难、进食障碍风险等走医疗路径。
+**禁止误用 / 边界**  
+研究剂量≠个人处方；摘要核验不能当成全文精读。持续胸痛、严重呼吸困难、进食障碍风险、不明晕厥等走医疗路径。设备分数≠医学诊断；药物/反兴奋剂/补剂须合规与医护协作。
 
 **阅读深度**：摘要核验 · 核验日 2026-10-10
 
+**题录摘要（≤2行，复核用）**  
+Ruiz-Alias, SA, Ñancupil-Andrade, AA, Pérez-Castilla, A, and García-Pinillos, F. Can we predict long-duration running power output? Validity of the critical power, power law, and logarithmic models. J Strength Cond Res 3…
 
-### remote-critical-speed-power-2023
+### 47-remote-determination-of-critical-speed-and-criti
 **Remote Determination of Critical Speed and Critical Power in Recreational Runners.**  
-International journal of sports physiology and performance (2023) · PMID [37888148](https://pubmed.ncbi.nlm.nih.gov/37888148/) · DOI `10.1123/ijspp.2023-0276`
+International journal of sports physiology and performance (2023) · PMID [37888148](https://pubmed.ncbi.nlm.nih.gov/37888148/) · DOI `10.1123/ijspp.2023-0276`  
+作者：Hunter B, Ledger A, Muniz-Pumares D · 证据类型：Journal Article
 
-**问题/相关决策**：如何把该证据变成训练里可改的变量（剂量、顺序、恢复、监控），而不是收藏论文。
+**一句话精华（可直接讲给学员）**  
+远程测定休闲跑者CS/CP可行——居家测试要标准化热身与路径。
 
-**设计与对象（摘要）**  
-- This study aimed to compare estimations of critical speed (CS) and work completed above CS (D'), and their analogies for running power (critical power [CP] and W'), derived from raw data obtained from habitual training (HAB) and intentional maximal efforts in the form of time trials (TTs) and 3-minute all-out tests (3M
-- The test-retest reliability of the 3MT was further analyzed.
-- Twenty-three recreational runners (4 female) used a foot pod to record speed, altitude, and power output for 8 consecutive weeks.
-- CS and D', and CP and W', were calculated from the best 3-, 7-, and 12-minute segments recorded in the first 6&#xa0;weeks of their HAB and in random order in weeks 7 and 8 from 3 TTs (3, 7, and 12&#xa0;min) and three 3MTs&#xa0;(to assess test-retest reliability).
-- There was no difference between estimations of CS or CP derived from HAB, TT, and 3MT (3.44 [0.63], 3.42 [0.53], and 3.76 [0.57]&#xa0;m &#xb7; s-1 and 281 [41], 290 [45], and 305 [54]&#xa0;W, respectively), and strong agreement between HAB and TT for CS (r = .669) and CP (r = .916).
+**大众爱好者怎么用**
+- 按指导完成场测，选平坦路线
+- 测坏了重测，不硬用
 
-**关键结果线索**：or 8, or 3
+**专项/专业运动员怎么用**
+- 远程协议写清风速/坡度/设备
+- 休闲样本外推精英谨慎
 
-**可落地用法**
-1. 功率/CP/CS用于相对强度与课间对比。
-2. 坡度、风速、疲劳时以RPE校准。
-3. 不把单次功率或预测配速当实验室阈值。
+**下次用什么验收**  
+两次远程测试一致性
 
-**外推边界**：摘要级证据；异质性/样本特征可能限制上班族与业余跑者；研究方案不能直接复制为个人处方。持续胸痛、严重呼吸困难、进食障碍风险等走医疗路径。
+**研究细节**  
+观察研究（摘要核验）：远程测CS/CP。
 
-**阅读深度**：摘要核验 · 核验日 2026-10-10
+**可改训练变量**
+- 固定测程与跑鞋
+- 异常结果48h内复测
 
-
-### hrv-monitor-adaptation-recovery-2026
-**Monitoring Training Adaptation and Recovery Status in Athletes Using Heart Rate Variability via Mobile Devices: A Narrative Review.**  
-Sensors (Basel, Switzerland) (2026) · PMID [41516438](https://pubmed.ncbi.nlm.nih.gov/41516438/) · DOI `10.3390/s26010003`
-
-**问题/相关决策**：如何把该证据变成训练里可改的变量（剂量、顺序、恢复、监控），而不是收藏论文。
-
-**设计与对象（摘要）**  
-- Among the various HRV metrics, the root mean square of successive differences (RMSSD) has emerged as a robust and practical measure due to its strong association with parasympathetic activity, ease of calculation, and reliability in both short- and ultra-short-term recordings.
-- While RMSSD offers significant advantages for field-based monitoring, we also address its limitations, including its sole focus on parasympathetic activity and susceptibility to external confounders.
-
-**关键结果线索**：见摘要效应量/样本量（未在摘要给出明确合并量则不编造）
-
-**可落地用法**
-1. 晨起静息HRV看趋势（多日），不看单日判决。
-2. 与睡眠、腿感、情绪问卷合用。
-3. 运动中光学HRV不作强度处方。
-
-**外推边界**：摘要级证据；异质性/样本特征可能限制上班族与业余跑者；研究方案不能直接复制为个人处方。持续胸痛、严重呼吸困难、进食障碍风险等走医疗路径。
+**禁止误用 / 边界**  
+研究剂量≠个人处方；摘要核验不能当成全文精读。持续胸痛、严重呼吸困难、进食障碍风险、不明晕厥等走医疗路径。设备分数≠医学诊断；药物/反兴奋剂/补剂须合规与医护协作。
 
 **阅读深度**：摘要核验 · 核验日 2026-10-10
 
+**题录摘要（≤2行，复核用）**  
+PURPOSE: This study aimed to compare estimations of critical speed (CS) and work completed above CS (D'), and their analogies for running power (critical power [CP] and W'), derived from raw data obtained from habitual t…
 
-### daily-hrv-self-reported-wellness-2025
+### 48-practices-and-applications-of-heart-rate-variabi
+**Practices and Applications of Heart Rate Variability Monitoring in Endurance Athletes.**  
+International journal of sports medicine (2023) · PMID [35853460](https://pubmed.ncbi.nlm.nih.gov/35853460/) · DOI `10.1055/a-1864-9726`  
+作者：Lundstrom CJ, Foreman NA, Biltz G · 证据类型：Review/Journal Article
+
+**一句话精华（可直接讲给学员）**  
+HRV能辅助耐力监控，但是噪声大——要标准化测量，结合表现与主观。
+
+**大众爱好者怎么用**
+- 早上起床后按同一姿势测HRV
+- 单日暴跌先看睡眠压力，别自动休息恐慌
+
+**专项/专业运动员怎么用**
+- 趋势>单日；结合RPE/表现
+- 传感器与软件链固定
+
+**下次用什么验收**  
+测量依从性；决策是否过度反应单日
+
+**研究细节**  
+叙述综述（摘要核验）：耐力运动员HRV实践与应用。
+
+**可改训练变量**
+- 晨测协议写死（时间/姿势/呼吸）
+- 3日趋势才改课
+
+**禁止误用 / 边界**  
+研究剂量≠个人处方；摘要核验不能当成全文精读。持续胸痛、严重呼吸困难、进食障碍风险、不明晕厥等走医疗路径。设备分数≠医学诊断；药物/反兴奋剂/补剂须合规与医护协作。
+
+**阅读深度**：摘要核验 · 核验日 2026-10-10
+
+**题录摘要（≤2行，复核用）**  
+Heart rate variability reflects fluctuations in the changes in consecutive heartbeats, providing insight into cardiac autonomic function and overall physiological state. Endurance athletes typically demonstrate better ca…
+
+### 49-associations-between-daily-heart-rate-variabilit
 **Associations Between Daily Heart Rate Variability and Self-Reported Wellness: A 14-Day Observational Study in Healthy Adults.**  
-Sensors (Basel, Switzerland) (2025) · PMID [40732543](https://pubmed.ncbi.nlm.nih.gov/40732543/) · DOI `10.3390/s25144415`
+Sensors (Basel, Switzerland) (2025) · PMID [40732543](https://pubmed.ncbi.nlm.nih.gov/40732543/) · DOI `10.1038/s41746-025-01757-1`  
+作者：Hannon J, O'Hagan A, Lambe R, O'Grady B et al. · 证据类型：Journal Article/Observational Study
 
-**问题/相关决策**：如何把该证据变成训练里可改的变量（剂量、顺序、恢复、监控），而不是收藏论文。
+**一句话精华（可直接讲给学员）**  
+每日HRV与主观状态相关但不稳定——不能单靠HRV替代表现反馈。
 
-**设计与对象（摘要）**  
-- This study examined whether daily short-term HRV, measured under standardised morning conditions, was associated with self-reported wellness in a non-clinical adult population.
-- Over a 14-day period, 41 participants completed daily five-minute HRV recordings using a Polar H10 chest sensor and the Kubios mobile app, followed by ratings of sleep quality, fatigue, stress, and physical recovery.
-- Bayesian ordinal mixed-effects models revealed that higher RMSSD values were associated with better self-reported sleep (&#x3b2; = 0.510, 95% HDI: 0.239 to 0.779), lower fatigue (&#x3b2; = 0.281, 95% HDI: 0.020 to 0.562), and reduced stress (&#x3b2; = 0.353, 95% HDI: 0.059 to 0.606), even after adjusting for covariates
-- No association was found between RMSSD and perceived muscle soreness.
-- These findings support the interpretability of RMSSD as a physiological marker of daily recovery and stress in real-world settings.
+**大众爱好者怎么用**
+- HRV差但人感觉良好：降一点强度观察
+- HRV好但腿很沉：听腿
 
-**关键结果线索**：41 participants, 95%
+**专项/专业运动员怎么用**
+- 14天真实世界队列：Polar H10+Kubios晨测
+- 与主观问卷联合，不单指标决策
 
-**可落地用法**
-1. 晨起静息HRV看趋势（多日），不看单日判决。
-2. 与睡眠、腿感、情绪问卷合用。
-3. 运动中光学HRV不作强度处方。
+**下次用什么验收**  
+HRV与主观问卷是否同向；课表调整是否合理
 
-**外推边界**：摘要级证据；异质性/样本特征可能限制上班族与业余跑者；研究方案不能直接复制为个人处方。持续胸痛、严重呼吸困难、进食障碍风险等走医疗路径。
+**研究细节**  
+14天前瞻队列全文：晨起胸带HRV与自我报告健康关联；真实非临床场景。
 
-**阅读深度**：摘要核验 · 核验日 2026-10-10
+**可改训练变量**
+- HRV+主观双轨日志
+- 冲突时优先主观+关键课表现
 
+**禁止误用 / 边界**  
+研究剂量≠个人处方；已读全文关键章节仍有外推边界。持续胸痛、严重呼吸困难、进食障碍风险、不明晕厥等走医疗路径。设备分数≠医学诊断；药物/反兴奋剂/补剂须合规与医护协作。
 
-### hr-and-subjective-fatigue-intensify-2024
+**阅读深度**：全文关键章节核验 · 核验日 2026-10-10
+
+**题录摘要（≤2行，复核用）**  
+Heart rate variability (HRV), particularly the root mean square of successive differences (RMSSD), is widely used as a non-invasive indicator of autonomic nervous system activity and physiological recovery. This study ex…
+
+### 50-monitoring-fatigue-state-with-heart-rate-based-a
 **Monitoring fatigue state with heart rate-based and subjective methods during intensified training in recreational runners.**  
-European journal of sport science (2024) · PMID [38956784](https://pubmed.ncbi.nlm.nih.gov/38956784/) · DOI `10.1002/ejsc.12115`
+European journal of sport science (2024) · PMID [38956784](https://pubmed.ncbi.nlm.nih.gov/38956784/) · DOI `10.1519/jsc.0000000000001458`  
+作者：Nuuttila OP, Uusitalo A, Kokkonen VP, Weerarathna N et al. · 证据类型：Journal Article
 
-**问题/相关决策**：如何把该证据变成训练里可改的变量（剂量、顺序、恢复、监控），而不是收藏论文。
+**一句话精华（可直接讲给学员）**  
+强化期可用夜心率/HRV与主观方法联合监控疲劳——单一指标会滞后或漏报。
 
-**设计与对象（摘要）**  
-- A total of 24 recreational runners performed a 3-week baseline period, a 2-week overload period, and a 1-week recovery period.
-- Performance was assessed before and after each period with a 3000m running test.
-- The participants were divided into subgroups (overreached/OR, n&#xa0;=&#xa0;8; responders/RESP, n&#xa0;=&#xa0;12) based on the changes in performance and subjective recovery.
-- RESP improved their baseline 3000&#xa0;m time (p&#xa0;&lt;&#xa0;0.001) after the overload period (-2.5&#xa0;&#xb1;&#xa0;1.0%), and the change differed (p&#xa0;&lt;&#xa0;0.001) from OR (0.6&#xa0;&#xb1;&#xa0;1.2%).
-- The changes in nocturnal HR (OR 3.2&#xa0;&#xb1;&#xa0;3.1%; RESP -2.8&#xa0;&#xb1;&#xa0;3.7%, p&#xa0;=&#xa0;0.002) and HR variability (OR -0.7&#xa0;&#xb1;&#xa0;1.8%; RESP 2.1&#xa0;&#xb1;&#xa0;1.6%, p&#xa0;=&#xa0;0.011) differed between the subgroups.
+**大众爱好者怎么用**
+- 强化周同时记感受与睡眠/晨脉
+- 连续异常再减量
 
-**关键结果线索**：1.0%, 1.2%, OR 3.2, 3.1%, 3.7%, OR -0.7, 1.8%, 1.6%, 85%
+**专项/专业运动员怎么用**
+- 夜心率、HRV、HR-功率指数等与主观结合
+- 变化可能不同步出现
 
-**可落地用法**
-1. 功率/CP/CS用于相对强度与课间对比。
-2. 坡度、风速、疲劳时以RPE校准。
-3. 不把单次功率或预测配速当实验室阈值。
+**下次用什么验收**  
+强化前后指标趋势；是否及时减量
 
-**外推边界**：摘要级证据；异质性/样本特征可能限制上班族与业余跑者；研究方案不能直接复制为个人处方。持续胸痛、严重呼吸困难、进食障碍风险等走医疗路径。
+**研究细节**  
+观察研究全文：强化训练期心率类与主观疲劳监控；部分指标相对基线显著变化。
 
-**阅读深度**：摘要核验 · 核验日 2026-10-10
+**可改训练变量**
+- 强化周启用夜HR/HRV+主观三联
+- 两指标同向恶化→减下一质量课
 
+**禁止误用 / 边界**  
+研究剂量≠个人处方；已读全文关键章节仍有外推边界。持续胸痛、严重呼吸困难、进食障碍风险、不明晕厥等走医疗路径。设备分数≠医学诊断；药物/反兴奋剂/补剂须合规与医护协作。
 
-### wrist-hr-energy-expenditure-valid-2023
-**Wrist-worn devices for the measurement of heart rate and energy expenditure: A validation study for the Apple Watch 6, Polar Vantage V and Fitbit Sense.**  
-European journal of sport science (2023) · PMID [34957939](https://pubmed.ncbi.nlm.nih.gov/34957939/) · DOI `10.1080/17461391.2021.2023656`
+**阅读深度**：全文关键章节核验 · 核验日 2026-10-10
 
-**问题/相关决策**：如何把该证据变成训练里可改的变量（剂量、顺序、恢复、监控），而不是收藏论文。
-
-**设计与对象（摘要）**  
-- The purpose of this study was to investigate the accuracy of 3 recently released wrist-worn devices (Apple Watch 6, Polar Vantage V and Fitbit Sense) for heart rate and energy expenditure during various activities.
-- The study population consisted of 60 young healthy individuals (30 men and 30 women; age: 24.9&#x2009;&#xb1;&#x2009;3.0 years, BMI: 23.1&#x2009;&#xb1;&#x2009;2.7 kg/m2).
-- Heart rate and energy expenditure were measured using the Polar H10 and Metamax&#x2009;3B, respectively (reference measures) as well as with the 3 wrist-worn devices during 5 different activities (sitting, walking, running, resistance exercises and cycling).
-- The Apple Watch 6 displayed the highest level of accuracy for heart rate measurement with a coefficient of variation (CV) (%) of less than 5% for all 5 activities, whereas the Polar Vantage V and the Fitbit Sense presented various degrees of accuracy (from high to poor accuracy) dependent on the activity (CVs between 2
-- As for energy expenditure, all 3 devices displayed poor accuracy for all 5 physical activities (CVs between 14.68-24.85% for Apple Watch 6, 16.54-25.78% for Polar Vantage V and 13.44-29.66% for Fitbit Sense).
-
-**关键结果线索**：5%, 8.80%, 10.76%, 24.85%, 25.78%, 29.66%
-
-**可落地用法**
-1. 间歇/HIIT用胸带；光学表误差随强度上升。
-2. 轻松跑可用光学作参考。
-3. 数据丢失/跳点时改RPE继续，不追表。
-
-**外推边界**：摘要级证据；异质性/样本特征可能限制上班族与业余跑者；研究方案不能直接复制为个人处方。持续胸痛、严重呼吸困难、进食障碍风险等走医疗路径。
-
-**阅读深度**：摘要核验 · 核验日 2026-10-10
+**题录摘要（≤2行，复核用）**  
+The purpose of this study was firstly to examine the sensitivity of heart rate (HR)-based and subjective monitoring markers to intensified endurance training; and secondly, to investigate the validity of these markers to…
 
