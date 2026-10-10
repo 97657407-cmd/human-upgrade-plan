@@ -50,7 +50,7 @@ COROS MCP 本身免费；AI 平台的 MCP/开发者模式常要付费套餐。�
 - 训练产出：[框架手册](skills/human-upgrade-plan/references/framework-handbook.md)（金样课表、伤后树、项目、力量菜单）。课表不从论文堆出来。
 - 项目框架：11 个项目（100m 至越野）的能力需求、课型选择与评估重点。
 - 恢复与工作：睡眠、精神疲劳、坐站工作、组间休息、力量与耐力组合。
-- 文献全库：[INDEX-all](skills/human-upgrade-plan/references/evidence/INDEX-all.md) — 约 150 条可检索入口（含热身至 IWR30、赛事天气/预测至 RP28）。主题包细目见 [INDEX-core50](skills/human-upgrade-plan/references/evidence/INDEX-core50-2023-2026.md)。
+- 文献全库：[INDEX-all](skills/human-upgrade-plan/references/evidence/INDEX-all.md) — 约 152 条可检索入口（热身至 IWR32，含肌温与热天热身）。主题包细目见 [INDEX-core50](skills/human-upgrade-plan/references/evidence/INDEX-core50-2023-2026.md)。
 - 赛日：[赛事预测与赛日策略](skills/human-upgrade-plan/references/race-day-strategy.md)（气温、身体、三档预测）。
 - 设备：COROS MCP 接入与读写边界；其他品牌走手动反馈。
 - 维护：公共文件白名单与隐私检查，个人数据不随包发布。

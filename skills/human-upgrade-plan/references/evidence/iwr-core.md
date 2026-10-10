@@ -387,6 +387,36 @@ Med Sci Sports Exerc. 2013;45(2):359-365. PMID [22935735](https://pubmed.ncbi.nl
 
 ---
 
+### IWR31 肌温：短时要热，核心过热就掉
+
+**Racinais S, Oksa J. Temperature and neuromuscular function.**  
+Scand J Med Sci Sports. 2010;20 Suppl 3:1-18. PMID [21029186](https://pubmed.ncbi.nlm.nih.gov/21029186/)  
+证据类型：叙述综述
+
+**一句话精华**  
+短时爆发：肌温大约每高 1°C，表现约 2–5%（快动作更明显）。核心过热（中暑方向）则神经驱动下降，表现变差。冷伤爆发，热伤长耐力。
+
+**大众** 冷天把腿热开再加速；热天不要用长热身把核心先烧热。  
+**专业短项目** 冷天完整升温+保暖；热天短距离仍要肌温，但少做长时间慢跑。  
+**阅读深度**：摘要口径。
+
+---
+
+### IWR32 热天 20 min 热身会伤耐力
+
+**Ückert S, Joch W. Effects of warm-up and precooling on endurance performance in the heat.**  
+Br J Sports Med. 2007;41(6):380-384. PMID [17224434](https://pubmed.ncbi.nlm.nih.gov/17224434/)  
+证据类型：交叉，n=20 男，热环境跑至力竭；20 min 热身 vs 冰背心预冷 vs 不准备
+
+**一句话精华**  
+热里做 20 min、约 70% 最大心率的热身，随后耐力比「几乎不热身」更差；预冷更好。热天长热身是在透支散热预算。
+
+**大众夏天路跑/跑步机** 热身砍到走+短慢跑；不买冰背心也能先缩短热身。  
+**专业耐力赛** 热天短热身+阴凉；预冷是可选赛策，减量周不新上冰水泡很久。  
+**阅读深度**：摘要口径。实验室递增跑 ≠ 城市马拉松，方向可外推。
+
+---
+
 ## 与旧文件
 
 | 主题 | 文件 |

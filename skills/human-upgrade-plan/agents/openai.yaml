@@ -1,6 +1,6 @@
 interface:
   display_name: "人类耐力变强计划"
-  short_description: "科学训练建议：排课前读上次高驰；每堂写热身；有比赛则按天气和身体给赛日策略"
-  default_prompt: "使用 $human-upgrade-plan。先问称呼并建档。有高驰则排课前读取上次运动和睡眠。每堂课写出热身。有比赛日期则备赛框架+赛日三档预测（看气温和身体），不要抄精英周跑量。文献只钉1–2张卡。"
+  short_description: "科学训练建议：问在哪练并更新气温湿度；每堂热身按大众/专业；用热身反馈调整；读上次高驰；赛日看天气"
+  default_prompt: "使用 $human-upgrade-plan。先问称呼、在哪训练（城市+室内外）。排课前读上次高驰，并用预报更新该地点气温湿度。每堂写出热身：大众短、专业完整，热天缩短冷天加长。课后问热身刚好/已喘/仍冷。有比赛则三档预测。文献只钉1–2张卡。"
 policy:
   allow_implicit_invocation: true
