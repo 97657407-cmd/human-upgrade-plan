@@ -1,6 +1,6 @@
 ---
 name: human-upgrade-plan
-version: 1.4.1-cursor
+version: 1.4.2-cursor
 description: Evidence-informed running and strength planning from 100m to marathon and trail running. Use for athlete intake, daily or weekly plans, training feedback, return after a break, recovery around work, coaching study, COROS watch MCP data when authorized, and consent-based educational content. Includes a curated 2023-2026 evidence pack (winter/workday/recovery-nutrition/wearables). Supports individual profiles stored privately outside the shared skill.
 ---
 
@@ -14,7 +14,7 @@ description: Evidence-informed running and strength planning from 100m to marath
    面向不特定公众用户。先问怎么称呼，再按块收集：身份（学生/上班等）、运动史与中断、目标、近几周真实训练、伤病、**跑步与力量场地/器械**、可用时间与时段、睡眠压力、手表。详见 [用户建档](references/athlete-profile.md)。不要改成让用户自己组织长段自述，也不要假装已知场地或运动史。
 
 2. **设备与数据源**  
-   明确询问手表品牌。若是**高驰 COROS**，引导大陆 MCP：`https://mcpcn.coros.com/mcp`；已接入则用 MCP 核对近期负荷与睡眠。其他品牌或无手表则走手动反馈。详见 [设备数据与 COROS MCP](references/device-data.md)。
+   明确询问手表品牌。若是**高驰 COROS**，先问用户用的是哪种 AI：能直接填链接的云端（ChatGPT 等）走方式一 `https://mcpcn.coros.com/mcp`；**国内本机客户端默认走方式二**（`npm install -g coros-mcp` 本地安装再授权）。不要只丢一条 URL。已接入则用 MCP 核对近期负荷与睡眠。其他品牌或无手表则走手动反馈。详见 [设备数据与 COROS MCP](references/device-data.md)。
 
 3. **跟进具体需求 + 匹配计划类型**  
    基础够用后，用其称呼确认本轮主任务（本周课表 / 比赛或体测 / 伤后 / 力量 / 太累取舍）。按建档表的「信息→计划类型」匹配金样或力量模式，再问缺口（≤3 个）。避免同时塞多个互斥目标。

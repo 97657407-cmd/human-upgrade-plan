@@ -38,7 +38,7 @@
 ## 设备与数据
 
 - 手表/设备品牌与型号（可选）：
-- COROS MCP 是否已授权（是/否/不适用）：大陆节点 `https://mcpcn.coros.com/mcp`
+- COROS MCP 是否已授权（是/否/不适用）：云端方式一 `https://mcpcn.coros.com/mcp` / 本机方式二 `coros-mcp`
 - 可选身体信息（仅填写与目标相关项）：
 - 数据保存与分享偏好：
 - 下一次评估问题：

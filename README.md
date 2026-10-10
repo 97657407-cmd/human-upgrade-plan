@@ -18,13 +18,27 @@
 
 给别人使用时只发仓库链接即可。对方可以克隆或下载本仓库，把 `skills/human-upgrade-plan` 放进其 AI 客户端支持的 skill 目录。之后公共包更新时，对方用 `git pull` 或重新下载覆盖即可；私人档案不会随公共包同步。
 
-### 高驰 COROS MCP（可选 · 默认中国大陆）
+### 高驰 COROS MCP（可选 · 大陆默认本地接入）
 
-1. 在 AI 客户端添加 MCP，URL：`https://mcpcn.coros.com/mcp`。
-2. 用 COROS 大陆账号 OAuth 授权。
-3. 对助手说：「已连接 COROS，请读取最近 14 天跑步与睡眠，再给我本周计划。」
+先看你用的是哪种 AI，不要所有人只贴一条网址。
 
-本仓库面向大陆体验，不默认提供欧/美节点。说明见 skill 内 [device-data.md](skills/human-upgrade-plan/references/device-data.md) 与 [COROS 官方文档](https://support.coros.com/hc/en-us/articles/50841795180948-Connect-Your-COROS-to-AI)。
+**方式一 · ChatGPT 等能直接填 MCP 链接的云端平台**
+
+1. 复制大陆节点：`https://mcpcn.coros.com/mcp`
+2. ChatGPT：头像 → 设置 → 应用 → 高级设置 → 打开开发人员模式 → 创建应用 → MCP 服务器粘贴链接，认证选 OAuth → 登录 COROS。
+3. 在对话里说：「请调用 COROS MCP，把过去两周的跑步和睡眠发给我。」
+
+**方式二 · 国内 / 本机 AI（Cursor、OpenClaw、WorkBuddy 等，默认这条）**
+
+多数国内客户端不能只填网址，要在自己电脑上装本地 MCP：
+
+```bash
+npm install -g coros-mcp
+```
+
+OpenClaw / WorkBuddy 可把上面这句直接发给 AI，按提示装 Skill 并授权 COROS。Cursor 等：本机先装 Node.js，终端执行同一命令，再到 MCP 设置里添加本地服务器 `coros-mcp`，按提示登录。会话过期则 `npm install -g coros-mcp@latest` 后重授权。
+
+COROS MCP 本身免费；AI 平台的 MCP/开发者模式常要付费套餐。完整点选步骤见 [device-data.md](skills/human-upgrade-plan/references/device-data.md) 与 [COROS 官方文档](https://support.coros.com/hc/en-us/articles/50841795180948-Connect-Your-COROS-to-AI)。不默认提供欧/美节点。
 
 ## 结构
 
