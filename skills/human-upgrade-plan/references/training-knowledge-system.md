@@ -6,7 +6,9 @@
 
 - **决策（先加载）**：[知识大脑](knowledge-brain.md) — 把全库压成优先级、项目皮层、冲突裁判；给建议时先判断再写课表。
 - **排课产出**：[框架手册](framework-handbook.md)（金样、伤后树、项目、力量菜单）。课表不从论文堆出来。
-- **长期备赛**：[race-prep-framework](race-prep-framework.md) + [race-prep-core](evidence/race-prep-core.md)（23 条：减量 Meta、精英周期化降级、波士顿习惯量、全马成绩分层 TID、短跑短到长、超野离心/CK、精英越野与反向周期个案禁止抄；一律按大众/进阶/体测/上班族/高水平参考分开写）。
+- **长期备赛**：[race-prep-framework](race-prep-framework.md) + [race-prep-core](evidence/race-prep-core.md)（23 条）。
+- **伤病负荷（非诊断）**：[injury-load-framework](injury-load-framework.md) + 回归树 + 力量第9节。证据 [iwr-core](evidence/iwr-core.md)（含跑伤伞状综述、骨应力 Delphi）。
+- **热身与练后**：[warmup-recovery-framework](warmup-recovery-framework.md)（RAMP 框架、动态热身、练后拉伸证据弱、冰浴时机、蛋白总量优先）。
 - **文献检索（全库）**：[evidence/INDEX-all](evidence/INDEX-all.md) — 专项 26 + 恢复 6 + 主题包 50 + 力量 10 + 备赛 23。按项目/中文关键词调用。
 - 项目与通用理论：[event-frameworks](event-frameworks.md)。
 - 恢复与工作场景：[recovery-working-athletes](recovery-working-athletes.md)。

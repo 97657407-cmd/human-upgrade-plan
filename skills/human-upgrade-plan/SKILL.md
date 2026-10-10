@@ -1,7 +1,7 @@
 ---
 name: human-upgrade-plan
-version: 1.9.1-cursor
-description: Evidence-informed running and strength planning from 100m to trail. Load the knowledge brain to decide, race-prep framework when a race date exists, weekly gold weeks to write the plan, and INDEX-all for 1-2 cards. Distinguishes recreational, advanced, student-testing, time-crunched, and elite-reference athletes. Do not copy elite weekly mileage onto beginners. Private profiles stay outside the shared skill.
+version: 1.10.1-cursor
+description: Evidence-informed running and strength planning from 100m to trail. Load the knowledge brain to decide; race-prep when a date exists; injury-load and warmup-recovery handbooks for pain and session hygiene; gold weeks for the week plan; INDEX-all for 1-2 cards. Distinguishes recreational, advanced, student-testing, and time-crunched athletes. Not medical diagnosis. Private profiles stay outside the shared skill.
 ---
 
 # 人类耐力变强计划
@@ -35,7 +35,8 @@ description: Evidence-informed running and strength planning from 100m to trail.
 | 新用户、目标评估 | [用户建档](references/athlete-profile.md)、[近期记录](references/recent-training.md)、[设备数据](references/device-data.md) |
 | 今日/明日/周计划 | **先读[知识大脑](references/knowledge-brain.md)**；有比赛日期加读[备赛框架](references/race-prep-framework.md)与[备赛证据包](references/evidence/race-prep-core.md)；再按[框架手册](references/framework-handbook.md)写本周；「为什么」从[INDEX-all](references/evidence/INDEX-all.md)钉 1–2 张卡 |
 | 完成反馈、疲劳、排班变动 | [近期记录](references/recent-training.md)、[决策协议](references/decision-protocol.md)、[工作与恢复](references/recovery-working-athletes.md)；COROS 用户加读[设备数据](references/device-data.md) |
-| 伤后回归、疼痛还能不能跑 | [金样课表与伤后回归](references/gold-weeks-and-return.md)；动作替换见[力量模式第9节](references/strength-training-modes.md) |
+| 伤后回归、疼痛还能不能跑 | [伤病负荷手册](references/injury-load-framework.md)、[回归树](references/gold-weeks-and-return.md)、[力量第9节](references/strength-training-modes.md)；证据[iwr-core](references/evidence/iwr-core.md) |
+| 热身、练后拉伸/冰浴/放松 | [热身与练后手册](references/warmup-recovery-framework.md)、[iwr-core](references/evidence/iwr-core.md)；睡眠饮食仍走恢复包 |
 | 手表/COROS/同步计划到日历 | [设备数据与 COROS MCP](references/device-data.md) |
 | 备赛、赛前减量、到比赛还有N周 | [备赛框架](references/race-prep-framework.md)、[备赛证据包](references/evidence/race-prep-core.md)；本周仍走金样 |
 | 论文学习、知识扩充 | 一律从[全库总索引 INDEX-all](references/evidence/INDEX-all.md)检索（含备赛包）；体系说明见[知识与证据](references/training-knowledge-system.md) |
