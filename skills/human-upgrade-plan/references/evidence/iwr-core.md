@@ -171,6 +171,74 @@ Br J Sports Med. 2023;57(7):427-432. DOI `10.1136/bjsports-2022-106328`
 
 ---
 
+### IWR16 热身总体对表现有利
+
+**Fradkin AJ, Zazryn TR, Smoliga JM. Effects of warming-up on physical performance: a systematic review with meta-analysis.**  
+J Strength Cond Res. 2010;24(1):140-148. PMID [19996770](https://pubmed.ncbi.nlm.nih.gov/19996770/)  
+证据类型：系统综述+Meta（32 项，质量评分偏高；RCT 仍少）
+
+**一句话精华**  
+有热身的表现指标约 79% 显示改善；很少证据说热身有害。未单独拆开「拉伸算不算热身」（该综述要求热身含拉伸以外的活动）。
+
+**所有项目** 主课前要有升温活动；轻松跑可以很短，速度课必须更完整。  
+**阅读深度**：摘要口径。老综述，与 IWR04 的拉伸细节一起用。
+
+---
+
+### IWR17 耐力不要靠 PAPE 热身
+
+**Boullosa D 等. No Evidence of Postactivation Performance Enhancement on Endurance Exercises.**  
+Med Sci Sports Exerc. 2024;56(2). PMID [37796168](https://pubmed.ncbi.nlm.nih.gov/37796168/)  
+证据类型：系统综述+Meta（35 项、57 组比较）。偏倚高，证据确定性很低。
+
+**一句话精华**  
+合并效应极小且被个别极端值撑起；**不支持用 PAPE（重蹲、跳等）去提高耐力表现**。亚组里「亚极有氧」看起来有效，多半是对照组根本没热身。
+
+**5K–马 / 越野** 热身用慢跑+跨步，不要赛前深蹲。  
+**短跑** PAPE 另说（力量课条件活动），也不抄给大众 5K。  
+**阅读深度**：摘要口径。
+
+---
+
+### IWR18 训练有素者 800：高强度 priming
+
+**Ingham SA, Fudge BW, Pringle JS, Jones AM. Improvement of 800-m Running Performance With Prior High-Intensity Exercise.**  
+Int J Sports Physiol Perform. 2013;8(1):77-83. PMID [22868404](https://pubmed.ncbi.nlm.nih.gov/22868404/) · DOI `10.1123/ijspp.8.1.77`  
+证据类型：交叉试验，n=11 高度训练中长跑者
+
+**一句话精华**  
+10 min 慢跑+活动后，用「2×50 m 跨步 + 1×200 m 比赛配速」比「6×50 m 跨步」平均快约 1.2 s；赛前乳酸更高。不是零基础体测方案。
+
+**大众 / 体测 800** 只用慢跑+跨步。  
+**进阶** 可在测验周试一次，热身与枪响之间留恢复，赛前不新试。  
+**1500 / 5K** 不自动外推。  
+**阅读深度**：摘要口径。
+
+---
+
+### IWR19 短跑：组间要够、课间约 48 h
+
+交叉 [race-prep RP10 Haugen 2019](race-prep-core.md)：PMID [31754845](https://pubmed.ncbi.nlm.nih.gov/31754845/)。实验室短冲短休 ≠ 短跑课。实践口径：最大冲刺组间接近完全恢复；最大速度课之间常留约 48 h。
+
+**大众 / 体测** 走回再下一趟；一周最多 1 次真正速度。  
+**进阶** 按课的目的选距离和休息，不把球类 RST Meta 当 100 m 处方。  
+**阅读深度**：见 RP10。
+
+---
+
+### IWR20 耐力运动员赛后恢复手段伞状综述
+
+**耐力训练/比赛后恢复策略 umbrella review.** Sports Med Open. 2024. DOI `10.1186/s40798-024-00724-6`  
+证据类型：伞状综述（纳入多篇 SR）
+
+**一句话精华**  
+亚极主动活动（热身/整理）对恢复常有正向叙述；按摩、冰、压缩等信号弱或不一。没有一种手段稳定取代时间和睡眠。
+
+**半马/全马/越野** 练后 5–10 min 轻松走即可；把预算给吃饭睡觉。  
+**阅读深度**：开放获取综述要点。与 IWR06–08 一致。
+
+---
+
 ## 与旧文件
 
 | 主题 | 文件 |
@@ -179,3 +247,5 @@ Br J Sports Med. 2023;57(7):427-432. DOI `10.1136/bjsports-2022-106328`
 | 膝/腱/背动作 | [strength-training-modes](../strength-training-modes.md) §9 |
 | 冰浴×肥大 | 冬季包 PMID 42667675 |
 | 下坡离心 | race-prep RP16 |
+| 短跑组间 | RP10 / IWR19 |
+| 800 priming | IWR18 |

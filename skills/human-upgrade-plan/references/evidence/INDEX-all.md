@@ -12,8 +12,8 @@
 | 近三年主题包 | **50 篇** | 冬季 12 + 工作日 13 + 恢复饮食睡眠 14 + 可穿戴 11 |
 | 力量专题 | **10 条** | ACSM 处方、同期、弹性、超组、防伤、伤变式（含交叉索引） |
 | 长期备赛 | **23 条** | 减量、精英周期化降级、波士顿习惯量、全马成绩分层 TID、短跑短到长、下坡与超野离心、精英越野/反向周期个案（禁止抄） |
-| 伤病负荷 / 热身 / 练后 | **15 条** | 防伤力量、负荷骤变、跑伤伞状综述、骨应力 Delphi、动态热身、练后拉伸、冰浴、蛋白时机；操作手册分开 |
-| **合计** | **130 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| 伤病负荷 / 热身 / 练后 | **20 条** | 含按项目热身：短跑组间、800 priming、耐力禁 PAPE、恢复伞状综述；操作手册分开 |
+| **合计** | **135 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -132,7 +132,7 @@
 | 热 高原 | heat-acclimation-2024 · altitude-2023 |
 | 手表 功率 Stryd HRV | wearable-models-2025 · wearables-devices-core |
 | 膝 跟腱 防伤 能不能跑 | [injury-load-framework](../injury-load-framework.md) · iwr-core · 回归树 |
-| 热身 静态拉伸 动态 | [warmup-recovery-framework](../warmup-recovery-framework.md) · IWR04/05 |
+| 热身 静态拉伸 动态 100米 800 马拉松 | [warmup-recovery-framework](../warmup-recovery-framework.md) 按项目节 · IWR04/16–19 |
 | 练后 拉伸 冰浴 按摩 | warmup-recovery-framework · IWR06–08 · 冬季冰浴悖论 |
 | 精神疲劳 RPE 脑子累 | mental-fatigue-rpe-2024 · workday 21–22 |
 
