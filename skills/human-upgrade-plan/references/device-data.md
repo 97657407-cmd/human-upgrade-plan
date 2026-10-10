@@ -25,16 +25,16 @@
 
 官方桥接说明：[Connect Your COROS to AI](https://support.coros.com/hc/en-us/articles/50841795180948-Connect-Your-COROS-to-AI) · [COROS MCP GitHub](https://github.com/coroslab/COROS-MCP)
 
-### 接入提示词（可直接发给用户）
+### 接入提示词（可直接发给用户 · 默认中国大陆）
+
+本 skill 面向大陆用户，**只走大陆节点**，不引导欧/美 MCP。
 
 1. 在你的 AI 客户端里添加 MCP / Connector。
-2. 服务器 URL 优先使用：`https://mcp.coros.com/mcp`
-3. 若平台不支持重定向或报 URL 无效，按账号地区改用：
-   - 中国大陆：`https://mcpcn.coros.com/mcp`
-   - 欧洲：`https://mcpeu.coros.com/mcp`
-   - 美国：`https://mcpus.coros.com/mcp`
-4. 用 COROS 账号完成 OAuth 授权。
-5. 授权后回复：「已连接 COROS，请读取最近 14 天跑步、睡眠和恢复，再给我本周计划。」
+2. 服务器 URL 填：`https://mcpcn.coros.com/mcp`
+3. 用 COROS 账号完成 OAuth 授权（大陆账号）。
+4. 授权后回复：「已连接 COROS，请读取最近 14 天跑步、睡眠和恢复，再给我本周计划。」
+
+若客户端报 URL 无效，可再试官方文档里的通用入口 `https://mcp.coros.com/mcp`；仍失败则改手动反馈，不要让用户折腾境外节点。
 
 部分平台可用 Skill 安装：`npm install -g coros-mcp`（以 COROS 文档与本地客户端支持为准）。MCP 本身免费；AI 平台会员/配额按其规则。
 

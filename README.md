@@ -8,7 +8,7 @@
 
 初次可说：
 
-> 使用人类变强计划，根据我的目标和最近训练帮我安排一周，先问必要信息，并问我用什么手表。
+> 使用人类变强计划。先问我怎么称呼，再了解我是学生还是上班、运动史、场地（能不能力量）、目标、伤病和手表，然后给我一周课表。
 
 训练建议应包含：可执行课表、为什么这么设计、科学原理、相关文献及外推边界。更新训练时提供实际完成内容、主观强度、症状、睡眠与可用时间；高驰用户可先接入 COROS MCP 再让助手读取近期数据。
 
@@ -18,13 +18,13 @@
 
 给别人使用时只发仓库链接即可。对方可以克隆或下载本仓库，把 `skills/human-upgrade-plan` 放进其 AI 客户端支持的 skill 目录。之后公共包更新时，对方用 `git pull` 或重新下载覆盖即可；私人档案不会随公共包同步。
 
-### 高驰 COROS MCP（可选）
+### 高驰 COROS MCP（可选 · 默认中国大陆）
 
-1. 在 AI 客户端添加 MCP，URL：`https://mcp.coros.com/mcp`（中国大陆账号若重定向失败可用 `https://mcpcn.coros.com/mcp`）。
-2. 用 COROS 账号 OAuth 授权。
+1. 在 AI 客户端添加 MCP，URL：`https://mcpcn.coros.com/mcp`。
+2. 用 COROS 大陆账号 OAuth 授权。
 3. 对助手说：「已连接 COROS，请读取最近 14 天跑步与睡眠，再给我本周计划。」
 
-说明见 skill 内 [device-data.md](skills/human-upgrade-plan/references/device-data.md) 与 [COROS 官方文档](https://support.coros.com/hc/en-us/articles/50841795180948-Connect-Your-COROS-to-AI)。
+本仓库面向大陆体验，不默认提供欧/美节点。说明见 skill 内 [device-data.md](skills/human-upgrade-plan/references/device-data.md) 与 [COROS 官方文档](https://support.coros.com/hc/en-us/articles/50841795180948-Connect-Your-COROS-to-AI)。
 
 ## 结构
 

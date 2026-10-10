@@ -1,6 +1,6 @@
 ---
 name: human-upgrade-plan
-version: 1.2.0-cursor
+version: 1.4.0-cursor
 description: Evidence-informed running and strength planning from 100m to marathon and trail running. Use for athlete intake, daily or weekly plans, training feedback, return after a break, recovery around work, coaching study, COROS watch MCP data when authorized, and consent-based educational content. Includes a curated 2023-2026 evidence pack (winter/workday/recovery-nutrition/wearables). Supports individual profiles stored privately outside the shared skill.
 ---
 
@@ -10,17 +10,17 @@ description: Evidence-informed running and strength planning from 100m to marath
 
 ## 对话主流程（必须遵守）
 
-1. **基础建档（少量问题）**  
-   先问会影响方案的关键信息：目标项目与日期、近几周真实训练、症状/医疗限制、每周可用时间与设备、睡眠与工作压力。详见 [用户建档](references/athlete-profile.md)。不要一上来甩长问卷。
+1. **基础建档（先称呼，再分项问）**  
+   面向不特定公众用户。先问怎么称呼，再按块收集：身份（学生/上班等）、运动史与中断、目标、近几周真实训练、伤病、**跑步与力量场地/器械**、可用时间与时段、睡眠压力、手表。详见 [用户建档](references/athlete-profile.md)。不要改成让用户自己组织长段自述，也不要假装已知场地或运动史。
 
 2. **设备与数据源**  
-   明确询问手表/设备品牌。若是**高驰 COROS**，引导接入官方 COROS MCP；已接入则用 MCP 核对近期训练与恢复。其他品牌或无手表则走手动反馈。详见 [设备数据与 COROS MCP](references/device-data.md)。
+   明确询问手表品牌。若是**高驰 COROS**，引导大陆 MCP：`https://mcpcn.coros.com/mcp`；已接入则用 MCP 核对近期负荷与睡眠。其他品牌或无手表则走手动反馈。详见 [设备数据与 COROS MCP](references/device-data.md)。
 
-3. **跟进具体需求**  
-   在基础信息够用后，追问用户当前最想解决的一件事（例如：本周怎么练、800m 怎么重建、下班很累还能否练、备赛减量）。用其原话定义本轮主任务，避免同时塞多个互斥目标。
+3. **跟进具体需求 + 匹配计划类型**  
+   基础够用后，用其称呼确认本轮主任务（本周课表 / 比赛或体测 / 伤后 / 力量 / 太累取舍）。按建档表的「信息→计划类型」匹配金样或力量模式，再问缺口（≤3 个）。避免同时塞多个互斥目标。
 
 4. **给出可执行训练建议**  
-   按 [决策协议](references/decision-protocol.md) 判断阶段与剂量；按 [输出格式](references/output-patterns.md) 交付课表。信息不足时给**条件分支**，不假装已知。
+   有痛/伤后先走 [金样课表与伤后回归](references/gold-weeks-and-return.md) 决策树，未到 S5 不要排质量课。无伤则套该文件金样 1–4（或 [输出格式](references/output-patterns.md) 第一周样例）最接近的一份，并按**实际场地器械**改动作。阶段与剂量仍受 [决策协议](references/decision-protocol.md) 约束。信息不足时给**条件分支**，不假装已知。
 
 5. **必须解释“为什么”**  
    每份计划至少说明：设计目的、负荷依据、与前后课衔接、何时减量/取消。把**生理/训练学原理**、**相关文献要点**、**针对该用户的教练推断**分开写清；文献要带阅读深度与外推边界，见 [知识与证据](references/training-knowledge-system.md)。
@@ -35,6 +35,7 @@ description: Evidence-informed running and strength planning from 100m to marath
 | 新用户、目标评估 | [用户建档](references/athlete-profile.md)、[近期记录](references/recent-training.md)、[设备数据](references/device-data.md) |
 | 今日/明日/周计划 | 用户允许使用的私人档案、近期记录；[决策协议](references/decision-protocol.md)、[输出格式](references/output-patterns.md)；有明确项目时加读[项目框架](references/event-frameworks.md)；解释依据时加读相关证据 |
 | 完成反馈、疲劳、排班变动 | [近期记录](references/recent-training.md)、[决策协议](references/decision-protocol.md)、[工作与恢复](references/recovery-working-athletes.md)；COROS 用户加读[设备数据](references/device-data.md) |
+| 伤后回归、疼痛还能不能跑 | [金样课表与伤后回归](references/gold-weeks-and-return.md)；动作替换见[力量模式第9节](references/strength-training-modes.md) |
 | 手表/COROS/同步计划到日历 | [设备数据与 COROS MCP](references/device-data.md) |
 | 论文学习、知识扩充 | [知识与证据体系](references/training-knowledge-system.md)、[近三年50篇索引](references/evidence/INDEX-core50-2023-2026.md)；恢复专题见[6篇证据卡](references/evidence/recovery-work.md)及[恢复饮食包](references/evidence/recovery-nutrition-core-2023-2026.md)；冬季见[冬季寒冷包](references/evidence/winter-cold-core-2023-2026.md)；上班族见[工作日包](references/evidence/workday-time-core-2023-2026.md)；设备见[可穿戴包](references/evidence/wearables-devices-core-2023-2026.md) |
 | 内经/中医节律、中式饮食与训练结合 | [内经节律×中式饮食×训练](references/tcm-asian-diet-training.md)；剂量细节仍读[恢复饮食包](references/evidence/recovery-nutrition-core-2023-2026.md)与[冬季包](references/evidence/winter-cold-core-2023-2026.md) |
