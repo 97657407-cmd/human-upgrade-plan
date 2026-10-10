@@ -12,8 +12,8 @@
 | 近三年主题包 | **50 篇** | 冬季 12 + 工作日 13 + 恢复饮食睡眠 14 + 可穿戴 11 |
 | 力量专题 | **10 条** | ACSM 处方、同期、弹性、超组、防伤、伤变式（含交叉索引） |
 | 长期备赛 | **23 条** | 减量、精英周期化降级、波士顿习惯量、全马成绩分层 TID、短跑短到长、下坡与超野离心、精英越野/反向周期个案（禁止抄） |
-| 伤病负荷 / 热身 / 练后 | **20 条** | 含按项目热身：短跑组间、800 priming、耐力禁 PAPE、恢复伞状综述；操作手册分开 |
-| **合计** | **135 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| 伤病负荷 / 热身 / 练后 | **23 条** | 含分项目：800 priming/热身容量、100 m PAP、越野下坡预适应、耐力禁 PAPE；操作手册按 100–越野写热身与恢复 |
+| **合计** | **138 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -40,6 +40,7 @@
 | 先力量还是先跑 | [concurrent-sequence-2025](concurrent-sequence-2025.md) |
 | 力量处方口径 | [strength 01 ACSM 2026](strength-modes-core-2023-2026.md) |
 | 上肢/核心怎么配 | [strength 09 上肢合成](strength-modes-core-2023-2026.md) |
+| 热身、组间休息、跳深 PAP | [warmup-recovery 项目速查](../warmup-recovery-framework.md) · IWR04/19/22 |
 
 手册骨架：框架手册「100–400」行。
 
@@ -54,6 +55,7 @@
 | 挪威双阈值 | [norwegian-double-threshold-2024](norwegian-double-threshold-2024.md) |
 | 中长跑该练哪种力量 | [midlong-strength-2024](midlong-strength-2024.md) · [strength 04 plyo vs RT 5K](strength-modes-core-2023-2026.md) |
 | 乳酸引导阈值课（冬季包） | [winter 09 36900796](winter-cold-core-2023-2026.md) |
+| 800 热身容量 / priming | [warmup-recovery 项目速查](../warmup-recovery-framework.md) · IWR18/21 |
 
 手册骨架：金样 2。
 
@@ -93,6 +95,7 @@
 | 越野肌损伤与心脏负荷 | 冬季包 11 PMID 41718076 |
 | 下坡/离心与力量变式 | [strength 10](strength-modes-core-2023-2026.md) · 力量菜单「越野」 · [RP16/RP19](race-prep-core.md) |
 | 精英越野四年怎么练（禁止抄小时） | [RP23](race-prep-core.md) |
+| 热身与下坡预适应 | [warmup-recovery 项目速查](../warmup-recovery-framework.md) · IWR23 · RP16 |
 
 手册骨架：长课按时间与爬升，下坡单排不满量。
 
@@ -132,7 +135,7 @@
 | 热 高原 | heat-acclimation-2024 · altitude-2023 |
 | 手表 功率 Stryd HRV | wearable-models-2025 · wearables-devices-core |
 | 膝 跟腱 防伤 能不能跑 | [injury-load-framework](../injury-load-framework.md) · iwr-core · 回归树 |
-| 热身 静态拉伸 动态 100米 800 马拉松 | [warmup-recovery-framework](../warmup-recovery-framework.md) 按项目节 · IWR04/16–19 |
+| 热身 静态拉伸 动态 100米 800 马拉松 | [warmup-recovery-framework](../warmup-recovery-framework.md) 项目速查 · IWR04/16–23 |
 | 练后 拉伸 冰浴 按摩 | warmup-recovery-framework · IWR06–08 · 冬季冰浴悖论 |
 | 精神疲劳 RPE 脑子累 | mental-fatigue-rpe-2024 · workday 21–22 |
 

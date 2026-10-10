@@ -1,6 +1,6 @@
 interface:
   display_name: "人类耐力变强计划"
-  short_description: "科学训练建议：先加载知识大脑做取舍，再按框架手册写课表，文献只钉1–2张卡"
+  short_description: "科学训练建议：知识大脑判断，框架手册写课表；伤病负荷/热身练后有手册；文献钉1–2张卡"
   default_prompt: "使用 $human-upgrade-plan。先问怎么称呼并分项建档。有比赛日期则按备赛框架（大众/进阶/体测降级）先给阶段地图再给本周，不要抄精英周跑量。无日期则知识大脑+框架手册写七天。文献只钉1–2张卡。"
 policy:
   allow_implicit_invocation: true

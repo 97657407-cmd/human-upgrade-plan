@@ -26,7 +26,7 @@
 | 3 | 按主项目改课型与力量菜单 | 下方「项目 → 手册」；[项目框架](event-frameworks.md)；[力量模式](strength-training-modes.md) |
 | 4 | 按输出格式交课表，再从总索引抽 1–2 张卡写「为什么」 | [输出格式](output-patterns.md)；[INDEX-all](evidence/INDEX-all.md) |
 
-剂量、取消条件、进阶仍受 [决策协议](decision-protocol.md) 约束。工作日恢复见 [recovery-working-athletes](recovery-working-athletes.md)。饭与作息见 [tcm-asian-diet-training](tcm-asian-diet-training.md)。
+剂量、取消条件、进阶仍受 [决策协议](decision-protocol.md) 约束。每堂写出热身与练后，套 [热身与练后手册](warmup-recovery-framework.md) **项目速查表**（100 与马、越野不是同一套）。有痛套 [伤病负荷手册](injury-load-framework.md)。工作日恢复见 [recovery-working-athletes](recovery-working-athletes.md)。饭与作息见 [tcm-asian-diet-training](tcm-asian-diet-training.md)。
 
 ---
 

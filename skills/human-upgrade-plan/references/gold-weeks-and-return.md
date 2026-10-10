@@ -130,4 +130,6 @@
 
 - 薄档案无伤：也可先用 [output-patterns 第一周样例](output-patterns.md)；有伤或刚伤愈：**只用本文决策树**，不要套金样 1/2/4 的 * 课。  
 - 决策总则：[decision-protocol](decision-protocol.md)  
-- 下班疲劳：[recovery-working-athletes](recovery-working-athletes.md)
+- 下班疲劳：[recovery-working-athletes](recovery-working-athletes.md)  
+- 部位负荷与转介（非诊断）：[injury-load-framework](injury-load-framework.md)  
+- 热身/练后：[warmup-recovery-framework](warmup-recovery-framework.md)

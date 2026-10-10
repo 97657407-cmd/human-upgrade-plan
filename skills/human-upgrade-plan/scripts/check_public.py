@@ -21,6 +21,7 @@ ALLOWED_RELATIVE = {
     "skills/human-upgrade-plan/references/event-frameworks.md",
     "skills/human-upgrade-plan/references/framework-handbook.md",
     "skills/human-upgrade-plan/references/gold-weeks-and-return.md",
+    "skills/human-upgrade-plan/references/injury-load-framework.md",
     "skills/human-upgrade-plan/references/knowledge-brain.md",
     "skills/human-upgrade-plan/references/output-patterns.md",
     "skills/human-upgrade-plan/references/race-prep-framework.md",
@@ -29,6 +30,7 @@ ALLOWED_RELATIVE = {
     "skills/human-upgrade-plan/references/strength-training-modes.md",
     "skills/human-upgrade-plan/references/tcm-asian-diet-training.md",
     "skills/human-upgrade-plan/references/training-knowledge-system.md",
+    "skills/human-upgrade-plan/references/warmup-recovery-framework.md",
     "skills/human-upgrade-plan/references/wiki-maintenance.md",
     "skills/human-upgrade-plan/scripts/check_public.py",
 }

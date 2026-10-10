@@ -1,6 +1,6 @@
 ---
 name: human-upgrade-plan
-version: 1.10.2-cursor
+version: 1.10.3-cursor
 description: Evidence-informed running and strength planning from 100m to trail. Load the knowledge brain to decide; race-prep when a date exists; injury-load and warmup-recovery handbooks for pain and session hygiene; gold weeks for the week plan; INDEX-all for 1-2 cards. Distinguishes recreational, advanced, student-testing, and time-crunched athletes. Not medical diagnosis. Private profiles stay outside the shared skill.
 ---
 

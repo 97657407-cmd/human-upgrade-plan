@@ -239,6 +239,51 @@ Int J Sports Physiol Perform. 2013;8(1):77-83. PMID [22868404](https://pubmed.nc
 
 ---
 
+### IWR21 精英 800：热身容量不是越少越好（小样本）
+
+**Keesling R, Kavazis AN, Wax B, Miller MW, Vickers B. A Comparison of Three Different Warm-Ups on 800-Meter Running Performance in Elite Division I Track Athletes – A Pilot Study.**  
+Int J Exerc Sci. 2021;14(6):1400-1407. PMID [35514742](https://pubmed.ncbi.nlm.nih.gov/35514742/)  
+证据类型：交叉试验，n=13 美国 D1 中跑，低/中/高容量热身
+
+**一句话精华**  
+该样本里高容量热身的 800 成绩优于中、低容量。这是**已适应高强度热身的校队选手**，不是体测学生方案。
+
+**大众 / 体测** 仍用 10 min 轻松+跨步；不要赛前突然加上 100+200+300 连续热身。  
+**进阶 / 校队** 热身要够专项（动态+跨步；有素者可加比赛配速段，见 IWR18），赛前不新增长热身体检项目。  
+**阅读深度**：摘要口径。pilot、单一学校。
+
+---
+
+### IWR22 100 m：有热身远好于没热身；加跳深并不更快
+
+**Gil MH, Neiva HP, Garrido ND, et al. The Effect of Ballistic Exercise as Pre-Activation for 100 m Sprints.**  
+Int J Environ Res Public Health. 2019;16(10):1850. DOI [10.3390/ijerph16101850](https://doi.org/10.3390/ijerph16101850)  
+证据类型：交叉，n=11 体科学生（非竞技短跑），无热身 vs 常规热身 vs 常规+2×5 次 70 cm 跳深
+
+**一句话精华**  
+第一枪 100 m：常规热身和加跳深都比完全不热身快约 7%。加跳深相对常规热身**成绩差不多**，后 50 m 步长略大。不是「跳深 = 更快 100 m」。
+
+**大众 / 体测** 热身到逐步加快的跨步即可，禁止 70 cm 跳深。  
+**进阶** 仅平时就做弹性的人可在训练课试；比赛日不新试。  
+**阅读深度**：开放获取全文要点。受试者不是短跑专项。
+
+---
+
+### IWR23 越野：短缓下坡预适应，不是赛晨热身
+
+**Maeo S, Yamamoto M, Kanehisa H, Nosaka K. Prevention of downhill walking-induced muscle damage by non-damaging downhill walking.**  
+PLoS One. 2017;12(3):e0173909. DOI [10.1371/journal.pone.0173909](https://doi.org/10.1371/journal.pone.0173909)  
+证据类型：分组实验，未训青年男 n=12/组；5 min 下坡走 vs 5 min 平路走，一周后 40 min 下坡（-28%）
+
+**一句话精华**  
+赛前几天到一周，用**短、缓、无症状**的下坡走/跑，能减轻之后更长下坡的酸痛和力量丢失。这不是比赛当天热身项目。
+
+**大众首野** 专项块里铺 5–10 min 缓下坡数次（已有 RP16）；赛晨只做平路升温。  
+**进阶** 同左，赛前 10 天不再加新的大下坡量。  
+**阅读深度**：摘要口径。楼梯下楼可作替代场地。未训者样本 ≠ 超马老手。
+
+---
+
 ## 与旧文件
 
 | 主题 | 文件 |
