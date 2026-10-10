@@ -37,6 +37,7 @@ description: Evidence-informed running and strength planning from 100m to marath
 | 完成反馈、疲劳、排班变动 | [近期记录](references/recent-training.md)、[决策协议](references/decision-protocol.md)、[工作与恢复](references/recovery-working-athletes.md)；COROS 用户加读[设备数据](references/device-data.md) |
 | 手表/COROS/同步计划到日历 | [设备数据与 COROS MCP](references/device-data.md) |
 | 论文学习、知识扩充 | [知识与证据体系](references/training-knowledge-system.md)、[近三年50篇索引](references/evidence/INDEX-core50-2023-2026.md)；恢复专题见[6篇证据卡](references/evidence/recovery-work.md)及[恢复饮食包](references/evidence/recovery-nutrition-core-2023-2026.md)；冬季见[冬季寒冷包](references/evidence/winter-cold-core-2023-2026.md)；上班族见[工作日包](references/evidence/workday-time-core-2023-2026.md)；设备见[可穿戴包](references/evidence/wearables-devices-core-2023-2026.md) |
+| 内经/中医节律、中式饮食与训练结合 | [内经节律×中式饮食×训练](references/tcm-asian-diet-training.md)；剂量细节仍读[恢复饮食包](references/evidence/recovery-nutrition-core-2023-2026.md)与[冬季包](references/evidence/winter-cold-core-2023-2026.md) |
 | 分享、同步、发布 | [维护与隐私](references/wiki-maintenance.md)；仅发布公共包 |
 
 ## 必须保留的判断
