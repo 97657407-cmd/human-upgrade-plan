@@ -6,8 +6,8 @@
 
 - **决策（先加载）**：[知识大脑](knowledge-brain.md) — 把全库压成优先级、项目皮层、冲突裁判；给建议时先判断再写课表。
 - **排课产出**：[框架手册](framework-handbook.md)（金样、伤后树、项目、力量菜单）。课表不从论文堆出来。
-- **长期备赛**：[race-prep-framework](race-prep-framework.md) + [race-prep-core](evidence/race-prep-core.md)（减量 Meta、马拉松 12 周计划描写、800/1500 与短跑世界级框架的降级用法、越野离心；按大众/进阶/体测/上班族分开写）。
-- **文献检索（全库）**：[evidence/INDEX-all](evidence/INDEX-all.md) — 专项蒸馏 26 张（100m→越野）+ 恢复 6 + 近三年主题包 50 + 力量专题 10，共 92 条可检索入口。按项目/中文关键词调用。
+- **长期备赛**：[race-prep-framework](race-prep-framework.md) + [race-prep-core](evidence/race-prep-core.md)（23 条：减量 Meta、精英周期化降级、波士顿习惯量、全马成绩分层 TID、短跑短到长、超野离心/CK、精英越野与反向周期个案禁止抄；一律按大众/进阶/体测/上班族/高水平参考分开写）。
+- **文献检索（全库）**：[evidence/INDEX-all](evidence/INDEX-all.md) — 专项 26 + 恢复 6 + 主题包 50 + 力量 10 + 备赛 23。按项目/中文关键词调用。
 - 项目与通用理论：[event-frameworks](event-frameworks.md)。
 - 恢复与工作场景：[recovery-working-athletes](recovery-working-athletes.md)。
 - 已核验证据卡：[evidence/recovery-work](evidence/recovery-work.md)，6篇，阅读深度逐项注明。

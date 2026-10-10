@@ -11,8 +11,8 @@
 | 恢复与工作专题 | **6 张卡** | 睡眠、超量、HIIT 休息、强度分布、久坐、同期 |
 | 近三年主题包 | **50 篇** | 冬季 12 + 工作日 13 + 恢复饮食睡眠 14 + 可穿戴 11 |
 | 力量专题 | **10 条** | ACSM 处方、同期、弹性、超组、防伤、伤变式（含交叉索引） |
-| 长期备赛 | **11 条** | 减量、12 周马拉松计划描写、TID 分型、短跑/800–1500 世界级框架降级、越野离心 |
-| **合计** | **103 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| 长期备赛 | **23 条** | 减量、精英周期化降级、波士顿习惯量、全马成绩分层 TID、短跑短到长、下坡与超野离心、精英越野/反向周期个案（禁止抄） |
+| **合计** | **115 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -79,8 +79,10 @@
 | 蛋白与恢复 | 营养包 28 |
 | 相对能量不足 / 饥饿跑者 | 营养包 26、33、34 |
 | 肌酸与耐力 | 营养包 38 |
+| 不同成绩水平怎么备马、周量/轻松区 | [race-prep RP22](race-prep-core.md) · [备赛框架·马拉松](../race-prep-framework.md) |
+| 公开 12 周计划长什么样 | [race-prep RP04](race-prep-core.md) |
 
-手册骨架：金样 4 拉长有氧，不把专项配速当日常。
+手册骨架：金样 4 拉长有氧，不把专项配速当日常。有比赛日期先备赛图。
 
 ### 越野
 
@@ -88,7 +90,8 @@
 |---|---|
 | 路跑强≠越野强 | [trail-specific-2025](trail-specific-2025.md) |
 | 越野肌损伤与心脏负荷 | 冬季包 11 PMID 41718076 |
-| 下坡/离心与力量变式 | [strength 10](strength-modes-core-2023-2026.md) · 力量菜单「越野」 |
+| 下坡/离心与力量变式 | [strength 10](strength-modes-core-2023-2026.md) · 力量菜单「越野」 · [RP16/RP19](race-prep-core.md) |
+| 精英越野四年怎么练（禁止抄小时） | [RP23](race-prep-core.md) |
 
 手册骨架：长课按时间与爬升，下坡单排不满量。
 
@@ -117,7 +120,7 @@
 | 4x4 VO2max 有氧功率 | vo2max-4x4-2024 · recovery-work R03 |
 | 极化 金字塔 TID | tid-polarized-2024 · tid-scoping-2025 · recovery-work R04 |
 | 5K 10K 半马 打底 | winter-base-5k-hm-2025 · longrun-dose-2024 · 金样 1/4 |
-| 马拉松 胶 碳板 90克糖 | marathon-fueling-shoes · carbon-shoes-* · carbs-90g · 营养包 |
+| 马拉松 胶 碳板 90克糖 | marathon-fueling-shoes · carbon-shoes-* · carbs-90g · 营养包 · race-prep RP04/RP22 |
 | 越野 爬升 下坡 | trail-specific-2025 · winter 11 |
 | 减量 taper 备赛 赛前还有几周 | [race-prep-framework](../race-prep-framework.md) · [race-prep-core](race-prep-core.md) |
 | 力量 增肌 干扰 先练哪 | concurrent-* · strength-modes-core · recovery-work R06 |
