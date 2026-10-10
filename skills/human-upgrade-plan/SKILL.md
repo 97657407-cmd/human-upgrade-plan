@@ -1,7 +1,7 @@
 ---
 name: human-upgrade-plan
-version: 1.4.2-cursor
-description: Evidence-informed running and strength planning from 100m to marathon and trail running. Use for athlete intake, daily or weekly plans, training feedback, return after a break, recovery around work, coaching study, COROS watch MCP data when authorized, and consent-based educational content. Includes a curated 2023-2026 evidence pack (winter/workday/recovery-nutrition/wearables). Supports individual profiles stored privately outside the shared skill.
+version: 1.5.0-cursor
+description: Evidence-informed running and strength planning from 100m to marathon and trail running. Use for athlete intake, weekly plans that follow the framework handbook, training feedback, return after a break, recovery around work, coaching study, COROS MCP when authorized, and consent-based educational content. Literature library: event-specific cards (100m–trail) plus 2023-2026 packs (winter/workday/nutrition/wearables/strength). Retrieve via INDEX-all; do not dump the library into the week plan. Supports private profiles outside the shared skill.
 ---
 
 # 人类耐力变强计划
@@ -19,11 +19,11 @@ description: Evidence-informed running and strength planning from 100m to marath
 3. **跟进具体需求 + 匹配计划类型**  
    基础够用后，用其称呼确认本轮主任务（本周课表 / 比赛或体测 / 伤后 / 力量 / 太累取舍）。按建档表的「信息→计划类型」匹配金样或力量模式，再问缺口（≤3 个）。避免同时塞多个互斥目标。
 
-4. **给出可执行训练建议**  
-   有痛/伤后先走 [金样课表与伤后回归](references/gold-weeks-and-return.md) 决策树，未到 S5 不要排质量课。无伤则套该文件金样 1–4（或 [输出格式](references/output-patterns.md) 第一周样例）最接近的一份，并按**实际场地器械**改动作。阶段与剂量仍受 [决策协议](references/decision-protocol.md) 约束。信息不足时给**条件分支**，不假装已知。
+4. **给出可执行训练建议（必须走框架手册）**  
+   周结构只按 [训练计划框架手册](references/framework-handbook.md) 四步产出：建档匹配 → 伤后树或金样 → 项目课型与力量菜单 → 输出格式。有痛未到 S5 不要排质量课。按**实际场地器械**改动作。不要把文献总索引展开成七天课表。阶段与剂量受 [决策协议](references/decision-protocol.md) 约束。信息不足时给**条件分支**。
 
-5. **必须解释“为什么”**  
-   每份计划至少说明：设计目的、负荷依据、与前后课衔接、何时减量/取消。把**生理/训练学原理**、**相关文献要点**、**针对该用户的教练推断**分开写清；文献要带阅读深度与外推边界，见 [知识与证据](references/training-knowledge-system.md)。
+5. **必须解释“为什么”（文献从总索引检索）**  
+   每份计划至少说明：设计目的、负荷依据、与前后课衔接、何时减量/取消。原理、文献、针对该用户的推断分开写。文献从 [全库总索引 INDEX-all](references/evidence/INDEX-all.md) 按项目/关键词检索，**一次最多挂 1–2 张卡**。深度与边界见 [知识与证据](references/training-knowledge-system.md)。用户要学论文时再按总索引多读。
 
 6. **反馈闭环**  
    告诉用户下次应回报什么；有 COROS MCP 时优先拉取实际完成，再对照计划调整。未反馈不记为已完成。
@@ -33,11 +33,11 @@ description: Evidence-informed running and strength planning from 100m to marath
 | 请求 | 按需读取 |
 |---|---|
 | 新用户、目标评估 | [用户建档](references/athlete-profile.md)、[近期记录](references/recent-training.md)、[设备数据](references/device-data.md) |
-| 今日/明日/周计划 | 用户允许使用的私人档案、近期记录；[决策协议](references/decision-protocol.md)、[输出格式](references/output-patterns.md)；有明确项目时加读[项目框架](references/event-frameworks.md)；解释依据时加读相关证据 |
+| 今日/明日/周计划 | 先读[框架手册](references/framework-handbook.md)；再读私人档案、[决策协议](references/decision-protocol.md)、[输出格式](references/output-patterns.md)、[项目框架](references/event-frameworks.md)；「为什么」从[INDEX-all](references/evidence/INDEX-all.md)抽 1–2 张卡 |
 | 完成反馈、疲劳、排班变动 | [近期记录](references/recent-training.md)、[决策协议](references/decision-protocol.md)、[工作与恢复](references/recovery-working-athletes.md)；COROS 用户加读[设备数据](references/device-data.md) |
 | 伤后回归、疼痛还能不能跑 | [金样课表与伤后回归](references/gold-weeks-and-return.md)；动作替换见[力量模式第9节](references/strength-training-modes.md) |
 | 手表/COROS/同步计划到日历 | [设备数据与 COROS MCP](references/device-data.md) |
-| 论文学习、知识扩充 | [知识与证据体系](references/training-knowledge-system.md)、[近三年50篇索引](references/evidence/INDEX-core50-2023-2026.md)；恢复专题见[6篇证据卡](references/evidence/recovery-work.md)及[恢复饮食包](references/evidence/recovery-nutrition-core-2023-2026.md)；冬季见[冬季寒冷包](references/evidence/winter-cold-core-2023-2026.md)；上班族见[工作日包](references/evidence/workday-time-core-2023-2026.md)；设备见[可穿戴包](references/evidence/wearables-devices-core-2023-2026.md) |
+| 论文学习、知识扩充 | 一律从[全库总索引 INDEX-all](references/evidence/INDEX-all.md)检索（专项26+恢复6+主题50+力量10）；细目再进对应包。体系说明见[知识与证据](references/training-knowledge-system.md) |
 | 内经/中医节律、中式饮食与训练结合 | [内经节律×中式饮食×训练](references/tcm-asian-diet-training.md)；剂量细节仍读[恢复饮食包](references/evidence/recovery-nutrition-core-2023-2026.md)与[冬季包](references/evidence/winter-cold-core-2023-2026.md) |
 | 力量/增肌/田径力量配比、动作选择 | [力量模式与动作库](references/strength-training-modes.md)（第8节增肌3/4日模板，第9节膝/跟腱/下背变式）、[力量证据包](references/evidence/strength-modes-core-2023-2026.md)；同期干扰见[concurrent-interference-2024](references/evidence/concurrent-interference-2024.md) |
 | 分享、同步、发布 | [维护与隐私](references/wiki-maintenance.md)；仅发布公共包 |

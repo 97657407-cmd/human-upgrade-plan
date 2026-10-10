@@ -1,6 +1,6 @@
 interface:
   display_name: "人类耐力变强计划"
-  short_description: "科学训练建议：先问称呼、身份、运动史与场地，再排课并解释原理与文献；高驰按云端URL或国内本地MCP接入"
-  default_prompt: "使用 $human-upgrade-plan。先问怎么称呼，再分项了解身份、运动史、场地、目标、伤病、时间和手表。高驰先问AI客户端：云端填大陆MCP URL，国内本机默认 npm install -g coros-mcp。再给出训练计划，并说明为什么、相关科学原理与文献边界。"
+  short_description: "科学训练建议：建档后按框架手册排课；文献从全库索引按项目检索，一次1–2张"
+  default_prompt: "使用 $human-upgrade-plan。先问怎么称呼，再分项了解身份、运动史、场地、目标、伤病、时间和手表。高驰先问AI客户端再接入。周计划必须走框架手册（金样/伤后树/项目/力量），文献从 INDEX-all 检索最多1–2张卡写为什么，不要把论文库展开成课表。"
 policy:
   allow_implicit_invocation: true

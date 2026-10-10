@@ -4,6 +4,8 @@
 
 ## 内容入口
 
+- **排课产出**：[框架手册](framework-handbook.md)（金样、伤后树、项目、力量菜单）。课表不从论文堆出来。
+- **文献检索（全库）**：[evidence/INDEX-all](evidence/INDEX-all.md) — 专项蒸馏 26 张（100m→越野）+ 恢复 6 + 近三年主题包 50 + 力量专题 10，共 92 条可检索入口。按项目/中文关键词调用。
 - 项目与通用理论：[event-frameworks](event-frameworks.md)。
 - 恢复与工作场景：[recovery-working-athletes](recovery-working-athletes.md)。
 - 已核验证据卡：[evidence/recovery-work](evidence/recovery-work.md)，6篇，阅读深度逐项注明。
@@ -19,7 +21,7 @@
 - **力量模式 × 田径专项 × 增肌爱好者**：[strength-training-modes](strength-training-modes.md)（含增肌3/4日模板与膝/跟腱/下背变式）、[strength-modes-core-2023-2026](evidence/strength-modes-core-2023-2026.md)  
   - 先选模式（专项/维持/均衡同期/增肌优先/力量爆发），再选动作与跑：力配比。  
   - 增肌与跑成绩不可默认双满分；干扰与排序见同期证据。
-- 向用户解释计划时：先选与课型真正相关的 1–2 张本地卡；没有相关卡再检索，并标明阅读深度。默认只引用摘要已核验内容，不把厂商手表分数当全文证据。
+- 向用户解释计划时：用 INDEX-all 选与课型真正相关的 **1–2 张**本地卡；没有相关卡再检索，并标明阅读深度。专项卡多为综述线，主题包卡带 PMID。默认不把厂商手表分数当全文证据。
 
 ## 给用户讲解时的默认顺序
 
