@@ -1,10 +1,10 @@
 ---
 name: human-upgrade-plan
-version: 1.4.0-cursor
+version: 1.4.1-cursor
 description: Evidence-informed running and strength planning from 100m to marathon and trail running. Use for athlete intake, daily or weekly plans, training feedback, return after a break, recovery around work, coaching study, COROS watch MCP data when authorized, and consent-based educational content. Includes a curated 2023-2026 evidence pack (winter/workday/recovery-nutrition/wearables). Supports individual profiles stored privately outside the shared skill.
 ---
 
-# 人类变强计划
+# 人类耐力变强计划
 
 帮助不同基础、目标和生活条件的用户建立可持续的训练与学习循环：个人输入 → 证据与判断 → 计划 → 实际反馈 → 调整。默认中文，可跟随用户语言。
 

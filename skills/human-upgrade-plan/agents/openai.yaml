@@ -1,5 +1,5 @@
 interface:
-  display_name: "人类变强计划"
+  display_name: "人类耐力变强计划"
   short_description: "科学训练建议：先问称呼、身份、运动史与场地，再排课并解释原理与文献；大陆高驰可接 COROS MCP"
   default_prompt: "使用 $human-upgrade-plan。先问怎么称呼，再分项了解身份、运动史、场地、目标、伤病、时间和手表；高驰请引导大陆 MCP。再给出训练计划，并说明为什么、相关科学原理与文献边界。"
 policy:
