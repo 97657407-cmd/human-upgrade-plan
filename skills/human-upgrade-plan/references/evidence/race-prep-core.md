@@ -477,6 +477,65 @@ Int J Morphol. 2024;42(2):416-423. DOI `10.4067/S0717-95022024000200416`
 
 ---
 
+### RP24 天气越热，马拉松越慢（慢者掉得更多）
+
+**Ely MR, Cheuvront SN, Williams CA, Montain SJ. Impact of weather on marathon-running performance.**  
+Med Sci Sports Exerc. 2007;39(3):487-493. PMID [17473775](https://pubmed.ncbi.nlm.nih.gov/17473775/)  
+证据类型：多场马拉松多年成绩 × WBGT
+
+**一句话精华**  
+WBGT 从约 5°C 升到 25°C，成绩逐步变慢；前三名也慢，但第 25–300 名掉得更明显。
+
+**大众完赛** 15°C 以上就改保守配速；>20°C 取消激进档。  
+**进阶** 用三档预测，热天只跑中位以下。  
+**阅读深度**：摘要口径。用户常只有气温，按赛日策略表降档，不假装测了 WBGT。
+
+---
+
+### RP25 用短距离公式推全马会偏快
+
+**Vickers AJ, Vertosick EA. An empirical study of race times in recreational endurance runners.**  
+BMC Sports Sci Med Rehabil. 2016;8:8. DOI [10.1186/s13102-016-0052-y](https://doi.org/10.1186/s13102-016-0052-y)  
+证据类型：休闲跑者问卷 n≈2303；Riegel 校准 + 自建模型
+
+**一句话精华**  
+Riegel 推到半马大致能用；推全马系统性偏快（一半人至少快估 10 min）。加入习惯周跑量后误差较小。手表预测不能替代这条。
+
+**大众** 全马目标按保守档，不要把半马 ×2 当目标。  
+**进阶** 可用近成绩+周量给区间，仍写三档。  
+**阅读深度**：开放获取要点。自报训练，不是 RCT。
+
+---
+
+### RP26 耐力比赛：匀速，不要前半赚时间
+
+**Abbiss CR, Laursen PB. Describing and understanding pacing strategies during athletic competition.**  
+Sports Med. 2008;38(3):239-252. PMID [18201114](https://pubmed.ncbi.nlm.nih.gov/18201114/)  
+证据类型：叙述综述（配速类型与生理代价）
+
+**一句话精华**  
+长距离常见合理骨架是相对匀速或略微负分割；一出去就远快于可持续配速，后半会崩。
+
+**5K–马 / 越野** 前段 ≤ 中位目标。  
+**短跑** 不是匀速课，不要套这条。  
+**阅读深度**：摘要口径。
+
+---
+
+### RP27 热环境比赛：降配速、降温、热习服事先做
+
+**Racinais S 等. Consensus recommendations on training and competing in the heat.**  
+Br J Sports Med. 2015;49(18):1164-1173. PMID [26069301](https://pubmed.ncbi.nlm.nih.gov/26069301/)  
+证据类型：共识声明
+
+**一句话精华**  
+热天要接受更慢、补液与降温、赛前完成热习服；中暑是急症。减量周不新上极端热刺激。
+
+**所有耐力** 与 RP24、热习服卡一起用。  
+**阅读深度**：摘要口径。不是个人医疗方案。
+
+---
+
 ## 与旧卡关系
 
 | 主题 | 旧卡 | 备赛时怎么用 |

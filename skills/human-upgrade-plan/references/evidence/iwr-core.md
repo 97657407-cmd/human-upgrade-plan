@@ -284,6 +284,65 @@ PLoS One. 2017;12(3):e0173909. DOI [10.1371/journal.pone.0173909](https://doi.or
 
 ---
 
+### IWR24 热身机制：主动升温 + 等枪时保温度
+
+**McGowan CJ, Pyne DB, Thompson KG, Rattray B. Warm-Up Strategies for Sport and Exercise: Mechanisms and Applications.**  
+Sports Med. 2015;45(11):1523-1546. PMID [26400696](https://pubmed.ncbi.nlm.nih.gov/26400696/)  
+证据类型：叙述综述（机制 + 分项应用）
+
+**一句话精华**  
+热身靠温度、代谢、神经和心理几条通路。主动热身会耗底物；等枪阶段用衣服/被动保暖，避免温度掉光。项目不同，热身该不同。
+
+**所有课表** 必须写热身，且热完到主课/枪响之间要保暖或再活动。  
+**大众** 不搞实验室被动加热设备。  
+**阅读深度**：摘要口径。
+
+---
+
+### IWR25 热身过长会练疲（少即是多）
+
+**Tomaras EK, MacIntosh BR. Less is more: standard warm-up causes fatigue and less warm-up permits greater cycling power output.**  
+J Appl Physiol. 2011;110(6):228-235. PMID [21551012](https://pubmed.ncbi.nlm.nih.gov/21551012/)  
+证据类型：交叉试验，场地自行车传统 ≥50 min 热身 vs ~15 min 较短热身 + 一次冲刺
+
+**一句话精华**  
+传统超长、偏狠的热身会让肌肉疲劳、30 s 功率更差；较短、较低强度的热身功率更好。
+
+**大众 / 路跑** 热身服务主课，禁止赛前 40–50 min 当第二堂训练。  
+**进阶短项目** 最后只需少量接近速度，不要把热身跑成专项课。  
+**阅读深度**：摘要口径。样本是场地自行车，外推到跑是机制不是剂量复制。
+
+---
+
+### IWR26 等太久要再热：肌温掉了速度就掉
+
+**Mohr M, Krustrup P, Nybo L, Nielsen JJ, Bangsbo J. Muscle temperature and sprint performance during soccer matches—beneficial effect of re-warm-up at half-time.**  
+Scand J Med Sci Sports. 2004;14(3):156-162. PMID [15144355](https://pubmed.ncbi.nlm.nih.gov/15144355/)  
+证据类型：比赛现场，半场被动态 vs 低强度再热身
+
+**一句话精华**  
+中场被动休息肌温明显下降，下半场一开始冲刺变慢约 2.4%；低强度再活动能保住肌温和冲刺。
+
+**短跑/800/5K 比赛** 热完若检录空等，出发前再走+1–2 趟跨步。  
+**大众** 冷天加衣服；不要赛前坐着玩手机等到腿凉。  
+**阅读深度**：摘要口径。足球中场 ≠ 马拉松，但「温度掉了要再热」可外推。
+
+---
+
+### IWR27 主动整理不是恢复处方
+
+**Van Hooren B, Peake JM. Do We Need a Cool-Down After Exercise? A Narrative Review.**  
+Sports Med. 2018;48(7):1575-1595. PMID [29663142](https://pubmed.ncbi.nlm.nih.gov/29663142/)  
+证据类型：叙述综述
+
+**一句话精华**  
+主动整理对次日表现、防伤、多数恢复指标帮助很小；乳酸掉得快不等于肌肉好了。可走 5 min，不要吹成必须课。
+
+**所有类型** 练后优先级仍是吃饭和睡眠（见手册）。想走就走。  
+**阅读深度**：摘要口径。与 IWR06 拉伸结论同方向。
+
+---
+
 ## 与旧文件
 
 | 主题 | 文件 |

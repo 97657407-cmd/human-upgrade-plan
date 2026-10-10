@@ -24,6 +24,7 @@ ALLOWED_RELATIVE = {
     "skills/human-upgrade-plan/references/injury-load-framework.md",
     "skills/human-upgrade-plan/references/knowledge-brain.md",
     "skills/human-upgrade-plan/references/output-patterns.md",
+    "skills/human-upgrade-plan/references/race-day-strategy.md",
     "skills/human-upgrade-plan/references/race-prep-framework.md",
     "skills/human-upgrade-plan/references/recent-training.md",
     "skills/human-upgrade-plan/references/recovery-working-athletes.md",

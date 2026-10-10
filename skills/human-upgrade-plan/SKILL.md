@@ -1,7 +1,7 @@
 ---
 name: human-upgrade-plan
-version: 1.10.3-cursor
-description: Evidence-informed running and strength planning from 100m to trail. Load the knowledge brain to decide; race-prep when a date exists; injury-load and warmup-recovery handbooks for pain and session hygiene; gold weeks for the week plan; INDEX-all for 1-2 cards. Distinguishes recreational, advanced, student-testing, and time-crunched athletes. Not medical diagnosis. Private profiles stay outside the shared skill.
+version: 1.10.4-cursor
+description: Evidence-informed running and strength planning from 100m to trail. Load the knowledge brain; every session includes event-specific warmup. Read last COROS workout before daily plans. Race-prep plus race-day pacing from weather and readiness. Injury-load handbook; gold weeks; INDEX-all 1-2 cards. Not medical diagnosis. Private profiles stay outside the shared skill.
 ---
 
 # 人类耐力变强计划
@@ -13,14 +13,16 @@ description: Evidence-informed running and strength planning from 100m to trail.
 1. **基础建档（先称呼，再分项问）**  
    面向不特定公众用户。先问怎么称呼，再按块收集：身份（学生/上班等）、运动史与中断、目标、近几周真实训练、伤病、**跑步与力量场地/器械**、可用时间与时段、睡眠压力、手表。详见 [用户建档](references/athlete-profile.md)。不要改成让用户自己组织长段自述，也不要假装已知场地或运动史。
 
-2. **设备与数据源**  
-   明确询问手表品牌。若是**高驰 COROS**，先问用户用的是哪种 AI：能直接填链接的云端（ChatGPT 等）走方式一 `https://mcpcn.coros.com/mcp`；**国内本机客户端默认走方式二**（`npm install -g coros-mcp` 本地安装再授权）。不要只丢一条 URL。已接入则用 MCP 核对近期负荷与睡眠。其他品牌或无手表则走手动反馈。详见 [设备数据与 COROS MCP](references/device-data.md)。
+2. **设备与数据源（排今日/本周课之前必须读上次训练）**  
+   明确询问手表品牌。若是**高驰 COROS**，先问用户用的是哪种 AI：能直接填链接的云端（ChatGPT 等）走方式一 `https://mcpcn.coros.com/mcp`；**国内本机客户端默认走方式二**（`npm install -g coros-mcp` 本地安装再授权）。不要只丢一条 URL。  
+   **已接入则在给出任何一堂课之前**拉取：最近一次运动记录（类型、时长、配速/心率、是否完成）+ 睡眠/恢复。用它决定今天是按计划、降档还是休息。禁止不读上次课就排间歇。其他品牌或无手表则要用户口述上次课。详见 [设备数据与 COROS MCP](references/device-data.md)。
 
 3. **跟进具体需求 + 用知识大脑判断**  
    基础够用后，用其称呼确认本轮主任务。**必须先读 [知识大脑](references/knowledge-brain.md)**：按优先级和冲突裁判做取舍（主目标只有一个、本周一个主刺激、睡眠/伤病优先），再匹配金样或力量模式。缺口 ≤3 个。不要跳过大脑直接堆课。
 
-4. **给出可执行训练建议（必须走框架手册；有比赛日期则先备赛图）**  
-   用户报了比赛/体测日期：先读 [长期备赛框架](references/race-prep-framework.md)，按运动员类型（大众完赛/进阶/体测/上班族/伤后）倒推阶段，再给本周七天。无比赛日期则直接 [当周框架手册](references/framework-handbook.md)。有痛未到 S5 不要排质量课。按**实际场地器械**改动作。不要一次输出整季逐日表，也不要把文献库展开成课表。剂量受 [决策协议](references/decision-protocol.md) 约束。信息不足时给**条件分支**。
+4. **给出可执行训练建议（每堂必须带热身；有比赛则预测+赛日策略）**  
+   用户报了比赛/体测日期：先读 [长期备赛框架](references/race-prep-framework.md)，按运动员类型倒推阶段，再给本周七天。赛前 14 天内或用户问成绩/怎么跑：再读 [赛事预测与赛日策略](references/race-day-strategy.md)，用比赛信息、气温天气、身体与上次课给出三档预测和分段策略。无比赛日期则直接 [当周框架手册](references/framework-handbook.md)。  
+   **每一堂都写出热身**（抄 [热身与练后手册](references/warmup-recovery-framework.md) 项目速查，按当天气温加减衣/再热）。有痛未到 S5 不要排质量课。按**实际场地器械**改动作。不要一次输出整季逐日表。剂量受 [决策协议](references/decision-protocol.md) 约束。信息不足时给**条件分支**。
 
 5. **必须解释“为什么”（大脑定原理，索引钉 1–2 张卡）**  
    设计目的、负荷依据、前后衔接、取消条件写清。原理用知识大脑的皮层，文献从 [INDEX-all](references/evidence/INDEX-all.md) 钉 **1–2 张**最相关卡，推断单独标。见 [知识与证据](references/training-knowledge-system.md)。用户要学论文时再按总索引多读，仍用大脑说明改哪一个训练变量。
@@ -33,12 +35,13 @@ description: Evidence-informed running and strength planning from 100m to trail.
 | 请求 | 按需读取 |
 |---|---|
 | 新用户、目标评估 | [用户建档](references/athlete-profile.md)、[近期记录](references/recent-training.md)、[设备数据](references/device-data.md) |
-| 今日/明日/周计划 | **先读[知识大脑](references/knowledge-brain.md)**；有比赛日期加读[备赛框架](references/race-prep-framework.md)与[备赛证据包](references/evidence/race-prep-core.md)；再按[框架手册](references/framework-handbook.md)写本周；「为什么」从[INDEX-all](references/evidence/INDEX-all.md)钉 1–2 张卡 |
+| 今日/明日/周计划 | **先读上次课**（COROS MCP 或口述）+ [知识大脑](references/knowledge-brain.md)；每堂带热身（[热身手册](references/warmup-recovery-framework.md)）；有比赛日期加读[备赛框架](references/race-prep-framework.md)；再按[框架手册](references/framework-handbook.md)写本周 |
 | 完成反馈、疲劳、排班变动 | [近期记录](references/recent-training.md)、[决策协议](references/decision-protocol.md)、[工作与恢复](references/recovery-working-athletes.md)；COROS 用户加读[设备数据](references/device-data.md) |
 | 伤后回归、疼痛还能不能跑 | [伤病负荷手册](references/injury-load-framework.md)、[回归树](references/gold-weeks-and-return.md)、[力量第9节](references/strength-training-modes.md)；证据[iwr-core](references/evidence/iwr-core.md) |
 | 热身、练后拉伸/冰浴/放松 | [热身与练后手册](references/warmup-recovery-framework.md)、[iwr-core](references/evidence/iwr-core.md)；睡眠饮食仍走恢复包 |
 | 手表/COROS/同步计划到日历 | [设备数据与 COROS MCP](references/device-data.md) |
 | 备赛、赛前减量、到比赛还有N周 | [备赛框架](references/race-prep-framework.md)、[备赛证据包](references/evidence/race-prep-core.md)；本周仍走金样 |
+| 能跑进多少、赛事预测、赛日怎么跑、天气配速 | [赛事预测与赛日策略](references/race-day-strategy.md) + RP24–27；先读上次课与预报气温 |
 | 论文学习、知识扩充 | 一律从[全库总索引 INDEX-all](references/evidence/INDEX-all.md)检索（含备赛包）；体系说明见[知识与证据](references/training-knowledge-system.md) |
 | 内经/中医节律、中式饮食与训练结合 | [内经节律×中式饮食×训练](references/tcm-asian-diet-training.md)；剂量细节仍读[恢复饮食包](references/evidence/recovery-nutrition-core-2023-2026.md)与[冬季包](references/evidence/winter-cold-core-2023-2026.md) |
 | 力量/增肌/田径力量配比、动作选择 | [力量模式与动作库](references/strength-training-modes.md)（第8节增肌3/4日模板，第9节膝/跟腱/下背变式）、[力量证据包](references/evidence/strength-modes-core-2023-2026.md)；同期干扰见[concurrent-interference-2024](references/evidence/concurrent-interference-2024.md) |
