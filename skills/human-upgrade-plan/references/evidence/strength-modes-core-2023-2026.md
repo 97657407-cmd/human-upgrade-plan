@@ -270,9 +270,38 @@ Sports medicine (2025) · PMID [39903375](https://pubmed.ncbi.nlm.nih.gov/399033
 
 ---
 
+### 10-pain-swap-not-push-through
+**膝 / 跟腱 / 下背：用邻近动作减负荷（教练合成）**
+
+**一句话精华**  
+痛了先换模式、减冲击，不靠热开了硬顶；变式库不是诊断。
+
+**田径专项怎么用**
+- 膝：蹲改髋推+腿举，去掉跳和下山速度
+- 跟腱：去掉 plyo 和快提踵，慢双腿提踵再渐进
+- 下背：RDL 改髋推，深蹲改腿举/高箱
+
+**增肌爱好者怎么用**
+- 3/4 日模板只替换痛的动作，其余日照常
+- 容量先减约三分之一，RIR 更留有余地
+
+**下次用什么验收**  
+痛是否随日常动作下降；跑姿/步态有无跛
+
+**研究细节**  
+合成自跑者防伤综述（PMID 38261240，预防计划证据有限）与膝伤风险综述（PMID 42221209，骤增负荷与力量不足是重点）。具体替换是教练推断，不是某篇 RCT 的处方。
+
+**可改训练变量**
+- 痛侧禁止 plyo
+- 周跑量跳变同时出现局部痛 → 先减跑再加力量
+
+**阅读深度**：教练推断 · 核验日 2026-10-10
+
+---
+
 ## 与旧卡的关系
 
 - 中长跑该练哪种力量：[midlong-strength-2024](midlong-strength-2024.md)（最大力量+短 plyo，不追围度）  
 - 先力量还是先有氧：[concurrent-sequence-2025](concurrent-sequence-2025.md)（排序 < 总量与恢复）  
 - 跑者防伤力量：[workday 38261240](workday-time-core-2023-2026.md)  
-- 排课动作选择与配比模板：[strength-training-modes](../strength-training-modes.md)
+- 排课动作选择与配比模板：[strength-training-modes](../strength-training-modes.md)（第8节增肌周模板，第9节伤病变式）
