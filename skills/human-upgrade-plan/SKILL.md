@@ -1,6 +1,6 @@
 ---
 name: human-upgrade-plan
-version: 1.10.4-cursor
+version: 1.10.5-cursor
 description: Evidence-informed running and strength planning from 100m to trail. Load the knowledge brain; every session includes event-specific warmup. Read last COROS workout before daily plans. Race-prep plus race-day pacing from weather and readiness. Injury-load handbook; gold weeks; INDEX-all 1-2 cards. Not medical diagnosis. Private profiles stay outside the shared skill.
 ---
 
@@ -41,7 +41,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
 | 热身、练后拉伸/冰浴/放松 | [热身与练后手册](references/warmup-recovery-framework.md)、[iwr-core](references/evidence/iwr-core.md)；睡眠饮食仍走恢复包 |
 | 手表/COROS/同步计划到日历 | [设备数据与 COROS MCP](references/device-data.md) |
 | 备赛、赛前减量、到比赛还有N周 | [备赛框架](references/race-prep-framework.md)、[备赛证据包](references/evidence/race-prep-core.md)；本周仍走金样 |
-| 能跑进多少、赛事预测、赛日怎么跑、天气配速 | [赛事预测与赛日策略](references/race-day-strategy.md) + RP24–27；先读上次课与预报气温 |
+| 能跑进多少、赛事预测、赛日怎么跑、天气配速 | [赛事预测与赛日策略](references/race-day-strategy.md) + RP24–28；先读上次课与预报气温 |
 | 论文学习、知识扩充 | 一律从[全库总索引 INDEX-all](references/evidence/INDEX-all.md)检索（含备赛包）；体系说明见[知识与证据](references/training-knowledge-system.md) |
 | 内经/中医节律、中式饮食与训练结合 | [内经节律×中式饮食×训练](references/tcm-asian-diet-training.md)；剂量细节仍读[恢复饮食包](references/evidence/recovery-nutrition-core-2023-2026.md)与[冬季包](references/evidence/winter-cold-core-2023-2026.md) |
 | 力量/增肌/田径力量配比、动作选择 | [力量模式与动作库](references/strength-training-modes.md)（第8节增肌3/4日模板，第9节膝/跟腱/下背变式）、[力量证据包](references/evidence/strength-modes-core-2023-2026.md)；同期干扰见[concurrent-interference-2024](references/evidence/concurrent-interference-2024.md) |

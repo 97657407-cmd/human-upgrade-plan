@@ -1,7 +1,7 @@
 # 赛事预测与赛日策略
 
 核验日期：2026-10-10。  
-证据：[race-prep-core](evidence/race-prep-core.md) RP24–RP27；热身见 [warmup-recovery-framework](warmup-recovery-framework.md)；热习服见 [heat-acclimation-2024](evidence/heat-acclimation-2024.md)。  
+证据：[race-prep-core](evidence/race-prep-core.md) RP24–RP28；热身见 [warmup-recovery-framework](warmup-recovery-framework.md)；热习服见 [heat-acclimation-2024](evidence/heat-acclimation-2024.md)。  
 不是天气预报、不是医疗许可、不许诺成绩。
 
 有比赛日期时：备赛阶段仍走 [race-prep-framework](race-prep-framework.md)。**赛前 14 天内、赛晨、用户问「能跑进多少」**，加载本文件。
@@ -53,7 +53,7 @@ WBGT/湿球黑球温度最贴近研究；用户通常只有气温+湿度。操�
 |---|---|---|---|
 | ≤10°C | 中位配速可保留；热身加衣，枪响前不要冻透（IWR26） | 正常 | 多 Raise，静态拉仍少 |
 | 10–15°C | 耐力较友好的区间（快马常见偏凉，RP24） | 正常 | 正常 |
-| 15–20°C | 中位改偏保守 1–3%；早喝、少追配速表 | 略保守 | 热身可略短，避免热透 |
+| 15–20°C | 中位改偏保守 1–3%（波士顿全体约 **每热 1°C 慢 ~1:47**，冠军只慢 ~20 s，RP28） | 略保守 | 热身可略短，避免热透 |
 | 20–25°C | **改完赛策略**：再降 3–8% 量级（慢者掉得更多）；激进档取消 | 降目标，接受心率偏高 | 热身缩短，阴凉等枪 |
 | >25°C 或很湿 | 走跑/补水/降温优先；允许不看表；中暑红旗走急诊 | 同上更狠 | 减少热身量，勿赛前再堆乳酸 |
 
@@ -95,8 +95,8 @@ WBGT/湿球黑球温度最贴近研究；用户通常只有气温+湿度。操�
 
 抄 [项目速查](warmup-recovery-framework.md)，再叠加：
 
-- **热完到枪响不要凉透**：穿衣、走动；空等超过 ~10 min 就再做 1–2 趟轻松跨步（IWR26）。  
-- **热身不要练疲**：场地自行车那种 50 min 传统热身会掉功率（IWR25）；大众路跑更要短。  
+- **热完到枪响不要凉透**：穿衣、走动（IWR30）；空等超过约 **15 min** 再做约 2 min 跨步（IWR28；足球中场再热见 IWR26）。  
+- **热身不要练疲**：约 10–15 min 主动升温够用（IWR28/29）；50 min 传统热身会掉功率（IWR25）。  
 - 全马/越野热身仍然短；第一公里就是升温。  
 - 热天：热身缩短，找阴凉；冷天：加 Raise 和衣服。
 

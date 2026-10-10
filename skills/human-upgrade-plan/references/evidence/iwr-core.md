@@ -343,6 +343,50 @@ Sports Med. 2018;48(7):1575-1595. PMID [29663142](https://pubmed.ncbi.nlm.nih.go
 
 ---
 
+### IWR28 热完空等：穿衣保暖；超过约 15 min 要再热 2 min
+
+**Silva LM, Neiva HP, Marques MC, Izquierdo M, Marinho DA. Effects of Warm-Up, Post-Warm-Up, and Re-Warm-Up Strategies on Explosive Efforts in Team Sports: A Systematic Review.**  
+Sports Med. 2018;48(10):2285-2299. PMID [29968230](https://pubmed.ncbi.nlm.nih.gov/29968230/)  
+证据类型：系统综述，30 项，球类爆发表现
+
+**一句话精华**  
+主动热身宜短（约 10–15 min、强度渐增）。热完到开赛：衣服/加热衣保肌温；空等 **>15 min** 再用约 2 min 短冲/跨步再热。中场也要再活动。
+
+**短跑/800/5K 测验** 检录空等就再跨步，不要坐凉。  
+**大众** 没有加热裤：加长裤+走动即可（机制同 IWR26/30）。球类剂量不原样抄给路跑。  
+**阅读深度**：摘要口径。
+
+---
+
+### IWR29 怎么组一堂热身：先升温，别练疲
+
+**Bishop D. Warm up II: performance changes following active warm up and how to structure the warm up.**  
+Sports Med. 2003;33(7):483-498. PMID [12762825](https://pubmed.ncbi.nlm.nih.gov/12762825/)  
+证据类型：叙述综述（主动热身怎么结构）
+
+**一句话精华**  
+主动热身通常有利于短、中、长表现；但**太狠或恢复不够**会伤短距离（磷酸原没回）。结构口径：中等强度约 5–10 min 升温，再留短暂恢复，最后少量专项。冷天或空等要保暖。耐力热身太狠会提前堆热负荷。
+
+**所有课表** 热身强度低于主课；速度课热完要能再加速，不能喘着上第一枪。  
+**阅读深度**：摘要口径。旧综述，与 IWR24/25 一起用。
+
+---
+
+### IWR30 热完穿衣：肌温掉了功率就掉
+
+**Faulkner SH, Ferguson RA, Gerrett N, Hupperets M, Hodder SG, Havenith G. Reducing Muscle Temperature Drop after Warm-up Improves Sprint Cycling Performance.**  
+Med Sci Sports Exerc. 2013;45(2):359-365. PMID [22935735](https://pubmed.ncbi.nlm.nih.gov/22935735/)  
+证据类型：交叉，场地自行车热身后被动等 30 min ± 加热裤
+
+**一句话精华**  
+热身后空等，肌温指数掉；加热保暖能保住温度，后续 30 s 功率更好（约 9% 峰值，该样本）。只加厚不加热，保护较弱。
+
+**大众 / 体测** 热完穿长裤、外套，冷天尤其；不必买电热裤。  
+**进阶短项目** 复赛/下一枪之间保暖+走动。  
+**阅读深度**：摘要口径。自行车冲刺 ≠ 100 m，机制可外推。
+
+---
+
 ## 与旧文件
 
 | 主题 | 文件 |

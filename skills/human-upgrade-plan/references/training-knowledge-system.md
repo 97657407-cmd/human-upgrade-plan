@@ -6,7 +6,7 @@
 
 - **决策（先加载）**：[知识大脑](knowledge-brain.md) — 把全库压成优先级、项目皮层、冲突裁判；给建议时先判断再写课表。
 - **排课产出**：[框架手册](framework-handbook.md)（金样、伤后树、项目、力量菜单）。课表不从论文堆出来。
-- **长期备赛**：[race-prep-framework](race-prep-framework.md) + [race-prep-core](evidence/race-prep-core.md)（27 条）。
+- **长期备赛**：[race-prep-framework](race-prep-framework.md) + [race-prep-core](evidence/race-prep-core.md)（28 条）+ [race-day-strategy](race-day-strategy.md)。
 - **赛事预测 / 赛日天气配速**：[race-day-strategy](race-day-strategy.md)。
 - **伤病负荷（非诊断）**：[injury-load-framework](injury-load-framework.md) + 回归树 + 力量第9节。证据 [iwr-core](evidence/iwr-core.md)。
 - **热身与练后**：[warmup-recovery-framework](warmup-recovery-framework.md)（每堂必写；IWR16–27）。

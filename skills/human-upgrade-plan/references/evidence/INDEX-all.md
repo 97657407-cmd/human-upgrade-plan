@@ -11,9 +11,9 @@
 | 恢复与工作专题 | **6 张卡** | 睡眠、超量、HIIT 休息、强度分布、久坐、同期 |
 | 近三年主题包 | **50 篇** | 冬季 12 + 工作日 13 + 恢复饮食睡眠 14 + 可穿戴 11 |
 | 力量专题 | **10 条** | ACSM 处方、同期、弹性、超组、防伤、伤变式（含交叉索引） |
-| 长期备赛 | **27 条** | 减量、成绩分层、天气与全马预测、配速、热环境比赛；操作另见赛日策略手册 |
-| 伤病负荷 / 热身 / 练后 | **27 条** | 分项目热身 + 机制综述、过长热身会疲、等枪再热、整理非必须 |
-| **合计** | **146 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| 长期备赛 | **28 条** | 减量、成绩分层、天气与全马预测、配速、热环境比赛、波士顿气温；操作另见赛日策略手册 |
+| 伤病负荷 / 热身 / 练后 | **30 条** | 分项目热身 + 机制、过长会疲、空等再热/穿衣、10–15 min 结构 |
+| **合计** | **150 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -127,7 +127,7 @@
 | 马拉松 胶 碳板 90克糖 | marathon-fueling-shoes · carbon-shoes-* · carbs-90g · 营养包 · race-prep RP04/RP22 |
 | 越野 爬升 下坡 | trail-specific-2025 · winter 11 |
 | 减量 taper 备赛 赛前还有几周 | [race-prep-framework](../race-prep-framework.md) · [race-prep-core](race-prep-core.md) |
-| 能跑进多少 赛日 气温 配速策略 | [race-day-strategy](../race-day-strategy.md) · RP24–27 |
+| 能跑进多少 赛日 气温 配速策略 | [race-day-strategy](../race-day-strategy.md) · RP24–28 |
 | 力量 增肌 干扰 先练哪 | concurrent-* · strength-modes-core · recovery-work R06 |
 | 上班 没时间 零食式 久坐 | workday-time-core · recovery-work R05 |
 | 困 睡眠 夜班 | sleep-performance-2024 · recovery-work R01/R02 · 营养包 35–37 |
@@ -136,7 +136,7 @@
 | 热 高原 | heat-acclimation-2024 · altitude-2023 |
 | 手表 功率 Stryd HRV | wearable-models-2025 · wearables-devices-core |
 | 膝 跟腱 防伤 能不能跑 | [injury-load-framework](../injury-load-framework.md) · iwr-core · 回归树 |
-| 热身 静态拉伸 动态 100米 800 马拉松 | [warmup-recovery-framework](../warmup-recovery-framework.md) 项目速查 · IWR04/16–27 |
+| 热身 静态拉伸 动态 100米 800 马拉松 | [warmup-recovery-framework](../warmup-recovery-framework.md) 项目速查 · IWR04/16–30 |
 | 练后 拉伸 冰浴 按摩 | warmup-recovery-framework · IWR06–08 · 冬季冰浴悖论 |
 | 精神疲劳 RPE 脑子累 | mental-fatigue-rpe-2024 · workday 21–22 |
 
