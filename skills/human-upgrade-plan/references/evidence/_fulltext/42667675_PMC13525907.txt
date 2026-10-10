@@ -1,0 +1,808 @@
+
+Abstract
+
+Cold‐water immersion (CWI) is among the most widely used post‐exercise recovery modalities in elite sport and clinical rehabilitation, yet a fundamental paradox now emerges from the evidence: the same protocols that accelerate parasympathetic reactivation and reduce perceived muscle soreness also suppress the molecular and cellular machinery of skeletal‐muscle hypertrophy when applied repeatedly across resistance‐training mesocycles. This narrative review synthesises the multi‐axis acute physiological response to CWI, the meta‐analytic evidence supporting its acute recovery benefits, and the molecular, cellular and longitudinal evidence documenting its chronic attenuation of resistance‐training adaptations. Acute CWI (10–15°C, 10–15 min) consistently augments parasympathetic reactivation, reduces soreness within 24–72 h (network meta‐analytic SUCRA 88%) and modulates inflammatory time‐courses. In parallel, equivalent protocols attenuate post‐resistance‐exercise mechanistic target of rapamycin complex 1 signalling, ribosomal biogenesis and satellite‐cell‐mediated myonuclear addition, translating into reduced type II fibre cross‐sectional area and modest impairments of strength gain (effect size −0.23). Endurance‐related microvascular and mitochondrial adaptations appear less affected and may be selectively enhanced. A protocol‐by‐goal decision framework links CWI parameters – water temperature, duration, body coverage and temporal placement – to expected adaptive outcomes across hypertrophy, strength, endurance and concurrent training contexts. CWI is neither uniformly beneficial nor uniformly harmful; its effects are predictable and depend on the training goal. CWI should be used when fast recovery between sessions matters most, and withheld after resistance training when muscle growth is the main goal of the training block.
+
+What is the topic of this review?
+
+This review asks how the divergent acute (parasympathetic and analgesic) and chronic (anti‐anabolic) effects of post‐exercise cold‐water immersion can be reconciled into a single mechanistically grounded prescription framework.
+
+What advances does it highlight?
+
+Acute cold‐water immersion (10–15°C, 10–15 min) reliably augments parasympathetic reactivation and reduces perceived soreness, while the same protocols, applied repeatedly after resistance training, attenuate mTORC1 signalling and type II fibre hypertrophy. The protocol‐by‐goal framework presented here translates these mechanistic findings into context‐specific, evidence‐based clinical and applied prescriptions.
+
+cold‐water immersion
+
+heart rate variability
+
+mTORC1 signalling
+
+muscle hypertrophy
+
+resistance training
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+yes
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+source-schema-version-number
+
+2.0
+
+edited-state
+
+corrected-proof
+
+details-of-publishers-convertor
+
+Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.6 mode:remove_FC converted:29.08.2026
+
+Tornero‐Aguilera
+, 
+J. F.
+
+, 
+
+Lozano‐Meca
+, 
+J.
+
+, 
+
+López‐Moreno
+, 
+M.
+
+, 
+
+Sancho‐Haro
+, 
+E. S.
+
+, 
+
+Muñoz‐López
+, 
+M.
+
+, 
+
+Baz‐Valle
+, 
+E.
+
+, 
+
+López‐Gil
+, 
+J. F.
+
+, 
+
+Yáñez‐Sepúlve
+
+----
+
+
+INTRODUCTION
+
+The recovery industry – both clinical and consumer – has converged on cold‐water immersion (CWI) as one of the most visible and commercially proliferated interventions for accelerating return‐to‐performance after exercise (Veen et al., 
+2026
+). Cold‐plunge tubs are now standard fixtures in professional sport facilities across European football, rugby and athletics; they appear in commercial wellness chains in urban centres; and an estimated several million CWI sessions are performed weekly in healthy adult populations across Europe, North America and Oceania (Allan et al., 
+2022
+). The expansion of recreational CWI has been propelled by social‐media‐driven wellness culture, the popularisation of Wim Hof‐style cold‐exposure protocols and an increasingly vocal consumer discourse that has conflated therapeutic cryotherapy, athletic recovery and general health promotion into a single undifferentiated endorsement of cold (Almahayni & Hammond, 
+2024
+; Versey et al., 
+2013
+; Wakabayashi et al., 
+2025
+). Behind all these uses sits a long‐standing assumption that has rarely been subjected to systematic scrutiny within a single framework: that the modality, by attenuating inflammation and perceived muscle soreness, must necessarily benefit subsequent training quality, adaptation and long‐term performance. As this review will show, that assumption holds for acute recovery but breaks down for chronic adaptation: applied repeatedly after resistance training, CWI can blunt the very muscle growth that the training is designed to stimulate.
+
+The evidence assembled over the past decade complicates this assumption as a generalisation while preserving it as a context‐specific truth. Three convergent lines sharpen the picture. First, meta‐analytic evidence confirms that acute post‐exercise CWI (10–15°C, 10–15 min) accelerates parasympathetic reactivation on time‐ and frequency‐domain heart rate variability (HRV) indices, reduces delayed onset muscle soreness (DOMS) within 24–72 h, and modulates inflammatory time courses favourably for next‐session readiness (Cain et al., 
+2025
+; Chen et al., 
+2024
+; Galvez‐Rodriguez et al., 
+2025
+; Moore et al., 
+2022
+). Second, mechanistic and longitudinal evidence shows that comparable protocols, applied repeatedly after resistance training across mesocycles, attenuate mechanistic target of rapamycin complex 1 (mTORC1) signalling, reduce ribosomal biogenesis, impair satellite‐cell‐mediated myonuclear addition and reduce type II fibre cross‐sectional area gains (Fyfe et al., 
+2019
+; Grgic, 
+2023
+; Piñero et al., 
+2024
+; Roberts et al., 
+2015
+). Third, a 2024 International Olympic Committee critical review concluded that direct human evidence for cryotherapy as a regenerative intervention for soft‐tissue injury is essentially absent, with mechanistic claims resting largely on animal extrapolation (Racinais et al., 
+2024
+).
+
+Together these findings produce what this review terms the recovery–adaptation paradox: a single intervention improves the acute markers practitioners use to judge recovery – soreness, autonomic balance, perceived freshness, creatine kinase normalisation – while suppressing the molecular and cellular substrates of chronic skeletal‐muscle adaptation (Fyfe et al., 
+2019
+; Piñero et al., 
+2024
+; Rantala & Chaillou, 
+2019
+). This is not a methodological artefact but an emergent property of the heterogeneous responses CWI elicits across vascular, neural, inflammatory, anabolic and perceptual d
+
+----
+
+
+METHODS
+
+This narrative review was conducted in accordance with established best practices for synthesis in exercise physiology. Electronic database searches were performed in PubMed/MEDLINE, Web of Science Core Collection and Cochrane CENTRAL from January 2010 to April 2026, with targeted extensions to 2000 for foundational molecular biology and thermoregulation studies. The 2010 start date reflects the fact that the modern CWI evidence base – particularly the molecular signalling and longitudinal resistance‐training studies that define the recovery–adaptation paradox – emerged almost entirely from 2010 onward. The comparatively few earlier foundational papers on muscle protein‐synthesis signalling, thermoregulation and post‐exercise parasympathetic reactivation were captured through the targeted pre‐2010 extensions and through reference mining, so no substantive body of 2000–2009 CWI‐adaptation literature was excluded. The primary search strategy combined MeSH terms and free‐text keywords across four conceptual domains: (i) the intervention (CWI, ice bath, water immersion, cryotherapy, cold therapy, water temperature, cold exposure); (ii) the acute outcome axis (HRV, RMSSD, autonomic recovery, delayed onset muscle soreness, DOMS, creatine kinase, perceived exertion, inflammation, interleukin‐6 (IL‐6), tumour necrosis factor‐α, C‐reactive protein); (iii) the chronic adaptation axis (mTORC1, mTOR signalling, muscle protein synthesis, hypertrophy, muscle fibre cross‐sectional area, strength, satellite cells, ribosomal biogenesis, p70S6K1, eukaryotic translation initiation factor 4E‐binding protein 1 (4E‐BP1)); and (iv) training context (resistance training, endurance training, concurrent training, sport recovery, in‐season).
+
+A representative PubMed string combined the four domains – for example, (‘cold water immersion’ OR ‘ice bath’ OR cryotherapy) AND (‘mTOR’ OR ‘muscle protein synthesis’ OR hypertrophy OR ‘HRV’ OR DOMS OR recovery) AND (‘resistance training’ OR ‘strength training’ OR exercise OR sport). Reference lists of identified systematic reviews, network meta‐analyses and key narrative reviews were screened for additional primary and mechanistic studies. Evidence was weighted hierarchically – meta‐analyses of randomised controlled trials (RCTs) highest, then individual RCTs, longitudinal controlled trials, mechanistic human biopsy studies, and finally in vitro or animal data – with preclinical‐only mechanistic claims explicitly flagged and treated with epistemic caution. Studies beyond healthy adults were included only for mechanistic context.
+
+3
+
+THE ACUTE PHYSIOLOGICAL RESPONSE TO CWI: A MULTI‐AXIS CASCADE
+
+Although the five physiological responses to CWI are presented below under separate headings for clarity, they do not occur in isolation. They are activated in an overlapping, time‐ordered cascade that begins within seconds of immersion and, when the exposure is repeated across a training block, ultimately shapes chronic adaptation. Figure 
+1
+ integrates these axes along a single time axis – from the cold‐shock response (0–90 s), through the acute autonomic, vascular, inflammatory, metabolic and perceptual responses (minutes to ∼72 h), to the cumulative effect of repeated post‐resistance‐exercise exposure across weeks – and shows how the same cascade that produces the acute recovery benefit also drives the chronic adaptive cost that defines the paradox. The subsections that follow detail each axis in turn but should be rea
+
+----
+
+
+METHODS
+
+This narrative review was conducted in accordance with established best practices for synthesis in exercise physiology. Electronic database searches were performed in PubMed/MEDLINE, Web of Science Core Collection and Cochrane CENTRAL from January 2010 to April 2026, with targeted extensions to 2000 for foundational molecular biology and thermoregulation studies. The 2010 start date reflects the fact that the modern CWI evidence base – particularly the molecular signalling and longitudinal resistance‐training studies that define the recovery–adaptation paradox – emerged almost entirely from 2010 onward. The comparatively few earlier foundational papers on muscle protein‐synthesis signalling, thermoregulation and post‐exercise parasympathetic reactivation were captured through the targeted pre‐2010 extensions and through reference mining, so no substantive body of 2000–2009 CWI‐adaptation literature was excluded. The primary search strategy combined MeSH terms and free‐text keywords across four conceptual domains: (i) the intervention (CWI, ice bath, water immersion, cryotherapy, cold therapy, water temperature, cold exposure); (ii) the acute outcome axis (HRV, RMSSD, autonomic recovery, delayed onset muscle soreness, DOMS, creatine kinase, perceived exertion, inflammation, interleukin‐6 (IL‐6), tumour necrosis factor‐α, C‐reactive protein); (iii) the chronic adaptation axis (mTORC1, mTOR signalling, muscle protein synthesis, hypertrophy, muscle fibre cross‐sectional area, strength, satellite cells, ribosomal biogenesis, p70S6K1, eukaryotic translation initiation factor 4E‐binding protein 1 (4E‐BP1)); and (iv) training context (resistance training, endurance training, concurrent training, sport recovery, in‐season).
+
+A representative PubMed string combined the four domains – for example, (‘cold water immersion’ OR ‘ice bath’ OR cryotherapy) AND (‘mTOR’ OR ‘muscle protein synthesis’ OR hypertrophy OR ‘HRV’ OR DOMS OR recovery) AND (‘resistance training’ OR ‘strength training’ OR exercise OR sport). Reference lists of identified systematic reviews, network meta‐analyses and key narrative reviews were screened for additional primary and mechanistic studies. Evidence was weighted hierarchically – meta‐analyses of randomised controlled trials (RCTs) highest, then individual RCTs, longitudinal controlled trials, mechanistic human biopsy studies, and finally in vitro or animal data – with preclinical‐only mechanistic claims explicitly flagged and treated with epistemic caution. Studies beyond healthy adults were included only for mechanistic context.
+
+3
+
+THE ACUTE PHYSIOLOGICAL RESPONSE TO CWI: A MULTI‐AXIS CASCADE
+
+Although the five physiological responses to CWI are presented below under separate headings for clarity, they do not occur in isolation. They are activated in an overlapping, time‐ordered cascade that begins within seconds of immersion and, when the exposure is repeated across a training block, ultimately shapes chronic adaptation. Figure 
+1
+ integrates these axes along a single time axis – from the cold‐shock response (0–90 s), through the acute autonomic, vascular, inflammatory, metabolic and perceptual responses (minutes to ∼72 h), to the cumulative effect of repeated post‐resistance‐exercise exposure across weeks – and shows how the same cascade that produces the acute recovery benefit also drives the chronic adaptive cost that defines the paradox. The subsections that follow detail each axis in turn but should be rea
+
+----
+
+
+CONCLUSIONS
+
+CWI is neither uniformly helpful nor uniformly harmful. It is a powerful, dose‐dependent cold stressor whose effect on training adaptation depends on the goal, the protocol and the timing relative to training. The central paradox of this review is not a contradiction: through the same molecular pathways, CWI speeds the autonomic and vascular recovery that matters most in the first 24–72 h after exercise, while blunting the mTORC1‐driven muscle‐building processes that accumulate over weeks of resistance training.
+
+Both sides of the paradox are now supported. On the acute side, the evidence is unusually consistent: CWI reliably speeds parasympathetic reactivation, reduces perceived soreness and swelling at 24–72 h, and shifts the inflammatory time course in a direction favourable for next‐session readiness. On the adaptation side, the molecular evidence is specific and the longitudinal evidence, although still limited in scale, is internally consistent: repeated post‐resistance CWI lowers p70S6K1 phosphorylation and ribosomal‐biogenesis markers, reduces type II fibre hypertrophy, and produces a small but significant attenuation of strength gains (effect size ≈ −0.23). This cost is greatest with limb‐specific CWI applied immediately after resistance training – the configuration that cools the trained muscle most deeply during peak mTORC1 activation.
+
+The protocol‐by‐goal framework presented in Table 
+2
+ operationalises these conclusions into actionable decisions across seven clinically relevant training contexts. It rests on the principle that the appropriate use of CWI should be determined by adaptive goal, not by habit, social norm, or the acute perceptual attractiveness of the modality. Where acute inter‐session recovery is the dominant requirement, CWI should be used at its conventional, well‐validated dose; where hypertrophic adaptation is the dominant requirement, it should be withheld, delayed, or attenuated in dose; and where both goals are pursued concurrently, the framework directs CWI toward the endurance or competition‐day component of training and away from the resistance‐training component.
+
+The priorities that will most rapidly close the remaining gaps are longitudinal RCTs in female and older‐adult populations: systematic dose–response trials varying CWI parameters against molecular and phenotypic outcomes; endurance‐performance trials long enough to detect 
+
+V
+
+˙
+
+O
+
+2
+
+max
+
+ change; and mechanistic stratification studies linking individual biological phenotypes to differential CWI response. Until those gaps are filled, CWI should be treated as what the evidence demonstrates – an active intervention with a definable cost–benefit profile, to be prescribed by goal and protocol rather than adopted as a reflexive post‐exercise default.
+
+AUTHOR CONTRIBUTIONS
+
+Jose Francisco Tornero‐Aguilera: conceptualisation, data curation, formal analysis, investigation, methodology, project administration, validation, writing – original draft, writing – review & editing. Jose Lozano‐Meca: data curation, formal analysis, investigation, software, validation, writing – review & editing. Miguel López‐Moreno: data curation, investigation, software, writing – original draft. Edgar Simón Sancho‐Haro: data curation, investigation, visualisation, writing – original draft. Mario Muñoz‐López: formal analysis, investigation, software, validation, writing – review & editing. Eneko Baz‐Valle: formal analysis, investigation, software, validat
+
+----
+
+practical way to integrate this evidence into applied monitoring (Lim et al., 
+2022
+).
+
+9
+
+RESEARCH GAPS AND FUTURE DIRECTIONS
+
+Several priorities would most rapidly close the evidence gaps. First, sex‐stratified longitudinal RCTs: the available trials are dominated by young men, yet sex differences in baseline protein synthesis, menstrual‐cycle‐modulated inflammation, cold‐shock vasoconstriction and anabolic hormones may alter both the anti‐anabolic cost and the analgesic benefit in women, so dedicated RCTs in resistance‐trained females – with menstrual‐cycle phase controlled – are needed (Notbohm et al., 
+2023
+). Second, older and sarcopenic populations: anabolic resistance defines ageing muscle, so repeated post‐exercise CWI could impose a proportionally larger, clinically consequential anti‐anabolic cost, yet no RCT has tested CWI and resistance‐training adaptation in adults over 60 (Anagnostou et al., 
+2025
+; Witard et al., 
+2014
+). Third, dose–response optimisation: the surface relating water temperature, duration, depth and timing to the analgesia‐versus‐adaptation ratio has not been mapped, and one‐parameter‐at‐a‐time trials with both molecular and longitudinal outcomes would enable individualised prescription (Machado et al., 
+2016
+; Vieira et al., 
+2016
+). Fourth, endurance‐specific performance endpoints: the endurance evidence rests on indirect microvascular biomarkers without long‐term 
+
+V
+
+˙
+
+O
+
+2
+
+max
+
+ or performance outcomes, requiring 10–16‐week trials to confirm whether microvascular enhancement translates into performance and to characterise HIIT‐related costs (Ihsan et al., 
+2020
+; Ihsan et al., 
+2016
+). Fifth, mechanistic individual‐response characterisation: population means conceal heterogeneity in cold‐shock responsiveness, sympathetic reactivity, BAT activity, mTORC1 responsiveness and satellite‐cell pool, and phenotype‐stratified studies would advance personalised prescription (Cannon & Nedergaard, 
+2004
+; Figueiredo & McCarthy, 
+2019
+; Lim et al., 
+2022
+). Finally, concurrent‐training and real‐world contexts remain under‐studied in elite athletes under ecologically realistic loads; season‐long studies integrating objective training‐load, recovery and performance monitoring would improve applicability (Elias et al., 
+2013
+; Moore et al., 
+2022
+; Rousse et al., 
+2025
+; Stanley et al., 
+2012
+).
+
+10
+
+CONCLUSIONS
+
+CWI is neither uniformly helpful nor uniformly harmful. It is a powerful, dose‐dependent cold stressor whose effect on training adaptation depends on the goal, the protocol and the timing relative to training. The central paradox of this review is not a contradiction: through the same molecular pathways, CWI speeds the autonomic and vascular recovery that matters most in the first 24–72 h after exercise, while blunting the mTORC1‐driven muscle‐building processes that accumulate over weeks of resistance training.
+
+Both sides of the paradox are now supported. On the acute side, the evidence is unusually consistent: CWI reliably speeds parasympathetic reactivation, reduces perceived soreness and swelling at 24–72 h, and shifts the inflammatory time course in a direction favourable for next‐session readiness. On the adaptation side, the molecular evidence is specific and the longitudinal evidence, although still limited in scale, is internally consistent: repeated post‐resistance CWI lowers p70S6K1 phosphorylation and ribosomal‐biogenesis markers, reduces type II fibre hypertrophy, and produces a small but si
+
+----
+
+limitations. The principal caveats of this primary literature are small samples (typically 
+n
+ = 7–12), heterogeneous immersion and HRV‐recording protocols, and the impossibility of participant blinding, all of which temper the strength of the pooled signal even though its direction is reproducible (Buchheit et al., 
+2009
+; Stanley et al., 
+2012
+).
+
+The clinical relevance of accelerated parasympathetic reactivation extends beyond subjective comfort. HRV‐guided training periodisation studies – in which training intensity on a given day is determined by the athlete's morning RMSSD relative to their personal rolling baseline – consistently demonstrate that HRV‐guided approaches produce equal or superior physiological adaptations compared with predefined load prescription, while reducing training stress markers and perceived fatigue (Kiviniemi et al., 
+2007
+). If CWI accelerates the return of RMSSD to personal‐baseline levels after a heavy training session, it may create additional windows for high‐quality training that would not exist under passive recovery – a genuine competitive performance advantage (Moore et al., 
+2022
+; Stanley et al., 
+2012
+). The caveat is that this perceptual–autonomic readiness may be partially decoupled from actual tissue repair state: an athlete with restored RMSSD may begin training before the satellite‐cell and mTORC1‐dependent repair and remodelling processes have reached the stage required for maximal quality contraction (Fyfe et al., 
+2019
+; Roberts et al., 
+2015
+). In a hypertrophy‐prioritised context, this temporal decoupling is itself an argument for limiting CWI, since it risks compressing the anabolic window of reduced‐load recovery that optimises molecular adaptation. Finally, the autonomic potency of cold exposure carries a safety corollary: in an observational study of recreational outdoor cold‐water swimmers, Faivre‐Rampant et al. (
+2024
+) documented post‐immersion QT‐interval lengthening of approximately 20 ms, exceeding 500 ms in 5 of 20 participants, underscoring that the same sympatho‐vagal perturbation that benefits recovery can transiently destabilise cardiac repolarisation in susceptible individuals; CWI should therefore be screened and supervised accordingly.
+
+4.2
+
+DOMS and perceived recovery
+
+DOMS is mechanistically distinct from acute exercise pain: it peaks at 24–72 h post‐exercise, corresponds to the inflammatory phase of muscle fibre remodelling, and involves sensitisation of muscle mechanoreceptors and nociceptors by prostaglandins, bradykinin and substance P released from damaged fibres and infiltrating immune cells (Cheung et al., 
+2003
+; Peake et al., 
+2017
+). The 2024 network meta‐analysis by Chen et al. (
+2024
+) constitutes the most comprehensive ranking of recovery modalities for DOMS‐related outcomes. Pooling 57 RCTs and 1220 participants and using a Bayesian surface under the cumulative ranking curve (SUCRA) approach, the analysis ranked cryotherapy modalities first for relief of perceived muscle soreness (SUCRA 88.3%) and for neuromuscular performance recovery as assessed by countermovement jump height (SUCRA 83.7%). Contrast water therapy ranked highest for normalisation of circulating creatine kinase activity, a biochemical marker of sarcolemmal disruption. The Wang et al. (
+2022
+) network meta‐analysis of cold and heat therapies identified more nuanced temporal patterns: hot‐pack application ranked highest at 24 h post‐exercise, while contrast water therapy and CWI were co
+
+----
+
+
+ACKNOWLEDGEMENTS
+
+The authors thank the Fit Generation Research Institute (Andorra la Vella) for institutional support during manuscript preparation.
+
+Open Access funding provided by the Universitat de les Illes Balears.
+
+DATA AVAILABILITY STATEMENT
+
+Data sharing is not applicable to this article, as no datasets were generated or analysed during this narrative review. All cited sources are publicly indexed in PubMed and accessible via their digital object identifiers.
+
+REFERENCES
+
+Allan
+, 
+R.
+
+, 
+
+Akin
+, 
+B.
+
+, 
+
+Sinclair
+, 
+J.
+
+, 
+
+Hurst
+, 
+H.
+
+, 
+
+Alexander
+, 
+J.
+
+, 
+
+Malone
+, 
+J. J.
+
+, 
+
+Naylor
+, 
+A.
+
+, 
+
+Mawhinney
+, 
+C.
+
+, 
+
+Gregson
+, 
+W.
+
+, & 
+
+Ihsan
+, 
+M.
+
+ (
+2022
+). 
+Athlete, coach and practitioner knowledge and perceptions of post‐exercise cold‐water immersion for recovery: A qualitative and quantitative exploration
+. 
+Sport Sciences for Health
+, 
+18
+(
+3
+), 
+699
+–
+713
+.
+
+Almahayni
+, 
+O.
+
+, & 
+
+Hammond
+, 
+L.
+
+ (
+2024
+). 
+Does the Wim Hof method have a beneficial impact on physiological and psychological outcomes in healthy and non‐healthy participants? A systematic review
+. 
+PLOS ONE
+, 
+19
+(
+3
+), 
+e0286933
+.
+38478473
+
+10.1371/journal.pone.0286933
+
+PMC10936795
+
+Anagnostou
+, 
+D.
+
+, 
+
+Theodorakis
+, 
+N.
+
+, 
+
+Hitas
+, 
+C.
+
+, 
+
+Kreouzi
+, 
+M.
+
+, 
+
+Pantos
+, 
+I.
+
+, 
+
+Vamvakou
+, 
+G.
+
+, & 
+
+Nikolaou
+, 
+M.
+
+ (
+2025
+). 
+Sarcopenia and cardiogeriatrics: The links between skeletal muscle decline and cardiovascular aging
+. 
+Nutrients
+, 
+17
+(
+2
+), 
+282
+.
+39861412
+
+10.3390/nu17020282
+
+PMC11767851
+
+Ato
+, 
+S.
+
+, 
+
+Tsushima
+, 
+D.
+
+, 
+
+Isono
+, 
+Y.
+
+, 
+
+Suginohara
+, 
+T.
+
+, 
+
+Maruyama
+, 
+Y.
+
+, 
+
+Nakazato
+, 
+K.
+
+, & 
+
+Ogasawara
+, 
+R.
+
+ (
+2019
+). 
+The effect of changing the contraction mode during resistance training on mTORC1 signaling and muscle protein synthesis
+. 
+Frontiers in Physiology
+, 
+10
+, 
+406
+.
+31057416
+
+10.3389/fphys.2019.00406
+
+PMC6482468
+
+Batista
+, 
+N. P.
+
+, 
+
+De Carvalho
+, 
+F. A.
+
+, 
+
+Machado
+, 
+A. F.
+
+, 
+
+Micheletti
+, 
+J. K.
+
+, & 
+
+Pastre
+, 
+C. M.
+
+ (
+2023
+). 
+What parameters influence the effect of cold‐water immersion on muscle soreness? An updated systematic review and meta‐analysis
+. 
+Clinical Journal of Sport Medicine
+, 
+33
+(
+1
+), 
+13
+–
+25
+.
+36399666
+
+10.1097/JSM.0000000000001081
+
+Bleakley
+, 
+C.
+
+, 
+
+McDonough
+, 
+S.
+
+, 
+
+Gardner
+, 
+E.
+
+, 
+
+Baxter
+, 
+G. D.
+
+, 
+
+Hopkins
+, 
+J. T.
+
+, & 
+
+Davison
+, 
+G. W.
+
+ (
+2012
+). 
+Cold‐water immersion (cryotherapy) for preventing and treating muscle soreness after exercise
+. 
+Cochrane Database of Systematic Reviews
+, 
+2012
+(
+2
+), 
+CD008262
+.
+22336838
+
+10.1002/14651858.CD008262.pub2
+
+PMC6492480
+
+Bleakley
+, 
+C.
+
+, 
+
+McDonough
+, 
+S.
+
+, & 
+
+MacAuley
+, 
+D.
+
+ (
+2004
+). 
+The use of ice in the treatment of acute soft‐tissue injury: A systematic review of randomized controlled trials
+. 
+American Journal of Sports Medicine
+, 
+32
+(
+1
+), 
+251
+–
+261
+.
+14754753
+
+10.1177/0363546503260757
+
+Bodine
+, 
+S. C.
+
+ (
+2022
+). 
+The role of mTORC1 in the regulation of skeletal muscle mass
+. 
+Faculty Reviews
+, 
+11
+, 
+32
+.
+36532707
+
+10.12703/r/11-32
+
+PMC9720898
+
+Buchheit
+, 
+M.
+
+, 
+
+Peiffer
+, 
+J. J.
+
+, 
+
+Abbiss
+, 
+C. R.
+
+, & 
+
+Laursen
+, 
+P. B.
+
+ (
+2009
+). 
+Effect of cold water immersion on postexercise parasympathetic reactivation
+. 
+American Journal of Physiology‐Heart and Circulatory Physiology
+, 
+296
+(
+2
+), 
+H421
+–
+H427
+.
+19074671
+
+10.1152/ajpheart.01017.2008
+
+Burse
+, 
+R. L.
+
+ (
+1979
+). 
+Sex differences in human thermoregulatory response to heat and cold stress
+. 
+Human Factors
+, 
+21
+(
+6
+), 
+687
+–
+699
+.
+393617
+
+10.1177/00187208

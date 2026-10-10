@@ -1,0 +1,2297 @@
+
+INTRODUCTION
+
+Bicycle mounted power meters have revolutionised cycling racing and training by allowing real-time measures of a rider’s power output. These bicycle power meters measure the direct force being applied to a component such as the pedal axle or crank arm using strain gauges. However, currently it is not possible to measure the power output of a runner using similar strain gauges. As an alternative, several manufacturers have developed devices to estimate running power using motion sensor units combined with complex power estimation algorithms [
+1
+]. One such running device is the Stryd power meter (Stryd Inc. Boulder CO, USA). The Stryd is a 9-gram foot pod that attaches to a running shoe and estimates power, pace, distance, vertical oscillation, cadence, leg spring stiffness and ground contact time (GCT). Stryd also estimates form power, and form power ratio which are estimates of running economy.
+
+Stryd has been evaluated during treadmill running [
+2
+–
+5
+], track running [
+3
+] trail running [
+6
+] and walking [
+6
+, 
+7
+]. Stryd provides reliable measures for power [
+2
+–
+4
+, 
+7
+], though a minimum sampling time of 10 seconds is required at a constant speed [
+8
+]. Stryd also appears to offer reliable measurements of GCT [
+5
+, 
+9
+, 
+10
+]. Stryd compared with the OptoGait system exhibited greater precision for GCT at every speed examined [
+10
+]. Stryd was found to be valid for GCT during running when compared with RunScribe [
+5
+] though may underestimate GCT when compared with high-speed video analysis [
+5
+]. In contrast, when Stryd was compared at walking paces with the gold standard Optojump Next [
+7
+], Stryd overestimated GCT. While Stryd offers high reliability, bias between different sensor brands including Stryd are frequently noted.
+
+Stryd offers its own website-based calculation of Critical power (CP). CP is a well-described endurance exercise concept: For any individual, time-to-exhaustion is highly predictable and directly related to the power output [
+11
+]. CP represents a boundary between steady-state and non-steady state exercise intensity [
+12
+] and may be related to skeletal muscle capillarity and proportions of slow twitch muscle fibre type in endurance-trained individuals [
+13
+, 
+14
+]. Essentially, CP is the highest intensity that can be sustained without accumulating significant fatigue from anaerobic metabolism. However, there is much controversy concerning CP as a threshold measure. CP values depend upon the trial protocols used and the mathematical models employed [
+15
+]. There is no accepted reference method for CP determination, however linear CP models that include trials of longer duration (> 10 minutes) are recommended [
+15
+]. A large range of exercise laboratory derived thresholds have been suggested to be comparable to CP intensity. These include ventilatory thresholds (VT1 and VT2), the lactate threshold (LT), the maximal metabolic steady-state (MLSS), the onset of blood lactate accumulation (OBLA) and even much higher intensities above VO
+2peak
+ (see [
+11
+, 
+16
+, 
+17
+] for reviews). Recent evidence suggest differences between CP and such thresholds may be due to discordance between the methods of determination [
+18
+]. Other authors have claimed that CP may differ significantly from other thresholds [
+16
+] and may be viewed controversially [
+19
+] as an independent physiological threshold itself. It has also been suggested that CP is simply a mathematical artefact [
+17
+].
+
+To our knowledge, no study h
+
+----
+
+methods of CP estimation must be a consideration for runners and coaches. Stryd offers meaningful data for runners including a realistic estimate of CP.
+
+Endurance training
+
+Athletic performance
+
+Running
+
+Wearable technology
+
+Cardiorespiratory fitness
+
+Anaerobic threshold
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY-SA
+
+INTRODUCTION
+
+Bicycle mounted power meters have revolutionised cycling racing and training by allowing real-time measures of a rider’s power output. These bicycle power meters measure the direct force being applied to a component such as the pedal axle or crank arm using strain gauges. However, currently it is not possible to measure the power output of a runner using similar strain gauges. As an alternative, several manufacturers have developed devices to estimate running power using motion sensor units combined with complex power estimation algorithms [
+1
+]. One such running device is the Stryd power meter (Stryd Inc. Boulder CO, USA). The Stryd is a 9-gram foot pod that attaches to a running shoe and estimates power, pace, distance, vertical oscillation, cadence, leg spring stiffness and ground contact time (GCT). Stryd also estimates form power, and form power ratio which are estimates of running economy.
+
+Stryd has been evaluated during treadmill running [
+2
+–
+5
+], track running [
+3
+] trail running [
+6
+] and walking [
+6
+, 
+7
+]. Stryd provides reliable measures for power [
+2
+–
+4
+, 
+7
+], though a minimum sampling time of 10 seconds is required at a constant speed [
+8
+]. Stryd also appears to offer reliable measurements of GCT [
+5
+, 
+9
+, 
+10
+]. Stryd compared with the OptoGait system exhibited greater precision for GCT at every speed examined [
+10
+]. Stryd was found to be valid for GCT during running when compared with RunScribe [
+5
+] though may underestimate GCT when compared with high-speed video analysis [
+5
+]. In contrast, when Stryd was compared at walking paces with the gold standard Optojump Next [
+7
+], Stryd overestimated GCT. While Stryd offers high reliability, bias between different sensor brands including Stryd are frequently noted.
+
+Stryd offers its own website-based calculation of Critical power (CP). CP is a well-described endurance exercise concept: For any individual, time-to-exhaustion is highly predictable and directly related to the power output [
+11
+]. CP represents a boundary between steady-state and non-steady state exercise intensity [
+12
+] and may be related to skeletal muscle capillarity and proportions of slow twitch muscle fibre type in endurance-trained individuals [
+13
+, 
+14
+]. Essentially, CP is the highest intensity that can be sustained without accumulating significant fatigue from anaerobic metabolism. However, there is much controversy concerning CP as a threshold measure. CP values depend upon the trial protocols used and the mathematical models employed [
+15
+]. There is no accepted reference method for CP determination, however linear CP models that include trials of longer duration (> 10 minutes) are recommended [
+15
+]. A large range of exercise laboratory derived thresholds have been suggested
+
+----
+
+
+Methodological Reconciliation of CP and MLSS and Their Agreement with the Maximal Metabolic Steady State
+. 
+Med Sci Sports Exerc
+. 
+2021
+.
+10.1249/MSS.0000000000002831
+
+34816811
+
+19
+
+Keir
+
+DA
+
+, 
+
+Mattioni Maturana
+
+F
+
+, 
+
+Iannetta
+
+D
+
+, 
+
+Murias
+
+JM
+
+. 
+Comment on:“Relative proximity of critical power and metabolic/ ventilatory thresholds: systematic review and meta-analysis”
+. 
+Sports Med
+. 
+2021
+; 
+51
+(
+2
+):
+367
+–
+8
+.
+33108653
+
+10.1007/s40279-020-01365-x
+
+20
+
+Nevill
+
+M
+
+, 
+
+Garrett
+
+A
+
+, 
+
+Maxwell
+
+N
+
+, 
+
+Parsons
+
+K
+
+, 
+
+Norwitz
+
+A
+
+. 
+Thermal strain of intermittent and continuous exercise at 10 and 35 C in man
+. 
+J Physiol
+. 
+1995
+; 
+486
+(
+1
+):
+124
+–
+5
+.
+
+21
+
+Allen
+
+H
+
+, 
+
+Coggan
+
+AR
+
+, 
+
+McGregor
+
+S
+
+. 
+Training and racing with a power meter Boulder
+: 
+VeloPress
+; 
+2019
+.
+
+22
+
+Jones
+
+AM
+
+, 
+
+Doust
+
+JH
+
+. 
+A 1% treadmill grade most accurately reflects the energetic cost of outdoor running
+. 
+J Sports Sci
+. 
+1996
+; 
+14
+(
+4
+):
+321
+–
+7
+.
+8887211
+
+10.1080/02640419608727717
+
+23
+
+Weltman
+
+A
+
+, 
+
+Snead
+
+D
+
+, 
+
+Stein
+
+P
+
+, 
+
+Seip
+
+R
+
+, 
+
+Schurrer
+
+R
+
+, 
+
+Rutt
+
+R
+
+, 
+
+Weltman
+
+J
+
+. 
+Reliability and validity of a continuous incremental treadmill protocol for the determination of lactate threshold, fixed blood lactate concentrations, and VO
+2
+max
+. 
+Int J Sports Med
+. 
+1990
+; 
+11
+(
+01
+):
+26
+–
+32
+.
+2318561
+
+10.1055/s-2007-1024757
+
+24
+
+Sjödin
+
+B
+
+, 
+
+Jacobs
+
+I
+
+. 
+Onset of blood lactate accumulation and marathon running performance
+. 
+Int J Sports Med
+. 
+1981
+; 
+2
+(
+01
+):
+23
+–
+6
+.
+7333732
+
+10.1055/s-2008-1034579
+
+25
+
+Cerezuela-Espejo
+
+V
+
+, 
+
+Courel-Ibáñez
+
+J
+
+, 
+
+Morán-Navarro
+
+R
+
+, 
+
+Martínez-Cava
+
+A
+
+, 
+
+Pallarés
+
+JG
+
+. 
+The relationship between lactate and ventilatory thresholds in runners: validity and reliability of exercise test performance parameters
+. 
+Front Physiol
+. 
+2018
+; 
+9
+:
+1320
+.
+30319439
+
+10.3389/fphys.2018.01320
+
+PMC6167480
+
+26
+
+Rusko
+
+H
+
+, 
+
+Nummela
+
+A
+
+, 
+
+Mero
+
+A
+
+. 
+A new method for the evaluation of anaerobic running power in athletes
+. 
+Eur J Appl Physiol Occup Physiol
+. 
+1993
+; 
+66
+(
+2
+):
+97
+–
+101
+.
+8472703
+
+10.1007/BF01427048
+
+27
+
+Poole
+
+DC
+
+, 
+
+Burnley
+
+M
+
+, 
+
+Vanhatalo
+
+A
+
+, 
+
+Rossiter
+
+HB
+
+, 
+
+Jones
+
+AM
+
+. 
+Critical power: an important fatigue threshold in exercise physiology
+. 
+Med Sci Sports Exerc
+. 
+2016
+; 
+48
+(
+11
+):
+2320
+.
+27031742
+
+10.1249/MSS.0000000000000939
+
+PMC5070974
+
+28
+
+Seiler
+
+KS
+
+, 
+
+Kjerland
+
+GØ
+
+. 
+Quantifying training intensity distribution in elite endurance athletes: is there evidence for an “optimal” distribution?
+
+Scand J Med Sci Sports
+. 
+2006
+; 
+16
+(
+1
+):
+49
+–
+56
+.
+16430681
+
+10.1111/j.1600-0838.2004.00418.x
+
+29
+
+Seiler
+
+S
+
+. 
+What is best practice for training intensity and duration distribution in endurance athletes?
+
+Int J Sports Physiol Perform
+. 
+2010
+; 
+5
+(
+3
+):
+276
+–
+91
+.
+20861519
+
+10.1123/ijspp.5.3.276
+
+30
+
+Garcia-Tabar
+
+I
+
+, 
+
+Gorostiaga
+
+EM
+
+. 
+Comment on:“Relative Proximity of Critical Power and Metabolic/Ventilatory Thresholds: Systematic Review and Meta-Analysis”
+. 
+Sports Med
+. 
+2021
+; 
+51
+(
+9
+):
+2011
+–
+3
+.
+34165764
+
+10.1007/s40279-021-01497-8
+
+31
+
+Stratton
+
+E
+
+, 
+
+O’brien
+
+B
+
+, 
+
+Harvey
+
+J
+
+, 
+
+Blitvich
+
+J
+
+, 
+
+McNicol
+
+A
+
+, 
+
+Janissen
+
+D
+
+, 
+
+Paton
+
+C
+
+, 
+
+Knez
+
+W
+
+. 
+Treadmill velocity best predicts 5000-m run performance
+. 
+Int J Sports Med
+. 
+2009
+; 
+30
+(
+01
+):
+40
+–
+5
+.
+19202577
+
+10.1055/s-2008-1038761
+
+32
+
+Santos-Concejero
+
+J
+
+, 
+
+Granados
+
+C
+
+, 
+
+Irazusta
+
+J
+
+, 
+
+Bidaurrazaga-Letona
+
+I
+
+, 
+
+Zabala-Lili
+
+J
+
+, 
+
+Tam
+
+N
+
+, 
+
+Gil
+
+S
+
+. 
+Differences in ground contact time expla
+
+----
+
+
+RESULTS
+
+20 participants completed laboratory testing procedures (
+Table 1
+). For all runners, linearity of Stryd power was excellent (R
+2
+ > 0.99) at 1% for GET stage and 5% incline for MART stage (R
+2
+ > 0.99).
+
+TABLE 1
+
+Participants and laboratory testing results.
+
+Age years
+
+Weight Kg
+
+Body Fat %
+
+VT1 Km · h
+−1
+
+LT Km · h
+−1
+
+OBLA Km · h
+−1
+
+VT2 Km · h
+−1
+
+Peak GET Km · h
+−1
+
+VO
+2peak
+
+vMART Km · h
+−1
+
+All (n = 20)
+
+Mean
+
+39.5
+
+71.4
+
+14.3
+
+11.9
+
+12.6
+
+14.2
+
+14.7
+
+17.0
+
+3.93
+
+21.8
+
+SD
+
+14.6
+
+9.9
+
+6.7
+
+2.2
+
+2.4
+
+2.8
+
+3.0
+
+3.2
+
+0.73
+
+3.4
+
+Male (n = 16)
+
+Mean
+
+40.2
+
+73.6
+
+13.3
+
+12.3
+
+12.7
+
+14.4
+
+15.2
+
+17.7
+
+4.10
+
+22.4
+
+SD
+
+14.7
+
+9.5
+
+6.7
+
+2.1
+
+2.4
+
+2.9
+
+2.8
+
+3.1
+
+0.70
+
+3.3
+
+Female (n = 4)
+
+Mean
+
+34
+
+63.0
+
+22.7
+
+10.0
+
+11.1
+
+12.0
+
+12.3
+
+14.6
+
+3.20
+
+19.2
+
+SD
+
+11.7
+
+7.1
+
+6.1
+
+2.4
+
+2.5
+
+2.5
+
+3.0
+
+2.9
+
+0.37
+
+2.8
+
+Note: Participant characteristics and laboratory graded exercise testing results are presented. VT1 = first ventilatory threshold, LT = lactate threshold, OBLA = onset of blood lactate accumulation, VT2 = second ventilatory threshold, Peak GET = peak 1 minute from graded exercise test, VO
+2
+ = maximum oxygen consumption, vMART = velocity maximal anaerobic running test, SD = standard deviation
+
+The oxygen cost of running (2.92 ± 0.35 VO
+2
+ L min
+−1
+) at 12.0 km · h
+−1
+ had no relationship with Stryd economy measures form power (76 ± 11 W) nor form power ratio (0.30 ± 0.03). Also, there was no relationship between oxygen cost and vertical oscillation (8.7 ± 1.5 cm), cadence (84 ± 5 steps min
+−1
+), leg spring stiffness (11.5 ± 2.3 kN m-
+1
+) or GCT (235 ± 22 ms) at this same velocity.
+
+Within 6 weeks of laboratory testing runners completed 54 ± 46 outdoor runs with Stryd, covering a distance of 464 ± 423 km in 39 ± 28 hours with an elevation gain of 4862 ± 3376 m. Training speed with Stryd was 11.9 ± 1.9 km · h
+−1
+. Stryd data from regular training was compared with Stryd data from laboratory testing which revealed OBLA and VT2 were the closest physiological thresholds to CP
+STRYD
+ (
+Table 2
+). CP
+STRYD
+ was not different (p > 0.05) from peak 20-minute power, power at OBLA or power at VT2. While speed at OBLA was slower (p < 0.01) compared with VT2 (
+Table 1
+), power at OBLA was not different (p = 0.07) compared with power at VT2 (
+Table 2
+).
+
+TABLE 2
+
+Stryd power from outdoor running compared with laboratory testing.
+
+Stryd Power (W) for runners during outdoor running
+
+Stryd Power (W) for runners during laboratory testing
+
+CP
+
+3 min MMP
+
+5 min MMP
+
+10 min MMP
+
+20 min MMP
+
+VT1
+
+LT
+
+OBLA
+
+VT2
+
+Peak GET
+
+MART
+
+Min.
+
+207
+
+243
+
+235
+
+228
+
+191
+
+117
+
+118
+
+150
+
+151
+
+213
+
+388
+
+Mean
+
+302
+
+365
+
+353
+
+327
+
+301
+
+248
+
+262
+
+296
+
+304
+
+354
+
+541
+
+SD
+
+58
+
+78
+
+74
+
+65
+
+69
+
+51
+
+46
+
+56
+
+65
+
+66
+
+108
+
+Max.
+
+393
+
+512
+
+487
+
+422
+
+406
+
+320
+
+325
+
+369
+
+393
+
+449
+
+703
+
+Stryd power data for 20 runners completing 54 ± 46 runs, covering a distance of 464 ± 423 km with Stryd are compared with Stryd power from laboratory testing. CP = critical power, MMP = maximum mean power, SD = standard deviation, VT1 = first ventilatory threshold, LT = lactate threshold, OBLA = onset of blood lactate accumulation, VT2 = second ventilatory threshold, Peak GET = peak 1 minute from graded exercise test., MART = maximal anaerobic running test,
+
+CP
+STRYD
+ 302 ± 58 W was not different (p = 0.34) compared with CP
+CALC
+ 305 ± 60 W (
+Figure 1a
+). No bias was evident (
+Figure 1b
+). The TOST procedure (CP
+CALC
+ – CP
+STRYD
+, p = 0.34, Cohen’s d = 0.09 and CP
+STRYD
+ – CP
+CALC
+, p = 0.66, Cohen’s d = 
+
+----
+
+
+DISCUSSION
+
+We found that CP
+STRYD
+ generated from regular training over a six week period was equivalent to that calculated using an established CP model. However, individual runner variance between CP
+STRYD
+ and other CP models must be a consideration for runners and coaches. CP
+STRYD
+ was most similar in intensity to VT2 and OBLA and was predictive of outdoor and laboratory running performance. However, laboratory-based data were superior predictors of running performance when compared with CP
+STRYD
+. In addition, we found that Stryd running economy measures, form power and form power ratio, had little relationship with the oxygen cost of running. In contrast, GCT was inversely associated with performance when comparing runners at the same submaximal speed.
+
+We found CP
+STRYD
+ (302 ± 58 W) was not different from CP
+CALC
+ (305 ± 60 W) estimated from a linear model using four MMP durations. In addition, we detected little bias between the two CP estimates. Day to day CP variation of ~5% has been previously reported for individual athletes [
+27
+]. As the differences between CP
+STRYD
+ and CP
+CALC
+ from our TOST procedure was not significant and is less (Cohen’s d = 0.09) than 5% we suggest that the two CP estimates can be considered equivalent. It must be noted that some participants did record differences between the two CP estimates. While physiologically, CP supposedly represents a single boundary for an individual athlete between steady-state and non-steady state exercise intensity [
+12
+], different protocols and models are known to affect its determination [
+15
+]. CP
+STRYD
+ is an unknown unknown proprietary algorithm and the power time durations used in its estimation are not published for commercial reasons. Individual runner variance between the two CP estimates is somewhat an expected finding. Coaches and runners should be aware that any method of determining CP may not be interchangeable with other methods. However, CP
+STRYD
+ appears to be an acceptable method of determining CP in running when compared with previously published linear models.
+
+CP
+STRYD
+ intensity closely resembles VT2 and OBLA which are thresholds frequently used as guides for training intensity distribution or “polarised training” in endurance athletes [
+28
+, 
+29
+]. CP
+STRYD
+ would thus appear to facilitate polarised training at recommend intensity distributions, without the need for laboratory testing. There may be limitations for using CP
+STRYD
+ as a threshold. Our results suggest for participants with lower CP
+STRYD
+ values (~220 W), VT2 may occur at a lower intensity compared with CP
+STRYD
+. Also, individual subject differences of 20–40 W (7–13%) between CP
+STRYD
+ and power at VT2 were observed. Although CP
+STRYD
+ intensity may be similar to VT2, we cannot discount that it may be an independent physiological threshold. Also, it should be noted that we did not determine MLSS which has been suggested as a true representation of the boundary between steady-state and non-steady state exercise intensity [
+17
+, 
+18
+, 
+30
+]. In spite of these limitations, we speculate that individuals who experience an increase in CP
+STRYD
+ (W/kg) would also likely improve endurance performance. Although we did not specifically compare changes in CP
+STRYD
+ with changes in performance, some runners in our cohort did experience an increase in CP
+STRYD
+ over the training period that appeared to coincide with an increase in performance. Further research is required to confirm if chan
+
+----
+
+
+CONCLUSIONS
+
+In conclusion, CP
+STRYD
+ generated from outdoor running is equivalent to that calculated using an established CP model. CP
+STRYD
+ appears to most similar in intensity to VT2 or OBLA and may offer a useful guide for training intensity distribution or polarised training. CP
+STRYD
+ is highly predictive of running performance although laboratory-based data are superior predictors. While Stryd was not predictive of the oxygen cost of running when comparing runners at the same submaximal speed, Stryd GCT is inversely associated with performance and may be a useful field-based parameter. Stryd offers meaningful data for runners including a realistic estimate of CP.
+
+Acknowledgements
+
+The authors would like to thank the participants for agreeing to the study and The Eastern Institute of Technology for funding this study.
+
+Conflict of interest declaration
+
+No potential conflict of interest was reported by the author(s).
+
+REFERENCES
+
+1
+
+Jaén-Carrillo
+
+D
+
+, 
+
+Roche-Seruendo
+
+LE
+
+, 
+
+Cartón-Llorente
+
+A
+
+, 
+
+Ramírez-Campillo
+
+R
+
+, 
+
+García-Pinillos
+
+F
+
+. 
+Mechanical power in endurance running: a scoping review on sensors for power output estimation during running
+. 
+Sensors
+. 
+2020
+; 
+20
+(
+22
+):
+6482
+.
+33202809
+
+10.3390/s20226482
+
+PMC7696724
+
+2
+
+García-Pinillos
+
+F
+
+, 
+
+Latorre-Román
+
+PÁ
+
+, 
+
+Roche-Seruendo
+
+LE
+
+, 
+
+García-Ramos
+
+A
+
+. 
+Prediction of power output at different running velocities through the two-point method with the Stryd™ power meter
+. 
+Gait Posture
+. 
+2019
+; 
+68
+:
+238
+–
+43
+.
+30528962
+
+10.1016/j.gaitpost.2018.11.037
+
+3
+
+Cerezuela-Espejo
+
+V
+
+, 
+
+Hernández-Belmonte
+
+A
+
+, 
+
+Courel-Ibáñez
+
+J
+
+, 
+
+Conesa-Ros
+
+E
+
+, 
+
+Mora-Rodríguez
+
+R
+
+, 
+
+Pallarés
+
+JG
+
+. 
+Are we ready to measure running power? Repeatability and concurrent validity of five commercial technologies
+. 
+Eur J Sport Sci
+. 
+2021
+; 
+21
+(
+3
+):
+341
+–
+50
+.
+32212955
+
+10.1080/17461391.2020.1748117
+
+4
+
+Austin
+
+CL
+
+, 
+
+Hokanson
+
+JF
+
+, 
+
+McGinnis
+
+PM
+
+, 
+
+Patrick
+
+S
+
+. 
+The relationship between running power and running economy in well-trained distance runners
+. 
+Sports
+. 
+2018
+; 
+6
+(
+4
+):
+142
+.
+30404176
+
+10.3390/sports6040142
+
+PMC6317050
+
+5
+
+García-Pinillos
+
+F
+
+, 
+
+Latorre-Román
+
+PÁ
+
+, 
+
+Soto-Hermoso
+
+VM
+
+, 
+
+Párraga-Montilla
+
+JA
+
+, 
+
+Pantoja-Vallejo
+
+A
+
+, 
+
+Ramírez-Campillo
+
+R
+
+, 
+
+Roche-Seruendo
+
+LE
+
+. 
+Agreement between the spatiotemporal gait parameters from two different wearable devices and high-speed video analysis
+. 
+PLoS One
+. 
+2019
+; 
+14
+(
+9
+):
+e0222872
+.
+31550296
+
+10.1371/journal.pone.0222872
+
+PMC6759187
+
+6
+
+Navalta
+
+JW
+
+, 
+
+Montes
+
+J
+
+, 
+
+Bodell
+
+NG
+
+, 
+
+Aguilar
+
+CD
+
+, 
+
+Radzak
+
+K
+
+, 
+
+Manning
+
+JW
+
+, 
+
+DeBeliso
+
+M
+
+. 
+Reliability of trail walking and running tasks using the Stryd power meter
+. 
+Int J Sports Med
+. 
+2019
+; 
+40
+(
+08
+):
+498
+–
+502
+.
+31288288
+
+10.1055/a-0875-4068
+
+7
+
+Pinedo-Jauregi
+
+A
+
+, 
+
+Garcia-Tabar
+
+I
+
+, 
+
+Carrier
+
+B
+
+, 
+
+Navalta
+
+JW
+
+, 
+
+Cámara
+
+J
+
+. 
+Reliability and validity of the Stryd Power Meter during different walking conditions
+. 
+Gait Posture
+. 
+2022
+; 
+92
+:
+277
+–
+83
+.
+34896839
+
+10.1016/j.gaitpost.2021.11.041
+
+8
+
+García-Pinillos
+
+F
+
+, 
+
+Soto-Hermoso
+
+VM
+
+, 
+
+Latorre-Román
+
+PÁ
+
+, 
+
+Párraga-Montilla
+
+JA
+
+, 
+
+Roche-Seruendo
+
+LE
+
+. 
+How Does Power During Running Change when Measured at Different Time Intervals?
+
+Int J Sports Med
+. 
+2019
+; 
+40
+(
+09
+):
+609
+–
+13
+.
+31295744
+
+10.1055/a-0946-2159
+
+9
+
+Imbach
+
+F
+
+, 
+
+Candau
+
+R
+
+, 
+
+Chailan
+
+R
+
+, 
+
+Perrey
+
+S
+
+. 
+Validity of the Stryd power meter in measuring running parameters at submaximal speeds
+. 
+
+----
+
+limitations for using CP
+STRYD
+ as a threshold. Our results suggest for participants with lower CP
+STRYD
+ values (~220 W), VT2 may occur at a lower intensity compared with CP
+STRYD
+. Also, individual subject differences of 20–40 W (7–13%) between CP
+STRYD
+ and power at VT2 were observed. Although CP
+STRYD
+ intensity may be similar to VT2, we cannot discount that it may be an independent physiological threshold. Also, it should be noted that we did not determine MLSS which has been suggested as a true representation of the boundary between steady-state and non-steady state exercise intensity [
+17
+, 
+18
+, 
+30
+]. In spite of these limitations, we speculate that individuals who experience an increase in CP
+STRYD
+ (W/kg) would also likely improve endurance performance. Although we did not specifically compare changes in CP
+STRYD
+ with changes in performance, some runners in our cohort did experience an increase in CP
+STRYD
+ over the training period that appeared to coincide with an increase in performance. Further research is required to confirm if changes in CP
+STRYD
+ with correlate with changes in performance.
+
+We found no difference (p = 0.07) in Stryd power between OBLA and VT2 (296 vs 304 W), yet running speed at OBLA was slower (p < 0.01) than VT2 (14.2 vs 14.7 km h
+−1
+). Similar OBLA and VT2 velocity differences have been reported previously in runners [
+25
+]. The fact that velocity and not power was different, might suggest that velocity is a more precise measure of intensity compared with Stryd power. However, even a 1% change in grade substantially changes the energetic cost of running [
+22
+], while Stryd power, unlike velocity, accounts for both elevation and wind. We found Stryd power linearity for flat and incline treadmill running was excellent (R
+2
+ > 0.99). Thus, we speculate that Stryd power is likely to be superior compared with velocity for any individual runner seeking to measure running intensity where a change in grade result in changes in velocity.
+
+CP
+STRYD
+ (W/Kg) was able to explain 73–89% of the variance in running performance for 1500 m, 5000 m and GET peak speed. However, for all three of these measures of running performance, laboratory testing was superior to Stryd CP and explained 91–95% of the variance. Treadmill velocities during GET were the most predictive of performance which is similar to previous research [
+31
+]. While the two international class runners in our cohort had lowest oxygen cost at submaximal speed, this was not predictive of any performance in this study. In contrast, Stryd GCT had significant inverse relationships with peak GET speed, VO
+2peak
+, OBLA, and outdoor running performance. Lower GCT has been associated with greater economical running in elite runners [
+32
+]. While laboratory exercise testing remains the gold standard to predict endurance performance, CP
+STRYD
+ is highly predictive of performance and Stryd GCT may also be a useful field-based parameter.
+
+A major limitation from our study was that COVID restrictions prevented a single time trial. Thus, for our outdoor trials, participants encountered varying running conditions that we are unable to control for such as different weather, temperature and courses. Nevertheless, even with this limitation, CP
+STRYD
+ was highly predictive of outdoor performance. It must also be noted that our runners could not have feasibility raced one another in any meaningful way. Even a 1500 m track based time trail would result in some participants
+
+----
+
+
+Acknowledgements
+
+The authors would like to thank the participants for agreeing to the study and The Eastern Institute of Technology for funding this study.
+
+Conflict of interest declaration
+
+No potential conflict of interest was reported by the author(s).
+
+REFERENCES
+
+1
+
+Jaén-Carrillo
+
+D
+
+, 
+
+Roche-Seruendo
+
+LE
+
+, 
+
+Cartón-Llorente
+
+A
+
+, 
+
+Ramírez-Campillo
+
+R
+
+, 
+
+García-Pinillos
+
+F
+
+. 
+Mechanical power in endurance running: a scoping review on sensors for power output estimation during running
+. 
+Sensors
+. 
+2020
+; 
+20
+(
+22
+):
+6482
+.
+33202809
+
+10.3390/s20226482
+
+PMC7696724
+
+2
+
+García-Pinillos
+
+F
+
+, 
+
+Latorre-Román
+
+PÁ
+
+, 
+
+Roche-Seruendo
+
+LE
+
+, 
+
+García-Ramos
+
+A
+
+. 
+Prediction of power output at different running velocities through the two-point method with the Stryd™ power meter
+. 
+Gait Posture
+. 
+2019
+; 
+68
+:
+238
+–
+43
+.
+30528962
+
+10.1016/j.gaitpost.2018.11.037
+
+3
+
+Cerezuela-Espejo
+
+V
+
+, 
+
+Hernández-Belmonte
+
+A
+
+, 
+
+Courel-Ibáñez
+
+J
+
+, 
+
+Conesa-Ros
+
+E
+
+, 
+
+Mora-Rodríguez
+
+R
+
+, 
+
+Pallarés
+
+JG
+
+. 
+Are we ready to measure running power? Repeatability and concurrent validity of five commercial technologies
+. 
+Eur J Sport Sci
+. 
+2021
+; 
+21
+(
+3
+):
+341
+–
+50
+.
+32212955
+
+10.1080/17461391.2020.1748117
+
+4
+
+Austin
+
+CL
+
+, 
+
+Hokanson
+
+JF
+
+, 
+
+McGinnis
+
+PM
+
+, 
+
+Patrick
+
+S
+
+. 
+The relationship between running power and running economy in well-trained distance runners
+. 
+Sports
+. 
+2018
+; 
+6
+(
+4
+):
+142
+.
+30404176
+
+10.3390/sports6040142
+
+PMC6317050
+
+5
+
+García-Pinillos
+
+F
+
+, 
+
+Latorre-Román
+
+PÁ
+
+, 
+
+Soto-Hermoso
+
+VM
+
+, 
+
+Párraga-Montilla
+
+JA
+
+, 
+
+Pantoja-Vallejo
+
+A
+
+, 
+
+Ramírez-Campillo
+
+R
+
+, 
+
+Roche-Seruendo
+
+LE
+
+. 
+Agreement between the spatiotemporal gait parameters from two different wearable devices and high-speed video analysis
+. 
+PLoS One
+. 
+2019
+; 
+14
+(
+9
+):
+e0222872
+.
+31550296
+
+10.1371/journal.pone.0222872
+
+PMC6759187
+
+6
+
+Navalta
+
+JW
+
+, 
+
+Montes
+
+J
+
+, 
+
+Bodell
+
+NG
+
+, 
+
+Aguilar
+
+CD
+
+, 
+
+Radzak
+
+K
+
+, 
+
+Manning
+
+JW
+
+, 
+
+DeBeliso
+
+M
+
+. 
+Reliability of trail walking and running tasks using the Stryd power meter
+. 
+Int J Sports Med
+. 
+2019
+; 
+40
+(
+08
+):
+498
+–
+502
+.
+31288288
+
+10.1055/a-0875-4068
+
+7
+
+Pinedo-Jauregi
+
+A
+
+, 
+
+Garcia-Tabar
+
+I
+
+, 
+
+Carrier
+
+B
+
+, 
+
+Navalta
+
+JW
+
+, 
+
+Cámara
+
+J
+
+. 
+Reliability and validity of the Stryd Power Meter during different walking conditions
+. 
+Gait Posture
+. 
+2022
+; 
+92
+:
+277
+–
+83
+.
+34896839
+
+10.1016/j.gaitpost.2021.11.041
+
+8
+
+García-Pinillos
+
+F
+
+, 
+
+Soto-Hermoso
+
+VM
+
+, 
+
+Latorre-Román
+
+PÁ
+
+, 
+
+Párraga-Montilla
+
+JA
+
+, 
+
+Roche-Seruendo
+
+LE
+
+. 
+How Does Power During Running Change when Measured at Different Time Intervals?
+
+Int J Sports Med
+. 
+2019
+; 
+40
+(
+09
+):
+609
+–
+13
+.
+31295744
+
+10.1055/a-0946-2159
+
+9
+
+Imbach
+
+F
+
+, 
+
+Candau
+
+R
+
+, 
+
+Chailan
+
+R
+
+, 
+
+Perrey
+
+S
+
+. 
+Validity of the Stryd power meter in measuring running parameters at submaximal speeds
+. 
+Sports
+. 
+2020
+; 
+8
+(
+7
+):
+103
+.
+32698464
+
+10.3390/sports8070103
+
+PMC7404478
+
+10
+
+García-Pinillos
+
+F
+
+, 
+
+Roche-Seruendo
+
+LE
+
+, 
+
+Marcén-Cinca
+
+N
+
+, 
+
+Marco-Contreras
+
+LA
+
+, 
+
+Latorre-Román
+
+PA
+
+. 
+Absolute reliability and concurrent validity of the Stryd system for the assessment of running stride kinematics at different velocities
+. 
+J Strength Cond Res
+. 
+2021
+; 
+35
+(
+1
+):
+78
+–
+84
+.
+29781934
+
+10.1519/JSC.0000000000002595
+
+11
+
+Jones
+
+AM
+
+, 
+
+Vanhatalo
+
+A
+
+, 
+
+Burnley
+
+M
+
+, 
+
+Morton
+
+RH
+
+, 
+
+Poole
+
+DC
+
+. 
+Critical power: implications for determination of VO
+2
+max and exercise tolerance
+. 
+Med Sci Sports Exerc
+. 
+2010
+; 
+42
+(
+10
+):
+1876
+–
+90
+.
+20195180
+
+10.1249/MSS.0b013e

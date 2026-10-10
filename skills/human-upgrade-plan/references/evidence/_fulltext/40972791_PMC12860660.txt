@@ -1,0 +1,1400 @@
+Abstract
+
+Image, graphical abstract
+
+Keywords
+
+Short bouts of accumulated exercise
+
+Exercise snacks
+
+Consensus statement
+
+Sedentary breaks
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY-NC-ND
+
+1
+
+Introduction
+
+Insufficient physical activity (PA)—defined as failing to accumulate at least 75 min/week of vigorous-intensity, 150 min/week of moderate-intensity PA, or a combination of both
+
+1
+
+—poses a significant global public health challenge.
+1
+, 
+2
+, 
+3
+ It is associated with increased incidence and mortality rates from non-communicable diseases, contributing to at least 5 million premature deaths annually,
+
+4
+
+ of which an estimated 3.9 million could be prevented through adequate PA.
+
+5
+
+ Survey data from 1.9 million participants across 168 countries indicate that 27.5% of the global population engages in insufficient PA,
+
+6
+
+ with rates among adolescents reaching 81.0%.
+
+7
+
+Sedentary behavior, another pressing public health issue,
+
+8
+
+ is defined as any waking behavior characterized by a low rate of energy expenditure (≤1.5 metabolic equivalents of task (MET)) while sitting or lying down.
+
+9
+
+ Self-reported sedentary time among adolescents rose from 7.0 h to 8.2 h daily between 2001 and 2016 year,
+
+10
+
+ while adults reported 8.8 h daily.
+
+11
+
+ Prolonged sedentary behavior negatively impacts glucose metabolism, lipid metabolism, and vascular function.
+
+12
+
+,
+
+13
+
+ For instance, a single prolonged sitting session can increase postprandial blood glucose levels by 18.0%,
+
+14
+
+ reduce insulin sensitivity by 28.0%,
+
+15
+
+ and decrease flow-mediated dilation by 2.1%.
+
+16
+
+ Chronic prolonged sedentary behavior also adversely affects body composition and the cardiovascular and musculoskeletal systems.
+
+13
+
+ These acute and chronic pathophysiological effects increase the risk of developing non-communicable diseases (including neurological, cardiovascular, and chronic metabolic conditions) and, ultimately, increase the risk of all-cause mortality.
+
+12
+
+,
+
+17
+
+Increasing PA and incorporating movement with large muscle groups to break up prolonged sitting are crucial strategies to address associated health challenges. Traditional efforts to promote continuous aerobic exercise have been largely unsuccessful, as current PA levels remain low and have not improved in recent years.
+
+18
+
+ Numerous studies, including interviews and surveys, suggest an important barrier to PA participation is the perceived lack of time.
+
+19
+
+,
+
+20
+
+ Therefore, shortening the duration of each exercise bout may be a more promising strategy for promoting participation in exercise. While traditional exercises, such as regular moderate-intensity continuous sessions, offer significant health benefits and can increase total PA levels,
+
+1
+
+ they can be limited in their ability to counteract the adverse effects of extended sitting periods, including elevations in postprandial glucose.
+
+21
+
+ In contrast, incorporating short bouts of accumulated exercise between periods of sitting (i.e., regularly interrupting sedentary behavior) may more effectively prevent the immediate adverse effects of prolonge
+
+----
+
+
+Introduction
+
+Insufficient physical activity (PA)—defined as failing to accumulate at least 75 min/week of vigorous-intensity, 150 min/week of moderate-intensity PA, or a combination of both
+
+1
+
+—poses a significant global public health challenge.
+1
+, 
+2
+, 
+3
+ It is associated with increased incidence and mortality rates from non-communicable diseases, contributing to at least 5 million premature deaths annually,
+
+4
+
+ of which an estimated 3.9 million could be prevented through adequate PA.
+
+5
+
+ Survey data from 1.9 million participants across 168 countries indicate that 27.5% of the global population engages in insufficient PA,
+
+6
+
+ with rates among adolescents reaching 81.0%.
+
+7
+
+Sedentary behavior, another pressing public health issue,
+
+8
+
+ is defined as any waking behavior characterized by a low rate of energy expenditure (≤1.5 metabolic equivalents of task (MET)) while sitting or lying down.
+
+9
+
+ Self-reported sedentary time among adolescents rose from 7.0 h to 8.2 h daily between 2001 and 2016 year,
+
+10
+
+ while adults reported 8.8 h daily.
+
+11
+
+ Prolonged sedentary behavior negatively impacts glucose metabolism, lipid metabolism, and vascular function.
+
+12
+
+,
+
+13
+
+ For instance, a single prolonged sitting session can increase postprandial blood glucose levels by 18.0%,
+
+14
+
+ reduce insulin sensitivity by 28.0%,
+
+15
+
+ and decrease flow-mediated dilation by 2.1%.
+
+16
+
+ Chronic prolonged sedentary behavior also adversely affects body composition and the cardiovascular and musculoskeletal systems.
+
+13
+
+ These acute and chronic pathophysiological effects increase the risk of developing non-communicable diseases (including neurological, cardiovascular, and chronic metabolic conditions) and, ultimately, increase the risk of all-cause mortality.
+
+12
+
+,
+
+17
+
+Increasing PA and incorporating movement with large muscle groups to break up prolonged sitting are crucial strategies to address associated health challenges. Traditional efforts to promote continuous aerobic exercise have been largely unsuccessful, as current PA levels remain low and have not improved in recent years.
+
+18
+
+ Numerous studies, including interviews and surveys, suggest an important barrier to PA participation is the perceived lack of time.
+
+19
+
+,
+
+20
+
+ Therefore, shortening the duration of each exercise bout may be a more promising strategy for promoting participation in exercise. While traditional exercises, such as regular moderate-intensity continuous sessions, offer significant health benefits and can increase total PA levels,
+
+1
+
+ they can be limited in their ability to counteract the adverse effects of extended sitting periods, including elevations in postprandial glucose.
+
+21
+
+ In contrast, incorporating short bouts of accumulated exercise between periods of sitting (i.e., regularly interrupting sedentary behavior) may more effectively prevent the immediate adverse effects of prolonged sitting on glucose, lipid metabolism, and vascular function.
+
+12
+
+,
+
+13
+
+,
+
+22
+, 
+23
+, 
+24
+ These findings highlight the importance of increasing PA and regularly interrupting sedentary behavior as complementary lifestyle strategies. Therefore, accumulating short bouts of exercise is a promising approach to mitigate the adverse effects of prolonged sitting and promote PA, ultimately promoting health.
+
+Epidemiological evidence supports associations of interrupting sedentary time with metabolic health, disease prevention, and the reduction of all-cause mortality. Healy et al.
+
+25
+
+ 
+
+----
+
+
+Methods
+
+A literature search was performed across PubMed and Web of Science, followed by systematic screening and summarization of eligible studies based on predefined inclusion criteria. Inclusion criteria encompassed various modes/types of SBAE (bouts lasting ≤10 min, performed multiple times daily with ≥30 min intervals); both aerobic and resistance exercise were considered. Relevant systematic reviews and research trials were included. Methodological quality, risk of bias, and evidence certainty were assessed. Expert consensus was obtained through a survey to evaluate recommendations and agreement levels on findings.
+
+Results
+
+After analyzing 27 systematic reviews, 135 research studies, and an expert consensus involving 48 researchers from 11 countries, SBAE is defined as any exercise mode of activity, regardless of intensity, that is accumulated in either continuous or intermittent bouts lasting ≤10 min per session (including multiple intermittent sets) that are performed multiple times (≥2 sessions/day) per day, with intervals of ≥30 min between bouts or otherwise sufficient time for recovery. When used to interrupt prolonged periods of sedentary time, SBAE mitigates the acute adverse effects of sedentary behavior on more than 10 clinical biomarkers of endocrine, cardiovascular, and brain health/function among adults of diverse ages and conditions. Moreover, SBAE was superior for improving acute glycemic control compared to a single continuous exercise session. As a long-term intervention (average of 11 weeks), SBAE can improve over 20 health outcomes, including peak oxygen uptake, resting blood pressure, and metabolic health. Additionally, SBAE might be more effective than continuous exercise for improving longer-term glycemic control and body composition. Long-term completion rates for SBAE interventions are generally high (95%), with low dropout rates (12%) and high adherence rates even without supervision (85%), and its safety has been preliminarily validated.
+
+Conclusion
+
+An operational definition of SBAE is provided along with its classification and acute and long-term efficacy. Practical exercise prescription recommendations and evidence-based strategies for various populations and contexts are provided. Future research should focus on generating high-quality evidence for SBAE in 5 key areas: quantification and monitoring, population-specific responses, optimization of exercise prescriptions, intervention efficacy, and practical implementation. Additionally, addressing policy, environmental, and promotional barriers is crucial for transitioning from expert consensus to public consensus, and for facilitating the application of this strategy in real-world environments.
+
+Graphical Abstract
+
+Image, graphical abstract
+
+Keywords
+
+Short bouts of accumulated exercise
+
+Exercise snacks
+
+Consensus statement
+
+Sedentary breaks
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY-NC-ND
+
+1
+
+Introduction
+
+Insufficient physical activity (PA)—defined as failing to accumulate at least 75 min/week of vigorous-intensity, 150 min/week of moderate-intensity PA, or 
+
+----
+
+
+Methods
+
+A literature search was performed across PubMed and Web of Science, followed by systematic screening and summarization of eligible studies based on predefined inclusion criteria. Inclusion criteria encompassed various modes/types of SBAE (bouts lasting ≤10 min, performed multiple times daily with ≥30 min intervals); both aerobic and resistance exercise were considered. Relevant systematic reviews and research trials were included. Methodological quality, risk of bias, and evidence certainty were assessed. Expert consensus was obtained through a survey to evaluate recommendations and agreement levels on findings.
+
+Results
+
+After analyzing 27 systematic reviews, 135 research studies, and an expert consensus involving 48 researchers from 11 countries, SBAE is defined as any exercise mode of activity, regardless of intensity, that is accumulated in either continuous or intermittent bouts lasting ≤10 min per session (including multiple intermittent sets) that are performed multiple times (≥2 sessions/day) per day, with intervals of ≥30 min between bouts or otherwise sufficient time for recovery. When used to interrupt prolonged periods of sedentary time, SBAE mitigates the acute adverse effects of sedentary behavior on more than 10 clinical biomarkers of endocrine, cardiovascular, and brain health/function among adults of diverse ages and conditions. Moreover, SBAE was superior for improving acute glycemic control compared to a single continuous exercise session. As a long-term intervention (average of 11 weeks), SBAE can improve over 20 health outcomes, including peak oxygen uptake, resting blood pressure, and metabolic health. Additionally, SBAE might be more effective than continuous exercise for improving longer-term glycemic control and body composition. Long-term completion rates for SBAE interventions are generally high (95%), with low dropout rates (12%) and high adherence rates even without supervision (85%), and its safety has been preliminarily validated.
+
+Conclusion
+
+An operational definition of SBAE is provided along with its classification and acute and long-term efficacy. Practical exercise prescription recommendations and evidence-based strategies for various populations and contexts are provided. Future research should focus on generating high-quality evidence for SBAE in 5 key areas: quantification and monitoring, population-specific responses, optimization of exercise prescriptions, intervention efficacy, and practical implementation. Additionally, addressing policy, environmental, and promotional barriers is crucial for transitioning from expert consensus to public consensus, and for facilitating the application of this strategy in real-world environments.
+
+Graphical Abstract
+
+Image, graphical abstract
+
+Keywords
+
+Short bouts of accumulated exercise
+
+Exercise snacks
+
+Consensus statement
+
+Sedentary breaks
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY-NC-ND
+
+1
+
+Introduction
+
+Insufficient physical activity (PA)—defined as failing to accumulate at least 75 min/week of vigorous-intensity, 150 min/week of moderate-intensity PA, or 
+
+----
+
+
+Results
+
+After analyzing 27 systematic reviews, 135 research studies, and an expert consensus involving 48 researchers from 11 countries, SBAE is defined as any exercise mode of activity, regardless of intensity, that is accumulated in either continuous or intermittent bouts lasting ≤10 min per session (including multiple intermittent sets) that are performed multiple times (≥2 sessions/day) per day, with intervals of ≥30 min between bouts or otherwise sufficient time for recovery. When used to interrupt prolonged periods of sedentary time, SBAE mitigates the acute adverse effects of sedentary behavior on more than 10 clinical biomarkers of endocrine, cardiovascular, and brain health/function among adults of diverse ages and conditions. Moreover, SBAE was superior for improving acute glycemic control compared to a single continuous exercise session. As a long-term intervention (average of 11 weeks), SBAE can improve over 20 health outcomes, including peak oxygen uptake, resting blood pressure, and metabolic health. Additionally, SBAE might be more effective than continuous exercise for improving longer-term glycemic control and body composition. Long-term completion rates for SBAE interventions are generally high (95%), with low dropout rates (12%) and high adherence rates even without supervision (85%), and its safety has been preliminarily validated.
+
+Conclusion
+
+An operational definition of SBAE is provided along with its classification and acute and long-term efficacy. Practical exercise prescription recommendations and evidence-based strategies for various populations and contexts are provided. Future research should focus on generating high-quality evidence for SBAE in 5 key areas: quantification and monitoring, population-specific responses, optimization of exercise prescriptions, intervention efficacy, and practical implementation. Additionally, addressing policy, environmental, and promotional barriers is crucial for transitioning from expert consensus to public consensus, and for facilitating the application of this strategy in real-world environments.
+
+Graphical Abstract
+
+Image, graphical abstract
+
+Keywords
+
+Short bouts of accumulated exercise
+
+Exercise snacks
+
+Consensus statement
+
+Sedentary breaks
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY-NC-ND
+
+1
+
+Introduction
+
+Insufficient physical activity (PA)—defined as failing to accumulate at least 75 min/week of vigorous-intensity, 150 min/week of moderate-intensity PA, or a combination of both
+
+1
+
+—poses a significant global public health challenge.
+1
+, 
+2
+, 
+3
+ It is associated with increased incidence and mortality rates from non-communicable diseases, contributing to at least 5 million premature deaths annually,
+
+4
+
+ of which an estimated 3.9 million could be prevented through adequate PA.
+
+5
+
+ Survey data from 1.9 million participants across 168 countries indicate that 27.5% of the global population engages in insufficient PA,
+
+6
+
+ with rates among adolescents reaching 81.0%.
+
+7
+
+Sedentary behavior, another pressing public health issue,
+
+8
+
+ is defined as any waking behavior characteriz
+
+----
+
+discussion, with a 3rd researcher (YL) assisting if needed. The 2 researchers (MY and HKZ) then reviewed the full texts to finalize inclusion, following the same resolution protocol for discrepancies.
+
+2.3
+
+Eligibility criteria
+
+A priori inclusion and exclusion criteria were applied to evaluate study eligibility under the Population, Intervention, Comparator, Outcome, and Study design (PICOS) framework. (a) Participants were humans of all ages and health statuses. (b) Interventions focused on SBAE, where each bout lasts ≤10 min (regardless of intensity and including various modes such as aerobic and resistance exercise) and is performed multiple times a day (≥2 sessions/day), with recovery or rest intervals of ≥30 min between sessions. The choice of “each bout lasts ≤10 min” is based on our current focus on short bouts. Previous PA guidelines have often used “10 min” as a cutoff/minimum threshold for what is defined as a bout of continuous exercise.
+
+202
+
+ The inclusion criterion of “multiple daily sessions (≥2 sessions/day) with ≥30-min inter-session intervals” aligns with 2 key considerations. First, it operationalizes the accumulated exercise paradigm central to SBAE. Second, the 30-min threshold reflects epidemiological evidence on sedentary behavior segmentation and corresponds with most SBAE research conventions, where ≥30-min intervals are used.
+
+26
+
+ However, studies on exercise performed in a single session, such as high-intensity interval training (HIIT), which is characterized by repeated short bursts of vigorous-intensity exercise followed by periods of low-intensity exercise or passive recovery lasting seconds to minutes,
+
+203
+
+ were excluded. (c) Comparisons include a no-PA/exercise control group, where participants maintain their usual daily PA habits, and an exercise control group, where activities/exercises were performed in a single session. (d) Outcomes were based on existing literature with no exclusions to ensure a comprehensive presentation of results. (e) Study designs eligible for inclusion encompassed cross-sectional acute studies, longitudinal controlled trials (randomized or non-randomized), and systematic reviews (including meta-analyses). Editorials, abstracts, and narrative reviews were excluded.
+
+2.4
+
+Data extraction
+
+Data extraction was performed by the 2 reviewers (MY and HKZ) using a customized Excel worksheet finalized before the full-text screening. They independently extracted author and study details, participant information, intervention protocols, and outcomes. Discrepancies were resolved by a 3rd researcher (YL). Authors were contacted for missing or graphical data; if unsuccessful, data were extracted using WebPlotDigitizer 4.1 (Ankit Rohatgi, Austin, TX, USA), which has high reliability and validity.
+
+204
+
+2.5
+
+Risk of bias and methodological quality
+
+Two reviewers (HKZ and HHY) independently assessed the quality of the included systematic reviews using the AMSTAR 2 tool (Ottawa Hospital Research Institute, University of Ottawa, Ottawa, Canada) based on 16 items related to review planning and delivery. Reviews were rated as “high”, “moderate”, “low”, or “critically low” based on identified weaknesses
+
+203
+
+ (
+Supplementary File 2
+). The risk of bias in acute cross-sectional and longitudinal controlled trials was assessed using the Cochrane RoB 2 tool (The Cochrane Collaboration, London, UK),
+
+205
+
+,
+
+206
+
+ covering random sequence generation, allocation concealment, blinding, incomplete outcome
+
+----
+
+
+Conclusion
+
+An operational definition of SBAE is provided along with its classification and acute and long-term efficacy. Practical exercise prescription recommendations and evidence-based strategies for various populations and contexts are provided. Future research should focus on generating high-quality evidence for SBAE in 5 key areas: quantification and monitoring, population-specific responses, optimization of exercise prescriptions, intervention efficacy, and practical implementation. Additionally, addressing policy, environmental, and promotional barriers is crucial for transitioning from expert consensus to public consensus, and for facilitating the application of this strategy in real-world environments.
+
+Graphical Abstract
+
+Image, graphical abstract
+
+Keywords
+
+Short bouts of accumulated exercise
+
+Exercise snacks
+
+Consensus statement
+
+Sedentary breaks
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY-NC-ND
+
+1
+
+Introduction
+
+Insufficient physical activity (PA)—defined as failing to accumulate at least 75 min/week of vigorous-intensity, 150 min/week of moderate-intensity PA, or a combination of both
+
+1
+
+—poses a significant global public health challenge.
+1
+, 
+2
+, 
+3
+ It is associated with increased incidence and mortality rates from non-communicable diseases, contributing to at least 5 million premature deaths annually,
+
+4
+
+ of which an estimated 3.9 million could be prevented through adequate PA.
+
+5
+
+ Survey data from 1.9 million participants across 168 countries indicate that 27.5% of the global population engages in insufficient PA,
+
+6
+
+ with rates among adolescents reaching 81.0%.
+
+7
+
+Sedentary behavior, another pressing public health issue,
+
+8
+
+ is defined as any waking behavior characterized by a low rate of energy expenditure (≤1.5 metabolic equivalents of task (MET)) while sitting or lying down.
+
+9
+
+ Self-reported sedentary time among adolescents rose from 7.0 h to 8.2 h daily between 2001 and 2016 year,
+
+10
+
+ while adults reported 8.8 h daily.
+
+11
+
+ Prolonged sedentary behavior negatively impacts glucose metabolism, lipid metabolism, and vascular function.
+
+12
+
+,
+
+13
+
+ For instance, a single prolonged sitting session can increase postprandial blood glucose levels by 18.0%,
+
+14
+
+ reduce insulin sensitivity by 28.0%,
+
+15
+
+ and decrease flow-mediated dilation by 2.1%.
+
+16
+
+ Chronic prolonged sedentary behavior also adversely affects body composition and the cardiovascular and musculoskeletal systems.
+
+13
+
+ These acute and chronic pathophysiological effects increase the risk of developing non-communicable diseases (including neurological, cardiovascular, and chronic metabolic conditions) and, ultimately, increase the risk of all-cause mortality.
+
+12
+
+,
+
+17
+
+Increasing PA and incorporating movement with large muscle groups to break up prolonged sitting are crucial strategies to address associated health challenges. Traditional efforts to promote continuous aerobic exercise have been largely unsuccessful, as current PA levels remain low and have not improved in recent years.
+
+18
+
+ Numerous studies, including interviews and surveys, suggest a
+
+----
+
+practical applications, and future directions
+
+Yin
+
+Mingyue
+
+a
+
+†
+
+Li
+
+Yongming
+
+a
+
+b
+
+c
+
+†
+
+Aziz
+
+Abdul Rashid
+
+d
+
+Buffey
+
+Aidan
+
+e
+
+f
+
+Bishop
+
+David J.
+
+g
+
+Bao
+
+Dapeng
+
+h
+
+i
+
+Nassis
+
+George P.
+
+j
+
+Islam
+
+Hashim
+
+k
+
+l
+
+Wang
+
+Hongying
+
+a
+
+Fyfe
+
+Jackson J.
+
+m
+
+Xu
+
+Jianfang
+
+c
+
+Liu
+
+Jianxiu
+
+n
+
+Zhao
+
+Jiexiu
+
+c
+
+Cao
+
+Jingwei
+
+c
+
+Little
+
+Jonathan P.
+
+k
+
+l
+
+Qiu
+
+Junqiang
+
+o
+
+p
+
+Diaz
+
+Keith M.
+
+q
+
+Wang
+
+Lijuan
+
+r
+
+Zou
+
+Liye
+
+s
+
+Western
+
+Max J.
+
+t
+
+u
+
+Toledo
+
+Meynard L.
+
+v
+
+Hu
+
+Min
+
+w
+
+Quan
+
+Minghui
+
+x
+
+Owen
+
+Neville
+
+y
+
+z
+
+Vollaard
+
+Niels B.J.
+
+aa
+
+Girard
+
+Olivier
+
+ab
+
+Shi
+
+Qingde
+
+ac
+
+Metcalfe
+
+Richard S.
+
+ad
+
+ae
+
+Ramirez-Campillo
+
+Rodrigo
+
+af
+
+ag
+
+ah
+
+Wang
+
+Ru
+
+x
+
+Wongpipit
+
+Waris
+
+ai
+
+aj
+
+ak
+
+Zhu
+
+Weimo
+
+al
+
+am
+
+Zhu
+
+Wenfei
+
+an
+
+Xu
+
+Weigang
+
+ao
+
+Wang
+
+Xiaochun
+
+ap
+
+Chen
+
+Xiaoping
+
+c
+
+Wang
+
+Xiong
+
+aq
+
+Wen
+
+Xu
+
+ar
+
+Liu
+
+Yang
+
+r
+
+Gao
+
+Ying
+
+ar
+
+Fu
+
+Yue
+
+as
+
+Kong
+
+Zhaowei
+
+at
+
+Cao
+
+Zhenbo
+
+x
+
+Wang
+
+Zhengzhen
+
+au
+
+Chen
+
+Peijie
+
+chenpeijie@sus.edu.cn
+
+x
+
+⁎
+
+Mao
+
+Lijuan
+
+maolijuan@sus.edu.cn
+
+a
+
+⁎
+
+a
+School of Athletic Performance, Shanghai University of Sport, Shanghai 200438, China
+
+b
+School of Coaching, Shanghai University of Sport, Shanghai 200438, China
+
+c
+China Institute of Sport Science, Beijing 100061, China
+
+d
+Sport Science and Sport Medicine, Singapore Sport Institute 397630, Singapore
+
+e
+Physical Activity for Health, Health Research Institute, University of Limerick, Limerick V94 T9PX, Ireland
+
+f
+Department of Physical Education and Sport Sciences, Faculty of Education of Health and Sciences, University of Limerick, Limerick V94 T9PX, Ireland
+
+g
+Institute for Health and Sport (IHES), Victoria University, Melbourne, VIC 3011, Australia
+
+h
+China Institute of Sport and Health Science, Beijing Sport University, Beijing 100084, China
+
+i
+Medical Examination Center, Peking University Third Hospital, Beijing 100191, China
+
+j
+College of Sport Science, University of Kalba, Sharjah, United Arab Emirates
+
+k
+School of Health and Exercise Sciences, Faculty of Health and Social Development, The University of British Columbia – Okanagan, Kelowna V1V 1V7, Canada
+
+l
+Centre for Chronic Disease Prevention and Management, Faculty of Medicine, The University of British Columbia – Okanagan, Kelowna V1V 1V7, Canada
+
+m
+School of Exercise and Nutrition Sciences, Institute for Physical Activity and Nutrition (IPAN), Deakin University, Geelong, VIC 3216, Australia
+
+n
+Division of Sports Science and Physical Education, Tsinghua University, Beijing 100084, China
+
+o
+Department of Exercise Biochemistry, School of Sports Science, Beijing Sport University, Beijing 100084, China
+
+p
+Beijing Sports Nutrition Engineering Research Center, Beijing 100084, China
+
+q
+Center for Behavioral Cardiovascular Health, Department of Medicine, Columbia University Medical Center, New York, NY 10032, USA
+
+r
+School of Physical Education, Shanghai University of Sport, Shanghai 200438, China
+
+s
+Body-Brain-Mind Laboratory, School of Psychology, Shenzhen University, Shenzhen 518060, China
+
+t
+Department for Health, University of Bath, Bath BA2 7AY, UK
+
+u
+Centre for Motivation and Health Behaviour Change, University of Bath, Bath BA2 7AY, UK
+
+v
+Center for Self-report Science, Center for Economic and Social Research, University of Southern CA, Los Angeles, CA 90089, USA
+
+w
+Guangdong Key Lab of Physical Activity and Health Promotion, Guangzhou Sport University, Guangzhou 510500, China
+
+x
+School of Exercise and Health, Shanghai University of Sport, Shanghai 200438, China
+
+y
+Swinburne University of T
+
+----
+
+limitations such as programmatic gaps (e.g., insufficient upper-body-focused protocols), environmental constraints, and internal challenges like motivational deficits (e.g., boredom and habitual neglect of practice). Although current evidence derives predominantly from short-term interventions, these preliminary findings establish a foundational framework for understanding behavioral determinants. Future studies may further investigate longitudinal dynamics changes of SBAE behavioral determinants, examining temporal variations in determinants to optimize adaptive implementation strategies. The barriers and enablers to implementation details are summarized in 
+Fig. 2
+ and 
+Supplementary File 8
+, with future recommendations discussed in detail in 
+Section 8
+.
+
+8
+
+Evidence-based practice applications
+
+8.1
+
+Summary of prescription variables
+
+The recommendations for all specific motion variable parameters are summarized in 
+Fig. 3
+.
+
+Fig. 3
+
+Summary of SBAE prescription variables recommendations and future research directions. The top panel summarizes recommendations for each prescription variable of SBAE. The bottom panel outlines proposed future research directions for SBAE. The future research directions outlined above have all received a rating of “agree” or higher, with those marked with an * rated as “strongly agree”. More detailed recommendation levels and scoring for each item can be found in 
+Supplementary File 9
+. V̇O
+2peak
+ = peak oxygen uptake; SBAE = short bouts of accumulated exercise.
+
+Fig 3 dummy alt text
+
+8.1.1
+
+Frequency (daily) and timing
+
+The characteristic of SBAE being performed multiple times a day necessitates careful consideration of “timing”(i.e., daily frequency and density
+
+245
+
+) to maximize physiological benefits. Firstly, during periods of prolonged sedentary behavior (e.g., sitting, lying down), moderate- to low-intensity SBAE can intermittently break up sitting or reclining for 30–60 min, mitigating the harmful effects of extended sedentary behavior.
+
+12
+
+,
+
+13
+
+,
+
+16
+
+,
+
+21
+
+,
+
+42
+
+,
+
+44
+, 
+45
+, 
+46
+
+,
+
+48
+, 
+49
+, 
+50
+, 
+51
+
+,
+
+66
+
+ Specifically, an approach with higher frequency and shorter bout duration per session might be more effective for acute improvements in glycemic control compared to longer bouts performed with lower frequency.
+
+92
+
+,
+
+112
+
+,
+
+130
+
+,
+
+142
+
+,
+
+144
+
+,
+
+150
+
+Meanwhile, one must consider the influence of meals and exercise timing throughout the day. Firstly, performing moderate- to vigorous-intensity SBAE before meals can aid acute and long-term glycemic control. Francois et al.
+
+95
+
+ compared a single continuous treadmill exercise (30 min at 60%HR
+max
+) before dinner to SBAE before each meal (6 × 1 min at 90%HR
+max
+). Only the pre-meal short bouts significantly reduced postprandial glucose levels and the 24-h average glucose concentration, with benefits lasting into the following day. Secondly, sustained interventions can translate these acute benefits into long-term improvements in blood glucose indicators. Reynolds et al.
+
+172
+
+ found that walking for 10 min after each meal significantly improved postprandial glucose iAUC and fasting glucose compared to a single 30-min walk at another time of day. Similar findings were also observed in fasting glucose and glucose tolerance tests.
+
+178
+
+ Some studies have also compared the effects of exercise at pre-meal and post-meal time points. Engeroff et al.
+
+246
+
+ included eight trials (116 participants) and found that post-meal exercise signi
+
+----
+
+
+Acknowledgments
+
+The authors thank Prof. Barbara E. Ainsworth for her helpful comments and thoughtful suggestions for an earlier version. The authors thank Dr. Paddy Dempsey, Dr. Ana J. Pinto, and Prof. Martin J. Gibala for participating in this consensus survey and providing valuable insights into the clinical/practical implications and future research directions sections. The authors also thank the reviewers and editor for their invaluable, constructive feedback and suggestions, which significantly contributed to improving the quality of this manuscript. Thanks to Mr. Huakun Zheng and Mr. Henghao Yan for their help in data extraction and literature quality assessment.
+
+Peer review under responsibility of Shanghai University of Sport.
+
+Supplementary materials associated with this article can be found in the online version at 
+doi:10.1016/j.jshs.2025.101088
+.
+

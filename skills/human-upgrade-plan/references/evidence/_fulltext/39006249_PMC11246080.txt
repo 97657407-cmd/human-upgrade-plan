@@ -1,0 +1,691 @@
+abstracts, dissertations, conference papers, etc.; 2) The method of sleep deprivation is non-acute sleep deprivation, specifically those where the sleep deprivation duration for athletes extends for 1 week or more; 3) The data before and after the experimental intervention are incomplete.
+
+Literature Screening and Data Extraction
+
+The titles of the search literature were imported into the Note Express reference management software. After removing duplicates, two authors (MS and LJJ) independently screened the titles, abstracts, and full-text versions of the retrieved studies. Any disagreements were resolved through consensus with a third author (MJG). Subsequently, data extraction was carried out by two independent reviewers (MS and LJJ) using the designated data extraction table. Finally, 27 documents were included in the study, comprising 2 Chinese documents and 25 English documents. The detailed screening process is illustrated in 
+Figure 1
+.
+
+Figure 1
+
+Flow Diagram of Study Selection process. A literature search was performed in core databases (PubMed, Web of Science, etc.). We removed duplicates by NoteExpress reference management software to avoid reviewing duplicate articles. In 1513 publications, 817 publications were excluded. In the final step 38 full articles were excluded mainly as they were less relevant to the topic and research questions than those studies included in the qualitative synthesis, as compared and determined by two authors.
+
+Sequentially, data extraction was performed by two independent reviewers (MS and LJJ) using the designated data extraction table. The key elements extracted encompassed author and year details, form of sleep deprivation, testing time period, and basic information of the research subjects (including sports items, exercise level, sample size, gender, age), main outcomes. This systematic extraction process aimed to comprehensively capture and organize essential information for subsequent analysis and synthesis.
+
+Data Analysis
+
+The data underwent an analysis using Stata 14.0 Meta-Analysis, employing modules such as “of binary and continuous (matan)” and “Influence Analysis, metan-based” in. The chosen effect size indicator was the standard mean difference (SMD), which categorizes effect size into tiny (below 0.2), small (0.2–0.5), medium (0.5–0.8), and large (above 0.8).
+17
+ The random effects model was applied to merge the data.
+
+To evaluate the quality of the included literature, the Physiotherapy Evidence Database (PEDro) was utilized. Publication bias and sensitivity analyses were conducted using funnel plot and article-by-article removal method. It is crucial to note that in certain performance indicators, larger values correspond to enhanced sporting performance (such as throwing distance, vertical jump height, etc), while in others, smaller values indicate superior sporting performance (such as sprinting grades, etc.). To ensure uniform directionality across all indicators, those with smaller values were uniformly multiplied by “-1” during the data processing.
+18
+ This adjustment guarantees consistency and facilitates a coherent interpretation of the performance outcomes across diverse metrics.
+
+Research Results
+
+Basic Characteristics of Included Literature
+
+This study encompassed a total of 27 papers, comprising 75 sporting performance indicators and involving 369 participants (360 male athletes and 9 female athletes). Among the included documents, 25 focused exclusively on male athle
+
+----
+
+
+Introduction
+
+Sleep is a crucial physiological activity with profound implications for various aspects of health. Adequate sleep significantly contributes to enhanced cognitive function, mood regulation, immunity system function and metabolic process.
+1
+ In the realm of competitive sports, the experiences of world-class high-level athletes underscore the significance of quality sleep as a non-specific training factors influencing sporting performance. This realization has sparked extensive research and discourse with the competitive sports community.
+2
+,
+3
+ High-quality sleep not only fosters optimal concentration and mental states during competitions, leading to heightened competitive levels, but also facilitates post-high-intensity training and competition recovery. This, in turn, reduces the risk of injuries and extends athletes’ sporting careers
+4
+.
+
+In comparison to the general population, athletes often grapple with sleep deprivation due to factors such as morning and late evening training sessions, inter-state or international travel cross different time zones, unfamiliar sleeping environments, and pre-competition anxiety.
+5
+ Furthermore, studies examining global sleep quality reveal that 50% to 78% of elite athletes experience sleep disturbances, with approximately 22% to 26% enduring highly disrupted sleep.
+4
+ This underscores the significance and urgency of investigating the impact of acute sleep deprivation on athletes’ performance across various competitive levels. In this regard, exploring the sleep patterns of athletes at different proficiency levels warrants further investigation to provide a more comprehensive perspective and guidance. Long-term sleep deprivation or sleep disorders can significantly compromise subsequent sporting performance, diminishing overall sporting levels and athletic achievements. Notably, chronical sleep deprivation is less common among athletes, with acute sleep deprivation triggered by factors like event pressure, injuries, or temporary adjustments, being more prevalent, particularly before major competitions. Acute sleep deprivation refers to a state in which an individual remains partially or fully awake for a brief period (usually 24–72 hours).
+6
+ It is categorized as full night sleep deprivation (lasting over 24 hours without sleep) and partial sleep deprivation (involving partial sleep within a 24-hour period). The latter includes late sleep deprivation (falling asleep later than usual, eg, starting sleep at 3 a.m.) and early-rising sleep deprivation (waking up earlier than the normal waking time, eg, getting up at 3 a.m.).
+
+Until now, existing findings regarding the effects of acute sleep deprivation on different sports and performances vary. Some studies contend that acute sleep deprivation has no significant negative impact on athletes’ anaerobic endurance,
+7
+,
+8
+ maximum strength,
+9
+,
+10
+ aerobic endurance,
+11
+ etc., while others report contrasting conclusions.
+12
+,
+13
+ Most related studies qualitatively explore the negative impact of acute sleep deprivation without comprehensive quantitative analysis.
+14–16
+
+To our knowledge, limited research has delved into the impact of acute sleep deprivation on athletes’ sporting performance. To address this gap, we conducted a meta-analysis, applying the principles of evidence-based medicine. This systematic review aims to answer three critical questions: 1) does acute sleep deprivation negatively impact athletes’ sporting performance, and to wh
+
+----
+
+
+Methods
+
+Establishing literature inclusion and exclusion criteria, we conducted searches in both Chinese and English databases. Using stata 14.0, we analyzed 75 indicators from 27 included literature, focusing on three aspects: the impact of acute sleep deprivation on overall athletic performance, the impact on sporting performance across various athletic abilities, and the disparities in athletic performance between morning and afternoon following acute sleep deprivation.
+
+Results
+
+The effect size of acute sleep deprivation on overall athletic performance was −0.56 (
+P
+<0.05). Sub-analyses revealed effect sizes of −0.23 (
+P
+<0.05) for whole night sleep deprivation, −1.17 (
+P
+<0.05) for partial sleep deprivation at the end of the night, and −0.25 (
+P
+>0.05) for partial sleep deprivation in the beginning of the night. The effect sizes of acute sleep deprivation on high intensity intermittent exercise, skill control, speed, aerobic endurance, and explosive power indicators were −1.57, −1.06, −0.67, −0.54, and −0.39 respectively (
+P
+<0.05). The effect sizes of acute sleep deprivation on the overall athletic performance in the morning and afternoon were −0.30, and −1.11, respectively (
+P
+<0.05).
+
+Conclusion
+
+Acute sleep deprivation significantly impairs the overall athletic performance of athletes, with a more pronounced negative impact observed with partial sleep deprivation at the end of the night. Various types of exercise performance are adversely affected by acute sleep deprivation, with magnitude of impact ranking high intensity intermittent, skill control, speed, aerobic endurance, and explosive power. Following acute sleep deprivation, athletes’ overall sporting performance in the afternoon is inferior to that in the morning.
+
+Keywords
+
+acute sleep deprivation
+
+athletes
+
+athletic ability
+
+sporting performance
+
+meta-analysis
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY-NC
+
+Introduction
+
+Sleep is a crucial physiological activity with profound implications for various aspects of health. Adequate sleep significantly contributes to enhanced cognitive function, mood regulation, immunity system function and metabolic process.
+1
+ In the realm of competitive sports, the experiences of world-class high-level athletes underscore the significance of quality sleep as a non-specific training factors influencing sporting performance. This realization has sparked extensive research and discourse with the competitive sports community.
+2
+,
+3
+ High-quality sleep not only fosters optimal concentration and mental states during competitions, leading to heightened competitive levels, but also facilitates post-high-intensity training and competition recovery. This, in turn, reduces the risk of injuries and extends athletes’ sporting careers
+4
+.
+
+In comparison to the general population, athletes often grapple with sleep deprivation due to factors such as morning and late evening training sessions, inter-state or international travel cross different time zones, unfamiliar sleeping environments, and pre-competition anxiety.
+5
+ Furthermore, studies examining global sleep 
+
+----
+
+
+Methods
+
+Establishing literature inclusion and exclusion criteria, we conducted searches in both Chinese and English databases. Using stata 14.0, we analyzed 75 indicators from 27 included literature, focusing on three aspects: the impact of acute sleep deprivation on overall athletic performance, the impact on sporting performance across various athletic abilities, and the disparities in athletic performance between morning and afternoon following acute sleep deprivation.
+
+Results
+
+The effect size of acute sleep deprivation on overall athletic performance was −0.56 (
+P
+<0.05). Sub-analyses revealed effect sizes of −0.23 (
+P
+<0.05) for whole night sleep deprivation, −1.17 (
+P
+<0.05) for partial sleep deprivation at the end of the night, and −0.25 (
+P
+>0.05) for partial sleep deprivation in the beginning of the night. The effect sizes of acute sleep deprivation on high intensity intermittent exercise, skill control, speed, aerobic endurance, and explosive power indicators were −1.57, −1.06, −0.67, −0.54, and −0.39 respectively (
+P
+<0.05). The effect sizes of acute sleep deprivation on the overall athletic performance in the morning and afternoon were −0.30, and −1.11, respectively (
+P
+<0.05).
+
+Conclusion
+
+Acute sleep deprivation significantly impairs the overall athletic performance of athletes, with a more pronounced negative impact observed with partial sleep deprivation at the end of the night. Various types of exercise performance are adversely affected by acute sleep deprivation, with magnitude of impact ranking high intensity intermittent, skill control, speed, aerobic endurance, and explosive power. Following acute sleep deprivation, athletes’ overall sporting performance in the afternoon is inferior to that in the morning.
+
+Keywords
+
+acute sleep deprivation
+
+athletes
+
+athletic ability
+
+sporting performance
+
+meta-analysis
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY-NC
+
+Introduction
+
+Sleep is a crucial physiological activity with profound implications for various aspects of health. Adequate sleep significantly contributes to enhanced cognitive function, mood regulation, immunity system function and metabolic process.
+1
+ In the realm of competitive sports, the experiences of world-class high-level athletes underscore the significance of quality sleep as a non-specific training factors influencing sporting performance. This realization has sparked extensive research and discourse with the competitive sports community.
+2
+,
+3
+ High-quality sleep not only fosters optimal concentration and mental states during competitions, leading to heightened competitive levels, but also facilitates post-high-intensity training and competition recovery. This, in turn, reduces the risk of injuries and extends athletes’ sporting careers
+4
+.
+
+In comparison to the general population, athletes often grapple with sleep deprivation due to factors such as morning and late evening training sessions, inter-state or international travel cross different time zones, unfamiliar sleeping environments, and pre-competition anxiety.
+5
+ Furthermore, studies examining global sleep 
+
+----
+
+
+Results
+
+The effect size of acute sleep deprivation on overall athletic performance was −0.56 (
+P
+<0.05). Sub-analyses revealed effect sizes of −0.23 (
+P
+<0.05) for whole night sleep deprivation, −1.17 (
+P
+<0.05) for partial sleep deprivation at the end of the night, and −0.25 (
+P
+>0.05) for partial sleep deprivation in the beginning of the night. The effect sizes of acute sleep deprivation on high intensity intermittent exercise, skill control, speed, aerobic endurance, and explosive power indicators were −1.57, −1.06, −0.67, −0.54, and −0.39 respectively (
+P
+<0.05). The effect sizes of acute sleep deprivation on the overall athletic performance in the morning and afternoon were −0.30, and −1.11, respectively (
+P
+<0.05).
+
+Conclusion
+
+Acute sleep deprivation significantly impairs the overall athletic performance of athletes, with a more pronounced negative impact observed with partial sleep deprivation at the end of the night. Various types of exercise performance are adversely affected by acute sleep deprivation, with magnitude of impact ranking high intensity intermittent, skill control, speed, aerobic endurance, and explosive power. Following acute sleep deprivation, athletes’ overall sporting performance in the afternoon is inferior to that in the morning.
+
+Keywords
+
+acute sleep deprivation
+
+athletes
+
+athletic ability
+
+sporting performance
+
+meta-analysis
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY-NC
+
+Introduction
+
+Sleep is a crucial physiological activity with profound implications for various aspects of health. Adequate sleep significantly contributes to enhanced cognitive function, mood regulation, immunity system function and metabolic process.
+1
+ In the realm of competitive sports, the experiences of world-class high-level athletes underscore the significance of quality sleep as a non-specific training factors influencing sporting performance. This realization has sparked extensive research and discourse with the competitive sports community.
+2
+,
+3
+ High-quality sleep not only fosters optimal concentration and mental states during competitions, leading to heightened competitive levels, but also facilitates post-high-intensity training and competition recovery. This, in turn, reduces the risk of injuries and extends athletes’ sporting careers
+4
+.
+
+In comparison to the general population, athletes often grapple with sleep deprivation due to factors such as morning and late evening training sessions, inter-state or international travel cross different time zones, unfamiliar sleeping environments, and pre-competition anxiety.
+5
+ Furthermore, studies examining global sleep quality reveal that 50% to 78% of elite athletes experience sleep disturbances, with approximately 22% to 26% enduring highly disrupted sleep.
+4
+ This underscores the significance and urgency of investigating the impact of acute sleep deprivation on athletes’ performance across various competitive levels. In this regard, exploring the sleep patterns of athletes at different proficiency levels warrants further investigation to provide a more comprehensive perspective and guid
+
+----
+
+
+Discussion
+
+Mechanisms of Acute Sleep Deprivation Impacting Athletes’ Sporting Performance
+
+Acute sleep deprivation demonstrates a significant reduction in the overall sporting performance of athletes, yielding a medium effect size level (−0.56). This aligns with the findings of Craven’s study.
+39
+ The analysis suggests that the impact of acute sleep deprivation on athletes’ sporting performance may be attributed to several factors. Firstly, there is a correlation with the depletion of the body’s energy reserves. Acute sleep deprivation of athletes increases energy consumption to sustain physiological functions during wakefulness while impeding the resynthesis of energy substances post-exercise. Consequently, this leads to a decline in muscle glycogen and liver glycogen reserves, impacting the body’s mobilization efficiency and maintenance ability during exercise.
+23
+ Secondly, the reduction in athletes’ cognitive function due to sleep deprivation may play a significant role. This encompasses impairments in working memory, response inhibition, attention function and executive function. The literature provides theoretical explanations for the impact of sleep deprivation on cognitive functions, including attention control, alertness, prefrontal cortex susceptibility, and neuropsychological aspects.
+40
+ The third potential mechanism involves the inflammatory response triggered by acute sleep deprivation. The repair of the human immune system, primarily occurring during slow wave sleep (SWS), is hindered by sleep deprivation, leading to the prolongation of rapid eye movement sleep (REM) and disruptions in sleep structure. Thereby, the increasing levels of inflammatory factors like interleukin-6, C-reactive protein, and tumor necrosis factor-α. These factors contribute to a reduction in the body’s exercise capacity.
+41
+
+Research findings indicate that different types of acute sleep deprivation exert distinct effects on athletes’ sporting performance. Specifically, PSDE exhibits the most substantial negative impact (effect size −1.17), followed by SD (effect size −0.23). The effect size of PSDB is not statistically significant. Zerouali’s research supports that PSDE has a more pronounced impact on athletes’ selective attention than PSDB, possibly due to its influence on REM and SWS, critical stages for attention restoration and various physiological functions (such as memory consolidation, immune repair, energy recovery, and hormone release).
+42
+,
+43
+
+Examining the impact of different acute sleep deprivation types on various sporting performance indicators, PSDE, significantly affects explosive power, speed, high-intensity intermittent exercise, and skill control indicators (effect sizes are −0.95, −1.81, −2.01, −1.16 respectively), surpassing the impact of SD. This may be associated with the emotional arousal level of athletes before these tests. Athletes undergoing PSDE exhibit lower emotional arousal and a tendency towards depression,
+44
+ while SD induces higher emotional arousal, anxiety and mania. Therefore, explosive power, speed, high-intensity intermittent exercise, and skill control indicators are less affected by SD in comparison.
+
+Analysis of the Impact of Acute Sleep Deprivation on Different Types of Sporting Performance
+
+Acute sleep deprivation significantly impairs various types of sporting performance, with distinct magnitudes of impact across indicators. Examining effect sizes reveals that high-intensity intermittent exercise
+
+----
+
+
+Conclusion
+
+Acute sleep deprivation significantly impairs the overall athletic performance of athletes, with a more pronounced negative impact observed with partial sleep deprivation at the end of the night. Various types of exercise performance are adversely affected by acute sleep deprivation, with magnitude of impact ranking high intensity intermittent, skill control, speed, aerobic endurance, and explosive power. Following acute sleep deprivation, athletes’ overall sporting performance in the afternoon is inferior to that in the morning.
+
+Keywords
+
+acute sleep deprivation
+
+athletes
+
+athletic ability
+
+sporting performance
+
+meta-analysis
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY-NC
+
+Introduction
+
+Sleep is a crucial physiological activity with profound implications for various aspects of health. Adequate sleep significantly contributes to enhanced cognitive function, mood regulation, immunity system function and metabolic process.
+1
+ In the realm of competitive sports, the experiences of world-class high-level athletes underscore the significance of quality sleep as a non-specific training factors influencing sporting performance. This realization has sparked extensive research and discourse with the competitive sports community.
+2
+,
+3
+ High-quality sleep not only fosters optimal concentration and mental states during competitions, leading to heightened competitive levels, but also facilitates post-high-intensity training and competition recovery. This, in turn, reduces the risk of injuries and extends athletes’ sporting careers
+4
+.
+
+In comparison to the general population, athletes often grapple with sleep deprivation due to factors such as morning and late evening training sessions, inter-state or international travel cross different time zones, unfamiliar sleeping environments, and pre-competition anxiety.
+5
+ Furthermore, studies examining global sleep quality reveal that 50% to 78% of elite athletes experience sleep disturbances, with approximately 22% to 26% enduring highly disrupted sleep.
+4
+ This underscores the significance and urgency of investigating the impact of acute sleep deprivation on athletes’ performance across various competitive levels. In this regard, exploring the sleep patterns of athletes at different proficiency levels warrants further investigation to provide a more comprehensive perspective and guidance. Long-term sleep deprivation or sleep disorders can significantly compromise subsequent sporting performance, diminishing overall sporting levels and athletic achievements. Notably, chronical sleep deprivation is less common among athletes, with acute sleep deprivation triggered by factors like event pressure, injuries, or temporary adjustments, being more prevalent, particularly before major competitions. Acute sleep deprivation refers to a state in which an individual remains partially or fully awake for a brief period (usually 24–72 hours).
+6
+ It is categorized as full night sleep deprivation (lasting over 24 hours without sleep) and partial sleep deprivation (involving partial sleep within a 24-hour period). The la
+
+----
+
+
+Limitations
+
+This study is constrained by the quantity and quality of available original research literature. Some subgroups, such as the afternoon period of the aerobic endurance group, have limited data, incorporating only 2 indicators post-acute sleep deprivation. Further investigation is needed to ascertain whether the relatively small number of indicators in this subgroup contributes to the observed improvement in afternoon aerobic endurance performance compared to the morning. Moreover, in the process of outcome indicator extraction, our study focused exclusively on sporting performance and employed a classification primarily based on the energy supply characteristics and neuromuscular working methods. The potential existence of a more scientifically rigorous classification method warrants further exploration and scrutiny. Future research endeavors could delve into refining the methodology for a more nuanced categorization of outcome indicators.
+
+Conclusions
+
+Acute sleep deprivation significantly hampers athletes’ overall sporting performance, with the most profound negative impact observed in the context of PSDE.
+
+Various facets of sporting performance are adversely affected by acute sleep deprivation, with the following order of impact: high-intensity intermittent exercise, skill control, speed, aerobic endurance, and explosive power.
+
+Post-acute sleep deprivation, athletes’ overall sporting performance demonstrates a more pronounced decline in the PM compared to the AM. Specifically, aerobic endurance experiences a significant decrease in the AM, while explosive power and speed exhibit notable reductions in the PM. Moreover, skill control demonstrates a significant decrease in both the AM and PM.
+
+Practice Points
+
+Strategic optimization and adjustment of training schedules based on the varying impact of acute sleep deprivation on different exercise abilities are crucial for achieving optimal training outcomes.
+
+For sports emphasizing explosive power, speed, skill control, and similar attributes, consider reducing the time interval between awakening and training (or competition) to mitigate the negative effects of acute sleep deprivation.
+
+In unavoidable situations of acute sleep deprivation, athletes may prefer PSDB, such as traveling the night before, over PSDE involving early morning travel. This choice can potentially yield more effective mitigation of the adverse effects associated with acute sleep deprivation.
+
+Author Contributions
+
+All authors made a significant contribution to the work reported, whether that is in the conception, execution, acquisition of data, analysis and interpretation, or in all these areas; took part in drafting, revising or critically reviewing the article; gave final approval of the version to be published; have agreed on the journal to which the article has been submitted; and agree to be accountable for all aspects of the work.
+
+Disclosure
+
+The authors declare that they have no competing interests in this work.
+
+References
+
+1.
+
+Fox
+
+JL
+
+, 
+
+Scanlan
+
+AT
+
+, 
+
+Stanton
+
+R
+
+, et al. 
+Insufficient sleep in young athletes? Causes, consequences, and potential treatments
+. 
+
+Sports Med
+
+. 
+2020
+;
+50
+:
+461
+–
+470
+. doi:
+10.1007/s40279-019-01220-8
+
+31679145
+
+2.
+
+Cunha
+
+LA
+
+, 
+
+Costa
+
+JA
+
+, 
+
+Marques
+
+EA
+
+, et al. 
+The impact of sleep interventions on athletic performance: a systematic review
+. 
+
+Sports Med Open
+
+. 
+2023
+;
+9
+:
+1
+–
+18
+. doi:
+10.1186/s40798-023-00599-z
+
+37462808
+
+PMC10354314
+
+3.
+
+Miles
+
+KH
+
+,

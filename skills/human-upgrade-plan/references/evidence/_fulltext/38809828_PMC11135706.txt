@@ -1,0 +1,1206 @@
+abstracts of each article to determine their eligibility for full-text screening. Full texts then were reviewed in accordance with the predefined eligibility criteria. A custom data extraction sheet was used by CM to extract relevant data from the eligible studies. This sheet was devised with consideration to the Cochrane Consumers and Communication Review Group’s data extraction template [
+17
+]. Extracted data included: (1) study and participant characteristics (2) methodology (3) measurements and (4) outcomes. When relevant data were not reported or clarification was sought, the lead author was contacted. Authors related to eight studies [
+18
+–
+25
+] were contacted via email, two responded, and two provided the required data [
+23
+, 
+24
+]. If relevant data was presented in the study figures, they were extracted using Plot Digitizer (
+https://plotdigitizer.com/app
+).
+
+Risk of bias assessment
+
+The risk of bias assessment was conducted independently by two authors (CM + JL) using the most recent versions of Cochranes tools for systematic reviews. In order to handle different study designs, the revised Risk of Bias for randomised trials (RoB2) tool was used to assess randomised control trials (RCT) [
+26
+], while the Risk of Bias In Non-randomised Studies of Interventions (ROBINS-I) tool was used to grade non-randomised trials [
+27
+]. Risk of bias for RCTs and non-RCTs were judged as “low, some concern or high” and “low, moderate, serious, critical, or not applicable”, respectively. Risk-of-bias VISualization tool was used to produce traffic light plots for each assessment [
+28
+].
+
+Meta-analyses
+
+Raw sleep quality data (mean, standard deviation, sample size) were required for use in the meta-analyses. Mean standardised differences were chosen within the meta-analysis when the included studies employed the same measurement instruments. When the measurement instruments differed, standardised mean differences (Glass’ Δ) were used in order to permit between-study comparisons:
+
+Δ
+
+=
+
+m
+
+X
+
+1
+
+-
+
+m
+
+X
+
+2
+
+s
+
+d
+
+X
+
+2
+
+(1)
+
+where mX1, mX2 and sdX2 are the post-intervention mean, the control group mean (or baseline mean for non-RCTs) and the control group standard deviation (or baseline standard deviation for non-RCTs). Control group comparisons were selected over baseline comparisons when both were available.
+
+Two meta-analyses were conducted: 1) to determine the effect of overreaching on objective sleep quality and 2) to determine the effect of overreaching on subjective sleep quality. When a study used more than one method to assess either objective or subjective sleep quality then the most appropriate was chosen for the meta-analysis, see selections in 
+Table 1
+. Subgroup analyses were performed with respect to study design (RCTs and non-RCTs). While a subgroup analysis was conducted to account for differences in study design, the meta-analyses were still performed using random effects models to account for other aspects of heterogeneity. Glass’ Δ were interpreted as follows; trivial = < 0.2, small effect = 0.2–0.49, moderate effect = 0.5–0.79, large effect = ≥ 0.8 [
+29
+]. Heterogeneity was explored using both the I
+2
+ index (≥ 75%) and Cochran’s Q test (p < 0.10) [
+30
+]. All meta-analyses were conducted using the “meta” R package (version 4.2.1).
+
+10.1371/journal.pone.0303748.t001
+
+Table 1
+
+Overview of the reviewed studies.
+
+Study
+
+Original sample (n; gender; control group
+
+a
+
+)
+
+Training status (description in manuscript;
+
+V
+
+·
+
+O
+
+2
+
+max
+
+)
+
+S
+
+----
+
+
+Introduction
+
+Consistent and methodological training often underpins the success of elite endurance athletes. Yet while training philosophies may differ in terms of training volume and intensity distributions [
+1
+], the prescribed training requires a minimum effective stimulus to elicit physiological adaptations. Fatigue and recovery play an important balancing role in garnering either positive or negative responses to exercise [
+2
+]. Following excessive training, the loss of balance between recovery and fatigue can lead to a short-term decrement in physical performance more commonly known as functional overreaching [
+3
+, 
+4
+]. While functional overreaching causes a decrease in performance, appropriate recovery can result in improved performance compared with baseline levels representing a “supercompensation” effect [
+3
+]. Nonetheless, this fatigue must be managed through comprehensive recovery; otherwise, functional overreaching may soon turn into non-functional [
+3
+]. With the latter, the body fails to fully recover causing further maladaptation of performance and displaying symptoms of physiological and psychological distress. The progression of non-functional overreaching can also manifest in overtraining syndrome, which is associated with a long-term decrement in performance and dysregulation of several biological, hormonal, and psychological processes [
+3
+].
+
+Sleep is recognised as an integral part of exercise recovery. Sleep is involved in the maintenance of physiological systems within the body via its links with immune function [
+5
+], hormone regulation [
+6
+, 
+7
+], and metabolic efficiency [
+8
+]. Furthermore, the positive impact of sleep on the psychological system, including plastic remodelling and alteration of mood states, is a much agreed-upon outcome of the sleep process [
+9
+, 
+10
+]. From a practical perspective, sleep loss studies highlight the ability of disturbed sleep to challenge exercise performance [
+11
+]. Despite the suggestion that sleep is fundamental for the recovery of athletes, increased training load is often considered a risk factor for deteriorations in sleep quality [
+12
+], while sleep itself has recently been posed as an indicator to detect overreaching [
+13
+]. For example, an expert consensus statement published in 2020 [
+14
+] suggested that overreaching and overtraining were associated with a decline in sleep quality reiterating the conclusions of an earlier opinion article in this area [
+13
+]. While both articles are informative, future research that systematically reviews the literature and explicitly defines the eligible studies’ inclusion and exclusion criteria is required. Furthermore, a detailed breakdown of each study’s design, characteristics, methods, measurements, and biases would indicate the quality of evidence in this area and highlight areas for future research.
+
+The articles by Walsh et al. (2020) [
+14
+] and Lastella et al. (2018) [
+13
+] chose a generalised approach by evaluating all sports literature related to overreaching and sleep. Unfortunately, confounding factors that independently influence sleep, irrespective of overreaching, may differ between sports, making the true influence of overreaching on sleep challenging to discern. For example, how sleep disturbances transpire may differ depending on whether a sport includes characteristics such as contact and collisions, high cardiac loading, cognitive demands, or extensive muscle damage. Therefore, investigating the effect of overre
+
+----
+
+
+Methods
+
+Search strategy
+
+Following the guidelines of the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA), a systematic search of the literature was conducted [
+15
+]. The search strategy included the use of four electronic databases (Web of Science Core Collection, MEDLINE, Cochrane Central Database, SPORTDiscus) that were systematically screened. The final search was completed on 12
+th
+ May 2023 with restrictions on language (English and French only), but none relating to the date range of studies. Along with keyword searching, Medical Subject Headings (MeSH) were used to search the aforementioned libraries. Search terms were characterised under three headers representing this review’s main constituents: (1) sleep; (2) overreaching; and (3) endurance exercise. Each header was combined within the search strategy by “AND” while search terms within each header were separated by “OR”. A comprehensive breakdown of the search strategy is provided in 
+S1 Appendix
+. The protocol was registered in The International Prospective Register of Systematic Reviews (PROSPERO) on 21st November 2022, with the registration number CRD42022373204.
+
+Eligibility criteria
+
+Population, Intervention, Comparison, Outcomes, and Study Design (PICOS) were considered when defining the limits of the review. In order to be eligible, studies were required to satisfy pre-defined inclusion criteria:
+
+the study identified an increased training period (volume, intensity, or both);
+
+the exercise modality was specific to linear-based endurance sports;
+
+the participants (or a subset) were classified as overreached;
+
+extractable sleep quality outcomes pre- and post-overreaching were reported in the full-text or supplementary files and;
+
+the study was published in a peer-reviewed journal as a full-text article.
+
+Exclusion criteria were also set to limit the inclusion of studies containing confounding factors. Studies were excluded if they: (1) had an inappropriate study design (i.e. retrospective or non-specific in nature); (2) were associated with sleep restriction; or (3) did not confirm overreaching using statistical methods.
+
+Linear-based sports for the context of this review were considered as those relating to distance running, cycling, triathlon, swimming, skiing, canoeing, rowing, and kayaking. Overreaching was characterised by a decrement in performance from before to after the intervention (i.e., increased training). In the context of this review, objective sleep continuity variables (sleep latency, number of awakenings > 5 minutes, wake after sleep onset, sleep efficiency, sleep architecture) were indicators of sleep quality as previously recommended [
+16
+]. Subjective sleep quality was considered as any data that implied an increase or decrease in perceived sleep quality (answers reflecting sleep continuity or ratings of the sleep period). Although not as a measure of quality, total sleep time was reported if collected alongside sleep quality indicators. For the qualitative analysis, any studies where the comparative data in the full-text or supplementary files could be interpreted as an increase, no change, or a decrease in sleep quality were considered. However, a minimum of continuous raw (mean, standard deviation, sample size) pre- and post-sleep quality data must have been extractable from either the main text or supplementary file to be included in the meta-analyses. Overreached and control subgroups were included in the meta-analys
+
+----
+
+
+Methodology
+
+Project administration
+
+Supervision
+
+Writing – original draft
+
+Writing – review & editing
+
+1
+
+Svansdottir
+
+Steinunn Anna
+
+Data curation
+
+Formal analysis
+
+Investigation
+
+Methodology
+
+Project administration
+
+Supervision
+
+Writing – review & editing
+
+1
+
+Dupuy
+
+Olivier
+
+Supervision
+
+Writing – review & editing
+
+2
+
+https://orcid.org/0000-0002-9109-0958
+
+Louis
+
+Julien
+
+Conceptualization
+
+Data curation
+
+Formal analysis
+
+Investigation
+
+Methodology
+
+Project administration
+
+Supervision
+
+Writing – original draft
+
+Writing – review & editing
+
+3
+
+*
+
+1
+
+Physical Activity, Physical Education, Sport and Health Research Centre (PAPESH), Sports Science Department, School of Social Sciences, Reykjavik University, Reykjavik, Iceland
+
+2
+
+Laboratory MOVE (UR 20296), Faculty of Sport Sciences, University of Poitiers, Poitiers, France
+
+3
+
+Research Institute for Sport and Exercise Sciences (RISES), Liverpool John Moores University, Liverpool, United Kingdom
+
+da Costa
+
+Julio Alejandro Henriques Castro
+
+Editor
+
+Portugal Football School, Portuguese Football Federation, PORTUGAL
+
+Competing Interests: 
+The authors have declared that no competing interests exist.
+
+* E-mail: 
+J.B.Louis@ljmu.ac.uk
+
+29
+
+5
+
+2024
+
+2024
+
+19
+
+5
+
+461463
+
+e0303748
+
+13
+
+11
+
+2023
+
+30
+
+4
+
+2024
+
+29
+
+05
+
+2024
+
+29
+
+05
+
+2024
+
+30
+
+05
+
+2024
+
+© 2024 Murphy et al
+
+2024
+
+Murphy et al
+
+https://creativecommons.org/licenses/by/4.0/
+
+This is an open access article distributed under the terms of the 
+Creative Commons Attribution License
+, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Background
+
+Overreaching is often linked to a deterioration in sleep quality, yet a comprehensive review is lacking. The aim of this systemic review and meta-analysis was to synthesise the literature and quantify the effect of overreaching from endurance-based training on sleep quality.
+
+Method
+
+The review was conducted following the PRISMA guidelines. The final search was conducted in May 2023 using four electronic databases (Web of Science Core Collection, MEDLINE, Cochrane Central Database, SPORTDiscus). Studies were included for a qualitative review, while random-effects meta-analyses were conducted for objective and subjective sleep.
+
+Results and discussion
+
+The search returned 805 articles. Fourteen studies were included in the systematic review; Three and eight articles were eligible for the meta-analyses (objective and subjective, respectively). On average, the overreaching protocols were sixteen days in length (6 to 28 days) and included exercise modalities such as cycling (number of studies [k] = 5), rowing (k = 4), triathlon (k = 3), running (k = 2), and swimming (k = 1). Actigraphy was the only form of objective sleep measurement used across all studies (k = 3), while various instruments were used to capture subjective sleep quality (k = 13). When comparing objective sleep quality following the overreaching intervention to baseline (or a control), there was a significant reduction in sleep efficiency (mean difference = -2.0%; 95% CI -3.2, -0.8%; Glass’ Δ = -0.83; p < 0.01). In contrast, when comparing subjective sleep quality following the overreaching intervention to baseline (or a control), there was no effect on subjective sleep quality (Glass’ Δ = -0.27; 95% CI -0.79, 0.25; p = 0.08). Importantly, none of the included studies were judged to have a low risk of bias. While acknowledging the need for more high-quality st
+
+----
+
+
+Results and discussion
+
+The search returned 805 articles. Fourteen studies were included in the systematic review; Three and eight articles were eligible for the meta-analyses (objective and subjective, respectively). On average, the overreaching protocols were sixteen days in length (6 to 28 days) and included exercise modalities such as cycling (number of studies [k] = 5), rowing (k = 4), triathlon (k = 3), running (k = 2), and swimming (k = 1). Actigraphy was the only form of objective sleep measurement used across all studies (k = 3), while various instruments were used to capture subjective sleep quality (k = 13). When comparing objective sleep quality following the overreaching intervention to baseline (or a control), there was a significant reduction in sleep efficiency (mean difference = -2.0%; 95% CI -3.2, -0.8%; Glass’ Δ = -0.83; p < 0.01). In contrast, when comparing subjective sleep quality following the overreaching intervention to baseline (or a control), there was no effect on subjective sleep quality (Glass’ Δ = -0.27; 95% CI -0.79, 0.25; p = 0.08). Importantly, none of the included studies were judged to have a low risk of bias. While acknowledging the need for more high-quality studies, it appears that overreaching from endurance-based training can deteriorate objective sleep without influencing the perception of sleep quality.
+
+Protocol registration
+
+This protocol was registered in The International Prospective Register of Systematic Reviews (PROSPERO) on 21
+st
+ November 2022, with the registration number 
+CRD42022373204
+.
+
+The author(s) received no specific funding for this work.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+Data Availability
+
+All relevant data are within the manuscript and its 
+Supporting information
+ files.
+
+Data Availability
+
+All relevant data are within the manuscript and its 
+Supporting information
+ files.
+
+Introduction
+
+Consistent and methodological training often underpins the success of elite endurance athletes. Yet while training philosophies may differ in terms of training volume and intensity distributions [
+1
+], the prescribed training requires a minimum effective stimulus to elicit physiological adaptations. Fatigue and recovery play an important balancing role in garnering either positive or negative responses to exercise [
+2
+]. Following excessive training, the loss of balance between recovery and fatigue can lead to a short-term decrement in physical performance more commonly known as functional overreaching [
+3
+, 
+4
+]. While functional overreaching causes a decrease in performance, appropriate recovery can result in improved performance compared with baseline levels representing a “supercompensation” effect [
+3
+]. Nonetheless, this fatigue must be managed through comprehensive recovery; otherwise, functional overreaching may soon turn into non-functional [
+3
+]. With the latter, the body fails to fully recover causing further maladaptation of performance and displaying symptoms of physiological and psychological distress. The progression of non-functional overreaching can also manifest in overtr
+
+----
+
+
+Discussion
+
+The aim of this systematic review was to describe the impact of overreaching on sleep outcomes within the endurance research field and determine the effect of endurance-based overreaching on sleep quality. The main findings were that overreaching had a large effect on objective sleep quality (sleep efficiency), albeit a small change, and no effect on subjective sleep quality (perceived sleep quality). Furthermore, subgroup analyses accounting for the effects of RCTs compared to non-RCTs did not alter the outcomes of the review. Thus, overreaching from endurance-based training has the potential to disrupt sleep quality.
+
+Sufficient training load is essential for the adaptations that are necessary to improve the exercise capacity of athletes. However, increased training load and overreaching are often believed to pose a threat to sleep [
+12
+, 
+13
+], an important component of the recovery process. While it is commonly acknowledged that overreaching can negatively impact sleep quality, a comprehensive review of the available literature did not exist before this systematic review and meta-analysis. This study adds context for athletes by summarising our current knowledge on the impact of overreaching on sleep in endurance sports and for researchers by highlighting the current state of the field and the future work that is required.
+
+Design and measures
+
+A positive aspect of the included studies was in relation to the performance level of the participants. Considering De Pauw et al. (2013) [
+37
+] and Decroix et al. (2016) [
+38
+] athlete classification, of the studies that reported VO
+2max
+ data, all but one [
+33
+], recruited participants that were either trained, well-trained or professional athletes (VO
+2max
+: 55–64.9, 65–72, > 72 ml.kg
+-1
+.min
+-1
+, respectively). As this classification system was developed for cycling-based research, it should be used cautiously but approximates the level of endurance-trained participants in these studies. Due to the intensive training required to conduct an overreaching study, there is an increased possibility of dropouts, therefore, recruiting trained participants with extensive experience and familiarisation with the exercise modality is critical. Another important aspect relates to the duration of the overreaching period. While overreaching does not have a duration criterion attached to it, it is reasonable to assume that shorter durations may instead reflect acute fatigue. Acute fatigue could be considered a short-term response to recent training which contrasts with overreaching which may persist for up to one to three weeks [
+3
+]. The average duration of the overreaching interventions in this review was sixteen days which would appear to be a sensible balance between enticing overreaching and mitigating the risks of dropouts due to injury, illness, or motivation. Similarly, a sufficient number of days is required to capture changes in sleep quality. Sleep displays high inter-daily variability, and as a consequence, at least one week of data is often recommended [
+39
+]. Furthermore, the timing of changes in sleep quality along the overreaching spectrum is unknown and may be missed if insufficient days are recorded after overreaching occurs. As a consequence, ten days of an overreaching protocol should be considered the minimum requirement when the primary outcome is sleep to help ensure multiple days of sleep measurements can be collected and an adequate number of days reflect an overreac
+
+----
+
+
+Conclusion
+
+While acknowledging the need for more high-quality studies in this area, it appears that overreaching from endurance-based training can lead to small deteriorations in objective sleep quality. In contrast, these effects do not appear to significantly influence the individual’s perception of sleep quality. However, due to the high risk of bias and poor quality of studies conducted in this area, we encourage researchers to continue investigating this area while being considerate of previous limitations.
+
+Supporting information
+
+S1 Appendix
+
+Search strategy.
+
+(DOCX)
+
+S2 Appendix
+
+PRISMA checklist.
+
+(PDF)
+
+References
+
+1
+
+Stoggl
+
+T
+
+, 
+
+Sperlich
+
+B
+
+. 
+The training intensity distribution among well-trained and elite endurance athletes
+. 
+Front Physiol
+. 
+2015
+;
+6
+: 
+265
+.
+26578968
+
+10.3389/fphys.2015.00295
+
+PMC4621419
+
+2
+
+Fry
+
+R
+
+, 
+
+Morton
+
+A
+
+, 
+
+Keast
+
+D
+
+. 
+Overtraining in Athletes: An Update
+. 
+Sport Med
+. 
+1991
+;
+12
+: 
+32
+–
+65
+.
+10.2165/00007256-199112010-00004
+
+1925188
+
+3
+
+Meeusen
+
+R
+
+, 
+
+Duclos
+
+M
+
+, 
+
+Foster
+
+C
+
+, 
+
+Fry
+
+A
+
+, 
+
+Gleeson
+
+M
+
+, 
+
+Nieman
+
+D
+
+, 
+et al
+. 
+Prevention, diagnosis and treatment of the overtraining syndrome: Joint consensus statement of the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM)
+. 
+Eur J Sport Sci
+. 
+2013
+;
+13
+: 
+1
+–
+24
+.
+10.1249/MSS.0b013e318279a10a
+
+23247672
+
+4
+
+Soligard
+
+T
+
+, 
+
+Schwellnus
+
+M
+
+, 
+
+Alonso
+
+J
+
+, 
+
+Bahr
+
+R
+
+, 
+
+Clarsen
+
+B
+
+, 
+
+Dijkstra
+
+H
+
+, 
+et al
+. 
+How much is too much? (Part 1) International Olympic Committee consensus statement on load in sport and risk of injury
+. 
+Br J Sports Med
+. 
+2016
+;
+50
+: 
+1030
+–
+1041
+. 
+doi: 
+
+10.1136/bjsports-2016-096581
+
+27535989
+
+5
+
+Garbarino
+
+S
+
+, 
+
+Lanteri
+
+P
+
+, 
+
+Bragazzi
+
+N
+
+, 
+
+Magnavita
+
+N
+
+, 
+
+Scoditti
+
+E
+
+. 
+Role of sleep deprivation in immune-related disease risk and outcomes
+. 
+Commun Biol
+. 
+2021
+;
+4
+: 
+1304
+. 
+doi: 
+
+10.1038/s42003-021-02825-4
+
+34795404
+
+PMC8602722
+
+6
+
+Van Cauter
+
+E
+
+, 
+
+Spiegel
+
+K
+
+, 
+
+Tasali
+
+E
+
+, 
+
+Leproult
+
+R
+
+. 
+Metabolic consequences of sleep and sleep loss
+. 
+Sleep Med
+. 
+2008
+;
+9
+: 
+23
+–
+28
+. 
+doi: 
+
+10.1016/S1389-9457(08)70013-3
+
+18929315
+
+PMC4444051
+
+7
+
+Van Cauter
+
+E
+
+, 
+
+Latta
+
+F
+
+, 
+
+Nedeltcheva
+
+A
+
+, 
+
+Spiegel
+
+K
+
+, 
+
+Leproult
+
+R
+
+, 
+
+Vandenbril
+
+C
+
+, 
+et al
+. 
+Reciprocal interactions between the GH axis and sleep
+. 
+Growth Horm IGF Res
+. 
+2004
+;
+14
+: 
+10
+–
+17
+. 
+doi: 
+
+10.1016/j.ghir.2004.03.006
+
+15135771
+
+8
+
+Sondrup
+
+N
+
+, 
+
+Termannsen
+
+A
+
+, 
+
+Eriksen
+
+J
+
+, 
+
+Hjorth
+
+M
+
+, 
+
+Færch
+
+K
+
+, 
+
+Klingenberg
+
+L
+
+, 
+et al
+. 
+Effects of sleep manipulation on markers of insulin sensitivity: A systematic review and meta-analysis of randomized controlled trials
+. 
+Sleep Med Rev
+. 
+2022
+;
+62
+: 
+101594
+. 
+doi: 
+
+10.1016/j.smrv.2022.101594
+
+35189549
+
+9
+
+Ben
+
+S
+
+, 
+
+Vallat
+
+R
+
+, 
+
+Barnes
+
+C
+
+, 
+
+Walker
+
+M
+
+. 
+Sleep Loss and the Socio-Emotional Brain
+. 
+Trends Cogn Sci
+. 
+2020
+;
+24
+: 
+435
+–
+450
+. 
+doi: 
+
+10.1016/j.tics.2020.02.003
+
+32299657
+
+10
+
+Tononi
+
+G
+
+, 
+
+Cirelli
+
+C
+
+. 
+Sleep and the Price of Plasticity: From Synaptic and Cellular Homeostasis to Memory Consolidation and Integration
+. 
+Neuron
+. 
+2014
+;
+81
+: 
+12
+–
+34
+. 
+doi: 
+
+10.1016/j.neuron.2013.12.025
+
+24411729
+
+PMC3921176
+
+11
+
+Craven
+
+J
+
+, 
+
+McCartney
+
+D
+
+, 
+
+Desbrow
+
+B
+
+, 
+
+Sabapathy
+
+S
+
+, 
+
+Bellinger
+
+P
+
+, 
+
+Roberts
+
+L
+
+, 
+et al
+. 
+Effects of Acute Sleep Loss on Physical Performance: A Systematic and Meta-Analytical Review
+. 
+Sport Med
+. 
+2022
+;
+52
+: 
+2669
+–
+2690
+. 
+doi: 
+
+10.1007/s40279-022-01706-y
+
+35708888
+
+PM
+
+----
+
+
+Practical applications
+
+From a practical perspective, while sleep quality may be sensitive to overreaching, based on the current evidence, sleep tools may be difficult to implement as markers of overreaching. Subjective tools do not appear to be sensitive enough to detect overreaching, and while objective markers may show promise, the small changes may be hard to detect in a cohort of athletes. While we acknowledge sleep changes may become more noticeable when functional overreaching transitions to non-functional or overtraining, given the diversity in research and small nuances between these state transitions, such states were not separated in this analysis. Furthermore, it is plausible that when sleep impairments do occur, the athlete has already reached a detrimental position in the context of training optimisation. Therefore, we would advise those working with athletes to avoid solely depending on sleep measures to indicate overreaching but instead use it with other markers not limited to perception of training effort, mood, and soreness.
+
+Future directions
+
+Given the results of this systematic review and meta-analysis, and subsequent discussion, it is evident that more research is required in this area. In particular, research studies that are designed specifically to address the question of whether overreaching affects sleep are necessary. Thus, the following points are to support future research in this area.
+
+Implement an appropriate study design, such as an RCT, with sleep quality being the primary outcome of interest. If a non-RCT is used, ensure enough data points are collected pre- and post-intervention to account for time-varying confounders (interrupted time series trial) or participants crossover between an overreaching and non-overreaching arm (crossover trial). An appropriate baseline or familiarisation period and a post-intervention taper period should also be implemented (≥ one week).
+
+Use both objective and subjective measures to capture changes in sleep quality. Ideally, utilising electroencephalography which could help determine whether increased movement impairs sleep quality. If actigraphy is used, be careful to include the set-up and analysis settings e.g., movement threshold. Furthermore, validated instruments should be considered to assess subjective sleep [
+40
+].
+
+Implement an overreaching period of sufficient length to ensure that sleep quality is being assessed when the athlete has reached an overreached state. A minimum of ten days is recommended, however, to avoid injury/illness of the athletes the total change in training load must be cautiously monitored.
+
+Individual pre- and post-results should be reported for performance testing to display the extent of overreaching or lack of in certain individuals.
+
+Implement an appropriate training schedule with respect to the sleep-wake patterns of the participants and report bed- and wake times across each phase of the study period. Many of the included studies did not stipulate when the training sessions were conducted and whether this could have altered the participants’ regular sleep-wake profile. As an example, if additional or longer sessions were added in the morning this may have caused the participants to wake prior to their habitual waketime. Furthermore, an attempt should be made to keep the athletes sleeping in their natural environment. Otherwise, a consistent environment should be implemented across each phase of the study to avoid changes in the sl
+
+----
+
+
+Limitations
+
+This systematic review and meta-analysis is not without limitations. In particular, the high risk of bias across the eligible studies restricts confidence in the results. While certain features are difficult to control in this type of research, such as blinding participants to an overreaching intervention and balancing the risk of injury and illness with sufficient training stress, other areas could be improved. As discussed in the 
+“Risk of bias”
+ section, this includes but is not limited to the use of a control group, using gold-standard and objective methods, and designing a study with the primary purpose of investigating the effect of overreaching on sleep outcomes. Only three studies were eligible for inclusion in the objective meta-analysis, given the small samples and effects of each, additional studies may have helped support the results. In contrast, while a sufficient number of studies were included in the subjective meta-analysis, there was significant heterogeneity between them due to the use of different scales across studies. However, each measured outcome could be broadly interpreted as perceived sleep quality which supports our approach of combining these scales. Given the inclusion and exclusion criteria of this review, many overreaching articles were excluded. For example, studies that assessed outcomes after overreaching already occurred, studies that did not appropriately specify the timeline of measurements and overreaching windows, or studies that did not confirm overreaching with statistically significant performance decrements, were all excluded. While this may have resulted in the loss of potentially valuable articles, it also prevented the inclusion of articles that were misleading and difficult to interpret with regard to our research question. While we only included studies that reported a decrement in performance after the overreaching intervention, there was heterogeneity in the performance tests used. Likely, some performance tests lack sensitivity to capture overreaching, while others may overstate the overreached state. However, currently it is not clear which performance tests are most appropriate for this purpose, thus, we did not limit our selection to any in particular. Similarly, some eligible studies had short overreaching intervention periods. Short intervention periods may present problems as the state transition to overreaching may develop continuously over the intervention period. Therefore, if researchers are averaging values across the intervention period this may also include nights when the athletes have yet to reach an overreached state. Also, while the final nights may reflect overtraining, the limited number of nights measured in this state may lack sensitivity due to the nightly variability that occurs naturally with sleep. Nonetheless, the literature does not indicate a time duration that is associated with the development of overreaching, so it would be challenging to exclude studies based on a short intervention period. Instead, we encourage researchers to implement a logical intervention period in future studies. Of course, this systematic review and meta-analysis was restricted to endurance-based sports which limits the generalizability of the results. Nonetheless, as discussed in the introduction this approach was important to dissociate the effects of overreaching on sleep quality from other sports-specific confounding factors. Finally, the search strategy was limit
+
+----
+
+acknowledging the need for more high-quality studies, it appears that overreaching from endurance-based training can deteriorate objective sleep without influencing the perception of sleep quality.
+
+Protocol registration
+
+This protocol was registered in The International Prospective Register of Systematic Reviews (PROSPERO) on 21
+st
+ November 2022, with the registration number 
+CRD42022373204
+.
+
+The author(s) received no specific funding for this work.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+Data Availability
+
+All relevant data are within the manuscript and its 
+Supporting information
+ files.
+
+Data Availability
+
+All relevant data are within the manuscript and its 
+Supporting information
+ files.
+
+Introduction
+
+Consistent and methodological training often underpins the success of elite endurance athletes. Yet while training philosophies may differ in terms of training volume and intensity distributions [
+1
+], the prescribed training requires a minimum effective stimulus to elicit physiological adaptations. Fatigue and recovery play an important balancing role in garnering either positive or negative responses to exercise [
+2
+]. Following excessive training, the loss of balance between recovery and fatigue can lead to a short-term decrement in physical performance more commonly known as functional overreaching [
+3
+, 
+4
+]. While functional overreaching causes a decrease in performance, appropriate recovery can result in improved performance compared with baseline levels representing a “supercompensation” effect [
+3
+]. Nonetheless, this fatigue must be managed through comprehensive recovery; otherwise, functional overreaching may soon turn into non-functional [
+3
+]. With the latter, the body fails to fully recover causing further maladaptation of performance and displaying symptoms of physiological and psychological distress. The progression of non-functional overreaching can also manifest in overtraining syndrome, which is associated with a long-term decrement in performance and dysregulation of several biological, hormonal, and psychological processes [
+3
+].
+
+Sleep is recognised as an integral part of exercise recovery. Sleep is involved in the maintenance of physiological systems within the body via its links with immune function [
+5
+], hormone regulation [
+6
+, 
+7
+], and metabolic efficiency [
+8
+]. Furthermore, the positive impact of sleep on the psychological system, including plastic remodelling and alteration of mood states, is a much agreed-upon outcome of the sleep process [
+9
+, 
+10
+]. From a practical perspective, sleep loss studies highlight the ability of disturbed sleep to challenge exercise performance [
+11
+]. Despite the suggestion that sleep is fundamental for the recovery of athletes, increased training load is often considered a risk factor for deteriorations in sleep quality [
+12
+], while sleep itself has recently been posed as an indicator to detect overreaching [
+13
+]. For example, an expert consensus statement published in 2020 [
+14
+] suggested that overreaching and overtraining were associated with a decline in sleep quality 

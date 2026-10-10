@@ -1,0 +1,459 @@
+
+ABSTRACT
+
+Position Statement: The International Society of Sports Nutrition (ISSN) presents this position based on a critical examination of the literature surrounding the effects of long-chain omega-3 polyunsaturated fatty acid (ω-3 PUFA) supplementation on exercise performance, recovery, and brain health. This position stand is intended to provide a scientific foundation for athletes, dietitians, trainers, and other practitioners regarding the effects of supplemental ω-3 PUFA in healthy and athletic populations. The following conclusions represent the official position of the ISSN:
+
+Athletes may be at a higher risk for ω-3 PUFA insufficiency.
+
+Diets rich in ω-3 PUFA, including supplements, are effective strategies for increasing ω-3 PUFA levels.
+
+ω-3 PUFA supplementation, particularly eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), has been shown to enhance endurance capacity and cardiovascular function during aerobic-type exercise.
+
+ω-3 PUFA supplementation may not confer a muscle hypertrophic benefit in young adults.
+
+ω-3 PUFA supplementation in combination with resistance training may improve strength in a dose- and duration-dependent manner.
+
+ω-3 PUFA supplementation may decrease subjective measures of muscle soreness following intense exercise.
+
+ω-3 PUFA supplementation can positively affect various immune cell responses in athletic populations.
+
+Prophylactic ω-3 PUFA supplementation may offer neuroprotective benefits in athletes exposed to repeated head impacts.
+
+ω-3 PUFA supplementation is associated with improved sleep quality.
+
+ω-3 PUFA are classified as prebiotics; however, studies on the gut microbiome and gut health in athletes are currently lacking.
+
+KEYWORDS:
+ Omega-3, fatty acids, performance, exercise, sleep, inflammation
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2024 Dec 3; Accepted 2024 Dec 9; Collection date 2025.
+
+1.
+
+Methods
+
+ISSN position stands are invited papers the ISSN editors and Research Council identify as topics of interest to our readers that need position stands to provide guidance to readers and the profession. Editors and/or the Research Council identify a lead author or team of authors to perform a comprehensive literature review. The draft is then sent to leading scholars for review and comment. The paper is then revised as a consensus statement and reviewed and approved by the Research Council and Editors as the official position of the ISSN.
+
+2.
+
+Introduction
+
+Like all fatty acids, polyunsaturated fatty acids (PUFAs) consist of long chains of carbon atoms, with a carboxyl group at one end and a methyl group at the opposite end. PUFAs are characterized by having two or more double bonds between carbon atoms in the fatty acid chain, which distinguishes them from saturated and monounsaturated fatty acids. The two main classes of PUFAs are omega-3 (ω-3) and omega-6 (ω-6) fatty acids. ω-3 PUFAs are named for the first double bond, which appears on the third carbon from the methyl group (the omega end) of the fatty acid chain. Notable short-chain ω-3 PUFAs are alpha-linolenic acid (ALA; 18:3n-3) and stearidonic acid (18:4n-3), both of which contain 18 carbon atoms and feature three or four carbon-to-carbon double bonds. Long-chain ω-3 PUFAs, which contain more than 19 carbon atoms, include eicosapentaenoic acid (EPA; 20:5n-3), docosapentaenoic acid (DPA; 22:5n-3), and docosahexaenoic
+
+----
+
+
+Introduction
+
+Like all fatty acids, polyunsaturated fatty acids (PUFAs) consist of long chains of carbon atoms, with a carboxyl group at one end and a methyl group at the opposite end. PUFAs are characterized by having two or more double bonds between carbon atoms in the fatty acid chain, which distinguishes them from saturated and monounsaturated fatty acids. The two main classes of PUFAs are omega-3 (ω-3) and omega-6 (ω-6) fatty acids. ω-3 PUFAs are named for the first double bond, which appears on the third carbon from the methyl group (the omega end) of the fatty acid chain. Notable short-chain ω-3 PUFAs are alpha-linolenic acid (ALA; 18:3n-3) and stearidonic acid (18:4n-3), both of which contain 18 carbon atoms and feature three or four carbon-to-carbon double bonds. Long-chain ω-3 PUFAs, which contain more than 19 carbon atoms, include eicosapentaenoic acid (EPA; 20:5n-3), docosapentaenoic acid (DPA; 22:5n-3), and docosahexaenoic acid (DHA; 22:6n-3) [
+1
+,
+2
+].
+
+ω-3 PUFAs exhibit functionally important cellular roles as they are part of the phospholipid bilayer of cellular membranes and are precursors to bioactive signaling molecules. DHA is present in high concentrations in the brain, retina, and sperm cells, indicating not only the bioenergetic roles of ω-3 PUFAs but functional roles as well [
+3–5
+]. ω-3 PUFAs are anti-inflammatory, anti-arrhythmic, and anti-thrombotic compared to ω-6 PUFAs, which demonstrate proinflammatory and prothrombotic properties. DHA and EPA serve as precursors for the production of mediators that downregulate inflammation, specifically resolvins, maresins, and protectins. These mediators modulate key controllers of inflammation, such as Nuclear Factor-κB (NF-kB), which, when activated, increases inflammation, and regulate the expression of Nuclear Respiratory Factor 1 (Nrf1), which plays a role in cellular defenses against oxidative [
+6
+].Consuming ω-3 PUFAs can exert protective effects on the cardiovascular, retinal, musculoskeletal, and cerebrovascular systems, and positively affect neurological disorders and conditions [
+7–9
+].
+
+Purported sport-specific benefits of ω-3 PUFA supplementation may include reduced oxygen cost (e.g. improved exercise economy), immune system support, enhanced recovery, and improved anabolic responses to amino acids with and without training, especially in older adults and strength/power athletes. Furthermore, ω-3 PUFAs may positively influence digestive health, cognitive function, and sleep quality and provide protective effects against traumatic brain injuries (TBI) in athletes (
+Figure 1
+).
+
+Figure 1.
+
+Potential health benefits of ω-3 PUFA supplementation in athletes (illustration by Stephen Somers, Milwaukee, WI, USA).
+
+Athletes are typically at risk of ω-3 PUFA inadequacy. For example, National Collegiate Athletic Association Division I football athletes have suboptimal DHA and EPA levels. A 2019 study of 404 collegiate football players did not find a single athlete with an ω-3-index (O3i), a measurement of DHA and EPA content in erythrocytes expressed as a percentage of total fatty acids, greater than 8%, which is the value associated with the lowest risk for cardiovascular disease. Moreover, the average O3i for all 404 participants was 4.4 ± 0.8% indicating that these football players could be at a higher risk for cardiovascular disease later in life [
+10
+]. To raise the O3i from the observed values to the target value of 8%, an additional daily intake of about 1.4 g 
+
+----
+
+
+Methods
+
+ISSN position stands are invited papers the ISSN editors and Research Council identify as topics of interest to our readers that need position stands to provide guidance to readers and the profession. Editors and/or the Research Council identify a lead author or team of authors to perform a comprehensive literature review. The draft is then sent to leading scholars for review and comment. The paper is then revised as a consensus statement and reviewed and approved by the Research Council and Editors as the official position of the ISSN.
+
+2.
+
+Introduction
+
+Like all fatty acids, polyunsaturated fatty acids (PUFAs) consist of long chains of carbon atoms, with a carboxyl group at one end and a methyl group at the opposite end. PUFAs are characterized by having two or more double bonds between carbon atoms in the fatty acid chain, which distinguishes them from saturated and monounsaturated fatty acids. The two main classes of PUFAs are omega-3 (ω-3) and omega-6 (ω-6) fatty acids. ω-3 PUFAs are named for the first double bond, which appears on the third carbon from the methyl group (the omega end) of the fatty acid chain. Notable short-chain ω-3 PUFAs are alpha-linolenic acid (ALA; 18:3n-3) and stearidonic acid (18:4n-3), both of which contain 18 carbon atoms and feature three or four carbon-to-carbon double bonds. Long-chain ω-3 PUFAs, which contain more than 19 carbon atoms, include eicosapentaenoic acid (EPA; 20:5n-3), docosapentaenoic acid (DPA; 22:5n-3), and docosahexaenoic acid (DHA; 22:6n-3) [
+1
+,
+2
+].
+
+ω-3 PUFAs exhibit functionally important cellular roles as they are part of the phospholipid bilayer of cellular membranes and are precursors to bioactive signaling molecules. DHA is present in high concentrations in the brain, retina, and sperm cells, indicating not only the bioenergetic roles of ω-3 PUFAs but functional roles as well [
+3–5
+]. ω-3 PUFAs are anti-inflammatory, anti-arrhythmic, and anti-thrombotic compared to ω-6 PUFAs, which demonstrate proinflammatory and prothrombotic properties. DHA and EPA serve as precursors for the production of mediators that downregulate inflammation, specifically resolvins, maresins, and protectins. These mediators modulate key controllers of inflammation, such as Nuclear Factor-κB (NF-kB), which, when activated, increases inflammation, and regulate the expression of Nuclear Respiratory Factor 1 (Nrf1), which plays a role in cellular defenses against oxidative [
+6
+].Consuming ω-3 PUFAs can exert protective effects on the cardiovascular, retinal, musculoskeletal, and cerebrovascular systems, and positively affect neurological disorders and conditions [
+7–9
+].
+
+Purported sport-specific benefits of ω-3 PUFA supplementation may include reduced oxygen cost (e.g. improved exercise economy), immune system support, enhanced recovery, and improved anabolic responses to amino acids with and without training, especially in older adults and strength/power athletes. Furthermore, ω-3 PUFAs may positively influence digestive health, cognitive function, and sleep quality and provide protective effects against traumatic brain injuries (TBI) in athletes (
+Figure 1
+).
+
+Figure 1.
+
+Potential health benefits of ω-3 PUFA supplementation in athletes (illustration by Stephen Somers, Milwaukee, WI, USA).
+
+Athletes are typically at risk of ω-3 PUFA inadequacy. For example, National Collegiate Athletic Association Division I football athletes have suboptimal DHA and EPA levels. A 2019 study of 404 collegiate foo
+
+----
+
+
+Methods
+
+ISSN position stands are invited papers the ISSN editors and Research Council identify as topics of interest to our readers that need position stands to provide guidance to readers and the profession. Editors and/or the Research Council identify a lead author or team of authors to perform a comprehensive literature review. The draft is then sent to leading scholars for review and comment. The paper is then revised as a consensus statement and reviewed and approved by the Research Council and Editors as the official position of the ISSN.
+
+2.
+
+Introduction
+
+Like all fatty acids, polyunsaturated fatty acids (PUFAs) consist of long chains of carbon atoms, with a carboxyl group at one end and a methyl group at the opposite end. PUFAs are characterized by having two or more double bonds between carbon atoms in the fatty acid chain, which distinguishes them from saturated and monounsaturated fatty acids. The two main classes of PUFAs are omega-3 (ω-3) and omega-6 (ω-6) fatty acids. ω-3 PUFAs are named for the first double bond, which appears on the third carbon from the methyl group (the omega end) of the fatty acid chain. Notable short-chain ω-3 PUFAs are alpha-linolenic acid (ALA; 18:3n-3) and stearidonic acid (18:4n-3), both of which contain 18 carbon atoms and feature three or four carbon-to-carbon double bonds. Long-chain ω-3 PUFAs, which contain more than 19 carbon atoms, include eicosapentaenoic acid (EPA; 20:5n-3), docosapentaenoic acid (DPA; 22:5n-3), and docosahexaenoic acid (DHA; 22:6n-3) [
+1
+,
+2
+].
+
+ω-3 PUFAs exhibit functionally important cellular roles as they are part of the phospholipid bilayer of cellular membranes and are precursors to bioactive signaling molecules. DHA is present in high concentrations in the brain, retina, and sperm cells, indicating not only the bioenergetic roles of ω-3 PUFAs but functional roles as well [
+3–5
+]. ω-3 PUFAs are anti-inflammatory, anti-arrhythmic, and anti-thrombotic compared to ω-6 PUFAs, which demonstrate proinflammatory and prothrombotic properties. DHA and EPA serve as precursors for the production of mediators that downregulate inflammation, specifically resolvins, maresins, and protectins. These mediators modulate key controllers of inflammation, such as Nuclear Factor-κB (NF-kB), which, when activated, increases inflammation, and regulate the expression of Nuclear Respiratory Factor 1 (Nrf1), which plays a role in cellular defenses against oxidative [
+6
+].Consuming ω-3 PUFAs can exert protective effects on the cardiovascular, retinal, musculoskeletal, and cerebrovascular systems, and positively affect neurological disorders and conditions [
+7–9
+].
+
+Purported sport-specific benefits of ω-3 PUFA supplementation may include reduced oxygen cost (e.g. improved exercise economy), immune system support, enhanced recovery, and improved anabolic responses to amino acids with and without training, especially in older adults and strength/power athletes. Furthermore, ω-3 PUFAs may positively influence digestive health, cognitive function, and sleep quality and provide protective effects against traumatic brain injuries (TBI) in athletes (
+Figure 1
+).
+
+Figure 1.
+
+Potential health benefits of ω-3 PUFA supplementation in athletes (illustration by Stephen Somers, Milwaukee, WI, USA).
+
+Athletes are typically at risk of ω-3 PUFA inadequacy. For example, National Collegiate Athletic Association Division I football athletes have suboptimal DHA and EPA levels. A 2019 study of 404 collegiate foo
+
+----
+
+results in the incorporation of ω-3 PUFAs into skeletal and myocardial muscle membranes [
+35
+,
+36
+]. For example, four weeks of fish oil supplementation (3,500 mg EPA and 900 mg DHA) increases both blood and skeletal muscle ω-3 PUFA content [
+36
+]. Specifically, fish oil supplementation results in changes in muscle ω −3 PUFA composition of skeletal muscle within two weeks [
+36
+], compared to months for adipose tissue [
+35
+]. Furthermore, a 12-week supplementation regimen of 3,000 mg EPA and 2,000 mg DHA per day increases the total phospholipid content – major constituents of cell membranes – in both whole muscle and sarcolemma, but not in the mitochondria. However, sarcolemma membranes appear to be less responsive than whole muscle and mitochondria, likely due to the low ω-6/ω-3 PUFA ratio [
+30
+]. Importantly, the remodeling of the sarcolemma in response to ω-3 PUFA supplementation coincides with the cell membrane being the site to remodel muscle proteins after endurance exercise [
+37
+]. Furthermore, satellite cells, which play an important role in muscle regeneration after exercise, reside above the sarcolemma [
+38
+] and are activated in response to endurance exercise [
+39
+]. Given that ω-3 PUFAs are incorporated within the phospholipid cell membrane, a recent report also hypothesized that ω-3 PUFA supplementation can aid in muscle regeneration after exercise [
+40
+]. Finally, disuse studies reveal that incorporation of ω-3 PUFAs (3,000 mg EPA and 2,000 mg DHA) into mitochondrial membranes alters indices of mitochondrial bioenergetics, such as preserved adenosine diphosphate (ADP) sensitivity [
+31
+], which may subsequently impact energy metabolism during reloading. Collectively, these data suggest that ω-3 PUFA supplementation for a minimum of two weeks can remodel skeletal muscle phospholipids which may subsequently impact endurance capacity and performance.
+
+Exercise economy, maximal oxygen uptake (VO
+2
+max), and lactate threshold are all strongly related to endurance exercise performance [
+41
+]. Furthermore, mitochondria are the cellular organelles responsible for energy production through oxidative phosphorylation, and their number and function are critical for sustaining aerobic metabolism during prolonged exercise [
+42
+,
+43
+]. Specifically, the ability of skeletal muscle to consume oxygen during exercise is a key determinant of endurance capacity [
+41
+]. To this end, a recent report revealed that 12 weeks of ω-3 PUFA supplementation (2,234 mg of EPA and 916 mg of DHA/day) during endurance training improves the O3i, running economy, and increases VO
+2
+peak in amateur runners [
+28
+]. These findings are in contrast to Raastad et al. [
+44
+] who showed no changes in VO
+2
+max and running performance in trained soccer players receiving 1,600 mg of EPA and 1,040 mg of DHA per day through a 10-week period. These results suggest that a higher dose of ω-3 PUFAs may be required to remodel the phospholipid to induce ergogenic effects. However, others have demonstrated that 3,200 mg of ω-3 PUFA (800 mg of EPA and 2,400 mg of DHA) supplementation per day over eight weeks increased ω-3 PUFA content of erythrocyte cell membranes, lowered heart rate during incremental workloads to exhaustion, and reduced whole-body and myocardial O
+2
+ demand during submaximal exercise (55% VO
+2
+peak) in well-trained men [
+45
+]. Boss et al. [
+46
+] found that a 10-day diet rich in fish and olive oils enhanced time to exhaustion performance (at 80 % VO
+2
+max) but not 
+
+----
+
+discussion 395–6. doi: 10.1227/01.NEU.0000255525.34956.3F
+
+199.
+
+Wu A, Ying Z, Gomez-Pinilla F. Dietary omega-3 fatty acids normalize BDNF levels, reduce oxidative damage, and counteract learning disability after traumatic brain injury in rats. J Neurotrauma. 2004;21(10):1457–1467. doi: 10.1089/neu.2004.21.1457
+
+200.
+
+Pu H, Jiang X, Wei Z, et al. Repetitive and prolonged omega-3 fatty acid treatment after traumatic brain injury enhances long-term tissue restoration and cognitive recovery. Cell Transplant. 2017;26(4):555–569. doi: 10.3727/096368916X693842
+
+201.
+
+Zhu W, Chi N, Zou P, et al. Effect of docosahexaenoic acid on traumatic brain injury in rats. Exp Ther Med. 2017;14(5):4411–4416. doi: 10.3892/etm.2017.5054
+
+202.
+
+Heileson JL, Anzalone AJ, Carbuhn AF, et al. The effect of omega-3 fatty acids on a biomarker of head trauma in NCAA football athletes: a multi-site, non-randomized study. J Int Soc Sports Nutr. 2021;18(1):65. doi: 10.1186/s12970-021-00461-1
+
+203.
+
+Mullins VA, Graham S, Cummings D, et al. Effects of fish oil on biomarkers of axonal injury and inflammation in American football players: a placebo-controlled randomized controlled trial. Nutrients. 2022;14(10):2139. doi: 10.3390/nu14102139
+
+204.
+
+Oliver JM, Jones MT, Kirk KM, et al. Effect of docosahexaenoic acid on a biomarker of head trauma in American football. Med Sci Sports Exerc. 2016;48(6):974–982. doi: 10.1249/MSS.0000000000000875
+
+205.
+
+Schmidt EB, Dyerberg J. Omega-3 fatty acids. Current status in cardiovascular medicine. Drugs. 1994;47(3):405–424. doi: 10.2165/00003495-199447030-00003
+
+206.
+
+Simopoulos AP. Omega-3 fatty acids in health and disease and in growth and development. Am J Clin Nutr. 1991;54(3):438–463. doi: 10.1093/ajcn/54.3.438
+
+207.
+
+Simopoulos AP. Omega-3 fatty acids in inflammation and autoimmune diseases. J Am Coll Nutr. 2002;21(6):495–505. doi: 10.1080/07315724.2002.10719248
+
+208.
+
+Heileson JL, Macartney MJ, Watson NL, et al. Nutritional optimization for brain health in contact sports: a systematic review and meta-analysis on long-Chain ω-3 fatty acids and neurofilament light. Curr Dev Nutr. 2024;8(10):104454. doi: 10.1016/j.cdnut.2024.104454
+
+209.
+
+Miller SM, Zynda AJ, Sabatino MJ, et al. A pilot randomized controlled trial of docosahexaenoic acid for the treatment of sport-related concussion in adolescents. Clin Pediatr (Phila). 2022;61(11):785–794. doi: 10.1177/00099228221101726
+
+210.
+
+Lavialle M, Champeil-Potokar GL, Alessandri JM, et al. An (n-3) polyunsaturated fatty acid–deficient diet disturbs daily locomotor activity, melatonin rhythm, and striatal dopamine in Syrian Hamsters13. J Nutr. 2008;138(9):1719–1724. doi: 10.1093/jn/138.9.1719
+
+211.
+
+Peuhkuri K, Sihvola N, Korpela R. Dietary factors and fluctuating levels of melatonin. Food & Nutr Res. 2012;56(1):17252. doi: 10.3402/fnr.v56i0.17252
+
+212.
+
+Calder PC. n−3 polyunsaturated fatty acids, inflammation, and inflammatory diseases 2. Am J Clin Nutr. 2006;83(6):1505S–1519S. doi: 10.1093/ajcn/83.6.1505S
+
+213.
+
+Alzoubi KH, Mayyas F, Abu Zamzam HI. Omega-3 fatty acids protects against chronic sleep-deprivation induced memory impairment. Life Sci. 2019;227:1–7. doi: 10.1016/j.lfs.2019.04.028
+
+214.
+
+Ximenes da Silva A, Lavialle F, Gendrot G, et al. Glucose transport and utilization are altered in the brain of rats deficient in n-3 polyunsaturated fatty acids. J Neurochem. 2002;81(6):1328–1337. doi: 10.1046/j.1471-4159.2002.00932.x
+
+215.
+
+Hansen AL, Dahl L, Olson G, et al. Fish consumption, sle
+
+----
+
+conclusions represent the official position of the ISSN:
+
+Athletes may be at a higher risk for ω-3 PUFA insufficiency.
+
+Diets rich in ω-3 PUFA, including supplements, are effective strategies for increasing ω-3 PUFA levels.
+
+ω-3 PUFA supplementation, particularly eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), has been shown to enhance endurance capacity and cardiovascular function during aerobic-type exercise.
+
+ω-3 PUFA supplementation may not confer a muscle hypertrophic benefit in young adults.
+
+ω-3 PUFA supplementation in combination with resistance training may improve strength in a dose- and duration-dependent manner.
+
+ω-3 PUFA supplementation may decrease subjective measures of muscle soreness following intense exercise.
+
+ω-3 PUFA supplementation can positively affect various immune cell responses in athletic populations.
+
+Prophylactic ω-3 PUFA supplementation may offer neuroprotective benefits in athletes exposed to repeated head impacts.
+
+ω-3 PUFA supplementation is associated with improved sleep quality.
+
+ω-3 PUFA are classified as prebiotics; however, studies on the gut microbiome and gut health in athletes are currently lacking.
+
+KEYWORDS:
+ Omega-3, fatty acids, performance, exercise, sleep, inflammation
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2024 Dec 3; Accepted 2024 Dec 9; Collection date 2025.
+
+1.
+
+Methods
+
+ISSN position stands are invited papers the ISSN editors and Research Council identify as topics of interest to our readers that need position stands to provide guidance to readers and the profession. Editors and/or the Research Council identify a lead author or team of authors to perform a comprehensive literature review. The draft is then sent to leading scholars for review and comment. The paper is then revised as a consensus statement and reviewed and approved by the Research Council and Editors as the official position of the ISSN.
+
+2.
+
+Introduction
+
+Like all fatty acids, polyunsaturated fatty acids (PUFAs) consist of long chains of carbon atoms, with a carboxyl group at one end and a methyl group at the opposite end. PUFAs are characterized by having two or more double bonds between carbon atoms in the fatty acid chain, which distinguishes them from saturated and monounsaturated fatty acids. The two main classes of PUFAs are omega-3 (ω-3) and omega-6 (ω-6) fatty acids. ω-3 PUFAs are named for the first double bond, which appears on the third carbon from the methyl group (the omega end) of the fatty acid chain. Notable short-chain ω-3 PUFAs are alpha-linolenic acid (ALA; 18:3n-3) and stearidonic acid (18:4n-3), both of which contain 18 carbon atoms and feature three or four carbon-to-carbon double bonds. Long-chain ω-3 PUFAs, which contain more than 19 carbon atoms, include eicosapentaenoic acid (EPA; 20:5n-3), docosapentaenoic acid (DPA; 22:5n-3), and docosahexaenoic acid (DHA; 22:6n-3) [
+1
+,
+2
+].
+
+ω-3 PUFAs exhibit functionally important cellular roles as they are part of the phospholipid bilayer of cellular membranes and are precursors to bioactive signaling molecules. DHA is present in high concentrations in the brain, retina, and sperm cells, indicating not only the bioenergetic roles of ω-3 PUFAs but functional roles as well [
+3–5
+]. ω-3 PUFAs are anti-inflammatory, anti-arrhythmic, and anti-thrombotic compared to ω-6 PUFAs, which demonstrate proinflammatory and prothrombotic properties
+
+----
+
+limitations that may have implications for the findings, such as small and inconsistent sample size and non-counterbalanced groups.
+
+A double-blind, counterbalanced crossover study examined the effects of EPA or DHA supplementation on cognition in young, healthy adults using functional magnetic resonance imaging (fMRI). Participants completed Stroop and working memory tasks both before and after 30 days of supplementation. While both groups reduced AA:EPA ratio levels, the EPA group showed a reduction in the anterior cingulate cortex and increases in precentral gyrus activation during reductions of the reaction time during the Stroop test, while DHA supplementation increased right precentral gyrus activation during Stroop and working memory tests. The results indicated that, although there were differences in brain activation and cognitive performance between the respective supplements, both showed cognitive changes following 30 days of supplementation [
+174
+].
+
+ω-3 PUFAs have also been evaluated in specific domains of cognitive functioning and executive functioning related to impulsivity. The results of cognitive testing and mood assessments indicated few effects, with ω-3 PUFAs associated with a decrease in risk-averse decisions. However, the findings suggest that ω-3 PUFAs may influence decision-making without being directly linked to impulsiveness [
+175
+]. In randomized controlled trials with larger sample sizes measuring cognition and executive function with ω-3 PUFA supplementation, results after 18 weeks were inconclusive regarding improvements in cognitive domains. However, some participants did show improved executive function, particularly those with initially low DHA levels [
+176
+]. Age does not appear to influence the potential benefits of ω-3 PUFA supplementation on cognitive performance outcomes, particularly in memory and executive function, throughout adulthood [
+177
+]. This highlights the inconsistency and uncertainty in assessing the effects of ω-3 PUFAs on cognition within a healthy, young demographic.
+
+Limited studies are available measuring the efficacy of ω-3 PUFA on cognitive function and mood in non-diseased or clinically diagnosed populations. While the mechanisms underlying changes in cognitive function and mood have been studied frequently in both humans and animals, further research is needed on individuals who are healthy, young, and free from any neurological or mental diagnoses. This research is essential to better understand the potential benefit ω-3 PUFA supplementation has on mental functioning and mood in an athletic population.
+
+4.5.1.
+
+Key findings for cognitive and psychological health
+
+ω-3 PUFAs are crucial for optimal brain development and functioning.
+
+ω-3 PUFA supplementation can increase membrane fluidity, neurotransmitter synthesis and release, and cerebral blood flow.
+
+Studies in healthy, young athletes assessing the different theorized improvements in sport-specific cognitive functions are needed.
+
+4.6.
+
+Traumatic brain injury
+
+Globally, an estimated 69 million individuals experience a traumatic brain injury (TBI) each year [
+178
+]. A concussion is a type of TBI that is defined as a direct or indirect impact to the head causing neurometabolic dysregulation that is followed by a range of symptoms which occur without the presence of a skull fracture and with negative findings on conventional neuroimaging (e.g. magnetic resonance imaging [MRI]) [
+179
+,
+180
+]. It is the cascade of neurometabolic
+
+----
+
+
+Acknowledgments
+
+Dedicated to Hector Lopez – Father, Husband, Scientist, and Physician
+
+This Position Stand was originally the brainchild of Hector Lopez, MD, a respected physician and scientist. Dr. Lopez was renowned for his groundbreaking work in sports performance and regenerative medicine. His expertise and passion for research and formulation led to significant advancements in these fields. Dr. Lopez’s energy, intellect, and unwavering commitment to improving health outcomes left a lasting legacy in both medicine and nutrition. He was also one of the early pioneers who helped the ISSN establish the sports nutrition field. Hector passed away at the age of 46, and he is deeply missed. This Position Stand is dedicated to his memory and contributions.
+
+Funding Statement
+
+The author(s) reported there is no funding associated with the work featured in this article.
+
+Disclosure statement
+
+RJ
+ has no conflict in terms of financial or business interests related to this manuscript. RJ is an inventor of abandoned patents on ω-3 PUFA (US20190060268, and WO2017031502). RJ has received grants and contracts to conduct research on dietary supplements; has served as a paid consultant for industry; has received honoraria for speaking at conferences and has served as an expert witness on behalf of the plaintiff and defense in cases involving dietary supplements. 
+SA
+ has no conflict in terms of financial or business interests related to this manuscript. SA is employed by Iovate Health Sciences International Inc. a company that sells dietary supplements. 
+RBK
+ has conducted sponsored research on nutritional supplements through grants and contracts awarded to the universities he has been affiliated, received honorarium for presenting research related to dietary supplements, served as an expert on cases related to dietary supplements, and consulted with industry on product development including dietary supplements containing ω-3 PUFA. 
+CMK
+ has no conflicts of interest to report on the content of this paper. CMK has consulted with and received external funding from companies who sell certain amino acids and dietary ingredients and has received remuneration from companies for delivering scientific presentations at conferences. He has also been paid in an advisory capacity from companies that manufacture various dietary ingredients. 
+SMC
+ has no conflict in terms of financial or business interests related to this manuscript. SMC has conducted sponsored research on nutritional supplements through grants awarded to the universities he has been affiliated. 
+DMC
+ has no conflict in terms of financial or business interests related to this manuscript. 
+DMC
+ is affiliated with the Pan Am Clinic Foundation which receives general education and research support from ConMed Linvatec, Ossur, Zimmer Biomet, and Arthrex. 
+GMT
+ has received support for his research laboratory through research funding or in-kind gifts from nutrition and sports nutrition companies, although none of these have been related to ω-3 PUFA. He is the Owner of Tinsley Consulting LLC, which provides consulting services to dietary supplement manufacturers. 
+RC
+ has no conflict in terms of financial or business interests related to this manuscript. RC has received grants and contracts to conduct research on dietary supplements; has served as a paid consultant for industry; has received honoraria for speaking at conferences. 
+BIC
+ has received grants and contracts to conduct research on dietary su

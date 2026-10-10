@@ -1,0 +1,799 @@
+
+Introduction
+
+Physiological disorders such as muscle damage, hyperthermia, dehydration, and glycogen depletion can occur after high-intensity training. Insufficient or unreasonable relaxation after long-term intensive training can adversely affect the subsequent training performance or competitions (
+Spencer et al., 2005
+; 
+Rowsell et al., 2009
+). Fatigue can build up after unreasonable relaxation, which affects athletes’ physical health and decreased exercise performance (
+Gill et al., 2006
+). Exercise, training, or competing will not be affected after exercise if there is sufficient recovery time. However, when the post-exercise rest period is very short, the problem of reducing or eliminating fatigue and muscle damage, and maintaining or improving performance for the next exercise becomes very urgent.
+
+In an attempt to alleviate fatigue and damage caused by exercise, it is imperative to fully warm up before training or competing, standardize movements during the process, and fully relax in time afterwards. Additionally, multiple external intervention methods have been adopted for athletes, including myoelectric stimulation, anti-inflammatory drugs, antioxidants, and cold water immersion(CWI) (
+Barnett, 2006
+). Among them, CWI is currently more popular in training and competing. Studies have shown that CWI reduces post-exercise muscle stiffness, eliminates fatigue, decreases exercise-induced muscle damage (EIMD), and improves athletic performance. Furthermore, athletes can accomplish more work in subsequent exercise after CWI (
+Roberts et al., 2014
+). Other evidence indicates that CWI negatively affects exercise performance (
+Paddon-Jones & Quigley, 1997
+; 
+Sellwood et al., 2007
+), which may just be a placebo effect (
+Broatch et al., 2014
+; 
+White et al., 2014
+). To determine the physiological mechanisms of CWI intervention and the possibility of it as an external relaxation tool during sports competitions, the effects of CWI intervention on sports fatigue and injury, as well as exercise performance after high-intensity exercise, were examined in this review.
+
+Methods
+
+Literature search strategies
+
+According to the PRISMA statement, this systematic review was conducted from September 2021 and March 2022 in the PubMed, PEDro and Elsevier databases (
+Moher et al., 2015
+). The following search terms were used to find the relevant articles: 1) cold water immersion(CWI) OR cooling OR ice bath; 2) exercise performance OR sports performance; 3) fatigue OR recovery. The language restriction (articles published in English only) was adopted. Publication years of articles ranged from 2002 to 2022. In fact, articles after 2018 have not been included in present study. First of all, articles were not relevant, the control group of article did not use passive rest but other interventions. Secondly, even if the article was relevant, the researchers failed to contact the author of the article to obtain relating data.
+
+Selection variables
+
+Muscle soreness and fatigue recovery status, which can be characterized by delayed-onset muscle soreness (DOMS) and ratings of perceived exertion (RPE), are generally measured by subjective scales. Countermovement jump (CMJ) performance is considered an easy-to-implement and valuable indicator of muscle strength, a significant predictor of maximum speed and explosive force in sports, and a useful method for assessing mobility and functional capacity in fatigued athletes. The release of creatine kinase (CK), lactate,
+
+----
+
+
+Methods
+
+Literature search strategies
+
+According to the PRISMA statement, this systematic review was conducted from September 2021 and March 2022 in the PubMed, PEDro and Elsevier databases (
+Moher et al., 2015
+). The following search terms were used to find the relevant articles: 1) cold water immersion(CWI) OR cooling OR ice bath; 2) exercise performance OR sports performance; 3) fatigue OR recovery. The language restriction (articles published in English only) was adopted. Publication years of articles ranged from 2002 to 2022. In fact, articles after 2018 have not been included in present study. First of all, articles were not relevant, the control group of article did not use passive rest but other interventions. Secondly, even if the article was relevant, the researchers failed to contact the author of the article to obtain relating data.
+
+Selection variables
+
+Muscle soreness and fatigue recovery status, which can be characterized by delayed-onset muscle soreness (DOMS) and ratings of perceived exertion (RPE), are generally measured by subjective scales. Countermovement jump (CMJ) performance is considered an easy-to-implement and valuable indicator of muscle strength, a significant predictor of maximum speed and explosive force in sports, and a useful method for assessing mobility and functional capacity in fatigued athletes. The release of creatine kinase (CK), lactate, and lactate dehydrogenase (LDH) in plasma has been used as an indirect biochemical marker for exercise muscle injury to characterize muscle membrane disruption. IL-6 has traditionally been taken as a marker of post-exercise inflammation. C-reactive protein (CRP) is an indicator of infectious or inflammatory conditions (
+Clyne & Olshaker, 1999
+). Consequently, the indicators including DOMS, RPE, CMJ, CK, Lactate/LDH, IL-6, and CRP were included in this review to examine whether performing CWI after exercise can affect the above indicators, which were measured immediately(0 h) and/or 24 h and/or 48 h after exhaustive exercise. DOMS and RPE were defined as subjective recovery characteristics, and CMJ, CK, lactate/LDH, CRP, and IL-6 as objective recovery characteristics (
+Hohenauer et al., 2015
+). The systematic search strategy and process are shown in 
+Figure 1
+.
+
+FIGURE 1
+
+Flow-chart describing the systematic review procedure.
+
+Study inclusion and exclusion criteria
+
+The present selected studies must include human subjects who received CWI intervention after exercise. CWI is defined as immersion in water at ≤15°C (
+Wilcock et al., 2006
+). In selected studies including randomized controlled trials (RCTs) and Crossover design (COD), the effect of post-exercise CWI on subsequent muscle soreness was examined. The inclusion criteria for studies were as follows: 1) RCTs and COD; 2) healthy humans; 3) at least one of the two outcome variables reported; 4) CWI performance at ≤15°C; 5) having performed baseline and post-training assessments of fatigue/soreness indicators; 6) the human volunteers could be of any athletic training status; 7) no sex-specific inclusion or exclusion criteria. Studies were excluded in the following cases: 1) not scrupulous experimental design; 2) duplicate publication; 3) animal experiments; 4) English language restrictions.
+
+Data analysis
+
+Meta-analysis calculations were performed by Revman 5.4 software. Two researchers (JL and ZH) independently extracted the general study features and specific study results. The disagreement between the two au
+
+----
+
+
+Methods
+
+Literature search strategies
+
+According to the PRISMA statement, this systematic review was conducted from September 2021 and March 2022 in the PubMed, PEDro and Elsevier databases (
+Moher et al., 2015
+). The following search terms were used to find the relevant articles: 1) cold water immersion(CWI) OR cooling OR ice bath; 2) exercise performance OR sports performance; 3) fatigue OR recovery. The language restriction (articles published in English only) was adopted. Publication years of articles ranged from 2002 to 2022. In fact, articles after 2018 have not been included in present study. First of all, articles were not relevant, the control group of article did not use passive rest but other interventions. Secondly, even if the article was relevant, the researchers failed to contact the author of the article to obtain relating data.
+
+Selection variables
+
+Muscle soreness and fatigue recovery status, which can be characterized by delayed-onset muscle soreness (DOMS) and ratings of perceived exertion (RPE), are generally measured by subjective scales. Countermovement jump (CMJ) performance is considered an easy-to-implement and valuable indicator of muscle strength, a significant predictor of maximum speed and explosive force in sports, and a useful method for assessing mobility and functional capacity in fatigued athletes. The release of creatine kinase (CK), lactate, and lactate dehydrogenase (LDH) in plasma has been used as an indirect biochemical marker for exercise muscle injury to characterize muscle membrane disruption. IL-6 has traditionally been taken as a marker of post-exercise inflammation. C-reactive protein (CRP) is an indicator of infectious or inflammatory conditions (
+Clyne & Olshaker, 1999
+). Consequently, the indicators including DOMS, RPE, CMJ, CK, Lactate/LDH, IL-6, and CRP were included in this review to examine whether performing CWI after exercise can affect the above indicators, which were measured immediately(0 h) and/or 24 h and/or 48 h after exhaustive exercise. DOMS and RPE were defined as subjective recovery characteristics, and CMJ, CK, lactate/LDH, CRP, and IL-6 as objective recovery characteristics (
+Hohenauer et al., 2015
+). The systematic search strategy and process are shown in 
+Figure 1
+.
+
+FIGURE 1
+
+Flow-chart describing the systematic review procedure.
+
+Study inclusion and exclusion criteria
+
+The present selected studies must include human subjects who received CWI intervention after exercise. CWI is defined as immersion in water at ≤15°C (
+Wilcock et al., 2006
+). In selected studies including randomized controlled trials (RCTs) and Crossover design (COD), the effect of post-exercise CWI on subsequent muscle soreness was examined. The inclusion criteria for studies were as follows: 1) RCTs and COD; 2) healthy humans; 3) at least one of the two outcome variables reported; 4) CWI performance at ≤15°C; 5) having performed baseline and post-training assessments of fatigue/soreness indicators; 6) the human volunteers could be of any athletic training status; 7) no sex-specific inclusion or exclusion criteria. Studies were excluded in the following cases: 1) not scrupulous experimental design; 2) duplicate publication; 3) animal experiments; 4) English language restrictions.
+
+Data analysis
+
+Meta-analysis calculations were performed by Revman 5.4 software. Two researchers (JL and ZH) independently extracted the general study features and specific study results. The disagreement between the two au
+
+----
+
+
+Results
+
+Risk of bias
+
+Blinding of participants and personnel, and blinding of outcome assessment demonstrated a high risk, whereas allocation concealment demonstrated an unclear risk. Random allocation of participants was used only in five studies (
+Rupp et al., 2012
+; 
+Glasgow et al., 2014
+; 
+Machado et al., 2016
+; 
+Siqueira et al., 2018
+). Blinding of the participants and blinding of outcome assessment were only found in two studies (
+Glasgow et al., 2014
+; 
+Machado et al., 2016
+). Detailed information about the risk of bias is shown in 
+Figures 2
+, 
+3
+.
+
+FIGURE 2
+
+Risk of bias graph for all included studies.
+
+FIGURE 3
+
+Risk of bias summary for all included studies.
+
+Research characteristics
+
+The characteristics of the selected studies are shown in 
+Table 1
+. A total of 20 studies were included in the analysis (
+Bosak et al., 2006
+; 
+Halson et al., 2008
+; 
+Ingram et al., 2009
+; 
+Peiffer et al., 2010a
+; 
+Parouty et al., 2010
+; 
+Brophy-Williams et al., 2011
+; 
+Pointon et al., 2012a
+; 
+Pointon and Duffield, 2012
+; 
+Rupp et al., 2012
+; 
+Glasgow et al., 2014
+; 
+Minett et al., 2014
+; 
+Roberts et al., 2014
+; 
+Takeda et al., 2014
+; 
+Fonseca et al., 2016
+; 
+Machado et al., 2016
+; 
+Amir et al., 2017
+; 
+Argus et al., 2017
+; 
+Chow et al., 2018
+; 
+Siqueira et al., 2018
+; 
+Wiewelhove et al., 2018
+). And the trials were used as a primary data source for this review. The meta-analysis was adopted in the introduction and conclusion sections. There were a total of n = 419 healthy subjects including males (n = 360) and females (n = 59) in the selected articles, whereas only n = 357 healthy participants were involved in the experiments.
+
+TABLE 1
+
+Summary of the included studies.
+
+Study,year
+
+Characteristics of participants (training status, sex(m:f), age)
+
+Enviroment condition(Tm ± S;RHm ± S)
+
+Exercise protocol
+
+Classification of the exercise
+
+[CWI duration and temperature]×number
+
+Control group
+
+Outcome variables and time of measurement post exercise(h)
+
+Bosak et al., 2006(Bosak et al., 2006)
+
+Regularly runners (9:3); 21 ± 1 year
+
+19°C ± 2°C
+
+5 km trial
+
+High intensity
+
+12 min Ice water immersion
+
+24 h passive recovery
+
+PRE (0)
+
+Jonathan Parouty et al., 2010(Parouty et al., 2010)
+
+well-trained swimmers(5:5); 19.0 ± 3.9 years
+
+Maximal 100-m freestyle swimming sprints
+
+High intensity
+
+[5min at 14°C–15°C]×1
+
+[5min at 28°C air]×1
+
+Lactate (0) PRE (0)
+
+Peiffer et al., 2010(Peiffer et al., 2010a)
+
+Cyclists(10:0); 29 ± 6 years
+
+35.0°C ± 0.3°C; 40.0 ± 3.0%RH
+
+1-km time trial as fast as possible
+
+High intensity
+
+[15min at 35°C air+5min at 14°C]×1
+
+[20min at 35°C air]×1
+
+PRE (0)
+
+Brophy-Williams et al., 2011(Brophy-Williams et al., 2011)
+
+Well trained athletes(8:0); 20.9 ± 1.2 years
+
+16.3°C ± 1.5°C; 50.1 ± 5.9%RH
+
+Yoyo Intermittent Recovery Test
+
+High intensity
+
+15min at 15°C ± 1°C]×1
+
+[15min at 23°C]×1
+
+Lactate (0)
+
+Rupp et al., 2012(Rupp et al., 2012)
+
+Collgiate soccer players(13:9); 19.8 ± 1.1 yrs
+
+6.1°C; 62%RH
+
+Yoyo Intermittent Recovery Test
+
+High intensity
+
+15min at 12°C
+
+15min at room temperature
+
+CMJ(0;24;48); DOMS(0;24;48)
+
+Chow et al., 2018(Chow et al., 2018)
+
+Amateur rugby players(29:24); 21.6 ± 2.9 years
+
+25̊C; 75%RH
+
+[submaximal movement 5s]×5 +[15s sprint]×14
+
+High intensity
+
+1min at 5°C
+
+1 min passive rest
+
+CMJ(0)
+
+Fonseca et al., 2016(Fonseca et al., 2016)
+
+Highly trained athletes(8:0); 24 ± 3.6 years
+
+120 min jiu-jitsu(40min warmup+40min technical training+40min combat simulation)
+
+High-intensity
+
+16min at 6.0°C
+
+Passive rest
+
+CK(0;24;48); LDH(
+
+----
+
+
+Discussion
+
+Methodological analysis of included literature
+
+First, the majority of studies had a high or unclear risk of bias, rendering the validity of most results uncertain. The main bias was produced by unblinding in experiments, which is due to the limited possibility of blinding during CWI application. Second, in terms of the allocation concealment procedure, the random allocation of participants was used in only four studies; in two studies, the envelope was used to conceal distribution (
+Rupp et al., 2012
+; 
+Glasgow et al., 2014
+) and in the others two, computers were adopted to ensure random allocation (
+Machado et al., 2016
+; 
+Siqueira et al., 2018
+). Third, random-CON and crossover trials were separately used in different studies of this review. CODs can risk certain carry-over effects between treatment periods that are not present in random-CON designs. In order to improve methodological quality, more randomized controlled trials, allocation concealment, and blind assessors can be included in studies.
+
+Subjective recovery characteristics
+
+One of the main findings of this review was that post-exercise CWI reduced DOMS and RPE immediately, but with no significant effect on DOMS and RPE at 24 and 48 h (
+Table 2
+). It was found by sensitivity analysis that the heterogeneity between DOMS groups might be caused by the study by Ingram, J., in 2009. The reason for this may be the short duration of CWI intervention in this article, which was only 2 min × 5 times with 2.5 min apart. It has been suggested that the short duration of immersion is less effective in relieving exercise-induced muscle (
+Getto & Golden, 2013
+).
+
+TABLE 2
+
+Summary of results.
+
+0H
+
+24H
+
+48H
+
+CMJ
+
+↓
+
+— † Temp<10°C ↑; Part —
+
+—
+
+DOMS
+
+↓
+
+— † Temp —; Part —
+
+— † Temp —; Part —
+
+RPE
+
+↓
+
+—
+
+—
+
+CK
+
+—
+
+↓
+
+—
+
+Lactate
+
+— † Temp —; Part —
+
+↓
+
+↓
+
+CRP
+
+—
+
+—
+
+—
+
+IL-6
+
+—
+
+—
+
+—
+
+↓ = significantly decrease in CWI, groups, compared with CON, groups; ↑ = significantly increase in CWI, groups, compared with CON, groups; — = unsignificant difference between CWI, and CON, groups; † = heterogeneity present between CWI, and CON, groups; Temp = CWI, temperatures; Part = CWI, of different body parts; CMJ , countermovement jump; DOMS, delayed-oneset muscle soreness; RPE , rating of perceived exertion; CK , creatine kinase; CRP = C-Reactive protein; IL-6 , Interleukin 6.
+
+The physiological mechanisms by which CWI performance after high-intensity exercise can immediately reduce DOMS and RPE may be explained as follows. 1. CWI can reduce edema, pain, and metabolite accumulation by lowering body temperature and regulating central nervous system mechanisms (
+Vaile et al., 2011
+; 
+Leeder et al., 2012
+). Immersion in cold water results in a decline in acetylcholine production, which in turn causes a decrease in neuronal transmission rate and the ability to reduce muscle spasm. Also, a 10°C–13°C decrease in the skin temperature can reduce nerve conduction velocity by 10%–33% (
+Algafly & George, 2007
+). 2. CWI causes vasoconstriction due to hydrostatic pressure, which increases venous blood return, thus reducing edema and pain, and accelerating metabolic elimination (
+Wilcock et al., 2006
+). 3. CWI has been reported to reduce lymphatic and capillary permeability (
+Wilcock et al., 2006
+), thereby reducing fluid diffusion, which may help reduce exercise-induced inflammation, as well as edema and pain (
+Wilcock et al., 2006
+). 4. CWI can provide a placebo effect on subjects to some extent. Double-b
+
+----
+
+
+Conclusion
+
+CWI is commonly used as a fatigue-recovery measure after exercise. In this review, the effect of CWI on post-exercise fatigue recovery was systematically analyzed. Subjective sensations seemed to recover immediately, as did objective biochemical markers such as CK and lactate after 24 h. CWL of different body parts and different water temperatures have no effect on fatigue recovery.
+
+In future, a randomized controlled study design needs to be adopted as much as possible in studies to improve the methodological quality. Also, a double-blind design should be conducted for subjects and experimenters whenever possible to ensure that they are not affected by each other’s placebo. Additionally, it is necessary to perform multidimensional subgroup analyses such as different gender and exercise intensity. Furthermore, the dose of CWI should be reconsidered.
+
+Data availability statement
+
+The original contributions presented in the study are included in the article/supplementary material, further inquiries can be directed to the corresponding author.
+
+Author contributions
+
+FX was mainly responsible for data processing and writing the paper, while LJ and HZ were mainly responsible for literature search and data collection. KAV and KLV was mainly responsible for the methodological guidance and the erratum of statements.
+
+Conflict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Publisher’s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+References
+
+Algafly
+
+A. A.
+
+George
+
+K. P.
+
+ (
+2007
+). 
+The effect of cryotherapy on nerve conduction velocity, pain threshold and pain tolerance
+. 
+Br. J. sports Med.
+
+41
+, 
+365
+–
+369
+. 
+10.1136/bjsm.2006.031237
+
+17224445
+
+PMC2465313
+
+Amir
+
+N. H.
+
+Hashim
+
+H. A.
+
+Saha
+
+S.
+
+ (
+2017
+). 
+The effect of single bout of 15 minutes of 15-degree celsius cold water immersion on delayed-onset muscle soreness indicators
+. 
+Singapore
+: 
+Springer
+.
+
+Argus
+
+C. K.
+
+Broatch
+
+J. R.
+
+Petersen
+
+A. C.
+
+Polman
+
+R.
+
+Bishop
+
+D. J.
+
+Halson
+
+S.
+
+ (
+2017
+). 
+Cold-water immersion and contrast water therapy: No improvement of short-term recovery after resistance training
+. 
+Int. J. Sports Physiology Perform.
+
+12
+, 
+886
+–
+892
+. 
+10.1123/ijspp.2016-0127
+
+27918654
+
+Ascensao
+
+A.
+
+Leite
+
+M.
+
+Rebelo
+
+A. N.
+
+Magalhaes
+
+S.
+
+Magalhaes
+
+J.
+
+ (
+2011
+). 
+Effects of cold water immersion on the recovery of physical performance and muscle damage following a one-off soccer match
+. 
+J. Sports Sci.
+
+29
+, 
+217
+–
+225
+. 
+10.1080/02640414.2010.526132
+
+21170794
+
+Barnett
+
+A.
+
+ (
+2006
+). 
+Using recovery modalities between training sessions in elite athletes
+. 
+Sports Med.
+
+36
+, 
+781
+–
+796
+. 
+10.2165/00007256-200636090-00005
+
+16937953
+
+Bergh
+
+U.
+
+Ekblom
+
+B.
+
+ (
+1979
+). 
+Influence of muscle temperature on maximal muscle strength and power output in human skeletal muscles
+. 
+Acta physiol. Scand.
+
+107
+, 
+33
+–
+37
+. 
+10.1111/j.1748-1716.1979.tb06439.x
+
+525366
+
+Bosak
+
+A.
+
+Bishop
+
+P.
+
+Smith
+
+J.
+
+Green
+
+M.
+
+Richardson
+
+M.
+
+Iosia
+
+M.
+
+ (
+2006
+). 
+Impact of cold water immersion on 5km racing performance
+. 
+Med. Sci. Sports Exerc.
+
+3
+
+----
+
+
+Limitations
+
+Limitations in study designs were also identified. First, we have chosen articles from 2002 to 2022, but in fact articles just to 2018. Second, blinding of participants in studies was problematic, especially with hydrotherapy, which left them vulnerable to the placebo effect. Thirdly, the subgroup analysis was not comprehensive. The subgroup analysis was based solely on different body parts that underwent CWI, and the different temperatures. There was a lack of comparisons of differences between eccentric and high-intensity exercise and between genders. Fourthly, grouping together the active population, recreational athletes and professional athletes limits the applicability of this present findings.
+
+Conclusion
+
+CWI is commonly used as a fatigue-recovery measure after exercise. In this review, the effect of CWI on post-exercise fatigue recovery was systematically analyzed. Subjective sensations seemed to recover immediately, as did objective biochemical markers such as CK and lactate after 24 h. CWL of different body parts and different water temperatures have no effect on fatigue recovery.
+
+In future, a randomized controlled study design needs to be adopted as much as possible in studies to improve the methodological quality. Also, a double-blind design should be conducted for subjects and experimenters whenever possible to ensure that they are not affected by each other’s placebo. Additionally, it is necessary to perform multidimensional subgroup analyses such as different gender and exercise intensity. Furthermore, the dose of CWI should be reconsidered.
+
+Data availability statement
+
+The original contributions presented in the study are included in the article/supplementary material, further inquiries can be directed to the corresponding author.
+
+Author contributions
+
+FX was mainly responsible for data processing and writing the paper, while LJ and HZ were mainly responsible for literature search and data collection. KAV and KLV was mainly responsible for the methodological guidance and the erratum of statements.
+
+Conflict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Publisher’s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+References
+
+Algafly
+
+A. A.
+
+George
+
+K. P.
+
+ (
+2007
+). 
+The effect of cryotherapy on nerve conduction velocity, pain threshold and pain tolerance
+. 
+Br. J. sports Med.
+
+41
+, 
+365
+–
+369
+. 
+10.1136/bjsm.2006.031237
+
+17224445
+
+PMC2465313
+
+Amir
+
+N. H.
+
+Hashim
+
+H. A.
+
+Saha
+
+S.
+
+ (
+2017
+). 
+The effect of single bout of 15 minutes of 15-degree celsius cold water immersion on delayed-onset muscle soreness indicators
+. 
+Singapore
+: 
+Springer
+.
+
+Argus
+
+C. K.
+
+Broatch
+
+J. R.
+
+Petersen
+
+A. C.
+
+Polman
+
+R.
+
+Bishop
+
+D. J.
+
+Halson
+
+S.
+
+ (
+2017
+). 
+Cold-water immersion and contrast water therapy: No improvement of short-term recovery after resistance training
+. 
+Int. J. Sports Physiology Perform.
+
+12
+, 
+886
+–
+892
+. 
+10.1123/ijspp.2016-0127
+
+27918654
+
+Ascensao
+
+A.
+
+Leite
+
+M.
+
+Rebelo
+
+A. N.
+
+Magalhaes
+
+S.
+
+Magalhaes
+
+J.
+
+ (
+2011
+). 
+Effects of cold water immersion on the recove

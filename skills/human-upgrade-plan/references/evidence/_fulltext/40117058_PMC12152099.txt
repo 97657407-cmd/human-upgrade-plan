@@ -1,0 +1,631 @@
+
+Abstract
+
+The purpose of this narrative review is to provide an evidence-based update on the protein needs of endurance athletes with a focus on high-quality metabolic studies conducted on the topics of recovery and training adaptation over the past decade. We use the term ‘protein needs’ to delineate between the concepts of a daily protein requirement and per meal protein recommendations when devising scientific evidence-based protein guidelines for the endurance athlete to promote post-exercise recovery, enhance the adaptive response to endurance training and improve endurance performance. A habitual protein intake of 1.5 g/kg of body mass (BM)
+−1
+·day
+−1
+ is typical in male and female endurance athletes. Based on findings from a series of contemporary protein requirement studies, the evidence suggests a daily protein intake of ~ 1.8 g·kgBM
+−1
+·day
+−1
+ should be advocated for endurance athletes, with the caveat that the protein requirement may be further elevated in excess of 2.0 g·kgBM
+−1
+·day
+−1
+ during periods of carbohydrate-restricted training and on rest days. Regarding protein recommendations, the current lack of metabolic studies that determine the dose response of muscle protein synthesis to protein ingestion in relation to endurance exercise makes it difficult to present definitive guidelines on optimal per meal protein intakes for endurance athletes. Moreover, there remains no compelling evidence that co-ingesting protein with carbohydrate before or during endurance exercise confers any performance advantage, nor facilitates the resynthesis of liver or muscle glycogen stores during recovery, at least when carbohydrate recommendations are met. However, recent evidence suggests a role for protein nutrition in optimising the adaptive metabolic response to endurance training under conditions of low carbohydrate and/or energy availability that represent increasingly popular periodised strategies for endurance athletes.
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-in-collection-domain
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Accepted 2025 Feb 28; Issue date 2025.
+
+Key Points
+
+The indicator amino acid oxidation method offers the most contemporary technique for estimating the protein requirements of endurance athletes and is fundamental to recent advances in informing context-specific (i.e. during carbohydrate-restricted or low energy availability training) and individualised daily protein intake guidelines during training and rest days.
+
+Based on contemporary studies utilising the indicator amino acid oxidation method, endurance athletes require a daily protein intake of 1.8 g·kg of body mass (BM)
+−1
+·day
+−1
+, which is 50% greater than sedentary adults, but should be further elevated to ~ 2.0 g·kgBM
+−1
+·day
+−1
+ during intensive training periods conducted under conditions of carbohydrate restriction and/or low energy availability and on rest days.
+
+Preliminary evidence indicates that endurance athletes should target a per meal protein intake of ~ 0.5 g·kgBM
+−1
+ to maximally stimulate the synthesis of contractile muscle proteins during immediate post-exercise recovery.
+
+Although awareness around the under-representation of female participants in sport nutrition research is beginning to improve, experimental studies designed to inform the protein needs of female endurance athletes remains a priority gap in the knowledge that warrants investigation.
+
+Introduction
+
+The 2
+
+----
+
+
+Introduction
+
+The 2024 Paris Olympic and Paralympic games showcased many extraordinary feats of athletic performance with  more than 30 world records broken across an array of sports, disciplines, and events. Among other scientific disciplines in sports medicine (e.g. exercise physiology, physiotherapy, strength and conditioning, sport psychology), sport nutrition plays a crucial role in optimising athlete health, training adaptation and competitive performance [
+1
+]. Dietary protein intake is widely recognised as fundamental to maximising muscle hypertrophy and strength with resistance training in strength and/or power-based athletes [
+2
+–
+4
+]. However, despite a solid scientific rationale (Fig. 
+1
+), less emphasis has historically been placed on the role of protein nutrition in promoting post-exercise recovery, adaptations to endurance training and optimising performance in endurance athletes [
+5
+]. Hence, the purpose of this narrative review is to comprehensively update [
+6
+] and critically appraise recent advances in scientific knowledge primarily from metabolic studies regarding the protein needs of endurance athletes. The majority of relevant metabolic studies used to inform protein recommendations in endurance athletes have recruited trained cyclists and/or triathletes that conducted an acute bout of prolonged (~ 90-min) continuous exercise typically on the cycle ergometer [
+7
+, 
+8
+], with only a handful of studies conducted in other enduranced-based modalties (e.g., running), team sport (i.e. soccer, ice hockey, volleyball) athletes [
+9
+, 
+10
+] or utilising a concurrent (combination of endurance exercise and resistance exercise) exercise model [
+11
+, 
+12
+]. In addition, data generated regarding protein needs in the context of ultra-endurance events (i.e. > 5 h) is comparatively limited [
+13
+]. In a bid to bridge the gap between science and practice, where possible, we translate the findings from classic and contemporary experimental metabolic studies of protein nutrition into practical recommendations for athletes and sport nutrition professionals within the context of endurance athlete performance.
+
+Fig. 1
+
+Proposed mechanisms that underpin the role of protein nutrition in optimising endurance performance by promoting training adaptations and enhancing post-exercise recovery. Dietary protein intake is suggested to be an important factor in (1) facilitating muscle glycogen resynthesis under conditions of suboptimal carbohydrate (CHO) intake, (2) stimulating muscle protein synthesis rates during recovery, (3) attenuating post-exercise protein breakdown in catabolic states such as energy restriction (e.g. fasted training) and (4) replenishing oxidative amino acid losses during exercise
+
+Protein Metabolism and Endurance Exercise
+
+The primary nutritional role of dietary protein in the context of exercise metabolism relates to the provision of amino acids as a substrate and signal for the repair and remodelling of skeletal muscle proteins. Muscle protein synthesis (MPS) and muscle protein breakdown (MPB) rates are stimulated both during and after endurance [
+14
+] or resistance [
+15
+] exercise and underpin the cumulative response of skeletal muscle remodelling to exercise training. In addition to the remodelling of contractile force-generating myofibrillar proteins, new muscle mitochondrial proteins that power muscle energetics also are synthesised in response to exercise [
+16
+, 
+17
+], with clear functional relevance to endurance per
+
+----
+
+methods, and also compared with habitual protein intakes of 1.5 g·kgBM
+−1
+·day
+−1
+ previously reported in endurance athletes [
+35
+]. For instance, mean protein requirements were estimated (using IAAO methodology) at 1.83 g·kgBM
+−1
+·day
+−1
+ on a training day in which endurance-trained men completed a 20-km treadmill run [
+47
+], which is 2.3-fold greater than the current RDA devised in non-athletic adult populations [
+33
+] and consistent with the notion that protein requirements are increased in response to endurance exercise [
+23
+]. This elevated protein requirement likely reflects the need to replenish the oxidative loss of branched-chain amino acids incurred during exercise [
+47
+, 
+52
+, 
+53
+] and the need to supply sufficient additional amino acids to remodel muscle proteins following high volumes of strenuous exercise training. Daily protein intakes of ~1.5 g·kgBM
+−1
+·day
+−1
+ are generally met on a habitual level in endurance athletes [
+35
+] by virtue of the higher energy demands of endurance training. However, individuals habituated to higher protein intakes may require a greater relative protein intake to account for an attenuated peripheral dietary amino acid appearance and/or enhanced amino acid oxidative capacity [
+54
+]. Interestingly, the mean protein requirement was further elevated to 1.95 g·kgBM
+−1
+·day
+−1
+ when endurance-trained men performed a similar endurance exercise bout (10-km treadmill run) under conditions of low CHO availability [
+50
+], and thus markedly exceeds previously reported habitual protein intakes in endurance athletes [
+35
+]. This finding is consistent with previous observations of higher amino acid oxidation rates during exercise that commenced in a glycogen-depleted state [
+29
+, 
+55
+], and also aligns with work indicating reduced MPS rates during energy deficit [
+56
+, 
+57
+] or applied contexts of low energy availability [
+58
+]. Moreover, and perhaps counter-intuitively, recent IAAO studies indicate that the protein requirement increases to > 2 g·kgBM
+−1
+· day
+−1
+ when measured on a passive recovery day, i.e. 24 h after endurance exercise [
+49
+, 
+51
+]. This observation is likely underpinned by the nutritional requirement to supply ample amino acids as substrate to repair and remodel damaged proteins on a whole-body level during exercise recovery [
+59
+]. Nevertheless, from a practical standpoint, this discrepancy in estimated protein requirement between training and recovery days supports the notion that a periodised approach to establishing protein requirements, both across and within a training cycle, may be beneficial for the endurance athlete. This approach is timely given the increased interest in nutritional periodization as a strategy to augment exercise-induced adaptations with endurance exercise, including training in a fasted state [
+60
+–
+62
+]. To our knowledge, no study to date has estimated protein requirements on a rest day during periods of CHO-restricted training. Finally, it is noteworthy that the metabolic demands of different endurance sports can vary, and therefore so too can protein requirements of endurance athletes [
+63
+].
+
+Fig. 2
+
+Protein requirements of endurance athletes and team sport athletes estimated using the indicator amino acid oxidation (IAAO) technique across a variety of applied settings. 
+A
+ IAAO estimate of protein requirement based on 
+13
+CO
+2
+ excretion in endurance-trained male individuals (
+n
+ = 6) immediately following a 20-km treadmill run [
+47
+]. 
+B
+ IAAO estimat
+
+----
+
+method offers the most contemporary technique for estimating the protein requirements of endurance athletes and is fundamental to recent advances in informing context-specific (i.e. during carbohydrate-restricted or low energy availability training) and individualised daily protein intake guidelines during training and rest days.
+
+Based on contemporary studies utilising the indicator amino acid oxidation method, endurance athletes require a daily protein intake of 1.8 g·kg of body mass (BM)
+−1
+·day
+−1
+, which is 50% greater than sedentary adults, but should be further elevated to ~ 2.0 g·kgBM
+−1
+·day
+−1
+ during intensive training periods conducted under conditions of carbohydrate restriction and/or low energy availability and on rest days.
+
+Preliminary evidence indicates that endurance athletes should target a per meal protein intake of ~ 0.5 g·kgBM
+−1
+ to maximally stimulate the synthesis of contractile muscle proteins during immediate post-exercise recovery.
+
+Although awareness around the under-representation of female participants in sport nutrition research is beginning to improve, experimental studies designed to inform the protein needs of female endurance athletes remains a priority gap in the knowledge that warrants investigation.
+
+Introduction
+
+The 2024 Paris Olympic and Paralympic games showcased many extraordinary feats of athletic performance with  more than 30 world records broken across an array of sports, disciplines, and events. Among other scientific disciplines in sports medicine (e.g. exercise physiology, physiotherapy, strength and conditioning, sport psychology), sport nutrition plays a crucial role in optimising athlete health, training adaptation and competitive performance [
+1
+]. Dietary protein intake is widely recognised as fundamental to maximising muscle hypertrophy and strength with resistance training in strength and/or power-based athletes [
+2
+–
+4
+]. However, despite a solid scientific rationale (Fig. 
+1
+), less emphasis has historically been placed on the role of protein nutrition in promoting post-exercise recovery, adaptations to endurance training and optimising performance in endurance athletes [
+5
+]. Hence, the purpose of this narrative review is to comprehensively update [
+6
+] and critically appraise recent advances in scientific knowledge primarily from metabolic studies regarding the protein needs of endurance athletes. The majority of relevant metabolic studies used to inform protein recommendations in endurance athletes have recruited trained cyclists and/or triathletes that conducted an acute bout of prolonged (~ 90-min) continuous exercise typically on the cycle ergometer [
+7
+, 
+8
+], with only a handful of studies conducted in other enduranced-based modalties (e.g., running), team sport (i.e. soccer, ice hockey, volleyball) athletes [
+9
+, 
+10
+] or utilising a concurrent (combination of endurance exercise and resistance exercise) exercise model [
+11
+, 
+12
+]. In addition, data generated regarding protein needs in the context of ultra-endurance events (i.e. > 5 h) is comparatively limited [
+13
+]. In a bid to bridge the gap between science and practice, where possible, we translate the findings from classic and contemporary experimental metabolic studies of protein nutrition into practical recommendations for athletes and sport nutrition professionals within the context of endurance athlete performance.
+
+Fig. 1
+
+Proposed mechanisms that underpin the role of protein nutrition in optimising enduranc
+
+----
+
+results in the oxidation of amino acids at levels equivalent to ~ 6% of the total energy cost of exercise [
+23
+], with the branched-chain amino acids, namely isoleucine, leucine and valine, preferentially oxidised over other amino acids [
+24
+]. Many studies have demonstrated that endurance exercise increases the rate of branched-chain amino acid oxidation [
+25
+–
+27
+], as mediated by an increased activation of the rate-limiting enzyme branched-chain oxo acid dehydrogenase [
+27
+]. The breakdown of muscle proteins into constituent amino acids serves as a key metabolic driver of the exercise-induced increase in amino acid oxidation. In this regard, amino acids are either locally deaminated for oxidation within the muscle mitochondria as a direct fuel source or are subsequently released from skeletal muscle and taken up by the liver for gluconeogenesis [
+28
+]. Multiple demographic and exercise/nutrition-related factors, including sex, exercise intensity or duration, carbohydrate (CHO) availability and habitual protein intake all modulate amino acid oxidation rates during exercise [
+6
+], meaning a context-specific approach to determining the protein needs of endurance athletes is necessary. For instance, leucine oxidation rates were higher in men than women during 90-min of moderate intensity (65% 
+
+V
+
+˙
+
+O
+
+2
+
+max
+
+) cycling [
+25
+], albeit in the absence of any sex differences in skeletal muscle branched-chain oxo acid dehydrogenase content (see discussion on sex-specific requirements in Sect. 
+4.1
+). Moreover, leucine oxidation rates are increased during exercise conducted under conditions of restricted CHO availability [
+29
+] and when the habitual protein intake is high [
+30
+]. Hence, given the complex metabolic fate of amino acids in response to endurance exercise, establishing the protein needs of endurance athletes is important for optimising the repair and remodelling of muscle proteins and replacement of oxidised amino acids [
+31
+].
+
+Defining the Protein Needs of Endurance Athletes
+
+The foundation of any discussion around the dietary protein needs of endurance athletes relates to clearly defining and distinguishing between the terms of a ‘protein requirement’ and a ‘protein recommendation’. The 
+protein requirement
+ may be defined as ‘the minimum daily protein intake necessary to satisfy the metabolic demands of the body which includes the maintenance of body composition’ [
+32
+], and is primarily reliant on whole-body measurements of protein metabolism [
+33
+]. In comparison, the 
+protein recommendation
+ may be defined as ‘protein strategies to optimize performance in athletes by facilitating training adaptation and/or accelerating recovery’ [
+34
+] and is primarily reliant on tissue-specific (primarily skeletal muscle) measurements of muscle metabolism. Hence, throughout this review, we use the term ‘protein needs’ to delineate between the concepts of a daily protein requirement and per meal protein recommendations when devising scientific evidence-based protein guidelines for the endurance athlete to promote post-exercise recovery, enhance the adaptive response to endurance training and improve endurance performance.
+
+The topic of protein nutrition is continually evolving with growing interest in protein recommendations for endurance sports [
+6
+]. In this regard, and dependent on a training or competition context, protein nutrition before, during and after exercise has the potential to enhance recovery, promote training adaptations, r
+
+----
+
+discussion on sex-specific requirements in Sect. 
+4.1
+). Moreover, leucine oxidation rates are increased during exercise conducted under conditions of restricted CHO availability [
+29
+] and when the habitual protein intake is high [
+30
+]. Hence, given the complex metabolic fate of amino acids in response to endurance exercise, establishing the protein needs of endurance athletes is important for optimising the repair and remodelling of muscle proteins and replacement of oxidised amino acids [
+31
+].
+
+Defining the Protein Needs of Endurance Athletes
+
+The foundation of any discussion around the dietary protein needs of endurance athletes relates to clearly defining and distinguishing between the terms of a ‘protein requirement’ and a ‘protein recommendation’. The 
+protein requirement
+ may be defined as ‘the minimum daily protein intake necessary to satisfy the metabolic demands of the body which includes the maintenance of body composition’ [
+32
+], and is primarily reliant on whole-body measurements of protein metabolism [
+33
+]. In comparison, the 
+protein recommendation
+ may be defined as ‘protein strategies to optimize performance in athletes by facilitating training adaptation and/or accelerating recovery’ [
+34
+] and is primarily reliant on tissue-specific (primarily skeletal muscle) measurements of muscle metabolism. Hence, throughout this review, we use the term ‘protein needs’ to delineate between the concepts of a daily protein requirement and per meal protein recommendations when devising scientific evidence-based protein guidelines for the endurance athlete to promote post-exercise recovery, enhance the adaptive response to endurance training and improve endurance performance.
+
+The topic of protein nutrition is continually evolving with growing interest in protein recommendations for endurance sports [
+6
+]. In this regard, and dependent on a training or competition context, protein nutrition before, during and after exercise has the potential to enhance recovery, promote training adaptations, reduce fatigue and optimize endurance performance. According to a comprehensive descriptive study of endurance athletes from rowing, swimming, ice skating, road cycling, running and ultra-endurance disciplines that utilised 24-h dietary recalls, a habitual protein intake of 1.5 g/kg of body mass (BM)
+−1
+·day
+−1
+ is typical in male and female endurance athletes [
+35
+]. This relatively high protein intake was associated with high energy intakes in male (~ 12.3 MJ/day) and female (~ 10 MJ/day) endurance athletes [
+35
+]. However, protein requirements and protein recommendations are likely highly individualized, not only to an endurance population, but to an individual within an elite athlete population. The concept of devising specific amino acid requirements (particularly the EAA), in addition to, or instead of, protein requirements, has also received attention [
+36
+]. This idea is pertinent given that dietary protein sources contain divergent amino acid profiles and endurance athletes adopt a range of diet types (e.g. omnivore, vegetarian, vegan). Moreover, the concept of amino acid requirements is ostensibly based on knowledge that the EAA content of a protein source, rather than the gross protein per se, dictates amino acid availability and the subsequent metabolic response, with implications for human health, training adaptation and endurance performance. However, the detailed discussion of amino acid requirements and recommendations is beyo
+
+----
+
+
+Conclusions
+
+The purpose of this review was to provide an evidence-based update, with a focus on metabolic studies, on the protein needs of endurance athletes to facilitate the remodelling of mitochondrial and myofibrillar skeletal muscle proteins, accelerate the restoration of glycogen stores during post-exercise recovery, promote training adaptation(s) and improve endurance exercise performance. Table 
+1
+ provides a summary of practical guidelines regarding evidence-based protein requirements and protein recommendations for endurance athletes. In addition, we have proposed some priority research directions and experimental considerations when critically appraising the protein needs of endurance athletes. Recent advances in scientific knowledge mean that protein requirements and protein recommendations for endurance athletes can, and should, be more personalized (i.e. age, sex, body weight, habitual protein intake), context specific (i.e. exercise intensity/duration, time period between subsequent exercise bouts) and periodised (i.e. training in a state of CHO restriction of low energy availability). Future studies are required to understand the optimal daily distribution of protein intake, particularly in close proximity to exercise, with regard to maximizing mitochondrial MPS rates during endurance exercise recovery. Whilst protein ingestion may improve recovery from endurance exercise, particularly during scenarios of CHO restriction by augmenting rates of muscle glycogen restoration, it is pertinent to reiterate that CHO remains ‘king’ in terms of promoting muscle glycogen restoration and overall endurance performance.
+
+Table 1
+
+Summary of context-specific protein requirements and recommendations for endurance athletes
+
+Protein requirements
+
+1. Endurance-trained men and women should target a dietary protein intake of 1.80 g·kgBM
+−1
+·day
+−1
+ on standard training days. Female individuals in the luteal phase of their menstrual cycle may consider increasing protein intakes to 1.90 g·kgBM
+−1
+·day
+−1
+
+2. Endurance athletes should target a dietary protein intake of 2.0 g·kgBM
+−1
+·day
+−1
+ on recovery days
+
+3. Endurance athletes should target a dietary protein intake of 1.95 g·kgBM
+−1
+·day
+−1
+ on training days conducted with low CHO availability
+
+Protein recommendations
+
+1. Endurance athletes should target a protein feed of 0.5 g·kgBM
+−1
+ during immediate post-exercise recovery to facilitate the remodelling of contractile muscle proteins damaged in response to exercise
+
+2. Endurance athletes should ingest a moderate (~ 10–20 g) dose of protein before and during prolonged exercise training sessions conducted in a state of low CHO availability to mitigate the exercise-induced increase MPB without impacting the muscle adaptive response to glycogen-depleted training
+
+3. Endurance athletes that do not tolerate optimal (1.2 g·kgBM
+−1
+·h
+−1
+) CHO intakes during the immediate post-exercise recovery period should target a protein intake of 0.4 g·kgBM
+−1
+ to facilitate the resynthesis of muscle glycogen
+
+BM
+ body mass, 
+CHO
+ carbohydrate, 
+MPB
+ muscle protein breakdown
+
+Acknowledgements
+
+The authors Dr. Asli Lanpir for her critique of the manuscript and contributions in editing Fig. 
+2
+. The authors also acknowledge the excellent work of other authors in the field who were not cited in this review in the interests of brevity.
+
+Declarations
+
+Funding
+
+This research received no specific grant from any funding agency, commercial or not-for-profit sector
+
+----
+
+practical recommendations for athletes and sport nutrition professionals within the context of endurance athlete performance.
+
+Fig. 1
+
+Proposed mechanisms that underpin the role of protein nutrition in optimising endurance performance by promoting training adaptations and enhancing post-exercise recovery. Dietary protein intake is suggested to be an important factor in (1) facilitating muscle glycogen resynthesis under conditions of suboptimal carbohydrate (CHO) intake, (2) stimulating muscle protein synthesis rates during recovery, (3) attenuating post-exercise protein breakdown in catabolic states such as energy restriction (e.g. fasted training) and (4) replenishing oxidative amino acid losses during exercise
+
+Protein Metabolism and Endurance Exercise
+
+The primary nutritional role of dietary protein in the context of exercise metabolism relates to the provision of amino acids as a substrate and signal for the repair and remodelling of skeletal muscle proteins. Muscle protein synthesis (MPS) and muscle protein breakdown (MPB) rates are stimulated both during and after endurance [
+14
+] or resistance [
+15
+] exercise and underpin the cumulative response of skeletal muscle remodelling to exercise training. In addition to the remodelling of contractile force-generating myofibrillar proteins, new muscle mitochondrial proteins that power muscle energetics also are synthesised in response to exercise [
+16
+, 
+17
+], with clear functional relevance to endurance performance. In trained individuals, the response of muscle remodelling to endurance exercise is mode specific [
+18
+, 
+19
+]. Accordingly, endurance exercise stimulates the synthesis of mitochondrial muscle proteins with minimal acute changes in the synthesis of myofibrillar proteins [
+18
+]. Conversely, the increased synthesis of myofibrillar proteins and mitochondrial protein has been reported in response to resistance exercise in trained [
+20
+] and untrained [
+18
+] individuals. Whilst exercise represents the most potent stimulus of MPS [
+21
+], an abundant supply of essential amino acids (EAA) is necessary to switch skeletal muscle from a catabolic state (i.e. where MPB > MPS and muscle protein is temporarily being lost) to an anabolic state (i.e. where MPS > MPB and muscle protein is temporarily being gained). Thus, dietary protein plays a crucial role in supplying the amino acid “building blocks” necessary to facilitate the repair and remodelling of “old” damaged proteins and the de novo synthesis of new functional muscle proteins in response to endurance exercise [
+22
+].
+
+Endurance exercise also results in the oxidation of amino acids at levels equivalent to ~ 6% of the total energy cost of exercise [
+23
+], with the branched-chain amino acids, namely isoleucine, leucine and valine, preferentially oxidised over other amino acids [
+24
+]. Many studies have demonstrated that endurance exercise increases the rate of branched-chain amino acid oxidation [
+25
+–
+27
+], as mediated by an increased activation of the rate-limiting enzyme branched-chain oxo acid dehydrogenase [
+27
+]. The breakdown of muscle proteins into constituent amino acids serves as a key metabolic driver of the exercise-induced increase in amino acid oxidation. In this regard, amino acids are either locally deaminated for oxidation within the muscle mitochondria as a direct fuel source or are subsequently released from skeletal muscle and taken up by the liver for gluconeogenesis [
+28
+]. Multiple demographic and exercise/nutri
+
+----
+
+limitations are also associated with this technique [
+42
+]. Utilising stable isotope tracer methodology, the basic principle of the IAAO technique relates to determining the dietary protein intake that minimizes amino acid oxidation (also referred to as oxidative catabolism) and maximizes whole-body protein synthesis rates [
+41
+]. In practice, one of the EAA (typically phenylalanine, lysine or leucine) is labelled with a stable isotope (e.g. 
+13
+C) and the appearance of the 
+13
+C label in breath carbon dioxide (i.e. 
+13
+CO
+2
+) is used an indicator of the protein requirement. In the case where the chosen EAA is deficient for protein synthesis, all other amino acids, including the ‘indicator’ amino acid, cannot be directed towards synthesis, and as a result are oxidised [
+41
+]. Therefore, a greater deficiency of one or more EAA would result in higher oxidation of the indicator amino acid, and hence a greater protein requirement to maximize protein synthesis. Once the dietary requirement is met, the oxidation of the indicator amino acid plateaus, and the resulting inflection or “breakpoint” represents the mean protein requirement [
+40
+]. In practice, graded intakes of protein are fed to athletes and a breakpoint is defined as representing the protein requirement (for technical details, see [
+39
+]). Three principal limitations are associated with the IAAO technique including, but not limited to, (i) the need for multiple experimental trials, (ii) a lack of consensus regarding the necessary length of adaptation period (5 days or more) prior to IAAO studies, particularly in athletic populations with high habitual protein intakes [
+43
+], and (iii) concerns regarding whether the amount of indicator amino acid (typically phenylalanine) fed during experiments is (a) rate limiting in identifying the breakpoint in amino acid oxidation and by extension whole-body protein synthesis or (b) an artefact reflecting phenylalanine deficiency as opposed to adequacy [
+42
+]. Regardless, whereas estimates of the protein requirement based on nitrogen balance methodology may systematically underestimate the minimum protein requirement in athletes [
+44
+–
+46
+], including endurance athletes [
+47
+], equally IAAO studies may over-estimate the protein requirement. Hence, in the context of endurance exercise, there may be more value in estimating the relative requirement, (i.e. fold difference from rest or untrained states) rather than absolute estimates of the protein requirement. Nonetheless, proponents of the IAAO technique also cite maximizing whole-body protein synthesis rates as a more physiologically relevant measure for athletes compared with achieving a nitrogen equilibrium as derived from nitrogen balance studies [
+48
+]. Hence, IAAO studies have received considerable recent attention in terms of estimating protein requirements in endurance athletes.
+
+Over the past decade, a series of carefully controlled studies, primarily conducted in the laboratory of Dr. Daniel Moore and colleagues at The University of Toronto, have utilized the IAAO technique to estimate protein requirements in endurance athletes [
+47
+, 
+49
+–
+51
+] and have revealed important context-specific conclusions (Fig. 
+2
+). A consistent finding across IAAO studies is that endurance exercise markedly increases the protein requirement on both training [
+47
+] and recovery [
+49
+, 
+51
+] days in comparison to estimated protein requirements of 1.2 g·kgBM
+−1
+·day
+−1
+ in non-active young men [
+39
+], as det
+
+----
+
+
+Acknowledgements
+
+The authors Dr. Asli Lanpir for her critique of the manuscript and contributions in editing Fig. 
+2
+. The authors also acknowledge the excellent work of other authors in the field who were not cited in this review in the interests of brevity.
+
+Declarations
+
+Funding
+
+This research received no specific grant from any funding agency, commercial or not-for-profit sectors.
+
+Conflict of interest
+
+Mark Hearris receives research funding pertaining to the use of carbohydrate and protein supplementation for endurance performance from Science in Sport PLC. Oliver C. Witard and Paul T. Morgan have no conflicts of interest that are directly relevant to the content of this article.
+
+Ethics approval
+
+Not applicable.
+
+Consent to participate
+
+Not applicable.
+
+Consent for publication
+
+Not applicable.
+
+Availability of data and material
+
+Not applicable.
+
+Code availability
+
+Not applicable.
+
+Author contributions
+
+All authors contributed to the writing/content of the manuscript. All authors edited and approved the final version of the manuscript and agree to be accountable for all aspects of the work.
+
+References
+
+1.
+
+Burke LM, Castell LM, Casa DJ, Close GL, Costa RJS, Desbrow B, et al. International Association of Athletics Federations consensus statement 2019: nutrition for athletics. Int J Sport Nutr Exerc Metab. 2019;29(2):73–84.
+
+2.
+
+Morton RW, Murphy KT, McKellar SR, Schoenfeld BJ, Henselmans M, Helms E, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. Br J Sports Med. 2018;52(6):376–84.
+
+3.
+
+Trommelen J, Betz MW, van Loon LJC. The muscle protein synthetic response to meal ingestion following resistance-type exercise. Sports Med. 2019;49(2):185–97.
+
+4.
+
+Phillips SM, Moore DR, Tang JE. A critical examination of dietary protein requirements, benefits, and excesses in athletes. Int J Sport Nutr Exerc Metab. 2007;17(Suppl.):58–76.
+
+5.
+
+Tipton KD. Protein for adaptations to exercise training. Eur J Sport Sci. 2008;8(2):107–18.
+
+6.
+
+Moore DR, Camera DM, Areta JL, Hawley JA. Beyond muscle hypertrophy: why dietary protein is important for endurance athletes. Appl Physiol Nutr Metab. 2014;39:987–97.
+
+7.
+
+Breen L, Philp A, Witard OC, Jackman SR, Selby A, Smith K, et al. The influence of carbohydrate-protein co-ingestion following endurance exercise on myofibrillar and mitochondrial protein synthesis. J Physiol (Lond). 2011;589:4011–25.
+
+8.
+
+Churchward-Venne TA, Pinckaers PJM, Smeets JSJ, Betz MW, Senden JM, Goessens JPB, et al. Dose-response effects of dietary protein on muscle protein synthesis during recovery from endurance exercise in young men: a double-blind randomized trial. Am J Clin Nutr. 2020;112(2):303–17.
+
+9.
+
+Packer JE, Wooding DJ, Kato H, Courtney-Martin G, Pencharz PB, Moore DR. Variable-intensity simulated team-sport exercise increases daily protein requirements in active males. Front Nutr. 2017;4:64.
+
+10.
+
+Wooding DJ, Packer JE, Kato H, West DWD, Courtney-Martin G, Pencharz PB, et al. Increased protein requirements in female athletes after variable-intensity exercise. Med Sci Sports Exerc. 2017;49(11):2297–304.
+
+11.
+
+Donges CE, Burd NA, Duffield R, Smith GC, West DWD, Short MJ, et al. Concurrent resistance and aerobic exercise stimulates both myofibrillar and mitochondrial protein synthesis in sedentary middle-aged men. J Appl Physiol (1985). 2012;112(12):1992–2001.
+
+12.
+
+Camera DM, West DWD, 

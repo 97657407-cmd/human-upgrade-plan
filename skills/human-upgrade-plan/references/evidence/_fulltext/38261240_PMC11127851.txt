@@ -1,0 +1,757 @@
+abstract screening and full-text screening were conducted by two independent reviewers (HW and RCB) using the web-based systematic review tool Covidence (Veritas Health Innovation). Citations were screened in the reports that were assessed for eligibility. No automated tools were used in the identification and screening process. Data extraction and the risk of bias assessment were conducted by the same two reviewers using a modified version of the data extraction form recommended by the Cochrane Handbook for Systematic Reviews of Interventions [
+33
+] and the risk of bias 2 Excel Macro Form (Beta version 7), respectively. Inter-rater reliability (IRR) percentage agreement and a kappa coefficient statistic (
+k
+) were calculated for each stage of the process. Discrepancies regarding screening, extraction, and risk of bias assessment were resolved via discussion between the two reviewers.
+
+Meta-Analysis
+
+Two meta-analyses were conducted using random-effects models: one based on injury risk (injured divided by all athletes during the study period), for which the log risk ratio was used as the outcome measure; and a second based on injury rate (number of recorded injuries per 1000 training hours), for which the log incidence rate ratio was used as the outcome measure [
+34
+]. Corresponding authors of studies that lacked either injury rate or injuries per 1000 h were contacted for further data, and studies were excluded from meta-analysis if relevant data were not available. For studies that had both intention-to-treat and subgroup analysis data available, intention-to-treat data were used preferentially. For studies that had multiple intervention groups, participants from all intervention groups were pooled for analysis. Data analysis and presentation were conducted using metafor (version 3.4.0), a meta-analysis tool package in R [
+35
+]. The code used for the meta-analysis in R is provided in ESM Appendix 2. Cochrane’s 
+Q
+-test, 
+τ
+
+2
+, and 
+I
+
+2
+ statistics were calculated for heterogeneity. A 95% prediction interval for the true outcome was calculated if heterogeneity was present, which was defined as 
+τ
+
+2
+ > 0 [
+36
+]. Potential outliers and single studies that may be too influential were identified using the studentized residuals and Cook’s distances [
+35
+]. A threshold for studentized residual was set to be 
+
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$100\times \left(1-0.05/\left(2\times k\right)\right)$$\end{document}
+
+100
+
+×
+
+1
+
+-
+
+0.05
+
+/
+
+2
+
+×
+
+k
+
+th percentile of a standard normal distribution, and a threshold for Cook’s distance was set to be median plus six times the interquartile range. A funnel plot was produced for the injury risk meta-analysis, and asymmetry was checked using Spearman’s rank correlation coefficient [
+37
+] and linear regression [
+38
+].
+
+An additional post hoc meta-analysis was performed on studies that utilized supervision during the intervention. The outcome measure was set to be injury risk (the number of injured participants divided by the number of participants in the study) and all procedures were in line with the meta-analysis on injury risk described above, except a funnel plot was not produced [
+33
+].
+
+Deviations from Pre-registered Protocol
+
+The protocol described herein deviated f
+
+----
+
+
+Introduction
+
+Endurance running is a popular physical activity associated with a myriad of health benefits such as reduced risk of non-communicable diseases and improved mental well-being [
+1
+, 
+2
+]. Participation in community endurance running events and initiatives has increased substantially in recent years; for example 
+parkrun
+ attracts 330,000 people across 2200 events worldwide every weekend [
+3
+] and over six million runs were completed via the UK National Health Service ‘
+Couch to 5k
+’ application in 2022 [
+4
+]. In addition to public participation, endurance running is also an integral component of military training [
+5
+], is a popular sport, and constitutes a major component of training for athletes in other sports such as triathlon and duathlon.
+
+Endurance running is associated with a high incidence of running-related injuries (RRIs) [
+6
+, 
+7
+]. A recent systematic review encompassing over 10,000 runners noted that both injury incidence and prevalence exceed 40% [
+7
+]. In the military, running volume has been shown to be a leading cause of injury, contributing to 13.5% of all injuries and 34.6% of preventable injuries [
+8
+]. Although elite runners tend to have fewer RRIs compared to novice runners, injury incidence is still high [
+9
+]. An observational study containing 4621 runners found injury incidence to be 8.78 for novice runners and 4.24 for experienced runners per 1000 h of running [
+8
+]. RRIs are mainly lower limb overuse injuries, such as patellofemoral pain, medial tibial stress syndrome, and Achilles tendinopathy [
+7
+]. Overuse injuries generally require a long recovery time and are often the reason for stalled progress, pre-race drop-out [
+10
+], and runners quitting the sport [
+11
+]. Injuries represent a substantial financial burden to runners, health services and employers, which may be reduced if effective injury prevention strategies were available and utilized [
+12
+].
+
+In the presence of a high incidence of RRIs, preventative recommendations have been put forward by academics and medical professionals despite an absence of compelling evidence to support these suggestions [
+13
+–
+15
+]. Incorporation of strength training activities (e.g., resistance and plyometric training) and other therapeutic exercise interventions (e.g., stretching, proprioception exercises, core stability exercises) into a running program are common recommendations [
+13
+–
+15
+]. Indeed, it has been noted that a high proportion of endurance runners engage in strength and conditioning (S&C) activities due to the belief it lowers the risk of sustaining a RRI [
+16
+, 
+17
+]. Notwithstanding the popular use of S&C activities, previous reviews showed no clear evidence for stretching [
+18
+, 
+19
+] and conditioning exercises to lower RRI risk [
+19
+, 
+20
+]. However, the definition of ‘runners’ has been poorly defined in the two existing reviews investigating the effects of S&C and therapeutic exercise on RRIs [
+19
+, 
+20
+]. Specifically, these two reviews included studies in military populations, which assumes injuries sustained during basic military training activities are due to running activities and are the same as endurance RRIs. Although running often constitutes a large part of military training, it may not be a major component for all branches of the military used across different studies. For example, in the three overlapping military studies included in these two reviews, endurance running only constituted 21% of the physical training routine [
+
+
+----
+
+
+Methods
+
+Three databases were searched for relevant studies. Selection and review were completed by two independent reviewers using the following inclusion criteria: (1) study population used endurance running training for health, occupational, or performance outcome(s); (2) participants performed running as their main form of exercise (> 50% of their total training time); (3) study was a randomized controlled trial; (4) a non-running-based exercise intervention was used; (5) a running-only or placebo exercise control group was included; (6) injury rate or incidence was reported; (7) injuries were recorded prospectively alongside the exercise training. Two meta-analyses were conducted using random-effects models, one based on log risk ratio and one based on log incidence rate ratio. The Cochrane Risk of Bias Assessment Tool 2 was used to evaluate the quality of studies and the Grading of Recommendations Assessment, Development and Evaluations approach was employed to grade the certainty of evidence.
+
+Results
+
+A total of nine articles containing 1904 participants were included in analysis. Overall pooled results showed no significant differences between intervention and control groups in injury risk (
+z
+ = − 1.60; 
+p
+ = 0.110) and injury rate (
+z
+ = − 0.98; 
+p
+ = 0.329), while a post hoc analysis evaluating supervised interventions only showed that injury risk was significantly lower in the intervention group compared to the control group (
+z
+ = − 3.75, 
+p
+ < 0.001). Risk of bias assessment revealed that seven studies included in the analysis were of low quality.
+
+Conclusions
+
+Exercise-based interventions do not appear to reduce the risk and rate of running-related injuries. Supervision may be essential for exercise-based intervention programs to reduce risk of RRIs, possibly due to increased compliance. Studies with more robust designs that include supervised exercise interventions should be prioritized in the future.
+
+Trial Registry
+
+Clinical Trial Registration: PROSPERO CRD42021211274.
+
+Supplementary Information
+
+The online version contains supplementary material available at 10.1007/s40279-024-01993-7.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2024
+
+Key Points
+
+Injury prevalence is high in endurance runners; however, the research investigating the use of exercise to reduce injury risk specifically in endurance runners has not been reviewed adequately.
+
+Pooled data showed that exercise-based injury prevention programs provide no reduction in injury risk or injury rate compared to running only.
+
+Studies that used an element of supervision during interventions tended to have greater compliance with the exercise programs and showed significantly lower injury risk compared to control groups.
+
+Most studies in this area are of low quality, indicating that future research should use more robust study designs with supervised exercise interventions.
+
+Introduction
+
+Endurance running is a popular physical activity associated with a myriad of health benefits such as reduced risk of non-communic
+
+----
+
+
+Methods
+
+Three databases were searched for relevant studies. Selection and review were completed by two independent reviewers using the following inclusion criteria: (1) study population used endurance running training for health, occupational, or performance outcome(s); (2) participants performed running as their main form of exercise (> 50% of their total training time); (3) study was a randomized controlled trial; (4) a non-running-based exercise intervention was used; (5) a running-only or placebo exercise control group was included; (6) injury rate or incidence was reported; (7) injuries were recorded prospectively alongside the exercise training. Two meta-analyses were conducted using random-effects models, one based on log risk ratio and one based on log incidence rate ratio. The Cochrane Risk of Bias Assessment Tool 2 was used to evaluate the quality of studies and the Grading of Recommendations Assessment, Development and Evaluations approach was employed to grade the certainty of evidence.
+
+Results
+
+A total of nine articles containing 1904 participants were included in analysis. Overall pooled results showed no significant differences between intervention and control groups in injury risk (
+z
+ = − 1.60; 
+p
+ = 0.110) and injury rate (
+z
+ = − 0.98; 
+p
+ = 0.329), while a post hoc analysis evaluating supervised interventions only showed that injury risk was significantly lower in the intervention group compared to the control group (
+z
+ = − 3.75, 
+p
+ < 0.001). Risk of bias assessment revealed that seven studies included in the analysis were of low quality.
+
+Conclusions
+
+Exercise-based interventions do not appear to reduce the risk and rate of running-related injuries. Supervision may be essential for exercise-based intervention programs to reduce risk of RRIs, possibly due to increased compliance. Studies with more robust designs that include supervised exercise interventions should be prioritized in the future.
+
+Trial Registry
+
+Clinical Trial Registration: PROSPERO CRD42021211274.
+
+Supplementary Information
+
+The online version contains supplementary material available at 10.1007/s40279-024-01993-7.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2024
+
+Key Points
+
+Injury prevalence is high in endurance runners; however, the research investigating the use of exercise to reduce injury risk specifically in endurance runners has not been reviewed adequately.
+
+Pooled data showed that exercise-based injury prevention programs provide no reduction in injury risk or injury rate compared to running only.
+
+Studies that used an element of supervision during interventions tended to have greater compliance with the exercise programs and showed significantly lower injury risk compared to control groups.
+
+Most studies in this area are of low quality, indicating that future research should use more robust study designs with supervised exercise interventions.
+
+Introduction
+
+Endurance running is a popular physical activity associated with a myriad of health benefits such as reduced risk of non-communic
+
+----
+
+
+Results
+
+A total of nine articles containing 1904 participants were included in analysis. Overall pooled results showed no significant differences between intervention and control groups in injury risk (
+z
+ = − 1.60; 
+p
+ = 0.110) and injury rate (
+z
+ = − 0.98; 
+p
+ = 0.329), while a post hoc analysis evaluating supervised interventions only showed that injury risk was significantly lower in the intervention group compared to the control group (
+z
+ = − 3.75, 
+p
+ < 0.001). Risk of bias assessment revealed that seven studies included in the analysis were of low quality.
+
+Conclusions
+
+Exercise-based interventions do not appear to reduce the risk and rate of running-related injuries. Supervision may be essential for exercise-based intervention programs to reduce risk of RRIs, possibly due to increased compliance. Studies with more robust designs that include supervised exercise interventions should be prioritized in the future.
+
+Trial Registry
+
+Clinical Trial Registration: PROSPERO CRD42021211274.
+
+Supplementary Information
+
+The online version contains supplementary material available at 10.1007/s40279-024-01993-7.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2024
+
+Key Points
+
+Injury prevalence is high in endurance runners; however, the research investigating the use of exercise to reduce injury risk specifically in endurance runners has not been reviewed adequately.
+
+Pooled data showed that exercise-based injury prevention programs provide no reduction in injury risk or injury rate compared to running only.
+
+Studies that used an element of supervision during interventions tended to have greater compliance with the exercise programs and showed significantly lower injury risk compared to control groups.
+
+Most studies in this area are of low quality, indicating that future research should use more robust study designs with supervised exercise interventions.
+
+Introduction
+
+Endurance running is a popular physical activity associated with a myriad of health benefits such as reduced risk of non-communicable diseases and improved mental well-being [
+1
+, 
+2
+]. Participation in community endurance running events and initiatives has increased substantially in recent years; for example 
+parkrun
+ attracts 330,000 people across 2200 events worldwide every weekend [
+3
+] and over six million runs were completed via the UK National Health Service ‘
+Couch to 5k
+’ application in 2022 [
+4
+]. In addition to public participation, endurance running is also an integral component of military training [
+5
+], is a popular sport, and constitutes a major component of training for athletes in other sports such as triathlon and duathlon.
+
+Endurance running is associated with a high incidence of running-related injuries (RRIs) [
+6
+, 
+7
+]. A recent systematic review encompassing over 10,000 runners noted that both injury incidence and prevalence exceed 40% [
+7
+]. In the military, running volume has been shown to be a leading cause of injury, contributing to 13.5% of all injuries and 34.6% of preventable injuries [
+8
+]. Altho
+
+----
+
+
+Discussion
+
+The aim of this study was to review and quantify the effect of non-running-based exercise programs on the risk of RRIs in endurance runners. When data were pooled together, exercise-based injury prevention programs provided no significant positive effect on either injury risk or injury rate. However, an interesting finding was that a significant positive effect on injury risk in favor of the exercise intervention group was noted when only exercise interventions with an element of supervision were included in the analysis. These findings suggest that exercise interventions designed to reduce the risk of RRI are unlikely to be successful unless completed under supervision, which is likely due to increased compliance with the program.
+
+Similar reviews on this topic are now outdated [
+19
+], cover multi-sport participation [
+27
+, 
+29
+, 
+30
+], or did not adequately define the proportion of training that constituted running in the participant population [
+19
+, 
+20
+]. This review provides an update, including six studies published in the last 4 years, using more stringent inclusion criteria, and includes meta-analyses on both injury rate and injury incidence. The findings of this paper largely confirm those of previous reviews [
+19
+, 
+20
+] in less well-defined endurance running populations (athletes from running-based sports), that there is little evidence to support inclusion of S&C exercises for the purpose of reducing RRIs. However, compared to the positive risk ratio found by Yeung et al. [
+19
+] in their conditioning exercises intervention result (1.20), and the risk ratio of 0.98 found by Kozinc et al. [
+20
+] for movement therapy-based interventions, the log risk ratio (− 0.21) and log incidence ratio (− 0.15) we observed are numerically more in favor of an exercise intervention. In contrast with these findings, the review by Lauersen and co-workers [
+29
+] concluded that multi-modal exercise interventions, particularly strength training, offered a significant protective effect against overuse injury in athletes. The six studies that contributed to the meta-analysis by Lauersen et al. [
+29
+] were largely from game-sports, several of which included throwing skills, and half used adolescent athletes. Although overlap exists between the types of overuse injury reported in games sport athletes and endurance runners, the mechanisms that underpin these injuries may differ [
+51
+]. For example, loading on lower limb musculoskeletal structures tends to be higher and more varied in games sports, but is lower in magnitude and distribution in endurance running. Thus, the protective effect provided by an adjunct exercise intervention may also vary.
+
+Overall risk of bias was high in the studies included (seven of nine studies classified ‘high risk’), indicating that the quality of research in this area is currently poor. Due to the nature of the intervention and the characteristics of the target population, eliminating bias in some domains is problematic. For instance, in a running community or club setting, it is often difficult to blind participants to each other’s intervention. Furthermore, a study with low compliance with an intervention will likely have a high percentage of dropouts who subsequently do not contribute injury data, generating a high risk of bias in domain #3. Six studies asked participants to self-report injuries [
+43
+–
+46
+, 
+49
+, 
+50
+], meaning the outcome assessor was the participant themself. Participants’ interpretati
+
+----
+
+
+Conclusions
+
+Exercise-based interventions do not appear to reduce the risk and rate of running-related injuries. Supervision may be essential for exercise-based intervention programs to reduce risk of RRIs, possibly due to increased compliance. Studies with more robust designs that include supervised exercise interventions should be prioritized in the future.
+
+Trial Registry
+
+Clinical Trial Registration: PROSPERO CRD42021211274.
+
+Supplementary Information
+
+The online version contains supplementary material available at 10.1007/s40279-024-01993-7.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2024
+
+Key Points
+
+Injury prevalence is high in endurance runners; however, the research investigating the use of exercise to reduce injury risk specifically in endurance runners has not been reviewed adequately.
+
+Pooled data showed that exercise-based injury prevention programs provide no reduction in injury risk or injury rate compared to running only.
+
+Studies that used an element of supervision during interventions tended to have greater compliance with the exercise programs and showed significantly lower injury risk compared to control groups.
+
+Most studies in this area are of low quality, indicating that future research should use more robust study designs with supervised exercise interventions.
+
+Introduction
+
+Endurance running is a popular physical activity associated with a myriad of health benefits such as reduced risk of non-communicable diseases and improved mental well-being [
+1
+, 
+2
+]. Participation in community endurance running events and initiatives has increased substantially in recent years; for example 
+parkrun
+ attracts 330,000 people across 2200 events worldwide every weekend [
+3
+] and over six million runs were completed via the UK National Health Service ‘
+Couch to 5k
+’ application in 2022 [
+4
+]. In addition to public participation, endurance running is also an integral component of military training [
+5
+], is a popular sport, and constitutes a major component of training for athletes in other sports such as triathlon and duathlon.
+
+Endurance running is associated with a high incidence of running-related injuries (RRIs) [
+6
+, 
+7
+]. A recent systematic review encompassing over 10,000 runners noted that both injury incidence and prevalence exceed 40% [
+7
+]. In the military, running volume has been shown to be a leading cause of injury, contributing to 13.5% of all injuries and 34.6% of preventable injuries [
+8
+]. Although elite runners tend to have fewer RRIs compared to novice runners, injury incidence is still high [
+9
+]. An observational study containing 4621 runners found injury incidence to be 8.78 for novice runners and 4.24 for experienced runners per 1000 h of running [
+8
+]. RRIs are mainly lower limb overuse injuries, such as patellofemoral pain, medial tibial stress syndrome, and Achilles tendinopathy [
+7
+]. Overuse injuries generally require a long recovery time and are often the reason for stalled progress, pre-race drop-out [
+10
+], and runners quitting the sport [
+11
+]
+
+----
+
+limitations in study design and implementation, thereby directing further research in this area. Consequently, this systematic review and meta-analysis aims to provide an update on the current evidence surrounding the effect of exercise programs on the risk of RRIs.
+
+Methods
+
+This study was registered a priori on PROSPERO (CRD42021211274) and the updated PRISMA statement [
+31
+] and PERSiST guidance [
+32
+] were used as a basis for the procedures described herein.
+
+Inclusion and Exclusion Criteria
+
+For a study to be eligible at the systematic review stage, the following inclusion criteria were met:
+
+Study population used endurance running training for health, occupational (e.g., military preparation), or performance (5 km—ultra-endurance events) outcome(s). When endurance runners composed a subset of the study population (e.g., track-and-field athletes), the study was initially included and the corresponding author contacted to obtain endurance runners’ data.
+
+Participants performed running as their main form of training, defined as running accounting for > 50% of their total training time during the study period.
+
+Study was a randomized controlled trial.
+
+A non-running-based exercise intervention was used.
+
+A running-only or placebo exercise control group was included.
+
+General or specific injury rate or incidence was reported as an outcome measure.
+
+Injuries were recorded prospectively alongside the exercise training.
+
+Published in full in a peer-reviewed journal (excluding pre-prints).
+
+Studies were excluded if any of the following applied:
+
+Participants were non-runners or endurance running formed ≤ 50% of the overall training program. Restrictions were not placed upon experience/training status. Where there was doubt over the volume of endurance running relative to the overall exercise training programme, corresponding authors were contacted.
+
+The running training and/or intervention was not clearly reported.
+
+Participants were injured at baseline (i.e., a rehabilitation intervention was used) or reported to be in poor physical health or symptomatic.
+
+Pharmaceutical or other non-exercise prevention strategy (e.g., orthotics, independent massage sessions, nutrition) was used alongside an exercise intervention.
+
+Systematic Search, Study Selection and Data Extraction
+
+A search was conducted in PubMed, Web of Science and SPORTDiscus on 15 January 2023, with no publication date or language restrictions. The search was divided into blocks of keywords and associated synonyms relating to ‘prevention’, ‘injuries’, ‘non-running exercise’, ‘running’, and the study design. Blocks were separated by the operator ‘AND’ and contained the operators ‘OR’ and ‘*’ (see Electronic Supplementary Material (ESM) Appendix 
+S1
+ for full operational search strings). Title/abstract screening and full-text screening were conducted by two independent reviewers (HW and RCB) using the web-based systematic review tool Covidence (Veritas Health Innovation). Citations were screened in the reports that were assessed for eligibility. No automated tools were used in the identification and screening process. Data extraction and the risk of bias assessment were conducted by the same two reviewers using a modified version of the data extraction form recommended by the Cochrane Handbook for Systematic Reviews of Interventions [
+33
+] and the risk of bias 2 Excel Macro Form (Beta version 7), respectively. Inter-rater reliability (IRR) percentage agreement and a kappa coefficie

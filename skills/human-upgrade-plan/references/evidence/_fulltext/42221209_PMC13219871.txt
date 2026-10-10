@@ -1,0 +1,989 @@
+abstract. Articles that passed abstract screening were advanced to full-text review. Conflicts were resolved by majority decision. Articles were included if they were observational/interventional studies or clinical trials observing runners aged ≥18 years who reported risk factors for knee injuries. Articles were excluded if they were case reports, non-English studies, review articles, studies focusing on nonendurance athletes (defined here as individuals running distances of <10 km), or studies focusing on athletes >30 years. Studies >30 years were excluded to preserve clinical and methodological relevance, given major changes in footwear technology, training practices, biomechanical assessment tools, and injury definitions.
+
+Risk of bias was assessed using the Joanna Briggs Institute Methodological Quality Assessment Tool. All studies were evaluated against the appropriate critical appraisal checklists to determine the study's methodological quality. One reviewer (K.S.) independently assessed each included study. Studies judged to be at high risk of bias were excluded. Further details of the screening process are described in 
+Figure 1
+.
+
+One author (K.S.) extracted data from the eligible studies. The extracted data included study design, sample size, demographic characteristics, follow-up period, runner level (eg, recreational vs professional), injury type, and reported risk factors. Data were grouped first by all identified risk factors and then by knee injury subtype. Risk factors were first categorized into conceptual groups. For this review, biomechanical factors were defined as characteristics of movement patterns and forces during running, including kinematic factors (eg, peak hip adduction, pelvic drop, forward trunk lean) and kinetic factors (eg, ground-reaction forces, joint moments, joint loading patterns). Exposure-related factors were defined as variables related to training characteristics or runner background, including demographic characteristics, injury history, weekly mileage, running frequency, and footwear characteristics. Risk factors were also grouped by subtype. Subtypes included demographic characteristics, previous injury history, kinematic factors (defined as biomechanical characteristics related to the movement patterns of the body during running; eg, peak hip adduction, pelvic drop, forward trunk lean), kinetic factors (defined as biomechanical characteristics related to the forces acting on the body during running; eg, ground-reaction forces, joint moments, joint loading patterns), muscle strength and activation, structural malalignment, soft tissue flexibility and tightness, training load and volume, and footwear and equipment.
+
+When available, odds ratios (ORs) were extracted. For studies that did not report this metric, standardized effect sizes (Cohen’s d or Pearson's r) were reported using available data. Effect sizes were extracted to allow comparisons across studies that reported different statistical measures. Because of substantial heterogeneity in study design, injury definitions, follow-up duration, and outcome reporting, statistical pooling was not feasible, and therefore, a meta-analysis was not attempted, thereby significantly limiting the generalizability of this study.
+
+Results
+
+The initial search produced 2587 studies, of which 704 were duplicates and were removed. Of the remaining 1883 studies, 1693 were excluded during title and abstract screening and full text review, leaving 26 studies
+
+----
+
+
+Methods:
+
+A systematic search of the Medline (PubMed), Embase, and Web of Science was conducted for studies before November 19, 2024. Studies were included if they investigated risk factors for knee injuries in adult endurance runners. Studies were excluded if they were case reports, non-English studies, review articles, studies focusing on nonendurance athletes, or studies focusing on athletes >30 years old. Twenty studies were selected from 1883 articles after screening. Risk factors were categorized as biomechanical or exposure-related.
+
+Results:
+
+Across PFPS, ITBS, and PT, the strongest and most recurrent risk factors were a history of previous injury (odds ratio [OR] range, 1.36-10.19), increased training load or volume (OR range, 1.07-8.94), and structural malalignment (OR range, 1.89-4.12). For general knee injuries, previous injury was the most frequently reported risk factor, associated with a 12.9% higher incidence of reinjury. PFPS was linked to training load and structural malalignment, indicating small to moderate associations between deviations from optimal load and injury risk. For ITBS, kinematic variables (OR range, 3.02-5.62; Cohen's 
+d
+ range, 1.24-2.21) and kinetic variables (OR, 8.88; Cohen's 
+d
+, 0.82) were most commonly reported, reflecting moderate to very large effects linked to abnormal pelvic motion and impaired shock absorption. For PT, increased training load and volume (OR range, 1.27-8.94) and demographic factors (OR range, 1.06-1.43) were most frequently reported, with runners training >20 hours per week demonstrating a 15% to 20% higher injury incidence.
+
+Conclusion:
+
+Knee injuries in endurance runners are influenced by a history of injury, training load, and biomechanical factors. Future injury prevention strategies should integrate biomechanical and contextual factors, including individualized kinematic profiles and conservative training management.
+
+biomechanics
+
+risk factors
+
+running-related injuries
+
+training load
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY-NC-ND
+
+cover-date
+
+May 2026
+
+typesetter
+
+ts1
+
+Endurance running, defined here as running upwards of 10 km, has become increasingly popular in recent years because of its accessibility, relatively low prior experience requirements, and numerous mental and physical health benefits.
+
+18
+,
+28
+
+ However, the repetitive nature of the sport places substantial stress on the joints of the lower extremities. Musculoskeletal injuries, often secondary to overuse, affect up to 90% of individuals training for, competing in, or recovering from endurance running events, thereby highlighting a significant health concern within this population.
+
+36
+
+ Specifically, of the joints of the lower extremity, studies have shown that knee injuries account for 25% to 30% of all running-related injuries (RRIs), with the majority of runners experiencing such injuries as patellofemoral pain syndrome (PFPS), followed by iliotibial band syndrome (ITBS), meniscal injuries, and patellar tendinopathy (PT).
+
+18
+,
+19
+,
+28
+
+PFPS is the most common knee injury among endurance runners, with an inc
+
+----
+
+
+Methods:
+
+A systematic search of the Medline (PubMed), Embase, and Web of Science was conducted for studies before November 19, 2024. Studies were included if they investigated risk factors for knee injuries in adult endurance runners. Studies were excluded if they were case reports, non-English studies, review articles, studies focusing on nonendurance athletes, or studies focusing on athletes >30 years old. Twenty studies were selected from 1883 articles after screening. Risk factors were categorized as biomechanical or exposure-related.
+
+Results:
+
+Across PFPS, ITBS, and PT, the strongest and most recurrent risk factors were a history of previous injury (odds ratio [OR] range, 1.36-10.19), increased training load or volume (OR range, 1.07-8.94), and structural malalignment (OR range, 1.89-4.12). For general knee injuries, previous injury was the most frequently reported risk factor, associated with a 12.9% higher incidence of reinjury. PFPS was linked to training load and structural malalignment, indicating small to moderate associations between deviations from optimal load and injury risk. For ITBS, kinematic variables (OR range, 3.02-5.62; Cohen's 
+d
+ range, 1.24-2.21) and kinetic variables (OR, 8.88; Cohen's 
+d
+, 0.82) were most commonly reported, reflecting moderate to very large effects linked to abnormal pelvic motion and impaired shock absorption. For PT, increased training load and volume (OR range, 1.27-8.94) and demographic factors (OR range, 1.06-1.43) were most frequently reported, with runners training >20 hours per week demonstrating a 15% to 20% higher injury incidence.
+
+Conclusion:
+
+Knee injuries in endurance runners are influenced by a history of injury, training load, and biomechanical factors. Future injury prevention strategies should integrate biomechanical and contextual factors, including individualized kinematic profiles and conservative training management.
+
+biomechanics
+
+risk factors
+
+running-related injuries
+
+training load
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY-NC-ND
+
+cover-date
+
+May 2026
+
+typesetter
+
+ts1
+
+Endurance running, defined here as running upwards of 10 km, has become increasingly popular in recent years because of its accessibility, relatively low prior experience requirements, and numerous mental and physical health benefits.
+
+18
+,
+28
+
+ However, the repetitive nature of the sport places substantial stress on the joints of the lower extremities. Musculoskeletal injuries, often secondary to overuse, affect up to 90% of individuals training for, competing in, or recovering from endurance running events, thereby highlighting a significant health concern within this population.
+
+36
+
+ Specifically, of the joints of the lower extremity, studies have shown that knee injuries account for 25% to 30% of all running-related injuries (RRIs), with the majority of runners experiencing such injuries as patellofemoral pain syndrome (PFPS), followed by iliotibial band syndrome (ITBS), meniscal injuries, and patellar tendinopathy (PT).
+
+18
+,
+19
+,
+28
+
+PFPS is the most common knee injury among endurance runners, with an inc
+
+----
+
+
+Results:
+
+Across PFPS, ITBS, and PT, the strongest and most recurrent risk factors were a history of previous injury (odds ratio [OR] range, 1.36-10.19), increased training load or volume (OR range, 1.07-8.94), and structural malalignment (OR range, 1.89-4.12). For general knee injuries, previous injury was the most frequently reported risk factor, associated with a 12.9% higher incidence of reinjury. PFPS was linked to training load and structural malalignment, indicating small to moderate associations between deviations from optimal load and injury risk. For ITBS, kinematic variables (OR range, 3.02-5.62; Cohen's 
+d
+ range, 1.24-2.21) and kinetic variables (OR, 8.88; Cohen's 
+d
+, 0.82) were most commonly reported, reflecting moderate to very large effects linked to abnormal pelvic motion and impaired shock absorption. For PT, increased training load and volume (OR range, 1.27-8.94) and demographic factors (OR range, 1.06-1.43) were most frequently reported, with runners training >20 hours per week demonstrating a 15% to 20% higher injury incidence.
+
+Conclusion:
+
+Knee injuries in endurance runners are influenced by a history of injury, training load, and biomechanical factors. Future injury prevention strategies should integrate biomechanical and contextual factors, including individualized kinematic profiles and conservative training management.
+
+biomechanics
+
+risk factors
+
+running-related injuries
+
+training load
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY-NC-ND
+
+cover-date
+
+May 2026
+
+typesetter
+
+ts1
+
+Endurance running, defined here as running upwards of 10 km, has become increasingly popular in recent years because of its accessibility, relatively low prior experience requirements, and numerous mental and physical health benefits.
+
+18
+,
+28
+
+ However, the repetitive nature of the sport places substantial stress on the joints of the lower extremities. Musculoskeletal injuries, often secondary to overuse, affect up to 90% of individuals training for, competing in, or recovering from endurance running events, thereby highlighting a significant health concern within this population.
+
+36
+
+ Specifically, of the joints of the lower extremity, studies have shown that knee injuries account for 25% to 30% of all running-related injuries (RRIs), with the majority of runners experiencing such injuries as patellofemoral pain syndrome (PFPS), followed by iliotibial band syndrome (ITBS), meniscal injuries, and patellar tendinopathy (PT).
+
+18
+,
+19
+,
+28
+
+PFPS is the most common knee injury among endurance runners, with an incidence of 19% to 30% in female and 13% to 25% in male runners.
+
+25
+
+ PFPS typically presents as gradually worsening pain in the anterior or retropatellar region of the knee and is commonly triggered by loading and compression.
+
+25
+
+ ITBS is relatively less common,
+
+20
+
+ with a prevalence of 8%, and is characterized by pain localized to the lateral knee, particularly with extension.
+
+25
+
+ Although previous research has identified both biomechanical and training-related contributors to these conditions, findings across studies remain inconsist
+
+----
+
+
+Discussion
+
+This systematic review identified 3 primary risk factors for running-related knee injuries in endurance runners: a history of injury, higher training load or volume, and selected kinematic variables, with variation by injury subtype. Across the 20 included studies, previous injury emerged as the most consistent predictor, training load demonstrated moderate associations with injury development, and kinematic findings were heterogeneous but relevant in specific subgroups. Together, these findings indicate that knee injury risk in runners reflects interactions between both biomechanical and exposure-related contributors rather than a single dominant factor. Notably, many of the strongest predictors identified, including previous injury history and certain biomechanical characteristics, are not directly modifiable. In contrast, training load represents a potentially modifiable factor. However, the extent to which modifying training load reduces injury risk remains uncertain.
+
+Eight studies identified a previous history of RRIs as a predictor of future RRI, with up to a tenfold increased odds of subsequent injury.
+
+5
+,
+7
+,
+13
+,
+15
+,
+22
+,
+29
+,
+43
+,
+45
+
+ This finding is consistent with previous reviews. For example, Saragiotto et al
+
+35
+
+ synthesized data from 4671 pooled participants and examined 60 different predictive factors and reported that a history of RRI within the previous 12 months was the most consistent risk factor. Similarly, van Poppel et al
+
+41
+
+ reported that previous injury was the strongest risk factor across both short- and long-distance groups. This suggests that, regardless of distance, inadequate recovery after a previous RRI predisposes runners to develop future RRIs.
+
+41
+
+ Expanding further, Correia et al,
+
+10
+
+ in an umbrella review, identified previous musculoskeletal injury as one of the most consistently reported risk factors for RRIs across the umbrella evidence, further demonstrating that previous injury is a repeatable, cross-study finding, reinforcing its role despite heterogeneity in study designs and injury definitions.
+
+Clinically, these findings underscore the value of consistently screening for previous injury when evaluating endurance runners. A history of injury may reflect incomplete tissue recovery, persistent neuromuscular deficits, or altered loading patterns, all of which may increase susceptibility to reinjury. Possible physiologic explanations for the increased risk include incomplete tissue healing, maladaptive movement patterns, or preexisting biomechanical deficits that may be exacerbated by a premature return to sport (RTS).
+
+3
+,
+4
+,
+16
+
+ However, as previous injury is not modifiable, its primary utility may lie in risk stratification rather than direct intervention. Runners with a history of RRI may benefit from close monitoring, individualized rehabilitation, and cautious RTS progression to reduce the likelihood of injury recurrence. Future research should aim to clarify these intertwined mechanisms while also standardizing definitions of previous injury. Doing so will both refine RRI risk prediction models and translate this well-established association into evidence-based interventions.
+
+Eight studies identified training load and volume-related factors, such as greater weekly mileage and number of hours training, as contributors to RRI risk.
+
+5
+,
+7
+,
+14
+,
+15
+,
+26
+,
+27
+,
+29
+,
+45
+
+ This aligns with systematic reviews by Kakouris et al,
+
+20
+
+ Damsted et al,
+
+11
+
+ van der Worp et
+
+----
+
+
+Conclusion:
+
+Knee injuries in endurance runners are influenced by a history of injury, training load, and biomechanical factors. Future injury prevention strategies should integrate biomechanical and contextual factors, including individualized kinematic profiles and conservative training management.
+
+biomechanics
+
+risk factors
+
+running-related injuries
+
+training load
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY-NC-ND
+
+cover-date
+
+May 2026
+
+typesetter
+
+ts1
+
+Endurance running, defined here as running upwards of 10 km, has become increasingly popular in recent years because of its accessibility, relatively low prior experience requirements, and numerous mental and physical health benefits.
+
+18
+,
+28
+
+ However, the repetitive nature of the sport places substantial stress on the joints of the lower extremities. Musculoskeletal injuries, often secondary to overuse, affect up to 90% of individuals training for, competing in, or recovering from endurance running events, thereby highlighting a significant health concern within this population.
+
+36
+
+ Specifically, of the joints of the lower extremity, studies have shown that knee injuries account for 25% to 30% of all running-related injuries (RRIs), with the majority of runners experiencing such injuries as patellofemoral pain syndrome (PFPS), followed by iliotibial band syndrome (ITBS), meniscal injuries, and patellar tendinopathy (PT).
+
+18
+,
+19
+,
+28
+
+PFPS is the most common knee injury among endurance runners, with an incidence of 19% to 30% in female and 13% to 25% in male runners.
+
+25
+
+ PFPS typically presents as gradually worsening pain in the anterior or retropatellar region of the knee and is commonly triggered by loading and compression.
+
+25
+
+ ITBS is relatively less common,
+
+20
+
+ with a prevalence of 8%, and is characterized by pain localized to the lateral knee, particularly with extension.
+
+25
+
+ Although previous research has identified both biomechanical and training-related contributors to these conditions, findings across studies remain inconsistent, and injury mechanisms appear to vary by population, injury type, and running characteristics.
+
+2
+,
+30
+,
+44
+
+ However, much of the literature has focused narrowly on biomechanical risk factors, given the ease and accessibility of measuring interventions as well as the practicality of study design.
+
+8
+,
+23
+,
+33
+
+ Not only are such factors difficult to modify, but the evidence correlating these variables with injury is often inconsistent. Furthermore, even when biomechanical factors are associated with an increased risk of injury, there are consistent gait patterns across both healthy and injured running populations, indicating that a specific injury may be a result of a variety of movement patterns.
+
+1
+
+Focusing solely on biomechanical factors to explain injury risk does not fully address the multifactorial nature of running overuse injuries. Qualitative and exposure-related factors, such as demographic characteristics, injury history, and training load and volume, must be considered. The systematic reviews on this topic have important limitations: 
+
+----
+
+practicality of study design.
+
+8
+,
+23
+,
+33
+
+ Not only are such factors difficult to modify, but the evidence correlating these variables with injury is often inconsistent. Furthermore, even when biomechanical factors are associated with an increased risk of injury, there are consistent gait patterns across both healthy and injured running populations, indicating that a specific injury may be a result of a variety of movement patterns.
+
+1
+
+Focusing solely on biomechanical factors to explain injury risk does not fully address the multifactorial nature of running overuse injuries. Qualitative and exposure-related factors, such as demographic characteristics, injury history, and training load and volume, must be considered. The systematic reviews on this topic have important limitations: some focus on very elite populations,
+
+6
+,
+20
+
+ others address only exposure-related factors,
+
+5
+,
+9
+
+ or biomechanical factors,
+
+8
+,
+23
+,
+33
+
+ while others examine a broad range of lower-limb injuries rather than concentrating specifically on the knee, the joint most frequently affected by RRIs.
+
+14
+
+ No recent review has integrated biomechanical and exposure-related risk factors exclusively for knee injuries in endurance runners across both amateur and elite populations. Addressing this gap may improve understanding of the causes of running-related knee injury and inform more targeted prevention efforts. Therefore, this systematic review aims to identify and synthesize the current evidence on biomechanical and exposure-related risk factors for knee injuries in adult endurance runners, defined here as individuals running distances of >10 km, to determine which factors are most consistently associated with knee injury development in this demographic.
+
+Methods
+
+This study is a systematic review of studies published before November 19, 2024, that investigated potential risk factors for knee injuries in endurance runners. A protocol for this study was prospectively registered on an international registry and complied with the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines (
+Figure 1
+).
+
+Figure 1.
+
+PRISMA flow diagram.
+
+A flowchart detailing the stages of a scientific study selection process with numbers at each stage.
+
+One author conducted an electronic search in Medline (PubMed), Embase (Ovid), and Web of Science (Clarivate) on November 19, 2024. The search was performed using a combination of the following 51 terms: (("Running"[Mesh] OR runn* OR runner*) AND ("Risk Factors"[Mesh] OR "Risk"[Mesh] OR "risk factors"[tiab] OR predict*[tiab] OR risk*[ot] OR "risk factors"[ot] OR predict*[ot])) AND (("Knee Joint"[Mesh] OR "Hamstring Tendons"[Mesh] OR "Hamstring Muscles"[Mesh] OR "Quadriceps Muscle"[Mesh] OR "Patellar Ligament"[Mesh] OR "Cartilage, Articular"[Mesh] OR "Lower Extremity"[Mesh] OR knee OR patellae OR patella OR patellar OR patellofemoral OR "iliotibial band" OR menisc* OR "medial collateral" OR "anterior cruciate" OR chondromalacia OR osteoarthritis OR arthritis OR quadriceps OR semitendinosus OR semimembranosus OR "biceps femoris" OR cartilage OR "lower extremity" OR "lower extremities" OR "lower limb" OR "lower limbs") AND ("Knee Injuries"[Mesh] OR "Tendon Injuries"[Mesh] OR injury OR injuries OR tear OR tears OR torn OR rupture* OR pain OR overuse OR stress OR osteoarthriti* OR arthriti*)). No restrictions were placed on the search in terms of language or publication date.
+
+Three reviewers (K.S., M.N., S.W.) 
+
+----
+
+
+Limitations
+
+This study had numerous limitations that warrant consideration. The predominance of observational study designs limits causal inference. Cross-sectional studies only capture a single time point, making it difficult to determine whether risk factors precede or follow injury. In addition, follow-up durations were inconsistent or unreported in half of the studies, potentially underestimating injury rates or obscuring true associations. Another important limitation is the heterogeneity in injury definitions and outcome measures across studies, which complicates direct comparison and may contribute to inconsistent findings. In particular, definitions of RRIs varied substantially, ranging from any musculoskeletal pain during running to injuries requiring medical consultation or time loss, making synthesis across studies less precise. Furthermore, the absence of high-quality studies with substantial sample sizes limits the generalizability of the association presented here. Publication bias is also a concern, as much of the current literature focuses on biomechanics rather than exposure-related factors, thereby potentially skewing the balance of evidence.
+
+8
+,
+23
+,
+33
+
+ In addition, this systematic review excluded non-English articles and gray literature, potentially omitting relevant but unpublished data. Finally, a formal meta-analysis was not performed due to substantial clinical and methodological heterogeneity across studies, which precluded meaningful statistical pooling.
+
+Conclusion
+
+The risk of knee injury remains high among endurance runners and is influenced by both biomechanical and exposure-related factors. This review found that previous injury, increased training load, and kinematic factors were the most commonly identified and strongest risk factors, with variation by injury type. These findings emphasize that knee injury susceptibility in endurance runners arises from multiple interacting factors rather than a single dominant mechanism.
+
+Final revision submitted March 25, 2026; accepted March 30, 2026.
+
+One or more of the authors has declared the following potential conflict of interest or source of funding: J.G. is a reviewer for The American Journal of Sports Medicine. An immediate family member of S.W. is employed by Stryker in a non-orthopaedics division.
+
+ORCID iDs:
+ Krithika Senthil 
+
+https://orcid.org/0009-0003-4782-295X
+
+Sarah Whitaker 
+
+https://orcid.org/0009-0008-9847-6053
+
+Benjamin Cassidy 
+
+https://orcid.org/0000-0002-7675-2685
+
+Carl Edge 
+
+https://orcid.org/0009-0004-1509-6292
+
+John Cyrus 
+
+https://orcid.org/0000-0001-5331-5151
+
+Conor O’Neill 
+
+https://orcid.org/0000-0003-4456-9445
+
+References
+
+1
+
+Adamson
+
+L
+
+Vandamme
+
+L
+
+Prior
+
+T
+
+Miller
+
+SC.
+
+Running-related injury incidence: does it correlate with kinematic sub-groups of runners? A scoping review
+. 
+Sports Med
+. 
+2024
+;
+54
+(
+5
+):
+1163
+-
+1178
+. doi:
+10.1007/s40279-023-01984-0
+
+38280179
+
+PMC11127823
+
+2
+
+Aderem
+
+J
+
+Louw
+
+QA.
+
+Biomechanical risk factors associated with iliotibial band syndrome in runners: a systematic review
+. 
+BMC Musculoskelet Disord
+. 
+2015
+;
+16
+(
+1
+). doi:
+10.1186/s12891-015-0808-7
+
+PMC4647699
+
+26573859
+
+3
+
+Ardern
+
+CL
+
+Bizzini
+
+M
+
+Bahr
+
+R.
+
+It is time for consensus on return to play after injury: five key questions
+. 
+Br J Sports Med
+. 
+2016
+;
+50
+(
+9
+):
+506
+-
+508
+. doi:
+10.1136/bjsports-2015-095475
+
+26590181
+
+4
+
+Bahr
+
+R.
+
+Why screening tests to predict injury do not work—and probably never will…: a critical review
+. 
+Br J Sports Me
+
+----
+
+acknowledging current limitations in evidence for targeted prevention strategies.
+
+Limitations
+
+This study had numerous limitations that warrant consideration. The predominance of observational study designs limits causal inference. Cross-sectional studies only capture a single time point, making it difficult to determine whether risk factors precede or follow injury. In addition, follow-up durations were inconsistent or unreported in half of the studies, potentially underestimating injury rates or obscuring true associations. Another important limitation is the heterogeneity in injury definitions and outcome measures across studies, which complicates direct comparison and may contribute to inconsistent findings. In particular, definitions of RRIs varied substantially, ranging from any musculoskeletal pain during running to injuries requiring medical consultation or time loss, making synthesis across studies less precise. Furthermore, the absence of high-quality studies with substantial sample sizes limits the generalizability of the association presented here. Publication bias is also a concern, as much of the current literature focuses on biomechanics rather than exposure-related factors, thereby potentially skewing the balance of evidence.
+
+8
+,
+23
+,
+33
+
+ In addition, this systematic review excluded non-English articles and gray literature, potentially omitting relevant but unpublished data. Finally, a formal meta-analysis was not performed due to substantial clinical and methodological heterogeneity across studies, which precluded meaningful statistical pooling.
+
+Conclusion
+
+The risk of knee injury remains high among endurance runners and is influenced by both biomechanical and exposure-related factors. This review found that previous injury, increased training load, and kinematic factors were the most commonly identified and strongest risk factors, with variation by injury type. These findings emphasize that knee injury susceptibility in endurance runners arises from multiple interacting factors rather than a single dominant mechanism.
+
+Final revision submitted March 25, 2026; accepted March 30, 2026.
+
+One or more of the authors has declared the following potential conflict of interest or source of funding: J.G. is a reviewer for The American Journal of Sports Medicine. An immediate family member of S.W. is employed by Stryker in a non-orthopaedics division.
+
+ORCID iDs:
+ Krithika Senthil 
+
+https://orcid.org/0009-0003-4782-295X
+
+Sarah Whitaker 
+
+https://orcid.org/0009-0008-9847-6053
+
+Benjamin Cassidy 
+
+https://orcid.org/0000-0002-7675-2685
+
+Carl Edge 
+
+https://orcid.org/0009-0004-1509-6292
+
+John Cyrus 
+
+https://orcid.org/0000-0001-5331-5151
+
+Conor O’Neill 
+
+https://orcid.org/0000-0003-4456-9445
+
+References
+
+1
+
+Adamson
+
+L
+
+Vandamme
+
+L
+
+Prior
+
+T
+
+Miller
+
+SC.
+
+Running-related injury incidence: does it correlate with kinematic sub-groups of runners? A scoping review
+. 
+Sports Med
+. 
+2024
+;
+54
+(
+5
+):
+1163
+-
+1178
+. doi:
+10.1007/s40279-023-01984-0
+
+38280179
+
+PMC11127823
+
+2
+
+Aderem
+
+J
+
+Louw
+
+QA.
+
+Biomechanical risk factors associated with iliotibial band syndrome in runners: a systematic review
+. 
+BMC Musculoskelet Disord
+. 
+2015
+;
+16
+(
+1
+). doi:
+10.1186/s12891-015-0808-7
+
+PMC4647699
+
+26573859
+
+3
+
+Ardern
+
+CL
+
+Bizzini
+
+M
+
+Bahr
+
+R.
+
+It is time for consensus on return to play after injury: five key questions
+. 
+Br J Sports Med
+. 
+2016
+;
+50
+(
+9
+):
+506
+-
+508
+. doi:
+10.1136/bjsports-2015-095475
+
+26590181
+
+4
+
+Bahr
+
+R.
+
+Why screening tests to predic

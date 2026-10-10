@@ -1,0 +1,509 @@
+
+Abstract
+
+Carbohydrate (CHO) supplements such as bars, gels, drinks and powders have become ubiquitous as effective evidence-based CHO sources that improve endurance exercise performance. However, athletes are increasingly turning to more cost-effective ‘food-first’ approaches for CHO ingestion to improve exercise performance. Mixed CHO foods including cooked lentils, oats, honey, raisins, rice, and potatoes are all effective pre-exercise CHO food sources. Caution is advised when selecting some of these foods as a primary CHO source, as some athletes may be prone to gastrointestinal discomfort—especially regarding those foods where the quantities required for recommended CHO intake may be voluminous (e.g., potatoes). Palatability may be another barrier to the ingestion of some of these CHO-rich foods. Although most of these CHO-rich foods appear effective for exercise performance or recovery when consumed pre- and post-exercise, not all are viable to ingest during exercise due to difficulties in the quantities required, transport, and/or gastrointestinal discomfort. Raisins, bananas and honey may be particularly useful CHO foods for consumption during exercise, as they are easily transportable. Athletes should trial CHO food sources before, during and/or following training before implementation during competition.
+
+Keywords:
+ carbohydrates, exercise performance, sport foods, endurance athletes, cycling, running
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2023 Feb 21; Revised 2023 Mar 8; Accepted 2023 Mar 9; Collection date 2023 Mar.
+
+1. Introduction
+
+Carbohydrate (CHO) provision for exercise performance has become a requisite for competitive athletes, with the amount of CHO required intrinsically linked to the intensity and duration of exercise [
+1
+]. CHO may be consumed pre-exercise, during exercise, and post-exercise throughout training and competition, each of which will have implications as to the efficacy of the physiological responses and adaptations. There is some suggestion that periodised CHO ingestion may be beneficial for endurance athletes throughout training [
+2
+], though evidence to support this theory currently remains limited. Pre-exercise CHO ingestion can begin in the days leading into the exercise event to ensure that muscle glycogen stores are maximized [
+3
+,
+4
+]. Additionally, CHO ingestion provided up to 3–4 h prior to exercise is likely to increase muscle glycogen content. During exercise, CHO intake maintains blood glucose and/or provides fuel for oxidation, thus sparing muscle and liver glycogen [
+5
+,
+6
+]. Finally, CHO taken post-exercise aims to replenish both muscle and liver glycogen stores [
+7
+]. The speed of recovery depends on the timing and quantity of CHO [
+8
+], such that rapid and large quantities of CHO may be required to optimise performance during a subsequent exercise bout performed within hours of the previous exercise bout [
+9
+]. Thus, CHO ingestion is an important nutritional aspect to consider for both training and competition.
+
+CHO supplements have become commonplace among athletic populations, with numerous commercially available products, including cereal bars, gels, drinks and powders, considered effective evidence-based CHO sources to improve endurance exercise performance [
+10
+,
+11
+]. Despite the practicalities of employing such CHO-rich products, particularly during exercise, a ‘foo
+
+----
+
+Introduction
+
+Carbohydrate (CHO) provision for exercise performance has become a requisite for competitive athletes, with the amount of CHO required intrinsically linked to the intensity and duration of exercise [
+1
+]. CHO may be consumed pre-exercise, during exercise, and post-exercise throughout training and competition, each of which will have implications as to the efficacy of the physiological responses and adaptations. There is some suggestion that periodised CHO ingestion may be beneficial for endurance athletes throughout training [
+2
+], though evidence to support this theory currently remains limited. Pre-exercise CHO ingestion can begin in the days leading into the exercise event to ensure that muscle glycogen stores are maximized [
+3
+,
+4
+]. Additionally, CHO ingestion provided up to 3–4 h prior to exercise is likely to increase muscle glycogen content. During exercise, CHO intake maintains blood glucose and/or provides fuel for oxidation, thus sparing muscle and liver glycogen [
+5
+,
+6
+]. Finally, CHO taken post-exercise aims to replenish both muscle and liver glycogen stores [
+7
+]. The speed of recovery depends on the timing and quantity of CHO [
+8
+], such that rapid and large quantities of CHO may be required to optimise performance during a subsequent exercise bout performed within hours of the previous exercise bout [
+9
+]. Thus, CHO ingestion is an important nutritional aspect to consider for both training and competition.
+
+CHO supplements have become commonplace among athletic populations, with numerous commercially available products, including cereal bars, gels, drinks and powders, considered effective evidence-based CHO sources to improve endurance exercise performance [
+10
+,
+11
+]. Despite the practicalities of employing such CHO-rich products, particularly during exercise, a ‘food-first’ approach to CHO ingestion for exercise may be of great relevance since acquiring CHO via dietary sources will also lead to co-ingestion of other important macro- (e.g., proteins and lipids) and micro- (e.g., vitamins and minerals) nutrients which are of benefit to athletes [
+12
+,
+13
+,
+14
+]. Further, athletes may wish to prioritise food over supplements for a multitude of personal reasons, including food choices (e.g., animal or plant-based), taste, gastrointestinal discomfort, cost, sustainability, behaviour, health and religion [
+12
+,
+15
+,
+16
+,
+17
+,
+18
+]. Dietary sources of CHO are numerous, including lentils, bananas, oats, honey, raisins, potatoes, rice, pasta. Each of these foods has its unique macronutrient and micronutrient content that will modify the speed at which they increase glucose in the bloodstream (i.e., their glycaemic index [GI]). The GI is a rating system based upon how much blood glucose is increased by ingesting specific foods, categorized into low-to-moderate and high GI foods. Foods with different GI values lead to a different metabolic response [
+19
+]; however, the GI of a pre-exercise meal has no clear benefit for endurance performance [
+20
+]. In contrast, high-GI CHO foods ingested during recovery between exercise bouts may accelerate post-exercise muscle glycogen storage [
+21
+] and improve subsequent exercise performance [
+22
+]. Thus, different CHO-food sources with different GI may be more or less efficient for exercise performance and glycogen replenishment when recovery time is short. However, the feasibility of implementing each dietary CHO source for pre-exercise, during exercise, and for post-exercise 
+
+----
+
+methods, instructions or products referred to in the content.
+
+References
+
+1.
+
+Jeukendrup A. A Step Towards Personalized Sports Nutrition: Carbohydrate Intake During Exercise. Sports Med. 2014;44:25–33. doi: 10.1007/s40279-014-0148-z.
+
+2.
+
+Impey S.G., Hearris M.A., Hammond K.M., Bartlett J.D., Louis J., Close G.L., Morton J.P. Fuel for the Work Required: A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis. Sports Med. 2018;1031:48. doi: 10.1007/s40279-018-0867-7.
+
+3.
+
+Madsen K., Pedersen P., Rose P., Richter E.A. Carbohydrate Supercompensation and Muscle Glycogen Utilization During Exhaustive Running in Highly Trained Athletes. Eur. J. Appl. Physiol. Occup. Physiol. 1990;61:467–472. doi: 10.1007/BF00236069.
+
+4.
+
+Sherman W.M., Costill D.L., Fink W.J., Miller J.M. Effect of Exercise-Diet Manipulation on Muscle Glycogen and Its Subsequent Utilization During Performance. Int. J. Sports Med. 1981;2:114–118. doi: 10.1055/s-2008-1034594.
+
+5.
+
+Coyle E.F., Coggan A.R., Hemmert M.K., Ivy J.L. Muscle Glycogen Utilization During Prolonged Strenuous Exercise When Fed Carbohydrate. J. Appl. Physiol. 1986;61:165–172. doi: 10.1152/jappl.1986.61.1.165.
+
+6.
+
+Gonzalez J.T., Fuchs C.J., Betts J.A., van Loon L.J. Liver Glycogen Metabolism During and after Prolonged Endurance-Type Exercise. Am. J. Physiol. Endocrinol. Metab. 2016;311:E543–E553. doi: 10.1152/ajpendo.00232.2016.
+
+7.
+
+Jentjens R., Jeukendrup A. Determinants of Post-Exercise Glycogen Synthesis During Short-Term Recovery. Sports Med. 2003;33:117–144. doi: 10.2165/00007256-200333020-00004.
+
+8.
+
+Naderi A., de Oliveira E.P., Ziegenfuss T.N., Willems M.E.T. Timing, Optimal Dose and Intake Duration of Dietary Supplements with Evidence-Based Use in Sports Nutrition. J. Exerc. Nutr. Biochem. 2016;20:1–12. doi: 10.20463/jenb.2016.0031.
+
+9.
+
+Naderi A., Samanipour M.H., Sarshin A., Forbes S.C., Koozehchian M.S., Franchini E., Reale R., Berjisian E., de Oliveira E.P., Miraftabi H., et al.  Effects of Two Different Doses of Carbohydrate Ingestion on Taekwondo-Related Performance During a Simulated Tournament. J. Int. Soc. Sports Nutr. 2021;18:40. doi: 10.1186/s12970-021-00434-4.
+
+10.
+
+Baur D.A., Saunders M.J. Carbohydrate Supplementation: A Critical Review of Recent Innovations. Eur. J. Appl. Physiol. 2021;121:23–66. doi: 10.1007/s00421-020-04534-y.
+
+11.
+
+Sareban M., Zügel D., Koehler K., Hartveg P., Zügel M., Schumann U., Steinacker J.M., Treff G. Carbohydrate Intake in Form of Gel Is Associated with Increased Gastrointestinal Distress but Not with Performance Differences Compared with Liquid Carbohydrate Ingestion During Simulated Long-Distance Triathlon. Int. J. Sport Nutr. Exerc. Metab. 2016;26:114–122. doi: 10.1123/ijsnem.2015-0060.
+
+12.
+
+Burd N.A., Beals J.W., Martinez I.G., Salvador A.F., Skinner S.K. Food-First Approach to Enhance the Regulation of Post-Exercise Skeletal Muscle Protein Synthesis and Remodeling. Sports Med. 2019;49:59–68. doi: 10.1007/s40279-018-1009-y.
+
+13.
+
+Costa M.S., Toscano L.T., Toscano L.L.T., Luna V.R., Torres R.A., Silva J.A., Silva A.S. Ergogenic Potential of Foods for Performance and Recovery: A New Alternative in Sports Supplementation? A Systematic Review. Crit. Rev. Food Sci. Nutr. 2022;62:1480–1501. doi: 10.1080/10408398.2020.1844137.
+
+14.
+
+Bonilla D.A., Perez-Idarraga A., Odriozola-Martinez A., Kreider R.B. The 4r’s Framework of Nutritional Strategies for Post-Exercise Recovery: A Review with Emphasis on New Generation of Carboh
+
+----
+
+methods, instructions or products referred to in the content.
+
+References
+
+1.
+
+Jeukendrup A. A Step Towards Personalized Sports Nutrition: Carbohydrate Intake During Exercise. Sports Med. 2014;44:25–33. doi: 10.1007/s40279-014-0148-z.
+
+2.
+
+Impey S.G., Hearris M.A., Hammond K.M., Bartlett J.D., Louis J., Close G.L., Morton J.P. Fuel for the Work Required: A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis. Sports Med. 2018;1031:48. doi: 10.1007/s40279-018-0867-7.
+
+3.
+
+Madsen K., Pedersen P., Rose P., Richter E.A. Carbohydrate Supercompensation and Muscle Glycogen Utilization During Exhaustive Running in Highly Trained Athletes. Eur. J. Appl. Physiol. Occup. Physiol. 1990;61:467–472. doi: 10.1007/BF00236069.
+
+4.
+
+Sherman W.M., Costill D.L., Fink W.J., Miller J.M. Effect of Exercise-Diet Manipulation on Muscle Glycogen and Its Subsequent Utilization During Performance. Int. J. Sports Med. 1981;2:114–118. doi: 10.1055/s-2008-1034594.
+
+5.
+
+Coyle E.F., Coggan A.R., Hemmert M.K., Ivy J.L. Muscle Glycogen Utilization During Prolonged Strenuous Exercise When Fed Carbohydrate. J. Appl. Physiol. 1986;61:165–172. doi: 10.1152/jappl.1986.61.1.165.
+
+6.
+
+Gonzalez J.T., Fuchs C.J., Betts J.A., van Loon L.J. Liver Glycogen Metabolism During and after Prolonged Endurance-Type Exercise. Am. J. Physiol. Endocrinol. Metab. 2016;311:E543–E553. doi: 10.1152/ajpendo.00232.2016.
+
+7.
+
+Jentjens R., Jeukendrup A. Determinants of Post-Exercise Glycogen Synthesis During Short-Term Recovery. Sports Med. 2003;33:117–144. doi: 10.2165/00007256-200333020-00004.
+
+8.
+
+Naderi A., de Oliveira E.P., Ziegenfuss T.N., Willems M.E.T. Timing, Optimal Dose and Intake Duration of Dietary Supplements with Evidence-Based Use in Sports Nutrition. J. Exerc. Nutr. Biochem. 2016;20:1–12. doi: 10.20463/jenb.2016.0031.
+
+9.
+
+Naderi A., Samanipour M.H., Sarshin A., Forbes S.C., Koozehchian M.S., Franchini E., Reale R., Berjisian E., de Oliveira E.P., Miraftabi H., et al.  Effects of Two Different Doses of Carbohydrate Ingestion on Taekwondo-Related Performance During a Simulated Tournament. J. Int. Soc. Sports Nutr. 2021;18:40. doi: 10.1186/s12970-021-00434-4.
+
+10.
+
+Baur D.A., Saunders M.J. Carbohydrate Supplementation: A Critical Review of Recent Innovations. Eur. J. Appl. Physiol. 2021;121:23–66. doi: 10.1007/s00421-020-04534-y.
+
+11.
+
+Sareban M., Zügel D., Koehler K., Hartveg P., Zügel M., Schumann U., Steinacker J.M., Treff G. Carbohydrate Intake in Form of Gel Is Associated with Increased Gastrointestinal Distress but Not with Performance Differences Compared with Liquid Carbohydrate Ingestion During Simulated Long-Distance Triathlon. Int. J. Sport Nutr. Exerc. Metab. 2016;26:114–122. doi: 10.1123/ijsnem.2015-0060.
+
+12.
+
+Burd N.A., Beals J.W., Martinez I.G., Salvador A.F., Skinner S.K. Food-First Approach to Enhance the Regulation of Post-Exercise Skeletal Muscle Protein Synthesis and Remodeling. Sports Med. 2019;49:59–68. doi: 10.1007/s40279-018-1009-y.
+
+13.
+
+Costa M.S., Toscano L.T., Toscano L.L.T., Luna V.R., Torres R.A., Silva J.A., Silva A.S. Ergogenic Potential of Foods for Performance and Recovery: A New Alternative in Sports Supplementation? A Systematic Review. Crit. Rev. Food Sci. Nutr. 2022;62:1480–1501. doi: 10.1080/10408398.2020.1844137.
+
+14.
+
+Bonilla D.A., Perez-Idarraga A., Odriozola-Martinez A., Kreider R.B. The 4r’s Framework of Nutritional Strategies for Post-Exercise Recovery: A Review with Emphasis on New Generation of Carboh
+
+----
+
+results for high and low GI meals could be explained by the different CHO loading amounts (1.5 g·kg
+−1
+ BM vs. 8 g·kg
+−1
+ BM) and recovery times (24 h vs. 4 h) within these two studies [
+22
+,
+70
+]. Longer recovery times to ingest higher CHO amounts from low-GI CHO sources may highlight the potential metabolic benefits of low-GI CHO for endurance athletes.
+
+Various high CHO food sources are available for endurance athletes to ingest during the short-term recovery period (
+Figure 1
+). In this regard, Murdoch et al. [
+71
+] investigated the effect of banana ingestion provided in either solid or slurry form (1.1 g·kg
+−1
+ BM CHO) following a 90 min run and 90 min cycle on subsequent exercise capacity. Eight highly trained triathlon athletes ingested the bananas or a placebo drink in the 20 min recovery time following the initial 180 min of exercise, before performing a cycle to exhaustion at 70% V̇O
+2max
+. TTE was 16 (slurried form) and 18 (solid form) min greater with the bananas compared to placebo, with no difference between the CHO forms. Although intriguing, the very short recovery time between endurance tests precluded any solid conclusions regarding banana ingestion for recovery and performance in the hours following an initial exercise bout, or subsequent next-day performance. Ahmad et al. [
+59
+] showed that participants could cover more distance during a 20 min running TT following an initial run at 65% V̇O
+2max
+ in the heat (31 °C, 70% relative humidity) before a 2 h rehydration phase when they were provided a honey beverage (6.8% CHO content equivalent to compensate 150% of body weight loss) compared to plain water. Thus, honey ingestion might be an interesting CHO source when recovery time is short, though it is unclear if it is as effective as traditional CHO supplement sources as a recovery aid.
+
+Flynn et al. [
+72
+] recruited male and female recreational athletes to ingest either potato-based foods or various CHO supplements (both providing 1.6 g·kg
+−1
+ BM CHO) following a 90 min cycle; after 4 h recovery, they performed a 20 km cycling TT. There were no differences in muscle glycogen synthesis rate or time-trial performance between the CHO sources [
+72
+]. Cramer et al. [
+73
+] also showed no difference in muscle glycogen synthesis rates and 20 km TT endurance performance between a high-CHO fast-food diet and CHO supplements ingested during the 4 h recovery period between two exercise bouts. These data suggest that the ingestion of CHO-rich foods, such as potatoes, is equally effective for the recovery of muscle glycogen and subsequent exercise performance as traditional CHO supplements (
+Table 3
+).
+
+Chocolate milk is a popular food-based sports beverage and comprises approximately ~11–14% CHO [
+36
+]. Chocolate milk may be an appropriate CHO beverage to support post-exercise muscle glycogen re-synthesis [
+74
+], and improve subsequent endurance exercise performance [
+75
+,
+76
+]. Several studies have compared chocolate milk versus a CHO-replacement fluid and fluid replacement drink during varying recovery periods (2–18 h) after exercise, with beneficial effects on subsequent performance compared to both CHO-replacement fluid and a fluid replacement drink [
+75
+,
+76
+,
+77
+,
+78
+]. Two recent meta-analyses and systematic reviews concluded that chocolate milk can increase muscle glycogen storage as much as an isocaloric CHO drink [
+74
+], and can improve exercise time-to-exhaustion compared to a placebo beverage, with no differences compar
+
+----
+
+conclusions on whether raisins may be more or less effective than commercial CHO sources. Too et al. [
+54
+] compared raisin ingestion to CHO-rich sport chews and water drinks. Eleven competitive endurance runners were provided 500 mg·kg
+−1
+ BM before exercise and 200 mg·kg
+−1
+ BM every 20 min throughout 80 min treadmill running at 75% V̇O
+2max
+ followed by a 5 km TT. There were no significant metabolic or performance differences between the raisins and sport chew trials; however, both CHO trials led to a greater performance compared to water alone. Corinthian currant [
+55
+], a dried grape derived from black grapes, has also shown similar performance improvements compared to a glucose drink (1.5 g·kg
+−1
+ BM) during a cycle to exhaustion at 95% V̇O
+2max
+ following 90 min of cycling at 60–70% V̇O
+2max
+. These data provide evidence that raisins can be considered an alternative to common CHO supplements during endurance exercise. They are also CHO dense (
+Figure 2
+), easily transportable as either food or drink, and are generally well-tolerated without significant gastrointestinal discomfort [
+54
+,
+55
+].
+
+Transportability and digestibility are key when considering CHO ingestion throughout exercise. Although foods such as potatoes, rice and pasta in their own right might be appropriate CHO sources during exercise, practical limitations might not allow their implementation in practice. For example, Salvador et al. [
+56
+] compared the performance effects of CHO obtained from mashed potatoes with an equivalent of CHO from a gel. Cyclists performed 120 min of intermittent cycling at 60–85% V̇O
+2peak
+ before a TT to complete 6 kJ·kg
+−1
+ BM and ingested 15 g of CHO from potato or a CHO gel every 15 min throughout the intermittent test. To obtain 15 g of CHO within each form, participants had to ingest 128.5 g of mashed potato but only 23 g of CHO gel. TT performance was improved with CHO compared to water alone but did not differ between CHO supplement forms. Although this suggests that potato ingestion throughout the exercise was equally effective as a CHO gel, potato ingestion was associated with more gastrointestinal discomfort during the test, likely due to the greater volume ingested. Furthermore, the transport of potatoes in mashed (or any) form is far less feasible than a CHO gel, although anecdotally cyclists are known to transport baked potatoes on long rides for fuel. A similar conclusion could be reached for pasta and rice. Although rice cakes may be considered an alternative form of rice consumption, leading to similar performance times as CHO provision in gels [
+66
+], these are often made from glutinous rice powder, and it is debatable whether these can still be considered a whole food. Thus, while some data support the potential use of potatoes as a CHO source during exercise, individuals should be wary of their difficulty in transport and the quantity needed to attain suggested ingestion rates of 60–90 g·h
+−1
+ (
+Figure 1
+).
+
+Collectively, these studies show that food-based sources such as banana, honey and raisins are excellent alternative CHO sources to be ingested during exercise. They are as effective as commercial-based CHO supplements such as gels and sports drinks to improve prolonged endurance performance [
+35
+,
+49
+,
+51
+,
+52
+,
+53
+,
+54
+,
+56
+,
+63
+,
+67
+]. However, the higher potential gastrointestinal distress risk related to a greater fructose ratio, fibre content and quantity to meet standard CHO doses (60–90 g·h
+−1
+) with CHO 
+
+----
+
+practicalities of employing such CHO-rich products, particularly during exercise, a ‘food-first’ approach to CHO ingestion for exercise may be of great relevance since acquiring CHO via dietary sources will also lead to co-ingestion of other important macro- (e.g., proteins and lipids) and micro- (e.g., vitamins and minerals) nutrients which are of benefit to athletes [
+12
+,
+13
+,
+14
+]. Further, athletes may wish to prioritise food over supplements for a multitude of personal reasons, including food choices (e.g., animal or plant-based), taste, gastrointestinal discomfort, cost, sustainability, behaviour, health and religion [
+12
+,
+15
+,
+16
+,
+17
+,
+18
+]. Dietary sources of CHO are numerous, including lentils, bananas, oats, honey, raisins, potatoes, rice, pasta. Each of these foods has its unique macronutrient and micronutrient content that will modify the speed at which they increase glucose in the bloodstream (i.e., their glycaemic index [GI]). The GI is a rating system based upon how much blood glucose is increased by ingesting specific foods, categorized into low-to-moderate and high GI foods. Foods with different GI values lead to a different metabolic response [
+19
+]; however, the GI of a pre-exercise meal has no clear benefit for endurance performance [
+20
+]. In contrast, high-GI CHO foods ingested during recovery between exercise bouts may accelerate post-exercise muscle glycogen storage [
+21
+] and improve subsequent exercise performance [
+22
+]. Thus, different CHO-food sources with different GI may be more or less efficient for exercise performance and glycogen replenishment when recovery time is short. However, the feasibility of implementing each dietary CHO source for pre-exercise, during exercise, and for post-exercise consumption is an important consideration for athletes. This narrative review aimed to determine whether a food-first approach to CHO provision for endurance exercise is an appropriate means to fuel endurance exercise and optimise performance compared to traditional CHO supplements.
+
+2. Pre-Exercise CHO Ingestion
+
+Initial studies tested different pre-exercise GI foods on substrate utilization and exercise performance mediated by different insulin responses, with equivocal findings between low- and high-GI foods [
+23
+,
+24
+]. While some evidence showed positive effects after consuming low-GI foods, other studies reported no difference between pre-exercise low-GI foods compared to high-GI foods [
+20
+,
+25
+]. The consumption of 1–4 g·kg
+−1
+ body mass (BM) of CHO is generally recommended 1 to 4 h prior to endurance exercise (
+Figure 1
+) [
+26
+]. Pre-exercise food selection depends on various factors such as sex, training status, and/or habitual dietary intake of endurance athletes [
+27
+]; however, regardless of individuals’ choices, pre-exercise ingestion of CHO appears to be important. For example, combining a 2.5 g CHO·kg
+−1
+ BM meal before exercise with a CHO drink (6.9% CHO) during exercise was better for performance compared to CHO ingestion during exercise alone, or no CHO (placebo) during a run to exhaustion at 70%V̇Omax [
+28
+] (
+Table 1
+). Aandahl et al. [
+29
+] compared a high (3 g·kg BM) and low (0.5 g·kg
+−1
+ BM) CHO pre-exercise meal ingested ~3.5 h before exercise on physiological variables and time-to-exhaustion during a graded exercise test. Recreational and well-trained endurance athletes were recruited and also performed a trial while fasting. The high-CHO meal improved exercise performance relative to t
+
+----
+
+limitation that does not allow us to draw any definitive conclusions on whether raisins may be more or less effective than commercial CHO sources. Too et al. [
+54
+] compared raisin ingestion to CHO-rich sport chews and water drinks. Eleven competitive endurance runners were provided 500 mg·kg
+−1
+ BM before exercise and 200 mg·kg
+−1
+ BM every 20 min throughout 80 min treadmill running at 75% V̇O
+2max
+ followed by a 5 km TT. There were no significant metabolic or performance differences between the raisins and sport chew trials; however, both CHO trials led to a greater performance compared to water alone. Corinthian currant [
+55
+], a dried grape derived from black grapes, has also shown similar performance improvements compared to a glucose drink (1.5 g·kg
+−1
+ BM) during a cycle to exhaustion at 95% V̇O
+2max
+ following 90 min of cycling at 60–70% V̇O
+2max
+. These data provide evidence that raisins can be considered an alternative to common CHO supplements during endurance exercise. They are also CHO dense (
+Figure 2
+), easily transportable as either food or drink, and are generally well-tolerated without significant gastrointestinal discomfort [
+54
+,
+55
+].
+
+Transportability and digestibility are key when considering CHO ingestion throughout exercise. Although foods such as potatoes, rice and pasta in their own right might be appropriate CHO sources during exercise, practical limitations might not allow their implementation in practice. For example, Salvador et al. [
+56
+] compared the performance effects of CHO obtained from mashed potatoes with an equivalent of CHO from a gel. Cyclists performed 120 min of intermittent cycling at 60–85% V̇O
+2peak
+ before a TT to complete 6 kJ·kg
+−1
+ BM and ingested 15 g of CHO from potato or a CHO gel every 15 min throughout the intermittent test. To obtain 15 g of CHO within each form, participants had to ingest 128.5 g of mashed potato but only 23 g of CHO gel. TT performance was improved with CHO compared to water alone but did not differ between CHO supplement forms. Although this suggests that potato ingestion throughout the exercise was equally effective as a CHO gel, potato ingestion was associated with more gastrointestinal discomfort during the test, likely due to the greater volume ingested. Furthermore, the transport of potatoes in mashed (or any) form is far less feasible than a CHO gel, although anecdotally cyclists are known to transport baked potatoes on long rides for fuel. A similar conclusion could be reached for pasta and rice. Although rice cakes may be considered an alternative form of rice consumption, leading to similar performance times as CHO provision in gels [
+66
+], these are often made from glutinous rice powder, and it is debatable whether these can still be considered a whole food. Thus, while some data support the potential use of potatoes as a CHO source during exercise, individuals should be wary of their difficulty in transport and the quantity needed to attain suggested ingestion rates of 60–90 g·h
+−1
+ (
+Figure 1
+).
+
+Collectively, these studies show that food-based sources such as banana, honey and raisins are excellent alternative CHO sources to be ingested during exercise. They are as effective as commercial-based CHO supplements such as gels and sports drinks to improve prolonged endurance performance [
+35
+,
+49
+,
+51
+,
+52
+,
+53
+,
+54
+,
+56
+,
+63
+,
+67
+]. However, the higher potential gastrointestinal distress risk related to a greater fructose ratio, fibre content and quan
+
+----
+
+acknowledged that there was ~12 g less CHO in the oat meal versus the other meals. Despite no performance effect, the feeling of fatigue was greater in the fasted trial, measured using the profile of mood states (POMS) questionnaire, than in the other treatments. Jones et al. [
+38
+] compared three available “cost-effective” oat- and wheat-based CHO meals relative to a commercial sports bar. Eight endurance-trained males ingested four isoenergetic meals including (i) a semi-liquid oat-based combination (77% CHO), (ii) a semi-liquid oat-based CHO (68% CHO), (iii) a semi-liquid wheat-based CHO) (75% CHO), and (iv) a dense solid, fructose-based sports bar (69% CHO). Meals were provided 2 h before a 60 min self-paced cycle ergometer test. Regardless of which meal was ingested, there was no difference in heart rate, oxygen consumption, respiratory exchange ratio or exercise performance. These data suggest that each CHO source was equally beneficial for this type of exercise, although this study is limited by the lack of a control treatment to determine whether CHO is beneficial compared to no CHO. Kirwan et al. [
+39
+] investigated the effect of oat-based breakfast meals provided 45 min prior to a cycle to exhaustion at 60% V̇O
+2peak
+ in recreationally active women. The breakfasts consisted of sweetened whole-grain rolled oats (75 g CHO + 7 g fibre), sweetened whole-oat flour (75 g CHO + 3 g fibre) or 300 mL of water as a control. Exercise performance improved by 16% and 10% in the rolled and flour oat conditions compared to control, with no difference between meals. In a similar study, 75 g CHO in regular whole grain rolled oats mixed with 300 mL of water improved cycling exercise to exhaustion at 60% V̇O
+2peak
+ compared to water alone (control) when ingested 45 min before exercise [
+40
+]. Another study by the same research group showed that 75 g of CHO ingested as rolled oats improved cycling time-to-exhaustion at 60% V̇O
+2peak
+ compared to control, while 75 g in puffed rice did not. The data from these studies suggest that oats may be a suitable pre-exercise CHO source for endurance exercise. Importantly, oats are often consumed mixed with other foods such as honey, banana, milk, cherries and chia seeds to enhance palatability. Work is needed to consider these kinds of mixed meals on metabolism and exercise performance.
+
+One study investigated the effect of a pre-exercise meal containing rice on 21 km running performance in eight endurance-trained male runners [
+41
+]. Meals were provided 2 h prior to exercise and consisted of a non-CHO low energy jelly (control), or one of two dishes equivalent in calories and CHO content (61%), namely a high-GI meal containing 92 g of jasmine rice and a low-GI meal containing no rice. A CHO-electrolyte drink (6.6% glucose) was also provided every 2.5 km throughout the exercise at 2 mL·kg
+−1
+ BM in all trials (total ~74 g CHO). Time-to-complete the 21 km run was not different between the CHO meals, although only the rice-based meal improved performance compared to control. These data provide some evidence to suggest that a pre-exercise CHO meal containing rice may be a useful strategy for endurance exercise performance. However, rice contains a substantial amount of water, meaning that to obtain CHO intakes of 30 g it would be necessary to ingest approximately 106 g of white rice or 116 g of brown rice (
+Figure 2
+). This may trigger some gastric discomfort due to the amount of food needed to achieve the des

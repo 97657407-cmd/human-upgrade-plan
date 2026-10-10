@@ -1,0 +1,900 @@
+abstracts published in conference proceedings, books, theses, and dissertations were not considered), published in English, and have an abstract available for screening.
+
+Search Strategy
+
+The articles were searched in May 2022, and three electronic databases were used: PubMed, SPORTDiscus via EBSCOhost, and Web of Science. In each database, the following descriptors covering the characteristic of participants, intervention, and outcomes were used: (athlet* OR sport*) AND (sleep AND (education OR hygiene OR Duration OR extension OR therapy OR strateg*) OR nap*) AND (performance OR competiti* OR recovery OR fatigue OR outcome*). Searches were conducted using ‘‘title and abstract’’ (PubMed), ‘‘topic’’ (Web of Science), and “abstract” (SPORTDiscus via EBSCOhost). Discrepancies in the search fields are due to differences in the options available in the databases. Filters for “English” and “articles” were applied. A reference management software (EndNote 20, Clarivate Analytics, USA) was used to import and analyze all references.
+
+Study Selection
+
+Studies were included if they met the following criteria: (1) participants were athletes of individual or team sports, from trained to world-class athletes [
+28
+]; (2) implemented an intervention aimed at improving sleep; (3) measured at least one objective performance/recovery outcome; and (4) reported the relationship between sleep and performance.
+
+Studies on referees or military tactical athletes, studies reporting only subjective performance measures, and interventions that included sleep medication were excluded.
+
+Data Collection Process
+
+Before starting the article selection process, duplicate citations obtained from the different databases were eliminated. Then, two evaluators (LC and JC) independently examined the article title, abstract, and keywords in the first screening stage according to the established inclusion and exclusion criteria. Subsequently, full-text articles of those citations were read and selected if suitable for inclusion. In cases of disagreement, a third reviewer (PF) was consulted. The detailed data collection process is shown in a flowchart (Fig. 
+1
+).
+
+Fig. 1
+
+Flowchart of the systematic review following the PRISMA statement
+
+Data Items
+
+For the papers included in the analysis, we considered information about: (1) geographical location where the study was conducted; (2) study design; (3) sport; (4) sample (size, age, and sex); (5) type of intervention (e.g., sleep hygiene, napping, or sleep extension); (6) sleep assessment (e.g., questionnaires, actigraphy, or polysomnography; (7) performance/recovery assessment test and related physiological outcomes (e.g., psychomotor vigilance task, countermovement jump, or Wingate test; creatine kinase, heart rate variability (HRV), or lactate); and (8) main results.
+
+Risk-of-Bias Assessment
+
+We applied the revised Cochrane risk-of-bias tool for randomized trials (RoB2) [
+29
+, 
+30
+] to assess the potential risk of bias. RoB2 is an outcome-focused, domain-based tool that evaluates the risk of bias in outcomes in individually randomized, parallel-group trials, randomized crossover trials (RCT), and cluster RCTs [
+29
+, 
+30
+]. RoB2 has five risk-of-bias domains covering the different aspects of the trial design, conduct, and reporting. These include: (1) bias arising from the randomization process; (2) bias due to deviations from intended interventions; (3) bias due to missing outcome data; (4) bias in the measurement of the outcome;
+
+----
+
+
+Introduction
+
+Sleep is a biological need crucial for human health and well-being [
+1
+]. During periods of sleep restriction or deprivation, general health is negatively affected, particularly the immune system, endocrine, physical, or cognitive functions [
+2
+–
+4
+]. While the general sleep recommendations advocate that adults obtain 7–9 h of sleep per night to maintain optimal health and functioning [
+5
+], many adults do not comply with these recommendations. For athletes, often exposed to high-intensity training, it is recognized that sleep is the most important method for psychological and physiological recovery [
+6
+, 
+7
+]. Elite athletes report needing approximately 8 h of sleep per night to feel rested [
+8
+]. However, elite athletes often sleep less than 7 h [
+8
+, 
+9
+] due to several potential sport and non-sport-related factors, which may vary across sports. Several sport-specific factors are associated with sleep inadequacy, including transmeridian travel (disrupting the circadian rhythm and exposing the athletes to an unfamiliar sleeping environment), cognitive arousal on the night before a competition, evening competitions, high training loads, and early morning training [
+10
+, 
+11
+]. In addition, various non-sport factors, such as social demands, work/study commitments (e.g., sponsorships), lifestyle choices (e.g., diet), individual characteristics (e.g., age), attitudes and beliefs (e.g., societal influence), and family commitments, have been linked with inadequate sleep in athletes [
+10
+]. Despite some mixed results, a decline in physical and cognitive performance can occur after a night of sleep restriction [
+4
+, 
+12
+, 
+13
+]. For example, two studies with runners and judo athletes showed that after a night with partial sleep restriction (4 h of sleep), endurance performance, muscle strength, and power were negatively affected [
+14
+, 
+15
+]. A night with partial sleep restriction can also affect the execution of motor skills that require a high cognitive dimension, such as reported for handball goalkeepers [
+16
+], dart players [
+17
+], and tennis players [
+18
+].
+
+Given the growing concern about athletes' sleep, studies examining sleep interventions have grown exponentially over the recent years [
+19
+]. To date, studies examining the sleep/wake behavior of athletes have focused on nutrition [
+13
+, 
+20
+], sleep hygiene [
+21
+], and sleep extension/napping [
+22
+, 
+23
+]. In a systematic literature review evaluating the effectiveness of sleep interventions for athletes specifically aimed at improving performance outcomes, Bonnar et al. [
+24
+] showed that sleep extension was the most beneficial intervention, while napping, sleep hygiene, and post-exercise recovery strategies provided mixed results. However, this review was conducted over 5 years ago. Since then, many studies have been published, and our understanding of the impact of sleep interventions on athletic performance has improved. More recently, in an expert consensus about athletes’ sleep, Walsh et al. [
+10
+] narratively reviewed the studies of the general phenomena of athlete’s sleep. Despite being very comprehensive, the study included only a few reports regarding sleep interventions that explored the effect of sleep extension, sleep hygiene and naps on athletic performance. In this regard, a more comprehensive review of the literature on the entire spectrum of sleep interventions is needed.
+
+Therefore, this systematic review aimed to update and expand the findings of Bon
+
+----
+
+
+Methods
+
+The present systematic review was conducted based on the PRISMA guidelines and the PICOS approach. The search was conducted in May 2022 using the electronic database PubMed, SPORTDiscus via EBSCOhost, and Web of Science. Once extracted, studies were included if they met the following criteria: (1) participants were athletes of individual or team sports; (2) implemented an intervention aimed at improving sleep; (3) measured at least one objective performance/recovery outcome; and (4) reported the relationship between sleep and performance.
+
+Results
+
+The search returned 1584 records. Following the screening, a total of 25 studies met our inclusion criteria. All the included articles were intervention studies published between 2011 and 2021. The included studies implemented various sleep interventions, such as sleep hygiene, naps, sleep extension, light manipulation, cold water immersion, mindfulness, or a combination of two or more strategies. Sleep extension and naps were the most representative and most effective strategies to improve sleep and performance. Mindfulness and light manipulation demonstrated promising results, but more studies are needed to confirm these findings. Sleep hygiene, removing electronic devices at night, and cold water immersion had no effects on sleep and subsequent performance/recovery, but these results are based on a few studies only.
+
+Conclusion
+
+While acknowledging the limited amount of high-quality evidence reviewed, it appears that increasing sleep duration at night or through napping was the most effective interventions to improve physical and/or cognitive performance.
+
+Protocol Registration
+ This protocol was registered in the International Platform of Registered Systematic Review and Meta-Analysis Protocols (INPLASY) on May 11, 2022, with the registration number INPLASY202250069.
+
+Keywords
+
+Sleep interventions
+
+Athletes
+
+Performance
+
+http://dx.doi.org/10.13039/501100001871
+
+Fundação para a Ciência e a Tecnologia
+
+UI/BD/151482/2021
+
+Cunha
+
+Lúcio A.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2023
+
+Key Points
+
+Increasing sleep duration through naps or night-time sleep may positively impact physical and/or cognitive performance.
+
+Extending sleep duration by 46–113 min in athletes that habitually sleep ~ 7 h per night may be a general recommendation for future sleep extension programs.
+
+Supplementing sleep during the day with a 20–90-min nap can improve performance outcomes after a regular night and restore performance decrements to baseline levels after a night with partial sleep restriction.
+
+Introduction
+
+Sleep is a biological need crucial for human health and well-being [
+1
+]. During periods of sleep restriction or deprivation, general health is negatively affected, particularly the immune system, endocrine, physical, or cognitive functions [
+2
+–
+4
+]. While the general sleep recommendations advocate that adults obtain 7–9 h of sleep per night to maintain optimal health and functioning [
+5
+], many adults do not comply with these recommendations
+
+----
+
+
+Methods
+
+The present systematic review was conducted based on the PRISMA guidelines and the PICOS approach. The search was conducted in May 2022 using the electronic database PubMed, SPORTDiscus via EBSCOhost, and Web of Science. Once extracted, studies were included if they met the following criteria: (1) participants were athletes of individual or team sports; (2) implemented an intervention aimed at improving sleep; (3) measured at least one objective performance/recovery outcome; and (4) reported the relationship between sleep and performance.
+
+Results
+
+The search returned 1584 records. Following the screening, a total of 25 studies met our inclusion criteria. All the included articles were intervention studies published between 2011 and 2021. The included studies implemented various sleep interventions, such as sleep hygiene, naps, sleep extension, light manipulation, cold water immersion, mindfulness, or a combination of two or more strategies. Sleep extension and naps were the most representative and most effective strategies to improve sleep and performance. Mindfulness and light manipulation demonstrated promising results, but more studies are needed to confirm these findings. Sleep hygiene, removing electronic devices at night, and cold water immersion had no effects on sleep and subsequent performance/recovery, but these results are based on a few studies only.
+
+Conclusion
+
+While acknowledging the limited amount of high-quality evidence reviewed, it appears that increasing sleep duration at night or through napping was the most effective interventions to improve physical and/or cognitive performance.
+
+Protocol Registration
+ This protocol was registered in the International Platform of Registered Systematic Review and Meta-Analysis Protocols (INPLASY) on May 11, 2022, with the registration number INPLASY202250069.
+
+Keywords
+
+Sleep interventions
+
+Athletes
+
+Performance
+
+http://dx.doi.org/10.13039/501100001871
+
+Fundação para a Ciência e a Tecnologia
+
+UI/BD/151482/2021
+
+Cunha
+
+Lúcio A.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2023
+
+Key Points
+
+Increasing sleep duration through naps or night-time sleep may positively impact physical and/or cognitive performance.
+
+Extending sleep duration by 46–113 min in athletes that habitually sleep ~ 7 h per night may be a general recommendation for future sleep extension programs.
+
+Supplementing sleep during the day with a 20–90-min nap can improve performance outcomes after a regular night and restore performance decrements to baseline levels after a night with partial sleep restriction.
+
+Introduction
+
+Sleep is a biological need crucial for human health and well-being [
+1
+]. During periods of sleep restriction or deprivation, general health is negatively affected, particularly the immune system, endocrine, physical, or cognitive functions [
+2
+–
+4
+]. While the general sleep recommendations advocate that adults obtain 7–9 h of sleep per night to maintain optimal health and functioning [
+5
+], many adults do not comply with these recommendations
+
+----
+
+
+Results
+
+The search returned 1584 records. Following the screening, a total of 25 studies met our inclusion criteria. All the included articles were intervention studies published between 2011 and 2021. The included studies implemented various sleep interventions, such as sleep hygiene, naps, sleep extension, light manipulation, cold water immersion, mindfulness, or a combination of two or more strategies. Sleep extension and naps were the most representative and most effective strategies to improve sleep and performance. Mindfulness and light manipulation demonstrated promising results, but more studies are needed to confirm these findings. Sleep hygiene, removing electronic devices at night, and cold water immersion had no effects on sleep and subsequent performance/recovery, but these results are based on a few studies only.
+
+Conclusion
+
+While acknowledging the limited amount of high-quality evidence reviewed, it appears that increasing sleep duration at night or through napping was the most effective interventions to improve physical and/or cognitive performance.
+
+Protocol Registration
+ This protocol was registered in the International Platform of Registered Systematic Review and Meta-Analysis Protocols (INPLASY) on May 11, 2022, with the registration number INPLASY202250069.
+
+Keywords
+
+Sleep interventions
+
+Athletes
+
+Performance
+
+http://dx.doi.org/10.13039/501100001871
+
+Fundação para a Ciência e a Tecnologia
+
+UI/BD/151482/2021
+
+Cunha
+
+Lúcio A.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2023
+
+Key Points
+
+Increasing sleep duration through naps or night-time sleep may positively impact physical and/or cognitive performance.
+
+Extending sleep duration by 46–113 min in athletes that habitually sleep ~ 7 h per night may be a general recommendation for future sleep extension programs.
+
+Supplementing sleep during the day with a 20–90-min nap can improve performance outcomes after a regular night and restore performance decrements to baseline levels after a night with partial sleep restriction.
+
+Introduction
+
+Sleep is a biological need crucial for human health and well-being [
+1
+]. During periods of sleep restriction or deprivation, general health is negatively affected, particularly the immune system, endocrine, physical, or cognitive functions [
+2
+–
+4
+]. While the general sleep recommendations advocate that adults obtain 7–9 h of sleep per night to maintain optimal health and functioning [
+5
+], many adults do not comply with these recommendations. For athletes, often exposed to high-intensity training, it is recognized that sleep is the most important method for psychological and physiological recovery [
+6
+, 
+7
+]. Elite athletes report needing approximately 8 h of sleep per night to feel rested [
+8
+]. However, elite athletes often sleep less than 7 h [
+8
+, 
+9
+] due to several potential sport and non-sport-related factors, which may vary across sports. Several sport-specific factors are associated with sleep inadequacy, including transmeridian travel (disrupting the circadian rhythm and expo
+
+----
+
+
+Discussion
+
+Sleep is widely recognized as one of the foundations for optimal health, well-being, and performance for athletes [
+10
+, 
+13
+, 
+57
+]. This systematic review synthesized the evidence regarding sleep interventions aimed at improving sleep, and whether this improvement would influence performance and/or recovery. Twenty-five studies with different sports and sleep interventions were analyzed. The findings reinforced that napping and sleep extension were the most promising sleep interventions for improved sleep and subsequent physical and/or cognitive performance.
+
+All the included studies that implemented sleep extension showed a positive impact on performance outcomes (e.g., reaction time or sport-specific performance). The results showed that extending sleep duration by 46–113 min (e.g., increase of 11–27%) over 3–49 nights in athletes that habitually slept ~ 7 h per night may be a logical recommendation for future sleep extension programs [
+37
+, 
+41
+, 
+43
+, 
+50
+]. To achieve such sleep duration, studies have reported that athletes needed to extend their usual time in bed to 9–10 h [
+37
+, 
+41
+, 
+43
+, 
+50
+]. In addition, the individual characteristics of the athlete's sleep habits should be considered before implementing any sleep intervention, as it is important to adapt to individual needs [
+24
+]. Lastella et al. [
+9
+] demonstrated, in a sample of 124 participants, that elite athletes obtained well below 8 h of sleep per night (6.8 ± 1.1 h), which may not be enough to maximize performance. For example, Sargent et al. [
+8
+] revealed that elite athletes reported needing approximately 8.3 h of sleep to feel rested. Despite this self-reported sleep need, only 3% of athletes obtained their required sleep amount. It is plausible that athletes who fall short of their sleep requirements are likely to benefit from a sleep extension intervention.
+
+Napping was the most representative sleep intervention of the included studies [
+35
+, 
+36
+, 
+39
+, 
+40
+, 
+42
+, 
+44
+, 
+45
+, 
+49
+, 
+52
+]. Napping is a strategy that provides an opportunity to supplement the night-time sleep period, offering an alternative for athletes to increase sleep duration. In most of the studies analyzed, the results revealed a positive impact of napping on cognitive performance [
+35
+, 
+42
+, 
+45
+, 
+49
+]. However, some mixed results were reported for physical performance [
+35
+, 
+36
+, 
+45
+, 
+49
+, 
+52
+] and recovery [
+39
+, 
+44
+] outcomes. During nights of partial sleep restriction (e.g., 4 h of sleep), decreases in general performance outcomes such as muscle power or psychomotor vigilance were observed [
+4
+]. The included studies showed that napping could restore performance to baseline levels [
+45
+, 
+49
+]. With regard to nap duration, the improvements in physical and cognitive performance were greater in naps of longer duration (e.g., 90 min) compared with shorter durations (e.g., 40 min) after a normal night [
+35
+]. However, following a night of partial sleep restriction, a short nap (20 min) was as effective as a long nap (90 min) in restoring performance to baseline levels (normal sleep night) [
+45
+]. There are still questions about the effects of daytime naps on night-time sleep variables (e.g., latency), especially naps of longer durations [
+36
+, 
+58
+]. Further, the notion of sleep inertia (e.g., feeling of grogginess upon wakening) needs to be considered when napping is implemented. For example, the longer the nap the higher the chance of experiencing sleep inertia [
+
+----
+
+
+Conclusion
+
+While acknowledging the limited amount of high-quality evidence reviewed, it appears that increasing sleep duration at night or through napping was the most effective interventions to improve physical and/or cognitive performance.
+
+Protocol Registration
+ This protocol was registered in the International Platform of Registered Systematic Review and Meta-Analysis Protocols (INPLASY) on May 11, 2022, with the registration number INPLASY202250069.
+
+Keywords
+
+Sleep interventions
+
+Athletes
+
+Performance
+
+http://dx.doi.org/10.13039/501100001871
+
+Fundação para a Ciência e a Tecnologia
+
+UI/BD/151482/2021
+
+Cunha
+
+Lúcio A.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2023
+
+Key Points
+
+Increasing sleep duration through naps or night-time sleep may positively impact physical and/or cognitive performance.
+
+Extending sleep duration by 46–113 min in athletes that habitually sleep ~ 7 h per night may be a general recommendation for future sleep extension programs.
+
+Supplementing sleep during the day with a 20–90-min nap can improve performance outcomes after a regular night and restore performance decrements to baseline levels after a night with partial sleep restriction.
+
+Introduction
+
+Sleep is a biological need crucial for human health and well-being [
+1
+]. During periods of sleep restriction or deprivation, general health is negatively affected, particularly the immune system, endocrine, physical, or cognitive functions [
+2
+–
+4
+]. While the general sleep recommendations advocate that adults obtain 7–9 h of sleep per night to maintain optimal health and functioning [
+5
+], many adults do not comply with these recommendations. For athletes, often exposed to high-intensity training, it is recognized that sleep is the most important method for psychological and physiological recovery [
+6
+, 
+7
+]. Elite athletes report needing approximately 8 h of sleep per night to feel rested [
+8
+]. However, elite athletes often sleep less than 7 h [
+8
+, 
+9
+] due to several potential sport and non-sport-related factors, which may vary across sports. Several sport-specific factors are associated with sleep inadequacy, including transmeridian travel (disrupting the circadian rhythm and exposing the athletes to an unfamiliar sleeping environment), cognitive arousal on the night before a competition, evening competitions, high training loads, and early morning training [
+10
+, 
+11
+]. In addition, various non-sport factors, such as social demands, work/study commitments (e.g., sponsorships), lifestyle choices (e.g., diet), individual characteristics (e.g., age), attitudes and beliefs (e.g., societal influence), and family commitments, have been linked with inadequate sleep in athletes [
+10
+]. Despite some mixed results, a decline in physical and cognitive performance can occur after a night of sleep restriction [
+4
+, 
+12
+, 
+13
+]. For example, two studies with runners and judo athletes showed that after a night with partial sleep restriction (4 h of sleep), endurance performance, muscle strength, and power were negative
+
+----
+
+
+Limitations
+
+The current systematic review has limitations which should be acknowledged. First, the strengths of our conclusions are limited, since none of the included studies presented a low risk of bias. This is in line with a recent expert consensus statement about athletes' sleep studies, warning about the poor quality of the evidence, and the need to use more consistent, reliable, and valid research methods in athletes’ sleep studies [
+10
+]. To reduce the risk of bias, future studies should: design randomized controlled or crossover trials; identify the chronotype, due to possible bias in performance measures; explain in detail the randomization process; monitor a baseline sleep period (1–2 weeks) without any intervention; consider the carry over effect of the interventions, in the case of crossover trials; use objective and/or subjective validated tools for monitoring sleep; use objective performance measures; report missing data; and register the protocol before conducting the study. Second, there was high heterogeneity between the type of sleep interventions, type of sport, performance tests used, and level of the athletes. Lastly, there is a risk of language bias because we only considered studies written in English.
+
+Conclusion
+
+Based on the results of this systematic review, increasing sleep duration through naps or night-time sleep may positively impact physical and/or cognitive performance. If athletes habitually obtain ~ 7 h of sleep per night, a general recommendation may be to increase sleep duration up to 2 h over 3–49 nights. Also, supplementing sleep during the day with a nap (20–90 min) can be implemented when necessary. In addition to improving the sleep duration, naps can improve performance outcomes after a regular night and restore performance decrements to baseline levels after a night with partial sleep restriction. For strategies such as sleep hygiene, mindfulness, or limiting the use of electronic devices before bedtime, it is plausible that such interventions can positively impact performance outcomes if they can improve sleep quality and/or duration. Strategies with light exposure may be an option to manipulate the biological clock and increase the alertness of the athletes in the moments when this starts to fall (e.g., at night). However, more studies are needed to confirm these findings. Future research on this topic should use more reliable and valid research methods to increase the quality of evidence so that more solid conclusions can be drawn. In addition, studies that explore the effect of 1–3 h of sleep restriction on physical and cognitive performance may be interesting, as this is the most common situation detected in the athletes’ context.
+
+Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Author Contributions
+
+LC and PF devised the study. LC, EM, and PF developed the methodology and interpreted the data. LC performed database searches and wrote the initial draft of the manuscript. LC and JC executed the screening process, data extraction, and risk-of-bias assessment. The manuscript was critically revised by JC, EM, JB, ML, and PF. PF supervised the study. All authors read and approved the final manuscript.
+
+Funding
+
+ Lúcio Cunha was supported by the Portuguese Foundation for Science and Technology [UI/BD/151482/2021]. No other sources of funding were used to
+assist in the preparation of this manuscript.
+
+Av
+
+----
+
+acknowledging the limited amount of high-quality evidence reviewed, it appears that increasing sleep duration at night or through napping was the most effective interventions to improve physical and/or cognitive performance.
+
+Protocol Registration
+ This protocol was registered in the International Platform of Registered Systematic Review and Meta-Analysis Protocols (INPLASY) on May 11, 2022, with the registration number INPLASY202250069.
+
+Keywords
+
+Sleep interventions
+
+Athletes
+
+Performance
+
+http://dx.doi.org/10.13039/501100001871
+
+Fundação para a Ciência e a Tecnologia
+
+UI/BD/151482/2021
+
+Cunha
+
+Lúcio A.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2023
+
+Key Points
+
+Increasing sleep duration through naps or night-time sleep may positively impact physical and/or cognitive performance.
+
+Extending sleep duration by 46–113 min in athletes that habitually sleep ~ 7 h per night may be a general recommendation for future sleep extension programs.
+
+Supplementing sleep during the day with a 20–90-min nap can improve performance outcomes after a regular night and restore performance decrements to baseline levels after a night with partial sleep restriction.
+
+Introduction
+
+Sleep is a biological need crucial for human health and well-being [
+1
+]. During periods of sleep restriction or deprivation, general health is negatively affected, particularly the immune system, endocrine, physical, or cognitive functions [
+2
+–
+4
+]. While the general sleep recommendations advocate that adults obtain 7–9 h of sleep per night to maintain optimal health and functioning [
+5
+], many adults do not comply with these recommendations. For athletes, often exposed to high-intensity training, it is recognized that sleep is the most important method for psychological and physiological recovery [
+6
+, 
+7
+]. Elite athletes report needing approximately 8 h of sleep per night to feel rested [
+8
+]. However, elite athletes often sleep less than 7 h [
+8
+, 
+9
+] due to several potential sport and non-sport-related factors, which may vary across sports. Several sport-specific factors are associated with sleep inadequacy, including transmeridian travel (disrupting the circadian rhythm and exposing the athletes to an unfamiliar sleeping environment), cognitive arousal on the night before a competition, evening competitions, high training loads, and early morning training [
+10
+, 
+11
+]. In addition, various non-sport factors, such as social demands, work/study commitments (e.g., sponsorships), lifestyle choices (e.g., diet), individual characteristics (e.g., age), attitudes and beliefs (e.g., societal influence), and family commitments, have been linked with inadequate sleep in athletes [
+10
+]. Despite some mixed results, a decline in physical and cognitive performance can occur after a night of sleep restriction [
+4
+, 
+12
+, 
+13
+]. For example, two studies with runners and judo athletes showed that after a night with partial sleep restriction (4 h of sleep), endurance performance, muscle strength, and power were negatively affected [
+14
+, 

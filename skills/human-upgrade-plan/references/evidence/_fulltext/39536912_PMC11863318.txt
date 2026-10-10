@@ -1,0 +1,724 @@
+
+Abstract
+
+Background
+
+Iron facilitates key biological functions underpinning sports performance, and up to 60% of female athletes experience iron deficiency. However, the effects of iron deficiency on sports performance in female athletes is unclear, as are the degree of benefits of iron supplementation (FeSup). This study characterizes the effects of iron deficiency and FeSup on sports performance in high-level female athletes.
+
+Methods
+
+Searches of the electronic databases MEDLINE, SPORTDiscus, Web of Science, Scopus, and CINAHL were performed in July 2023. Studies were included that evaluated the effects of iron deficiency or FeSup on sports performance in high-level (maximal oxygen uptake (VO
+2max
+) > 45 mL/kg/min, or trained > 5 h/week) iron deficient (ID) (serum ferritin (sFer) < 40 µg/L) female athletes. Studies were assessed using a modified Downs and Black Quality Assessment Checklist.
+
+Results
+
+A total of 23 studies comprising 669 athletes (age range: 13–47 years) across 16 sports were included in the review. Iron deficiency negatively affects endurance performance by 3%–4%. However, endurance performance improved by 2%–20% when ID athletes were treated with 100 mg/day of elemental iron for up to 56 days via oral supplementation, or bi-daily via parenteral administration over 8–10 days. ID non-anemic athletes with low sFer stores may be predisposed to reduced maximal aerobic capacity. However, maximal aerobic capacity improved by 6%–15% following 16 mg/day–100 mg/day of elemental iron for 36–126 days. Isokinetic strength and anaerobic power performance may be impeded (–23% to +4%) among ID athletes, but the effect of FeSup on anaerobic power varied markedly (–5% to +9%) following 100 mg/day of elemental iron over 42–56 days, or 100 mg of elemental iron bi-daily over 8–10 days. The quality of studies was moderate (77%), ranging from low (57%) to high (100%). Moststudies (
+n
+ = 18) contained group sizes ≤ 20 athletes, thus limiting the likelihood of detecting significant effects (statistical power > 0.80).
+
+Conclusion
+
+High-level ID female athletes experience a negative impact on endurance performance, which can be improved by supplementing with ∼100 mg of elemental iron per day or bi-daily. The decrements in other performance parameters characterizing a range of sports coincide with the severity of iron deficiency.
+
+Graphical abstract
+
+Image, graphical abstract
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2023 Dec 22; Revised 2024 Apr 6; Accepted 2024 Jul 1; Collection date 2025 Dec.
+
+1.
+
+Introduction
+
+Peak sports performance in athletes depends on various endogenous and exogenous physical, technical, mental, and tactical factors. However, adverse environmental, lifestyle, psychological, or physiological effects may lead to undesirable training and competitive results. Iron supports key biological functions for peak sports performance through erythropoiesis, oxygen transportation and uptake, and oxidative phosphorylation in the electron transport chain. Anecdotally, some athletes with iron deficiency appear to train and compete successfully, while others show impaired performance.
+1
+, 
+2
+, 
+3
+
+Iron deficiency ranges from Stage 1 non-anemic iron deficiency (IDNA-1) to Stage 3 anemic iron deficiency (IDA-3); each stage is likely to elicit different effects on sports performance. IDA-3 is characterized by impaired erythropoie
+
+----
+
+
+Introduction
+
+Peak sports performance in athletes depends on various endogenous and exogenous physical, technical, mental, and tactical factors. However, adverse environmental, lifestyle, psychological, or physiological effects may lead to undesirable training and competitive results. Iron supports key biological functions for peak sports performance through erythropoiesis, oxygen transportation and uptake, and oxidative phosphorylation in the electron transport chain. Anecdotally, some athletes with iron deficiency appear to train and compete successfully, while others show impaired performance.
+1
+, 
+2
+, 
+3
+
+Iron deficiency ranges from Stage 1 non-anemic iron deficiency (IDNA-1) to Stage 3 anemic iron deficiency (IDA-3); each stage is likely to elicit different effects on sports performance. IDA-3 is characterized by impaired erythropoiesis, compromising oxygen delivery via reductions in hemoglobin (Hb) concentration (<120 g/L).
+
+4
+
+,
+
+5
+
+ When Hb concentration is deemed normal (Hb ≥ 120 g/L) but iron status is compromised, marked by reductions in serum ferritin (sFer) or transferrin saturation (TSAT), the individual is diagnosed with either IDNA-1 (sFer < 30 µg/L and TSAT >16%) or Stage 2 non-anemic iron deficiency (IDNA-2) (sFer < 20 µg/L and TSAT < 16%).
+
+6
+
+,
+
+7
+
+ It appears there are other mechanisms affecting performance in IDNA-1 and -2 athletes when Hb concentration is not compromised.
+
+Low ferritin levels, reflecting total body iron stores, are proposed to be the primary mechanism for increased fatigue and deficits in sports performance, even when Hb levels are normal.
+
+8
+
+ Low iron stores negatively affect oxidative enzymes, respiratory proteins, and cytochrome activity, impairing the extraction and utilization of oxygen for adenosine triphosphate (ATP) production.
+
+9
+
+ The impaired structure of these proteins limits oxygen transport within the electron transport chain, providing a mechanism whereby sports performance is compromised in athletes with IDNA-1 and -2. Despite efforts to standardize diagnostic criteria for iron deficiency in athletic cohorts, there is little consensus.
+
+10
+
+ Higher hematological biomarker cut-off values (e.g., sFer > 30 µg/L) may be required when determining iron deficiency in athletes with naturally greater iron losses. Without consensus on diagnostic criterion for determining iron deficiency, a combination of iron status, athlete's performance level, sex, training status, and sport may better indicate athletes who are susceptible to performance decrements.
+
+Despite the importance of iron, iron deficiency remains highly prevalent, ranging globally between 9%
+
+11
+
+ and 60%
+
+12
+
+ in female athletes. The greater prevalence observed in female athletes compared to their male counterparts (typically up to 30%) is partly attributable to diet and menstruation, where eumenorrheic females can lose up to ∼10 mg of iron per menstrual cycle.
+
+13
+
+ Consequently, female athletes may experience issues, including menstrual irregularities, with implications on bone health.
+
+14
+
+ However, several strategies can be employed to treat diagnosed iron deficiency.
+
+To support female athletes’ higher recommended dietary intake, iron is available in many supplemental forms. Hematological biomarkers have successfully responded to iron supplementation (FeSup) in iron deficient (ID) athletic cohorts.
+
+15
+
+,
+
+16
+
+ However, the effectiveness of FeSup on physical parameters beyond endurance performance and maximal aerobic capac
+
+----
+
+
+Methods
+
+Searches of the electronic databases MEDLINE, SPORTDiscus, Web of Science, Scopus, and CINAHL were performed in July 2023. Studies were included that evaluated the effects of iron deficiency or FeSup on sports performance in high-level (maximal oxygen uptake (VO
+2max
+) > 45 mL/kg/min, or trained > 5 h/week) iron deficient (ID) (serum ferritin (sFer) < 40 µg/L) female athletes. Studies were assessed using a modified Downs and Black Quality Assessment Checklist.
+
+Results
+
+A total of 23 studies comprising 669 athletes (age range: 13–47 years) across 16 sports were included in the review. Iron deficiency negatively affects endurance performance by 3%–4%. However, endurance performance improved by 2%–20% when ID athletes were treated with 100 mg/day of elemental iron for up to 56 days via oral supplementation, or bi-daily via parenteral administration over 8–10 days. ID non-anemic athletes with low sFer stores may be predisposed to reduced maximal aerobic capacity. However, maximal aerobic capacity improved by 6%–15% following 16 mg/day–100 mg/day of elemental iron for 36–126 days. Isokinetic strength and anaerobic power performance may be impeded (–23% to +4%) among ID athletes, but the effect of FeSup on anaerobic power varied markedly (–5% to +9%) following 100 mg/day of elemental iron over 42–56 days, or 100 mg of elemental iron bi-daily over 8–10 days. The quality of studies was moderate (77%), ranging from low (57%) to high (100%). Moststudies (
+n
+ = 18) contained group sizes ≤ 20 athletes, thus limiting the likelihood of detecting significant effects (statistical power > 0.80).
+
+Conclusion
+
+High-level ID female athletes experience a negative impact on endurance performance, which can be improved by supplementing with ∼100 mg of elemental iron per day or bi-daily. The decrements in other performance parameters characterizing a range of sports coincide with the severity of iron deficiency.
+
+Graphical abstract
+
+Image, graphical abstract
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2023 Dec 22; Revised 2024 Apr 6; Accepted 2024 Jul 1; Collection date 2025 Dec.
+
+1.
+
+Introduction
+
+Peak sports performance in athletes depends on various endogenous and exogenous physical, technical, mental, and tactical factors. However, adverse environmental, lifestyle, psychological, or physiological effects may lead to undesirable training and competitive results. Iron supports key biological functions for peak sports performance through erythropoiesis, oxygen transportation and uptake, and oxidative phosphorylation in the electron transport chain. Anecdotally, some athletes with iron deficiency appear to train and compete successfully, while others show impaired performance.
+1
+, 
+2
+, 
+3
+
+Iron deficiency ranges from Stage 1 non-anemic iron deficiency (IDNA-1) to Stage 3 anemic iron deficiency (IDA-3); each stage is likely to elicit different effects on sports performance. IDA-3 is characterized by impaired erythropoiesis, compromising oxygen delivery via reductions in hemoglobin (Hb) concentration (<120 g/L).
+
+4
+
+,
+
+5
+
+ When Hb concentration is deemed normal (Hb ≥ 120 g/L) but iron status is compromised, marked by reductions in serum ferritin (sFer) or transferrin saturation (TSAT), the individual is diagnosed with either IDNA-1 (sFer < 30 µg/L and TSAT >16%) or Stage 2 non-anemic iron deficiency (IDNA-2) (sFer < 20 µg/L and TSAT < 16%).
+
+6
+
+,
+
+----
+
+
+Methods
+
+Searches of the electronic databases MEDLINE, SPORTDiscus, Web of Science, Scopus, and CINAHL were performed in July 2023. Studies were included that evaluated the effects of iron deficiency or FeSup on sports performance in high-level (maximal oxygen uptake (VO
+2max
+) > 45 mL/kg/min, or trained > 5 h/week) iron deficient (ID) (serum ferritin (sFer) < 40 µg/L) female athletes. Studies were assessed using a modified Downs and Black Quality Assessment Checklist.
+
+Results
+
+A total of 23 studies comprising 669 athletes (age range: 13–47 years) across 16 sports were included in the review. Iron deficiency negatively affects endurance performance by 3%–4%. However, endurance performance improved by 2%–20% when ID athletes were treated with 100 mg/day of elemental iron for up to 56 days via oral supplementation, or bi-daily via parenteral administration over 8–10 days. ID non-anemic athletes with low sFer stores may be predisposed to reduced maximal aerobic capacity. However, maximal aerobic capacity improved by 6%–15% following 16 mg/day–100 mg/day of elemental iron for 36–126 days. Isokinetic strength and anaerobic power performance may be impeded (–23% to +4%) among ID athletes, but the effect of FeSup on anaerobic power varied markedly (–5% to +9%) following 100 mg/day of elemental iron over 42–56 days, or 100 mg of elemental iron bi-daily over 8–10 days. The quality of studies was moderate (77%), ranging from low (57%) to high (100%). Moststudies (
+n
+ = 18) contained group sizes ≤ 20 athletes, thus limiting the likelihood of detecting significant effects (statistical power > 0.80).
+
+Conclusion
+
+High-level ID female athletes experience a negative impact on endurance performance, which can be improved by supplementing with ∼100 mg of elemental iron per day or bi-daily. The decrements in other performance parameters characterizing a range of sports coincide with the severity of iron deficiency.
+
+Graphical abstract
+
+Image, graphical abstract
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2023 Dec 22; Revised 2024 Apr 6; Accepted 2024 Jul 1; Collection date 2025 Dec.
+
+1.
+
+Introduction
+
+Peak sports performance in athletes depends on various endogenous and exogenous physical, technical, mental, and tactical factors. However, adverse environmental, lifestyle, psychological, or physiological effects may lead to undesirable training and competitive results. Iron supports key biological functions for peak sports performance through erythropoiesis, oxygen transportation and uptake, and oxidative phosphorylation in the electron transport chain. Anecdotally, some athletes with iron deficiency appear to train and compete successfully, while others show impaired performance.
+1
+, 
+2
+, 
+3
+
+Iron deficiency ranges from Stage 1 non-anemic iron deficiency (IDNA-1) to Stage 3 anemic iron deficiency (IDA-3); each stage is likely to elicit different effects on sports performance. IDA-3 is characterized by impaired erythropoiesis, compromising oxygen delivery via reductions in hemoglobin (Hb) concentration (<120 g/L).
+
+4
+
+,
+
+5
+
+ When Hb concentration is deemed normal (Hb ≥ 120 g/L) but iron status is compromised, marked by reductions in serum ferritin (sFer) or transferrin saturation (TSAT), the individual is diagnosed with either IDNA-1 (sFer < 30 µg/L and TSAT >16%) or Stage 2 non-anemic iron deficiency (IDNA-2) (sFer < 20 µg/L and TSAT < 16%).
+
+6
+
+,
+
+----
+
+
+Results
+
+A total of 23 studies comprising 669 athletes (age range: 13–47 years) across 16 sports were included in the review. Iron deficiency negatively affects endurance performance by 3%–4%. However, endurance performance improved by 2%–20% when ID athletes were treated with 100 mg/day of elemental iron for up to 56 days via oral supplementation, or bi-daily via parenteral administration over 8–10 days. ID non-anemic athletes with low sFer stores may be predisposed to reduced maximal aerobic capacity. However, maximal aerobic capacity improved by 6%–15% following 16 mg/day–100 mg/day of elemental iron for 36–126 days. Isokinetic strength and anaerobic power performance may be impeded (–23% to +4%) among ID athletes, but the effect of FeSup on anaerobic power varied markedly (–5% to +9%) following 100 mg/day of elemental iron over 42–56 days, or 100 mg of elemental iron bi-daily over 8–10 days. The quality of studies was moderate (77%), ranging from low (57%) to high (100%). Moststudies (
+n
+ = 18) contained group sizes ≤ 20 athletes, thus limiting the likelihood of detecting significant effects (statistical power > 0.80).
+
+Conclusion
+
+High-level ID female athletes experience a negative impact on endurance performance, which can be improved by supplementing with ∼100 mg of elemental iron per day or bi-daily. The decrements in other performance parameters characterizing a range of sports coincide with the severity of iron deficiency.
+
+Graphical abstract
+
+Image, graphical abstract
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2023 Dec 22; Revised 2024 Apr 6; Accepted 2024 Jul 1; Collection date 2025 Dec.
+
+1.
+
+Introduction
+
+Peak sports performance in athletes depends on various endogenous and exogenous physical, technical, mental, and tactical factors. However, adverse environmental, lifestyle, psychological, or physiological effects may lead to undesirable training and competitive results. Iron supports key biological functions for peak sports performance through erythropoiesis, oxygen transportation and uptake, and oxidative phosphorylation in the electron transport chain. Anecdotally, some athletes with iron deficiency appear to train and compete successfully, while others show impaired performance.
+1
+, 
+2
+, 
+3
+
+Iron deficiency ranges from Stage 1 non-anemic iron deficiency (IDNA-1) to Stage 3 anemic iron deficiency (IDA-3); each stage is likely to elicit different effects on sports performance. IDA-3 is characterized by impaired erythropoiesis, compromising oxygen delivery via reductions in hemoglobin (Hb) concentration (<120 g/L).
+
+4
+
+,
+
+5
+
+ When Hb concentration is deemed normal (Hb ≥ 120 g/L) but iron status is compromised, marked by reductions in serum ferritin (sFer) or transferrin saturation (TSAT), the individual is diagnosed with either IDNA-1 (sFer < 30 µg/L and TSAT >16%) or Stage 2 non-anemic iron deficiency (IDNA-2) (sFer < 20 µg/L and TSAT < 16%).
+
+6
+
+,
+
+7
+
+ It appears there are other mechanisms affecting performance in IDNA-1 and -2 athletes when Hb concentration is not compromised.
+
+Low ferritin levels, reflecting total body iron stores, are proposed to be the primary mechanism for increased fatigue and deficits in sports performance, even when Hb levels are normal.
+
+8
+
+ Low iron stores negatively affect oxidative enzymes, respiratory proteins, and cytochrome activity, impairing the extraction and utilization of oxyg
+
+----
+
+
+Discussion
+
+The impact of iron deficiency in high-level female athletes appears largely dependent on the severity of iron deficiency, particularly regarding endurance performance and maximal work rates.
+
+27
+
+ Furthermore, ID athletes require more energy to complete the same endurance task. IDNA-1 and -2 athletes do not typically exhibit compromised Hb concentration, thus performance decrements experienced with respect to maximal aerobic capacity, strength, and anaerobic power may become more pronounced in IDA-3 athletes in whom Hb concentrations are reduced below the clinical threshold (≤119 g/L).
+
+4.1.
+
+Iron deficiency and physical parameters
+
+The effects of iron deficiency on maximal aerobic capacity and endurance performance is influenced by factors including the choice of testing protocol (laboratory or field), athlete's performance level, and the diversity of athletes from multiple sports. Iron deficiency consistently impairs endurance performance (e.g., time-trial, time-to-exhaustion); however, the effects of IDNA-1 and -2 on maximal aerobic capacity are inconsistent. Many studies recruited IDNA-1 and -2 athletes, thus complicating understanding as marked differences between IDNA-1 and -2 athletes and IS athletes appear unlikely. For this reason, only athletes with Hb concentrations ≤119 g/L typically experience impaired oxygen transportation. This assertion is supported by Baranauskas, et al. 
+
+25
+
+ who observed no significant correlation between sFer and peak oxygen uptake measured in a graded exercise test, indicating that reduced Hb below the criterion of ≤119g/L for IDA-3 may be the limiting factor in such protocols. Subsequently, while IDNA-1 and -2 athletes may exhibit compromised energy production, possibly due to a reduction in tissue oxidative capacity, their maximal aerobic capacity may not be substantially affected. This effect could be attributed to the shorter duration of demanding workloads above those that can be sustained aerobically during a graded exercise test, which typically involves stages lasting 1–2 min
+
+23
+
+,
+
+24
+
+,
+
+26
+
+ compared to endurance protocols ranging from ∼8–18 min.
+
+23
+
+,
+
+24
+
+,
+
+27
+
+,
+
+28
+
+In protocols with longer durations, IDNA-1 and -2 athletes may be unable to sustain the same workloads aerobically as IS athletes, consequent to impaired tissue oxidative capacity.
+
+28
+
+ Endurance performance was compromised by 3%–19% among ID athletes compared to their IS counterparts.
+
+23
+
+,
+
+24
+
+,
+
+27
+
+,
+
+28
+
+ However, only 1 study
+
+28
+
+ examined proxy measures related to tissue oxidative capacity (i.e., BLa, energy efficiency), thus more research is warranted to confirm the notion that a reduction in tissue oxidative capacity is responsible for compromised endurance performance among IDNA-1 and -2 athletes. A more direct measure of tissue oxidative capacity (e.g., iron-dependent oxidative enzymes in muscle) would be beneficial. Nevertheless, the 3%–19% decrements in endurance performance highlight the extent to which sports performance may be compromised for ID athletes competing in a range of endurance sports (e.g., 10,000 m track; 1500 m swim).
+
+The athlete's performance level (Tiers 1–5) also appears to influence the effect of iron deficiency on maximal aerobic capacity and endurance performance. Higher-level athletes (collegiate to national; Tiers 3–5) may be more sensitive to performance deficits compared with lower-level athletes (trained and development-level; Tier 2). While no substantial diffe
+
+----
+
+
+Conclusion
+
+High-level ID female athletes experience a negative impact on endurance performance, which can be improved by supplementing with ∼100 mg of elemental iron per day or bi-daily. The decrements in other performance parameters characterizing a range of sports coincide with the severity of iron deficiency.
+
+Graphical abstract
+
+Image, graphical abstract
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2023 Dec 22; Revised 2024 Apr 6; Accepted 2024 Jul 1; Collection date 2025 Dec.
+
+1.
+
+Introduction
+
+Peak sports performance in athletes depends on various endogenous and exogenous physical, technical, mental, and tactical factors. However, adverse environmental, lifestyle, psychological, or physiological effects may lead to undesirable training and competitive results. Iron supports key biological functions for peak sports performance through erythropoiesis, oxygen transportation and uptake, and oxidative phosphorylation in the electron transport chain. Anecdotally, some athletes with iron deficiency appear to train and compete successfully, while others show impaired performance.
+1
+, 
+2
+, 
+3
+
+Iron deficiency ranges from Stage 1 non-anemic iron deficiency (IDNA-1) to Stage 3 anemic iron deficiency (IDA-3); each stage is likely to elicit different effects on sports performance. IDA-3 is characterized by impaired erythropoiesis, compromising oxygen delivery via reductions in hemoglobin (Hb) concentration (<120 g/L).
+
+4
+
+,
+
+5
+
+ When Hb concentration is deemed normal (Hb ≥ 120 g/L) but iron status is compromised, marked by reductions in serum ferritin (sFer) or transferrin saturation (TSAT), the individual is diagnosed with either IDNA-1 (sFer < 30 µg/L and TSAT >16%) or Stage 2 non-anemic iron deficiency (IDNA-2) (sFer < 20 µg/L and TSAT < 16%).
+
+6
+
+,
+
+7
+
+ It appears there are other mechanisms affecting performance in IDNA-1 and -2 athletes when Hb concentration is not compromised.
+
+Low ferritin levels, reflecting total body iron stores, are proposed to be the primary mechanism for increased fatigue and deficits in sports performance, even when Hb levels are normal.
+
+8
+
+ Low iron stores negatively affect oxidative enzymes, respiratory proteins, and cytochrome activity, impairing the extraction and utilization of oxygen for adenosine triphosphate (ATP) production.
+
+9
+
+ The impaired structure of these proteins limits oxygen transport within the electron transport chain, providing a mechanism whereby sports performance is compromised in athletes with IDNA-1 and -2. Despite efforts to standardize diagnostic criteria for iron deficiency in athletic cohorts, there is little consensus.
+
+10
+
+ Higher hematological biomarker cut-off values (e.g., sFer > 30 µg/L) may be required when determining iron deficiency in athletes with naturally greater iron losses. Without consensus on diagnostic criterion for determining iron deficiency, a combination of iron status, athlete's performance level, sex, training status, and sport may better indicate athletes who are susceptible to performance decrements.
+
+Despite the importance of iron, iron deficiency remains highly prevalent, ranging globally between 9%
+
+11
+
+ and 60%
+
+12
+
+ in female athletes. The greater prevalence observed in female athletes compared to their male counterparts (typically up to 30%) is partly attributable to diet and menstruation, where eumenorrheic females can lose up to ∼10 mg of iron 
+
+----
+
+
+Practical implications
+
+Endurance performance may be impeded in ID high-level female athletes. However, performance may be improved with the equivalent of 100 mg of elemental iron per day or bi-daily, either orally for up to 56 days or through parenteral administration over 8–10 days. These findings are consistent with those previously established by Sim, et al.
+
+17
+
+ who generally advocate for FeSup of 100 mg of elemental iron per day or bi-daily irrespecitive of the physical or physiological parameter of interest. Contrasting these recommendations, ID high-level female athletes may benefit from consuming 16–60 mg of elemental iron delivered daily for a duration of 42–56 days to enhance energy efficiency and maximal work rates. While IDA-3 athletes and IDNA-2 athletes with low sFer levels (<15 µg/L) may experience compromised maximal aerobic capacity, only IDA-3 high-level female athletes may experience reductions in strength and power. The exact mechanism by which strength and power are hindered is not fully understood, but reductions in tissue oxygenation between efforts could potentially inhibit subsequent strength performance. Nevertheless, high-level female athletes with iron deficiency are encouraged to consult a sports medicine practitioner or sports dietitian to limit compromises in training and competitions while also ensuring FeSup protocols adhere with anti-doping agencies.
+
+5.
+
+Conclusion
+
+Endurance performance appears to be negatively affected among ID high-level female athletes but can be improved following FeSup. It is difficult to characterize the effects of iron deficiency and FeSup on a full suite of physical and physiological parameters beyond endurance performance. Data indicate that maximal work rate and energy efficiency can be improved in high-level ID female athletes. This advice is relevant for athletes competing in sports typified by long-sustained, high-intensity efforts as well as those characterized by repeated sprint efforts. Maximal aerobic capacity does not appear to be compromised in IDNA-1 and -2 female athletes with higher sFer stores (>16 µg/L) as their performance is not hindered by low Hb levels or a substantially diminished tissue oxidative capacity. Iron deficiency does not seem to affect strength and power in athletes with IDNA-1 and -2. However, further research is needed to understand how IDA-3, which is associated with compromised Hb concentrations, impacts athletic performance.
+
+Authors’ contributions
+
+MP and KP designed the study, performed the database search, screening process, interpretation of results, drafted and contributed to the final manuscript; DBP designed the study, contributed to the interpretation of the results, drafted and contributed to the final manuscript; NE designed the study, performed the screening process and interpretation of the results, drafted and contributed to the final manuscript. All authors have read and approved the final version of the manuscript, and agree with the order of presentation of the authors.
+
+Competing interests
+
+The authors declare that they have no competing interests.
+
+Acknowledgments
+
+The authors would like to acknowledge the cooperation of multiple authors providing access to datasets, enabling the extraction of data specific to high-level female athletes.
+
+Footnotes
+
+Peer review under responsibility of Shanghai University of Sport.
+
+Supplementary materials associated with this article can be found in the online version at 
+doi:10.1016/j.
+
+----
+
+
+Limitations
+
+There is potential for language bias as only peer-reviewed articles written in English were considered for inclusion. This may have excluded relevant studies published in other languages. Secondly, marked differences in methodological design (e.g., outcome measures, dose protocol) were evident between studies, complicating the interpretation and application of results. Differences in the route of administration of the supplement and the many forms of oral supplementation (e.g., ferrous sulfate, ferrous fumarate) further complicate comparisons; therefore, only estimates of elemental iron can be provided. Finally, given high-level (Tiers 2–5) female athletes differ from the general population and male counterparts, these outcomes are only specific to high-level female athletes. Further research with standardized methodologies and larger sample sizes are needed to provide more conclusive evidence on the impact of iron deficiency and FeSup on sports performance, and to meet the needs of different athlete cohorts and sports.
+
+4.5.
+
+Practical implications
+
+Endurance performance may be impeded in ID high-level female athletes. However, performance may be improved with the equivalent of 100 mg of elemental iron per day or bi-daily, either orally for up to 56 days or through parenteral administration over 8–10 days. These findings are consistent with those previously established by Sim, et al.
+
+17
+
+ who generally advocate for FeSup of 100 mg of elemental iron per day or bi-daily irrespecitive of the physical or physiological parameter of interest. Contrasting these recommendations, ID high-level female athletes may benefit from consuming 16–60 mg of elemental iron delivered daily for a duration of 42–56 days to enhance energy efficiency and maximal work rates. While IDA-3 athletes and IDNA-2 athletes with low sFer levels (<15 µg/L) may experience compromised maximal aerobic capacity, only IDA-3 high-level female athletes may experience reductions in strength and power. The exact mechanism by which strength and power are hindered is not fully understood, but reductions in tissue oxygenation between efforts could potentially inhibit subsequent strength performance. Nevertheless, high-level female athletes with iron deficiency are encouraged to consult a sports medicine practitioner or sports dietitian to limit compromises in training and competitions while also ensuring FeSup protocols adhere with anti-doping agencies.
+
+5.
+
+Conclusion
+
+Endurance performance appears to be negatively affected among ID high-level female athletes but can be improved following FeSup. It is difficult to characterize the effects of iron deficiency and FeSup on a full suite of physical and physiological parameters beyond endurance performance. Data indicate that maximal work rate and energy efficiency can be improved in high-level ID female athletes. This advice is relevant for athletes competing in sports typified by long-sustained, high-intensity efforts as well as those characterized by repeated sprint efforts. Maximal aerobic capacity does not appear to be compromised in IDNA-1 and -2 female athletes with higher sFer stores (>16 µg/L) as their performance is not hindered by low Hb levels or a substantially diminished tissue oxidative capacity. Iron deficiency does not seem to affect strength and power in athletes with IDNA-1 and -2. However, further research is needed to understand how IDA-3, which is associated with compromised Hb concentrations, impact
+
+----
+
+
+Acknowledgments
+
+The authors would like to acknowledge the cooperation of multiple authors providing access to datasets, enabling the extraction of data specific to high-level female athletes.
+
+Footnotes
+
+Peer review under responsibility of Shanghai University of Sport.
+
+Supplementary materials associated with this article can be found in the online version at 
+doi:10.1016/j.jshs.2024.101009
+.
+
+Supplementary materials
+
+Image, application 1
+
+Image, application 2
+
+Image, application 3
+
+Image, application 4
+
+Image, video 5
+
+References
+
+1.
+
+Rubeor A, Goojha C, Manning J, White J. Does iron supplementation improve performance in iron-deficient nonanemic athletes? Sports Health. 2018;10:400–405. doi: 10.1177/1941738118777488.
+
+2.
+
+Burden R, Morton K, Richards T, Whyte G, Pedlar C. Is iron treatment beneficial in, iron-deficient but non-anaemic (IDNA) endurance athletes? A systematic review and meta-analysis. Br J Sports Med. 2015;49:1389–1397. doi: 10.1136/bjsports-2014-093624.
+
+3.
+
+Cusack H, Hewlings S. The impact of iron supplementation on athletic performance in elite-level female athletes–A systematic review. Strength Cond J. 2022;45:342–353.
+
+4.
+
+World Health Organization  . World Health Organization; Geneva: 2011. Haemoglobin concentrations for the diagnosis of anaemia and assessment of severity.
+
+5.
+
+Lukaski H, Hall C, Siders W. Altered metabolic response of iron-deficient women during graded, maximal exercise. Eur J Appl Physiol Occup Physiol. 1991;63:140–145. doi: 10.1007/BF00235184.
+
+6.
+
+McKay AKA, Sim M, Moretti D, et al.  Methodological considerations for investigating iron status and regulation in exercise and sport science studies. Int J Sport Nutr Exerc Metab. 2022;32:359–370. doi: 10.1123/ijsnem.2021-0343.
+
+7.
+
+Clénin G, Cordes M, Huber A, et al.  Iron deficiency in sports - definition, influence on performance and therapy. Swiss Med Wkly. 2015;145:w14196. doi: 10.4414/smw.2015.14196.
+
+8.
+
+Rodenberg RE, Gustafson S. Iron as an ergogenic aid: Ironclad evidence? Curr Sports Med Rep. 2007;6:258–264.
+
+9.
+
+Gupta CP. Role of iron (Fe) in the body. IOSR-JAC. 2014;7:38–46.
+
+10.
+
+Australian Institute of Sport
+. Iron deficiency
+. Available at: 
+https://www.ais.gov.au/position_statements/best_practice_content/iron-deficiency2
+. [accessed 13.05.2023]
+
+11.
+
+Gropper SS, Blessing D, Dunham K, Barksdale JM. Iron status of female collegiate athletes involved in different sports. Biol Trace Elem Res. 2006;109:1–14. doi: 10.1385/BTER:109:1:001.
+
+12.
+
+Coates A, Mountjoy M, Burr J. Incidence of iron deficiency and iron deficient anemia in elite runners and triathletes. Clin J Sport Med. 2017;27:493–498. doi: 10.1097/JSM.0000000000000390.
+
+13.
+
+Harvey LJ, Armah CN, Dainty JR, et al.  Impact of menstrual blood loss and diet on iron deficiency among women in the UK. Br J Nutr. 2005;94:557–564. doi: 10.1079/bjn20051493.
+
+14.
+
+Taim BC, Ó Catháin C, Renard M, Elliott-Sale KJ, Madigan S, Ní Chéilleachair N. The prevalence of menstrual cycle disorders and menstrual cycle-related symptoms in female athletes: A systematic literature review. Sports Med. 2023;53:1963–1984. doi: 10.1007/s40279-023-01871-8.
+
+15.
+
+Govus AD, Garvican-Lewis LA, Abbiss CR, Peeling P, Gore CJ. Pre-altitude serum ferritin levels and daily oral iron supplement dose mediate iron parameter and hemoglobin mass responses to altitude exposure. PLoS One. 2015;10 doi: 10.1371/journal.pone.0135120.
+
+16.
+
+Garvican LA, Saunders PU, Cardoso T, et al.  Intravenous iron supplementation in distanc

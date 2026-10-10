@@ -1,0 +1,1068 @@
+
+Abstract
+
+The purpose of this study was firstly to examine the sensitivity of heart rate (HR)‐based and subjective monitoring markers to intensified endurance training; and secondly, to investigate the validity of these markers to distinguish individuals in different fatigue states. A total of 24 recreational runners performed a 3‐week baseline period, a 2‐week overload period, and a 1‐week recovery period. Performance was assessed before and after each period with a 3000m running test. Recovery was monitored with daily orthostatic tests, nocturnal HR recordings, questionnaires, and exercise data. The participants were divided into subgroups (overreached/OR, 
+n
+ = 8; responders/RESP, 
+n
+ = 12) based on the changes in performance and subjective recovery. The responses to the second week of the overload period were compared between the subgroups. RESP improved their baseline 3000 m time (
+p
+ < 0.001) after the overload period (−2.5 ± 1.0%), and the change differed (
+p
+ < 0.001) from OR (0.6 ± 1.2%). The changes in nocturnal HR (OR 3.2 ± 3.1%; RESP −2.8 ± 3.7%, 
+p
+ = 0.002) and HR variability (OR −0.7 ± 1.8%; RESP 2.1 ± 1.6%, 
+p
+ = 0.011) differed between the subgroups. In addition, the decrease in subjective readiness to train (
+p
+ = 0.009) and increase in soreness of the legs (
+p
+ = 0.04) were greater in OR compared to RESP. Nocturnal HR, readiness to train, and exercise‐derived HR‐running power index had ≥85% positive and negative predictive values in the discrimination between OR and RESP individuals. In conclusion, exercise tolerance can vary substantially in recreational runners. The results supported the usefulness of nocturnal HR and subjective recovery assessments in recognizing fatigue states.
+
+Keywords:
+ fatigue, overtraining, performance, physiology, recovery
+
+Highlights
+
+Tolerance to similarly increased training load varies in recreational runners. While some individuals respond positively, for others the same load may be excessive.
+
+Subjective markers, such as readiness to train and soreness of the legs, were the most sensitive markers to respond to increased training load, and the magnitude of these responses was greater in individuals with suspected overreaching.
+
+Resting or exercise heart rate (HR) did not respond as systematically as the subjective markers to the training load itself. However, the changes in nocturnal HR, nocturnal HRV, and HR‐running power index started to differ between the RESP and OR subgroups at an earlier stage of the overload period supporting their usefulness as indicators of the fatigue state.
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Revised 2024 Mar 13; Received 2024 Jan 31; Accepted 2024 Apr 8; Collection date 2024 Jul.
+
+1.
+
+INTRODUCTION
+
+Classic mathematical training models assume that once an individual is exposed to a certain exercise dose, it results in positive responses in fitness, which can be realized after the alleviation of fatigue (Taha et al., 
+2003
+). The state of fatigue is typically considered as a continuum, and the level of fatigue is defined based on changes in performance and the time needed to recover (Bellinger, 
+2020
+; Meeusen et al., 
+2013
+). For diagnostic purposes, perceived recovery or mood is often evaluated along with the performance (Aubry et al., 
+2015
+; Bellinger, 
+2020
+; Coates, Hammond, & Burr, 
+2018
+). A state in which the perceived fatigue might be increased a
+
+----
+
+
+INTRODUCTION
+
+Classic mathematical training models assume that once an individual is exposed to a certain exercise dose, it results in positive responses in fitness, which can be realized after the alleviation of fatigue (Taha et al., 
+2003
+). The state of fatigue is typically considered as a continuum, and the level of fatigue is defined based on changes in performance and the time needed to recover (Bellinger, 
+2020
+; Meeusen et al., 
+2013
+). For diagnostic purposes, perceived recovery or mood is often evaluated along with the performance (Aubry et al., 
+2015
+; Bellinger, 
+2020
+; Coates, Hammond, & Burr, 
+2018
+). A state in which the perceived fatigue might be increased above normal, but performance is unchanged or improved is called acute fatigue, and it occurs basically after each training session but fades within day(s). If incomplete recovery accumulates long enough, the next stage of fatigue is regarded as overreaching (OR), which in the case of functional OR (FOR) takes from a few days to a few weeks to recover, but during nonfunctional OR (NFOR) the recovery period is substantially longer (i.e., weeks‐to‐months). (Meeusen et al., 
+2013
+).
+
+Although some studies have found significant improvements after the recovery period in FOR athletes (Bellenger et al., 
+2016
+; Le Meur et al., 
+2013
+), the benefits of prescribed periods of FOR have been questioned when compared to training that induces brief periods of acute fatigue only (Bellinger, 
+2020
+; Bellinger et al., 
+2020
+). Lately, FOR has also been connected to several unfavorable physiological responses, such as increased resting arterial stiffness (Coates, Millar, & Burr, 
+2018
+), mitochondrial functional impairment (Flockhart et al., 
+2022
+), decreased glucose tolerance (Flockhart et al., 
+2022
+), and higher prevalence of upper respiratory tract infections (Hausswirth et al., 
+2014
+). Therefore, markers that are sensitive and specific to the prediction of OR could be useful by supporting the prescription of sustainable training programs.
+
+The evolution of wearable technology has provided a lot of alternatives for the monitoring of training and recovery. Among endurance training, the most typical technologies are related to heart rate (HR) recordings at rest or during exercise. Although many studies support the usefulness of HR‐based markers (Buchheit, 
+2014
+; Düking et al., 
+2021
+; Nuuttila et al., 
+2022a
+), research evidence is somewhat conflicting regarding their accuracy in the identification of fatigue states. According to reviews by Bosquet et al. (
+2008
+) and Roete et al. (
+2021
+), HR measurements during rest or exercise would not appear to be sufficient in the detection of FOR, individually. In line with that, Bellenger et al. (
+2016
+) have also suggested that responses in the HR‐based markers should be contextualized with perceived recovery as similar responses (decrease in HR and increase in HRV) can be associated with positive training adaptations and the state of FOR. In general, subjective markers have been found to be more sensitive than objective measures in responding to changes in training load (Saw et al., 
+2016
+). However, it is critical to acknowledge that not just the sensitivity to a certain (external) training load is important. Even more relevant would be the specificity of the marker to distinguish excessive load from sustainable load for an individual, as the homeostatic stress induced by a certain training load and ability to recover is highly variabl
+
+----
+
+methods during intensified training in recreational runners
+
+Nuuttila
+
+Olli‐Pekka
+
+1
+
+2
+
+✉
+
+Uusitalo
+
+Arja
+
+3
+
+4
+
+Kokkonen
+
+Veli‐Pekka
+
+1
+
+Weerarathna
+
+Nilushika
+
+1
+
+Kyröläinen
+
+Heikki
+
+1
+
+1
+
+Faculty of Sport and Health Sciences, University of Jyväskylä, Jyväskylä, Finland
+
+2
+
+The UKK Institute for Health Promotion Research, Tampere, Finland
+
+3
+
+Department of Sports and Exercise Medicine, Clinicum, University of Helsinki, Helsinki, Finland
+
+4
+
+Helsinki Clinic for Sports and Exercise Medicine, Foundation for Sports and Exercise Medicine, Helsinki, Finland
+
+*
+
+Correspondence
+
+, 
+Olli‐Pekka Nuuttila, Faculty of Sport and Health Sciences, University of Jyväskylä, P.O. Box 35 (VIV), Jyväskylä 40014, Finland. 
+Email: 
+olli-pekka.s.nuuttila@jyu.fi
+
+✉
+
+Corresponding author.
+
+26
+
+4
+
+2024
+
+24
+
+7
+
+857
+
+857–869
+
+26
+
+7
+
+2024
+
+© 2024 The Authors. European Journal of Sport Science published by Wiley‐VCH GmbH on behalf of European College of Sport Science.
+
+This is an open access article under the terms of the 
+http://creativecommons.org/licenses/by/4.0/
+ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
+
+Abstract
+
+The purpose of this study was firstly to examine the sensitivity of heart rate (HR)‐based and subjective monitoring markers to intensified endurance training; and secondly, to investigate the validity of these markers to distinguish individuals in different fatigue states. A total of 24 recreational runners performed a 3‐week baseline period, a 2‐week overload period, and a 1‐week recovery period. Performance was assessed before and after each period with a 3000m running test. Recovery was monitored with daily orthostatic tests, nocturnal HR recordings, questionnaires, and exercise data. The participants were divided into subgroups (overreached/OR, 
+n
+ = 8; responders/RESP, 
+n
+ = 12) based on the changes in performance and subjective recovery. The responses to the second week of the overload period were compared between the subgroups. RESP improved their baseline 3000 m time (
+p
+ < 0.001) after the overload period (−2.5 ± 1.0%), and the change differed (
+p
+ < 0.001) from OR (0.6 ± 1.2%). The changes in nocturnal HR (OR 3.2 ± 3.1%; RESP −2.8 ± 3.7%, 
+p
+ = 0.002) and HR variability (OR −0.7 ± 1.8%; RESP 2.1 ± 1.6%, 
+p
+ = 0.011) differed between the subgroups. In addition, the decrease in subjective readiness to train (
+p
+ = 0.009) and increase in soreness of the legs (
+p
+ = 0.04) were greater in OR compared to RESP. Nocturnal HR, readiness to train, and exercise‐derived HR‐running power index had ≥85% positive and negative predictive values in the discrimination between OR and RESP individuals. In conclusion, exercise tolerance can vary substantially in recreational runners. The results supported the usefulness of nocturnal HR and subjective recovery assessments in recognizing fatigue states.
+
+Keywords:
+ fatigue, overtraining, performance, physiology, recovery
+
+Highlights
+
+Tolerance to similarly increased training load varies in recreational runners. While some individuals respond positively, for others the same load may be excessive.
+
+Subjective markers, such as readiness to train and soreness of the legs, were the most sensitive markers to respond to increased training load, and the magnitude of these responses was greater in individuals with suspected overreaching.
+
+Resting or exercise heart rate (HR) did not respond as systematically as the subjective markers to the train
+
+----
+
+methods during intensified training in recreational runners
+
+Nuuttila
+
+Olli‐Pekka
+
+1
+
+2
+
+✉
+
+Uusitalo
+
+Arja
+
+3
+
+4
+
+Kokkonen
+
+Veli‐Pekka
+
+1
+
+Weerarathna
+
+Nilushika
+
+1
+
+Kyröläinen
+
+Heikki
+
+1
+
+1
+
+Faculty of Sport and Health Sciences, University of Jyväskylä, Jyväskylä, Finland
+
+2
+
+The UKK Institute for Health Promotion Research, Tampere, Finland
+
+3
+
+Department of Sports and Exercise Medicine, Clinicum, University of Helsinki, Helsinki, Finland
+
+4
+
+Helsinki Clinic for Sports and Exercise Medicine, Foundation for Sports and Exercise Medicine, Helsinki, Finland
+
+*
+
+Correspondence
+
+, 
+Olli‐Pekka Nuuttila, Faculty of Sport and Health Sciences, University of Jyväskylä, P.O. Box 35 (VIV), Jyväskylä 40014, Finland. 
+Email: 
+olli-pekka.s.nuuttila@jyu.fi
+
+✉
+
+Corresponding author.
+
+26
+
+4
+
+2024
+
+24
+
+7
+
+857
+
+857–869
+
+26
+
+7
+
+2024
+
+© 2024 The Authors. European Journal of Sport Science published by Wiley‐VCH GmbH on behalf of European College of Sport Science.
+
+This is an open access article under the terms of the 
+http://creativecommons.org/licenses/by/4.0/
+ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
+
+Abstract
+
+The purpose of this study was firstly to examine the sensitivity of heart rate (HR)‐based and subjective monitoring markers to intensified endurance training; and secondly, to investigate the validity of these markers to distinguish individuals in different fatigue states. A total of 24 recreational runners performed a 3‐week baseline period, a 2‐week overload period, and a 1‐week recovery period. Performance was assessed before and after each period with a 3000m running test. Recovery was monitored with daily orthostatic tests, nocturnal HR recordings, questionnaires, and exercise data. The participants were divided into subgroups (overreached/OR, 
+n
+ = 8; responders/RESP, 
+n
+ = 12) based on the changes in performance and subjective recovery. The responses to the second week of the overload period were compared between the subgroups. RESP improved their baseline 3000 m time (
+p
+ < 0.001) after the overload period (−2.5 ± 1.0%), and the change differed (
+p
+ < 0.001) from OR (0.6 ± 1.2%). The changes in nocturnal HR (OR 3.2 ± 3.1%; RESP −2.8 ± 3.7%, 
+p
+ = 0.002) and HR variability (OR −0.7 ± 1.8%; RESP 2.1 ± 1.6%, 
+p
+ = 0.011) differed between the subgroups. In addition, the decrease in subjective readiness to train (
+p
+ = 0.009) and increase in soreness of the legs (
+p
+ = 0.04) were greater in OR compared to RESP. Nocturnal HR, readiness to train, and exercise‐derived HR‐running power index had ≥85% positive and negative predictive values in the discrimination between OR and RESP individuals. In conclusion, exercise tolerance can vary substantially in recreational runners. The results supported the usefulness of nocturnal HR and subjective recovery assessments in recognizing fatigue states.
+
+Keywords:
+ fatigue, overtraining, performance, physiology, recovery
+
+Highlights
+
+Tolerance to similarly increased training load varies in recreational runners. While some individuals respond positively, for others the same load may be excessive.
+
+Subjective markers, such as readiness to train and soreness of the legs, were the most sensitive markers to respond to increased training load, and the magnitude of these responses was greater in individuals with suspected overreaching.
+
+Resting or exercise heart rate (HR) did not respond as systematically as the subjective markers to the train
+
+----
+
+
+RESULTS
+
+3.1.
+
+Training
+
+The mean weekly training characteristics of the total group of participants and subgroups during each period are presented in Table 
+2
+. The weekly training volume increased from BL during OL 44 ± 5% (
+p
+ < 0.001). In turn, Lucia's TRIMP increased by 73 ± 11% (
+p
+ < 0.001) and session RPE by 122 ± 44% (
+p
+ < 0.001). No differences were found between the subgroups regarding any training characteristics during the OL (
+p
+ > 0.157).
+
+TABLE 2
+
+Weekly mean training characteristics during the baseline (BL), overload (OL), and recovery (REC) periods.
+
+ALL (
+n
+ = 24)
+
+RESP (
+n
+ = 12)
+
+OR (
+n
+ = 8)
+
+Volume (h)
+
+BL
+
+4.5 ± 1.0
+
+4.4 ± 0.9
+
+4.9 ± 1.3
+
+OL
+
+6.5 ± 1.3***
+
+6.4 ± 1.2***
+
+7.0 ± 1.7***
+
+REC
+
+2.7 ± 0.8**
+
+2.6 ± 0.8***
+
+2.9 ± 0.9***
+
+Frequency (sessions/wk)
+
+BL
+
+4.3 ± 0.7
+
+4.3 ± 0.7
+
+4.7 ± 0.8
+
+OL
+
+5.4 ± 0.7***
+
+5.4 ± 0.6***
+
+5.6 ± 0.7***
+
+REC
+
+3.4 ± 0.6**
+
+3.3 ± 0.5***
+
+3.5 ± 0.7***
+
+Distance (km)
+
+BL
+
+43 ± 14
+
+41 ± 12
+
+50 ± 17
+
+OL
+
+65 ± 20***
+
+63 ± 18***
+
+73 ± 23***
+
+REC
+
+26 ± 8**
+
+24 ± 6***
+
+29 ± 12***
+
+HRz1/z2/z3 (%)
+
+BL
+
+89/8/4
+
+88/8/3
+
+91/6/3
+
+OL
+
+68/26/6***
+
+67/27/5***
+
+76/21/4***
+
+REC
+
+85/11/5*
+
+83/12/4
+
+88/8/4
+
+Lucia's TRIMP
+
+BL
+
+310 ± 58
+
+304 ± 50
+
+328 ± 77
+
+OL
+
+533 ± 96***
+
+528 ± 95***
+
+535 ± 119***
+
+REC
+
+193 ± 51**
+
+192 ± 61**
+
+198 ± 49***
+
+Session RPE
+
+BL
+
+1034 ± 206
+
+1066 ± 185
+
+1075 ± 2227
+
+OL
+
+2297 ± 623***
+
+2356 ± 584***
+
+2301 ± 623***
+
+REC
+
+711 ± 362***
+
+787 ± 484***
+
+666 ± 151***
+
+Note
+: RESP = responders and OR = individuals with suspected overreaching. ***
+p
+ < 0.001, **
+p
+ < 0.01, and *
+p
+ < 0.05 compared to BL.
+
+3.2.
+
+Running and jumping performance
+
+T1 3000‐m time (
+p
+ = 0.610) or RJ power (
+p
+ = 0.910) did not differ between the subgroups. The 3000‐m time decreased significantly in the total group of participants from T1 to T2 (−1.2 ± 1.7%, 
+p
+ = 0.006) and T1 to T3 (−1.7 ± 1.2%, 
+p
+ = 0.002). The changes from T1 to T2 (OR 0.6 ± 1.2%; RESP −2.5 ± 1.0%) and T1 to T3 (OR ‐0.8 ± 1.6%; RESP −3.1 ± 0.8%) differed between the subgroups (
+p
+ < 0.001), and the running time remained unchanged in OR at T1–T3. The blood lactate decreased from T1 to T2 only in the OR group (
+p
+ = 0.03), and the change differed from the RESP group (OR −2.0 ± 2.4 mmol/L; RESP 0.3 ± 1.6 mmol/L, 
+p
+ = 0.02). In HRavg or HRpeak, there were no significant changes in neither of the subgroups, but tendencies toward decrement from T1 to T2 in HRavg (
+p
+ = 0.07) and HRpeak (
+p
+ = 0.06) were found in the OR. The RJ power did not change in time, and no difference between the subgroups was observed. The absolute running and jumping performance test results are presented in the Supporting Information 
+S2
+, and individual responses in 3000‐m within the subgroups are presented in Figure 
+2
+. The body mass remained unchanged through the study period in the total group of participants and in both subgroups.
+
+FIGURE 2
+
+Individual responses within the subgroups. White plots refer to individual “responders” (RESP) and gray plots “overreached” (OR) individuals.
+
+3.3.
+
+Heart rate and heart rate variability in the orthostatic test and during sleep
+
+The standing HR decreased from BL to OL2 (
+p
+ = 0.02), while the nocturnal 4‐h HR decreased only from BL to REC (
+p
+ = 0.02) in the total group of participants. In addition, the nocturnal 4‐h HRV increased from BL to OL2 (
+p
+ = 0.04) and tended to remain increased at REC (
+p
+ = 0.054). Subgroup analyses are presented in Figure 
+3
+. There was a decrease from BL to OL2 in the standing HR of RESP (
+p
+ 
+
+----
+
+
+DISCUSSION
+
+The main findings of the present study were that despite a significant increase in the training load, most of the recreational runners improved their 3000 m running performance during the 2‐week overloading period. Subjective markers, such as readiness to train and soreness of the legs, were the most sensitive markers to respond to increased training load, and the magnitude of these responses was greater in individuals with suspected overreaching. Although resting or exercise HR did not respond as systematically to the overload period itself, the changes in nocturnal HR, nocturnal HRV, and HR‐running power index started to differ between the RESP and OR subgroups at an earlier stage of the overload period, supporting their usefulness as indicators of the fatigue state.
+
+The current training intervention (physical loading) was aimed to induce heterogenic training responses leading to functional overreaching (FOR) in ≥50% of individuals. The required increment in training load was estimated based on previous studies that have led to the state of FOR (Bellenger et al., 
+2016
+; Bourdillon et al., 
+2018
+; Dupuy et al., 
+2013
+; Le Meur et al., 
+2013
+). While it was anticipated that there would be individuals tolerating the training load well, it was rather surprising that most of the recreational runners improved their performance immediately after OL. In previous OR studies, the typical observation has been that approximately half of the participants have been diagnosed as functionally overreached (Bellinger, 
+2020
+). The decent 2‐week duration of OL was one probable reason for the lower proportion of overreached individuals. Also, the absolute training volume and the frequency of training are potential contributors. Compared to daily training during 3‐week periods (Bourdillon et al., 
+2018
+; Le Meur et al., 
+2013
+) or during a 2‐week period (Bellenger et al., 
+2016
+), the current frequency allowed 1–2 rest day(s) per week for most individuals also during OL, which seemed quite sustainable, at least in the short‐term. The potential significance of frequency is also supported by the fact that 57% (4/7) of the individuals training six or more sessions per week were in the OR subgroup, while the proportion was smaller (24%, 4/17) among individuals training five times per week. Training tolerance can also be affected by the training mode. An overload period focusing purely on running might be more challenging than cycling or combination of multiple disciplines from a musculoskeletal perspective due to high stress on muscles and tendons induced by the stretch‐shortening type of activity (Sandbakk et al., 
+2021
+). This phenomenon was prominent also in the current study as there were four individuals whose challenges with the legs, most of which started already during BL, prevented finishing the whole study period.
+
+In line with previous research (Saw et al., 
+2016
+), subjective markers, such as readiness to train and fatigue of the leg muscles, responded quite rapidly to increased training load. These markers also had a good predictive value in the classification of the fatigue state at the end of OL supporting their usefulness when the magnitude of change is considered appropriately. Slightly surprisingly, the running speed to perceived exertion‐ratio did not respond to training load systematically and did not differ between the RESP and OR individuals. Thus, impaired subjective recovery at rest was not similarly converted to exercis
+
+----
+
+
+Conclusion
+
+In conclusion, tolerance to a certain training load can vary in recreational runners. The current results suggest that quite simple monitoring markers, such as subjective readiness to train, soreness of the legs, or exercise perception, can discriminate between differing fatigue states when the magnitude of response is considered. Furthermore, nocturnal HR and HRV recordings and the HR‐running power index derived from the exercise data may provide useful supportive information about the individual's internal response to intensified training.
+
+CONFLICT OF INTEREST STATEMENT
+
+The authors declare that they have no conflicts of interest.
+
+Supporting information
+
+Supporting Information S1
+
+Supporting Information S2
+
+Supporting Information S3
+
+ACKNOWLEDGMENTS
+
+The authors would like to express their gratitude to the late PhD Ari Nummela for his contribution to the research project. The authors would also like to thank all participants for their commitment and Mirjaliisa Vuorikoski for reviewing the language. The study was supported by Polar Electro Oy (HR monitors and partial funding for the study) and by the grants received from The Foundation of Sports Institute and The Finnish Sports Research Foundation.
+
+REFERENCES
+
+Aubry, Anaël
+, Hausswirth Christophe, Louis Julien, Coutts Aaron J., Buchheit Martin, and Le Meur Yann. 2015. “The Development of Functional Overreaching Is Associated with a Faster Heart Rate Recovery in Endurance Athletes.” PLoS One
+10(10): e0139754. 10.1371/journal.pone.0139754.
+
+Bellenger, Clint R.
+, Karavirta Laura, Thomson Rebecca L., Robertson Eileen Y., Davison Kade, and Buckley Jonathan D.. 2016. “Contextualizing Parasympathetic Hyperactivity in Functionally Overreached Athletes with Perceptions of Training Tolerance.” International Journal of Sports Physiology and Performance
+11(7): 685–692. 10.1123/ijspp.2015-0495.
+
+Bellinger, Phillip
+. 2020. “Functional Overreaching in Endurance Athletes: a Necessity or Cause for Concern?” Sports Medicine
+50(6): 1059–1073. 10.1007/s40279-020-01269-w.
+
+Bellinger, Phillip M.
+, Sabapathy Surendran, Craven Jonathan, Arnold Blayne, and Minahan Clare. 2020. “Overreaching Attenuates Training‐Induced Improvements in Muscle Oxidative Capacity.” Medicine & Science in Sports & Exercise
+52(1): 77–85. 10.1249/mss.0000000000002095.
+
+Bosco, Carmelo
+, Luhtanen Pekka, and Komi Paavo V.. 1983. “A Simple Method for Measurement of Mechanical Power in Jumping.” European Journal of Applied Physiology and Occupational Physiology
+50(2): 273–282. 10.1007/bf00422166.
+
+Bosquet, L.
+, Merkari S., Arvisais D., and Aubert A. E.. 2008. “Is Heart Rate a Convenient Tool to Monitor Over‐reaching? A Systematic Review of the Literature.” British Journal of Sports Medicine
+42(9): 709–714. 10.1136/bjsm.2007.042200.
+
+Boullosa, D.
+, Claudino J. G., Fernandez‐Fernandez J., Bok D., Loturco I., Stults‐Kolehmainen M., García‐López J., and Foster C.. 2023. “The Fine‐Tuning Approach for Training Monitoring [published Online Ahead of Print, 2023 Sep 9].” International Journal of Sports Physiology and Performance: 1–6.
+
+Bourdillon, Nicolas
+, Yazdani Sasan, Nilchian Masih, Mariano Alessio, Vesin J.‐Marc, and Millet Grégoire P.. 2018. “Overload Blunts Baroreflex Only in Overreached Athletes.” Journal of Science and Medicine in Sport
+21(9): 941–949. 10.1016/j.jsams.2018.01.008.
+
+Buchheit, Martin
+. 2014. “Monitoring Training Status with HR Measures: do All Roads Lead to Rome?” Frontiers in Physiology
+5: 73. 10.3389/fphys
+
+----
+
+practical terms had meaningfully differing fatigue states.
+
+2.7.
+
+Statistical analyses
+
+The results are presented as mean ± standard deviation. The normality of the data was analyzed with Shapiro–Wilk test. The effects of the OL and REC periods were analyzed by repeated measures ANOVA with Bonferroni post hoc test or if the variables were not normally distributed (training characteristics) by Friedman nonparametric tests. For the performance tests, comparisons were performed between the T1–T3 time points, and for the monitoring variables, the weekly averages during the OL (OL1 and OL2) and REC periods were compared to the average of BL. Weekly averages have also been used in previous overload studies (Bellenger et al., 
+2016
+; Bourdillon et al., 
+2018
+; Le Meur et al., 
+2013
+), and they been suggested to be methodologically superior compared to single‐day results in the detection of FOR (Manresa‐Rocamora et al., 
+2021
+). Between‐subgroup (OR vs. RESP) differences in the changes from T1 or BL were examined with simple contrasts or in nonparametric tests with a Mann–Whitney 
+U
+‐test. In addition, a receiver operating characteristic (ROC) analysis (Hajian‐Tilaki, 
+2013
+) was performed to examine how well each weekly measured monitoring marker was able to classify the participant negatively or positively as overreached. For the markers that had significant (
+p
+ < 0.05) area under the ROC curve (AUC), an optimum cut‐off value was analyzed based on the maximum Kolmogorov–Smirnov metric. Finally, using this cut‐off value, positive and negative predictive values were analyzed. In the results of resting HR and HRV, one participant (in OR subgroup) was excluded from the analyses due to abnormally high HRV that prevented obtaining data from the watch recordings during the study period. Statistical analyses were performed with IBM SPSS Statistics v.28 program (SPSS Inc).
+
+3.
+
+RESULTS
+
+3.1.
+
+Training
+
+The mean weekly training characteristics of the total group of participants and subgroups during each period are presented in Table 
+2
+. The weekly training volume increased from BL during OL 44 ± 5% (
+p
+ < 0.001). In turn, Lucia's TRIMP increased by 73 ± 11% (
+p
+ < 0.001) and session RPE by 122 ± 44% (
+p
+ < 0.001). No differences were found between the subgroups regarding any training characteristics during the OL (
+p
+ > 0.157).
+
+TABLE 2
+
+Weekly mean training characteristics during the baseline (BL), overload (OL), and recovery (REC) periods.
+
+ALL (
+n
+ = 24)
+
+RESP (
+n
+ = 12)
+
+OR (
+n
+ = 8)
+
+Volume (h)
+
+BL
+
+4.5 ± 1.0
+
+4.4 ± 0.9
+
+4.9 ± 1.3
+
+OL
+
+6.5 ± 1.3***
+
+6.4 ± 1.2***
+
+7.0 ± 1.7***
+
+REC
+
+2.7 ± 0.8**
+
+2.6 ± 0.8***
+
+2.9 ± 0.9***
+
+Frequency (sessions/wk)
+
+BL
+
+4.3 ± 0.7
+
+4.3 ± 0.7
+
+4.7 ± 0.8
+
+OL
+
+5.4 ± 0.7***
+
+5.4 ± 0.6***
+
+5.6 ± 0.7***
+
+REC
+
+3.4 ± 0.6**
+
+3.3 ± 0.5***
+
+3.5 ± 0.7***
+
+Distance (km)
+
+BL
+
+43 ± 14
+
+41 ± 12
+
+50 ± 17
+
+OL
+
+65 ± 20***
+
+63 ± 18***
+
+73 ± 23***
+
+REC
+
+26 ± 8**
+
+24 ± 6***
+
+29 ± 12***
+
+HRz1/z2/z3 (%)
+
+BL
+
+89/8/4
+
+88/8/3
+
+91/6/3
+
+OL
+
+68/26/6***
+
+67/27/5***
+
+76/21/4***
+
+REC
+
+85/11/5*
+
+83/12/4
+
+88/8/4
+
+Lucia's TRIMP
+
+BL
+
+310 ± 58
+
+304 ± 50
+
+328 ± 77
+
+OL
+
+533 ± 96***
+
+528 ± 95***
+
+535 ± 119***
+
+REC
+
+193 ± 51**
+
+192 ± 61**
+
+198 ± 49***
+
+Session RPE
+
+BL
+
+1034 ± 206
+
+1066 ± 185
+
+1075 ± 2227
+
+OL
+
+2297 ± 623***
+
+2356 ± 584***
+
+2301 ± 623***
+
+REC
+
+711 ± 362***
+
+787 ± 484***
+
+666 ± 151***
+
+Note
+: RESP = responders and OR = individuals with suspected overreaching. ***
+p
+ < 0.001, **
+p
+ < 0.01, and *
+p
+ < 0.05 compared to BL.
+
+3.2.
+
+Running and jump
+
+----
+
+limitation in the study, OR and/or overtraining diagnosing is still a somewhat debated topic, and it is plausible that the border lines between acute fatigue, FOR, NFOR, and overtraining are not sharp and unconditional. This was also demonstrated by four subjects whose fatigue levels could not be classified with sufficient certainty. However, the current setting most likely allowed comparing individuals who in practical terms had meaningfully differing fatigue states. The study sample was quite small, and it is important to acknowledge that the present study results, and for example, the exact cut‐off values might not be generalized outside the scope of this study. In addition, more studies are needed to examine possible sex differences in the likelihood of OR as well as OR detection methods.
+
+4.1.
+
+Conclusion
+
+In conclusion, tolerance to a certain training load can vary in recreational runners. The current results suggest that quite simple monitoring markers, such as subjective readiness to train, soreness of the legs, or exercise perception, can discriminate between differing fatigue states when the magnitude of response is considered. Furthermore, nocturnal HR and HRV recordings and the HR‐running power index derived from the exercise data may provide useful supportive information about the individual's internal response to intensified training.
+
+CONFLICT OF INTEREST STATEMENT
+
+The authors declare that they have no conflicts of interest.
+
+Supporting information
+
+Supporting Information S1
+
+Supporting Information S2
+
+Supporting Information S3
+
+ACKNOWLEDGMENTS
+
+The authors would like to express their gratitude to the late PhD Ari Nummela for his contribution to the research project. The authors would also like to thank all participants for their commitment and Mirjaliisa Vuorikoski for reviewing the language. The study was supported by Polar Electro Oy (HR monitors and partial funding for the study) and by the grants received from The Foundation of Sports Institute and The Finnish Sports Research Foundation.
+
+REFERENCES
+
+Aubry, Anaël
+, Hausswirth Christophe, Louis Julien, Coutts Aaron J., Buchheit Martin, and Le Meur Yann. 2015. “The Development of Functional Overreaching Is Associated with a Faster Heart Rate Recovery in Endurance Athletes.” PLoS One
+10(10): e0139754. 10.1371/journal.pone.0139754.
+
+Bellenger, Clint R.
+, Karavirta Laura, Thomson Rebecca L., Robertson Eileen Y., Davison Kade, and Buckley Jonathan D.. 2016. “Contextualizing Parasympathetic Hyperactivity in Functionally Overreached Athletes with Perceptions of Training Tolerance.” International Journal of Sports Physiology and Performance
+11(7): 685–692. 10.1123/ijspp.2015-0495.
+
+Bellinger, Phillip
+. 2020. “Functional Overreaching in Endurance Athletes: a Necessity or Cause for Concern?” Sports Medicine
+50(6): 1059–1073. 10.1007/s40279-020-01269-w.
+
+Bellinger, Phillip M.
+, Sabapathy Surendran, Craven Jonathan, Arnold Blayne, and Minahan Clare. 2020. “Overreaching Attenuates Training‐Induced Improvements in Muscle Oxidative Capacity.” Medicine & Science in Sports & Exercise
+52(1): 77–85. 10.1249/mss.0000000000002095.
+
+Bosco, Carmelo
+, Luhtanen Pekka, and Komi Paavo V.. 1983. “A Simple Method for Measurement of Mechanical Power in Jumping.” European Journal of Applied Physiology and Occupational Physiology
+50(2): 273–282. 10.1007/bf00422166.
+
+Bosquet, L.
+, Merkari S., Arvisais D., and Aubert A. E.. 2008. “Is Heart Rate a Convenient Tool to Monitor Over‐reaching? A Systematic
+
+----
+
+
+ACKNOWLEDGMENTS
+
+The authors would like to express their gratitude to the late PhD Ari Nummela for his contribution to the research project. The authors would also like to thank all participants for their commitment and Mirjaliisa Vuorikoski for reviewing the language. The study was supported by Polar Electro Oy (HR monitors and partial funding for the study) and by the grants received from The Foundation of Sports Institute and The Finnish Sports Research Foundation.
+
+REFERENCES
+
+Aubry, Anaël
+, Hausswirth Christophe, Louis Julien, Coutts Aaron J., Buchheit Martin, and Le Meur Yann. 2015. “The Development of Functional Overreaching Is Associated with a Faster Heart Rate Recovery in Endurance Athletes.” PLoS One
+10(10): e0139754. 10.1371/journal.pone.0139754.
+
+Bellenger, Clint R.
+, Karavirta Laura, Thomson Rebecca L., Robertson Eileen Y., Davison Kade, and Buckley Jonathan D.. 2016. “Contextualizing Parasympathetic Hyperactivity in Functionally Overreached Athletes with Perceptions of Training Tolerance.” International Journal of Sports Physiology and Performance
+11(7): 685–692. 10.1123/ijspp.2015-0495.
+
+Bellinger, Phillip
+. 2020. “Functional Overreaching in Endurance Athletes: a Necessity or Cause for Concern?” Sports Medicine
+50(6): 1059–1073. 10.1007/s40279-020-01269-w.
+
+Bellinger, Phillip M.
+, Sabapathy Surendran, Craven Jonathan, Arnold Blayne, and Minahan Clare. 2020. “Overreaching Attenuates Training‐Induced Improvements in Muscle Oxidative Capacity.” Medicine & Science in Sports & Exercise
+52(1): 77–85. 10.1249/mss.0000000000002095.
+
+Bosco, Carmelo
+, Luhtanen Pekka, and Komi Paavo V.. 1983. “A Simple Method for Measurement of Mechanical Power in Jumping.” European Journal of Applied Physiology and Occupational Physiology
+50(2): 273–282. 10.1007/bf00422166.
+
+Bosquet, L.
+, Merkari S., Arvisais D., and Aubert A. E.. 2008. “Is Heart Rate a Convenient Tool to Monitor Over‐reaching? A Systematic Review of the Literature.” British Journal of Sports Medicine
+42(9): 709–714. 10.1136/bjsm.2007.042200.
+
+Boullosa, D.
+, Claudino J. G., Fernandez‐Fernandez J., Bok D., Loturco I., Stults‐Kolehmainen M., García‐López J., and Foster C.. 2023. “The Fine‐Tuning Approach for Training Monitoring [published Online Ahead of Print, 2023 Sep 9].” International Journal of Sports Physiology and Performance: 1–6.
+
+Bourdillon, Nicolas
+, Yazdani Sasan, Nilchian Masih, Mariano Alessio, Vesin J.‐Marc, and Millet Grégoire P.. 2018. “Overload Blunts Baroreflex Only in Overreached Athletes.” Journal of Science and Medicine in Sport
+21(9): 941–949. 10.1016/j.jsams.2018.01.008.
+
+Buchheit, Martin
+. 2014. “Monitoring Training Status with HR Measures: do All Roads Lead to Rome?” Frontiers in Physiology
+5: 73. 10.3389/fphys.2014.00073.
+
+Coates, Alexandra M.
+, Hammond Sarah, and Burr Jamie F.. 2018. “Investigating the Use of Pre‐training Measures of Autonomic Regulation for Assessing Functional Overreaching in Endurance Athletes.” European Journal of Sport Science
+18(7): 965–974. 10.1080/17461391.2018.1458907.
+
+Coates, Alexandra M.
+, Millar Philip J., and Burr Jamie F.. 2018. “Blunted Cardiac Output from Overtraining Is Related to Increased Arterial Stiffness.” Medicine & Science in Sports & Exercise
+50(12): 2459–2464. 10.1249/mss.0000000000001725.
+
+Düking, Peter
+, Zinner Christoph, Trabelsi Khaled, Reed Jennifer L., Holmberg H.‐Christer, Kunz Philipp, and Sperlich Billy. 2021. “Monitoring and Adapting Endurance Training on the Basis of Heart Rate Variability Monitored 

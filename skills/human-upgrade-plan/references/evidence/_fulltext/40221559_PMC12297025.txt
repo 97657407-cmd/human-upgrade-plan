@@ -1,0 +1,482 @@
+
+Abstract
+
+Post-exercise recovery strategies influence the body’s ability to restore physiological homeostasis, replenish energy stores, repair muscle damage, and promote desired adaptations, which improve exercise performance. This narrative review examines the impact of nutritional strategies commonly used for enhancing recovery and subsequent exercise performance, particularly when athletes face short recovery periods. Carbohydrate ingestion is essential for glycogen replenishment, especially within the initial hours post-exercise, with its impact dependent on the types, timing, and amount. Protein is essential for accelerating muscle recovery and achieving a positive nitrogen balance, depending on the type and dosage. The co-ingestion of carbohydrates with proteins or fats is explored for its role in maximizing glycogen resynthesis and muscle repair, with evidence supporting the addition of protein to suboptimal carbohydrate intake for enhanced recovery. Moreover, this review addresses the potential benefits of creatine and caffeine co-ingestion for accelerating glycogen synthesis and improving subsequent performance. Hydration strategies, including the use of milk-based beverages and electrolyte solutions, are also discussed, emphasizing their importance in maintaining fluid balance and optimizing recovery. This review also highlights the emerging role of micronutrients such as omega-3 fatty acids, antioxidants, and sodium bicarbonate in reducing muscle damage and improving acid–base balance. Evidence supports the tailored use of these nutritional strategies, particularly for athletes managing tight competition/training schedules. Future research should focus on refining individualized approaches for recovery and investigating the impact of novel supplements on subsequent performance.
+
+Supplementary Information
+
+The online version contains supplementary material available at 10.1007/s40279-025-02213-6.
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-in-collection-domain
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Accepted 2025 Mar 13; Issue date 2025.
+
+Key Points
+
+Athletes should consume adequate carbohydrates, protein, and fluids to optimize post-exercise recovery, which is critical to maintain performance in the subsequent competition/training session when the recovery period is less than 24 h.
+
+While creatine, caffeine, and sodium bicarbonate supplementation may improve post-exercise recovery and subsequent exercise performance in certain scenarios, their intake should be personalized to accelerate recovery for athletes preparing for the next training session or competition. The role of dietary fat and micronutrient ingestion during the post-exercise recovery period and subsequent exercise performance should be investigated in future research.
+
+Future studies should focus on sex differences in response to carbohydrate, protein, and ergogenic aids, including creatine, caffeine, and sodium bicarbonate supplementation, during the acute recovery period in conditions such as real-world competition simulation, considering individualized approaches and training status.
+
+Introduction
+
+Effective post-exercise recovery is critical for restoring physiological homeostasis, repairing muscle damage, replenishing energy stores, and facilitating adaptations that enhance athletic performance [
+1
+]. This becomes especially important when athletes are required to compete multiple times wit
+
+----
+
+
+Introduction
+
+Effective post-exercise recovery is critical for restoring physiological homeostasis, repairing muscle damage, replenishing energy stores, and facilitating adaptations that enhance athletic performance [
+1
+]. This becomes especially important when athletes are required to compete multiple times within a short period. In addition, managing fatigue and training load is essential for athletes aiming to achieve peak performance and prevent overtraining [
+1
+–
+3
+]. Nutritional strategies play a pivotal role in the recovery process by replenishing energy stores, maintaining energy availability [
+4
+], and promoting repair mechanisms and adaptive responses to exercise [
+5
+, 
+6
+]. Therefore, defining optimal nutritional interventions to promote recovery after exhaustive exercise is crucial for improving performance in subsequent bouts.
+
+Despite the growing body of literature, practical guidelines for utilizing nutrition to maximize post-exercise recovery are still evolving. The goal of this review is to synthesize the available research on nutritional strategies to enhance post-exercise recovery and subsequent exercise performance, defined as an exercise performance occurring within ~ 2–24 h of a prior bout of exhaustive exercise. Specifically, we will explore the roles of dietary macronutrients (carbohydrate, protein, and fat), micronutrients, creatine, caffeine, fluids and electrolytes, and sodium bicarbonate in accelerating recovery processes (Fig. 
+1
+). The literature search was conducted by using the following two databases: PubMed/MEDLINE and Google Scholar, using combinations of keywords and Boolean operators (“subsequent exercise performance”) AND (“carbohydrates” OR “carbohydrate and protein” OR “protein”) AND (“dietary fats” OR essential fatty acid) AND (“creatine” OR “carbohydrate and creatine” OR) AND (“sodium bicarbonate OR NaH3OC”) AND (“caffeine” OR “carbohydrate and caffeine”) AND (“micronutrients OR vitamins”). The search was performed through the titles, abstracts, and keywords of documents indexed in the databases. We classified the paper into three categories: **grade I—strong evidence**: this category includes a significant number of well-controlled trials that consistently demonstrate the effectiveness of the compound for improving post-exercise recovery; **grade II—moderate evidence**: this category contains a substantial but less consistent body of research showing the effectiveness of the compound for post-exercise recovery; and **grade III—limited evidence**: this category includes a small and/or highly ambiguous body of research that indicates the effectiveness of the compound for post-exercise recovery.
+
+Fig. 1
+
+Examples of nutritional strategies to accelerate the short-term recovery period between two exercise bouts to enhance subsequent exercise sessions
+
+Grade I—Strong Evidence
+
+Dietary Carbohydrates
+
+Carbohydrate Timing and Type
+
+Replenishing glycogen stores through immediate post-exercise carbohydrate intake is crucial for recovery, especially when athletes need to be fully prepared for another training session or competition within 24 h [
+7
+–
+9
+]. The rate of restoration is influenced by both the type and timing of ingested carbohydrate (Fig. 
+2
+). Muscle glycogen demonstrates a pronounced affinity for restoration during the initial 2 h window following exercise, a process that notably occurs independent of insulin’s influence [
+10
+]. Although some muscle glycogen can be repleted in the absence of 
+
+----
+
+methods of nutrient provision during recovery.
+
+Taken together, combining protein with carbohydrates during recovery periods shorter than 24 h likely has a small, but positive, effect on performance, ranging from 0.6 to 1.6% [
+87
+]. Accordingly, it should be recommended as it may confer additional benefits, including positive nitrogen balance leading to increased whole-body muscle protein synthesis [
+93
+], increased protein content related to mitochondrial biogenesis [
+94
+], reduced muscle damage markers [
+95
+], and accelerated post-exercise rehydration [
+96
+]. Therefore, co-ingestion of carbohydrates and protein during post-exercise may be advantageous, especially for athletes engaging in multiple daily training sessions or with less than 24 h between bouts.
+
+Fluid and Electrolytes
+
+Rehydration after exercise is another key aspect of recovery. Exercising in a dehydrated state is well-established to negatively affect both performance and health [
+97
+, 
+98
+]. During strenuous exercise in a hot or humid environment, athletes may lose more than 2 L of sweat per hour, accompanied by substantial electrolyte, extracellular, and intracellular water loss that may negatively affect processes such as the rate of post-exercise glycogen and muscle protein resynthesis [
+44
+, 
+99
+]. Therefore, re-establishing water and electrolyte balance during the post-exercise recovery period is important [
+100
+].
+
+Rehydration is particularly important before subsequent training or competition when limited time is available between exercise bouts in environmentally challenging conditions [
+101
+, 
+102
+]. Understanding pre- and intra-exercise fluid recommendations is fundamental before addressing post-exercise hydration. Athletes are generally recommended to slowly ingest 5–7 mL·kg⁻
+1
+ fluids (via food and liquids) at least 4 h before exercise/competition [
+103
+]. Attempts to correct fluid loss induced by exercise should consider the sweat rate, which can vary from 0 to over 2 L·h⁻
+1
+, depending on factors such as environmental conditions, intensity, duration, genetics, fitness level, acclimatization to the environment, and clothing [
+104
+, 
+105
+]. Although intra-exercise hydration can mitigate fluid loss during exercise, post-exercise hydration is critical for conditions involving subsequent competitions.
+
+If rapid recovery (< 24 h) is the aim or severe hypohydration (> 5% body mass loss) is observed, intensive intake of fluids and electrolytes should be advised to enhance recovery before subsequent competition [
+106
+]. For example, daily water and sodium losses can vary significantly and be in the range of 4–10 L and 3.5–7.0 g, respectively, in active athletes under heat stress; thus, both need to be replaced to re-establish normal total body water (i.e., achieve euhydration) [
+106
+]. Beginning subsequent exercise in a dehydrated state may impair exercise performance. Therefore, rehydration strategies between exercise bouts recommend that athletes drink fluids equivalent to 125–150% of their body mass lost during exercise [
+107
+, 
+108
+].
+
+Maughan et al. tested different beverages using the beverage hydration index (BHI), which compares the fluid retention capacity 2 h post-ingestion compared with an equal volume of water [
+109
+], finding oral rehydration solutions, skimmed milk, whole milk, and orange juice had higher BHI values compared with water. Notably, beverages such as cola (regular and diet), tea (hot and iced), coffee, lager, sparkling water, and sports d
+
+----
+
+methodological constraints in measuring liver glycogen levels, most sports research has focused on optimizing post-exercise muscle glycogen synthesis, despite the importance of both glycogen stores [
+45
+]. The liver plays a pivotal role in metabolic regulation during exercise by controlling blood glucose levels through glycogen storage and mobilizing non-carbohydrate sources via gluconeogenesis [
+26
+, 
+46
+]. Liver glycogen stores are depleted by approximately 40–60% during moderate to high-intensity exercise sessions that extend beyond 90 min without carbohydrate ingestion [
+23
+]. Therefore, implementing nutritional strategies that reduce liver glycogen utilization during exercise and/or promote its replenishment post-exercise may be as imperative as strategies for muscle glycogen replenishment [
+8
+, 
+47
+].
+
+While carbohydrate ingestion during exercise does not substantially affect muscle glycogen utilization [
+48
+, 
+49
+], it can reduce or even completely suppress liver glycogen breakdown, thereby improving subsequent recovery [
+49
+, 
+50
+]. Moreover, liver glycogen resynthesis is inherently slower than that of muscle, possibly owing to its higher rate of glycogen turnover and/or distinct glycogen synthesis pathways that are contingent on hormonal fluctuations (notably insulin, glucagon, and epinephrine) [
+45
+, 
+47
+]. Research has demonstrated that the rate of liver glycogen resynthesis within the initial 2-h post-exercise period is 30–50% lower than during the subsequent 3–5 h [
+16
+]. Consequently, It has been hypothesized that certain types of carbohydrates, such as fructose and galactose, which are metabolized by the liver, might optimize the rate of liver glycogen synthesis. However, it is challenging to assess the performance implications of these changes in liver glycogen levels after consuming fructose or galactose-based carbohydrate sources by measuring subsequent exercise capacity. Supporting this hypothesis, it was observed that the addition of either fructose or galactose to maltodextrin following exercise significantly enhanced the rate of hepatic glycogen synthesis compared with a combination of maltodextrin and glucose [
+28
+] (Supplementary Material 1).
+
+Protein
+
+Protein Type and Dose
+
+Protein ingestion after exercise is considered one of the pillars of recovery owing to its role in promoting muscle protein synthesis (MPS), reducing muscle protein breakdown, and facilitating muscle repair and adaptation following exercise-induced damage [
+51
+–
+54
+]. Adequate protein intake is particularly essential when rapid recovery is required between training sessions or competitions [
+55
+].
+
+The optimal dose of protein for post-exercise recovery has been extensively studied, with research suggesting that 20–40 g of high-quality protein consumed after exercise maximizes MPS rates for several hours (i.e., 3–4 h), the exact dose dependent on muscle mass involved during exercise [
+56
+–
+58
+]. While the importance of immediate post-exercise protein intake remains debated in literature [
+59
+–
+61
+], this controversy largely arises from differences in study designs and varying recovery conditions [
+62
+, 
+63
+]. Nevertheless, it is commonly recommended to rapidly increase amino acid availability following exercise to maximize MPS rates and promote muscle recovery [
+55
+, 
+64
+], with numerous studies demonstrating positive effects on recovery in endurance athletes [
+62
+, 
+63
+, 
+65
+]. Following the initial protein-based meal after exercise, it is ad
+
+----
+
+results as compared with glucose alone in promoting muscle glycogen resynthesis. Contrary to their hypothesis, their findings revealed that glucose alone at the rate of 1.2 g·kg
+−1
+⋅h
+–1
+ facilitated a 1.3–1.6 times higher post-exercise muscle glycogen synthesis rate than galactose alone or a glucose + galactose mix. In summary, current research suggests that glucose and glucose-derived carbohydrates, with or without the addition of fructose, are the most effective sources for replenishing post-exercise muscle glycogen within a recovery window ≤ 8 h, and that addition of monosaccharide galactose results in inferior replenishment rates [
+24
+]. There is currently no evidence to recommend consuming more than 1.2 g·kg
+−1
+⋅h
+−1
+ of carbohydrates, regardless of type [
+22
+, 
+25
+]. Nevertheless, co-ingestion of glucose with fructose is preferred owing to reduced gastrointestinal complaints and the beneficial effect on liver glycogen replenishment, as discussed below [
+18
+, 
+22
+, 
+26
+] (Supplementary Material 1).
+
+From a performance perspective, several studies have demonstrated that co-ingesting glucose and fructose-based carbohydrates can enhance the recovery of exercise capacity [
+29
+–
+32
+]. For example, Maunder et al. [
+33
+] compared the effects of 90 g of maltodextrin mixed with either glucose or fructose (in a 1.5:1 ratio) following a glycogen-depleting run. They found that the maltodextrin–fructose combination increased subsequent endurance running capacity by ~ 33% over the maltodextrin–glucose mix, highlighting the potential of glucose–fructose to enhance endurance capacity. Similarly, Gray et al. [
+34
+] reported that consuming glucose and fructose during the initial 4 h and again at 15 h of recovery from exhaustive exercise resulted in a notable increase in cycling performance capacity, ~ 27% longer compared with glucose alone. Authors suggested beneficial effects to be attributed to differences in hepatic glycogen storage on the basis of existing literature (discussed in Sect. 
+2.1.2
+), but this was not measured in these studies.
+
+However, not all studies have shown positive outcomes with a combination of glucose and fructose. For instance, in a study examining time trial performance after a glycogen-depleting exercise, participants ingested 1.2 g·kg
+−1
+·h
+−1
+ of a glucose–fructose mix or glucose combined with maltodextrin over a 4-h recovery period before undertaking 1 h of moderate-intensity steady state cycling followed by a ~ 40-min cycling time trial [
+35
+]. Despite higher carbohydrate oxidation rates (indicating higher carbohydrate availability) following the ingestion of the glucose–fructose mixture compared with the glucose–maltodextrin mixture, performance was not improved. A mechanistic explanation for this requires further research, whereas from the applied perspective, it remains to be properly investigated if carbohydrate ingestion during subsequent exercise bout would alter the study results. In intermittent sports, Hengist et al. [
+36
+] found no improvement in either average running speed or the number of sprints after participants consumed a recovery drink containing glucose or a glucose–fructose mixture at 0.8 g·kg
+−1
+⋅h
+−1
+ plus 0.3 g·kg
+−1
+⋅h
+−1
+ of protein during 3 h of recovery after high-intensity rugby exercise test. In addition, consuming carbohydrate drinks containing glucose and fructose at doses of 30 and 60 g·h⁻
+1
+ did not improve subsequent taekwondo kick performance during the simulated tournament with 45
+
+----
+
+
+Conclusions
+
+Table 
+1
+ summarises the evidence regarding the nutrition recommendations for optimizing post-exercise recovery. Table 
+2
+ provides recommendations on the basis of the duration between exercise bouts. Restoration of carbohydrate stores within the body (i.e., muscle and liver glycogen) appears to play the most important role in promoting recovery, followed by a sufficient protein intake to promote tissue regeneration and adaptive responses to exercise. While the intake of fats and micronutrients may also aid recovery, the evidence supporting their efficacy is not as strong as that for carbohydrates. Co-ingestion of caffeine with carbohydrates may accelerate post-exercise muscle glycogen resynthesis and can be beneficial for athletes competing multiple times in a single day or those engaging in training sessions with low carbohydrate availability to maximize training adaptations. However, caution is advised owing to the increased risk of sleep disturbances associated with high caffeine intake. Post-exercise creatine and carbohydrate co-ingestion may enhance muscle glycogen resynthesis but their role in improving subsequent exercise performance remains to be fully investigated. Milk-based formulations, sports drinks, oral rehydration solutions, and water, along with solid meals, may optimize post-exercise rehydration and subsequent exercise performance. Post-exercise NaHCO
+3
+ supplementation may enhance acid–base balance restoration and improve subsequent exercise performance, provided there is at least 30–90 min of recovery time between exercise bouts.
+
+Table 1
+
+Summary of the evidence for the effects of supplements and nutrients on recovery and subsequent exercise performance
+
+Supplement/nutrient
+
+Commentary
+
+Carbohydrates
+
+1–1.2 g·kg
+–1
+·h
+–1
+ of carbohydrate is recommended for initial 4-h post-exercise 
+period with glucose and fructose in a 2:1 ratio
+
+Most of the studies used 17–20% carbohydrate solutions
+
+Small and more frequent doses are recommended
+
+Fats
+
+No effect on subsequent exercise performance
+
+Co-ingestion of fat and carbohydrates dose not impair glycogen resynthesis
+
+Some signaling markers may be attenuated by very high fat intake
+
+Micronutrients
+
+Effective in reducing exercise-induced muscle damage but no performance benefit
+
+> 1000 mg of polyphenols per day optimize recovery between exercise bouts
+
+Protein + carbohydrate
+
+1–1.2 g·kg
+–1
+·h
+–1
+ of carbohydrate + 20–40 g highly digestive protein advised for effective muscle glycogen resynthesis
+
+Beneficial effects may be due to higher muscle glycogen synthesis rates and/or positive nitrogen balance
+
+Caffeine + carbohydrate
+
+3–8 mg·kg
+–1
+ of caffeine + 1–1.2 g·kg
+–1
+·h
+–1
+ of carbohydrate is recommended
+
+It may reduce muscle soreness
+
+Little evidence shows that it may speed up muscle glycogen resynthesis more than carbohydrate alone
+
+Creatine + carbohydrate
+
+5–20 g·day
+–1
+ of creatine monohydrate + high carbohydrate diet may be more beneficial than carbohydrate alone for muscle glycogen resynthesis
+
+Hydration
+
+Replacement of 150–200% of lost sweat within 4–8 h is advised for effective rehydration
+
+Oral rehydration solutions, milk, and orange juice are better than water
+
+Cola, tea, coffee, lager, mineral water, and sports drinks are no different from water
+
+There is little evidence to suggest that glycerol improves subsequent exercise performance
+
+Sodium bicarbonate
+
+0.3–0.4 g·kg
+–1
+ of sodium bicarbonate is recommended
+
+It may improve subsequent exercise performa
+
+----
+
+practical guidelines for utilizing nutrition to maximize post-exercise recovery are still evolving. The goal of this review is to synthesize the available research on nutritional strategies to enhance post-exercise recovery and subsequent exercise performance, defined as an exercise performance occurring within ~ 2–24 h of a prior bout of exhaustive exercise. Specifically, we will explore the roles of dietary macronutrients (carbohydrate, protein, and fat), micronutrients, creatine, caffeine, fluids and electrolytes, and sodium bicarbonate in accelerating recovery processes (Fig. 
+1
+). The literature search was conducted by using the following two databases: PubMed/MEDLINE and Google Scholar, using combinations of keywords and Boolean operators (“subsequent exercise performance”) AND (“carbohydrates” OR “carbohydrate and protein” OR “protein”) AND (“dietary fats” OR essential fatty acid) AND (“creatine” OR “carbohydrate and creatine” OR) AND (“sodium bicarbonate OR NaH3OC”) AND (“caffeine” OR “carbohydrate and caffeine”) AND (“micronutrients OR vitamins”). The search was performed through the titles, abstracts, and keywords of documents indexed in the databases. We classified the paper into three categories: **grade I—strong evidence**: this category includes a significant number of well-controlled trials that consistently demonstrate the effectiveness of the compound for improving post-exercise recovery; **grade II—moderate evidence**: this category contains a substantial but less consistent body of research showing the effectiveness of the compound for post-exercise recovery; and **grade III—limited evidence**: this category includes a small and/or highly ambiguous body of research that indicates the effectiveness of the compound for post-exercise recovery.
+
+Fig. 1
+
+Examples of nutritional strategies to accelerate the short-term recovery period between two exercise bouts to enhance subsequent exercise sessions
+
+Grade I—Strong Evidence
+
+Dietary Carbohydrates
+
+Carbohydrate Timing and Type
+
+Replenishing glycogen stores through immediate post-exercise carbohydrate intake is crucial for recovery, especially when athletes need to be fully prepared for another training session or competition within 24 h [
+7
+–
+9
+]. The rate of restoration is influenced by both the type and timing of ingested carbohydrate (Fig. 
+2
+). Muscle glycogen demonstrates a pronounced affinity for restoration during the initial 2 h window following exercise, a process that notably occurs independent of insulin’s influence [
+10
+]. Although some muscle glycogen can be repleted in the absence of food ingestion [
+11
+], contemporary guidelines recommend ingesting 1–1.2 g·kg
+−1
+⋅h
+−1
+ of carbohydrate in the initial 4-h post-exercise window [
+12
+]. In contrast, delaying post-exercise carbohydrate ingestion by 2 h can lead to reduced muscle glycogen concentrations 4 h after exercise compared with immediate ingestion [
+13
+] and may impair exercise performance the following day [
+14
+]. Complete replenishment of muscle glycogen stores typically unfolds over a 24–36 h period post-exercise, provided that 7–12 g·kg
+−1
+ carbohydrate are consumed per day [
+15
+–
+18
+]. Liver glycogen resynthesis proceeds at a slower pace during the initial post-exercise hours, achieving saturation only after 11–25 h, contingent upon adherence to a high-carbohydrate diet [
+16
+].
+
+Fig. 2
+
+Influence of timing (
+a
+) and type (
+b
+–
+d
+), of carbohydrate (CHO) on glycogen resynthesis *indicates significant diff
+
+----
+
+
+Limitations and Future Directions
+
+Despite significant advancements in understanding nutritional strategies for post-exercise recovery, several limitations within the current body of research should be acknowledged. First, much of the existing literature is based on studies with male athletes, leading to a potential sex bias in the recommendations—a common problem within the sports science literature [
+217
+]. This disparity underscores the need for more studies involving female athletes to ensure that recovery strategies are effective across the sexes.
+
+Another limitation is the variability in exercise protocols used across studies, which complicates the generalization of findings. For instance, research on carbohydrate replenishment often employs controlled glycogen-depleting protocols that may not reflect real-world exercise conditions when carbohydrates are also ingested during exercise or protocols are aimed at specific sports disciplines, and it is questionable how the findings translate into other disciplines. In addition, the response to various recovery strategies, such as creatine and caffeine co-ingestion, appears to be highly individualized. Factors such as training status, genetic predisposition, and diet playing key roles, suggesting a need for more personalized approaches to recovery nutrition. However, literature on personalization is currently lacking. Moreover, it is important to consider the interactions between different performance and recovery-enhancing supplements, as they often do not result in additive improvements [
+218
+]. Understanding these interactions is crucial for developing effective and safe nutritional strategies. Given that athletes such as bodybuilders and powerlifters often engage in two training sessions per day, future research is needed to explore this training strategy. Such studies should focus on individuals involved in resistance training to assess their training quality and muscle adaptation variables. Finally, a greater emphasis on the practical application of these strategies in real-world sports contexts, including team sports and ultra-endurance events, would help bridge the gap between laboratory findings and field performance. Future research should focus on translating experimental results into practical guidelines that athletes and coaches can readily implement
+.
+
+Conclusions
+
+Table 
+1
+ summarises the evidence regarding the nutrition recommendations for optimizing post-exercise recovery. Table 
+2
+ provides recommendations on the basis of the duration between exercise bouts. Restoration of carbohydrate stores within the body (i.e., muscle and liver glycogen) appears to play the most important role in promoting recovery, followed by a sufficient protein intake to promote tissue regeneration and adaptive responses to exercise. While the intake of fats and micronutrients may also aid recovery, the evidence supporting their efficacy is not as strong as that for carbohydrates. Co-ingestion of caffeine with carbohydrates may accelerate post-exercise muscle glycogen resynthesis and can be beneficial for athletes competing multiple times in a single day or those engaging in training sessions with low carbohydrate availability to maximize training adaptations. However, caution is advised owing to the increased risk of sleep disturbances associated with high caffeine intake. Post-exercise creatine and carbohydrate co-ingestion may enhance muscle glycogen resynthesis but their role in improving 
+
+----
+
+acknowledged. First, much of the existing literature is based on studies with male athletes, leading to a potential sex bias in the recommendations—a common problem within the sports science literature [
+217
+]. This disparity underscores the need for more studies involving female athletes to ensure that recovery strategies are effective across the sexes.
+
+Another limitation is the variability in exercise protocols used across studies, which complicates the generalization of findings. For instance, research on carbohydrate replenishment often employs controlled glycogen-depleting protocols that may not reflect real-world exercise conditions when carbohydrates are also ingested during exercise or protocols are aimed at specific sports disciplines, and it is questionable how the findings translate into other disciplines. In addition, the response to various recovery strategies, such as creatine and caffeine co-ingestion, appears to be highly individualized. Factors such as training status, genetic predisposition, and diet playing key roles, suggesting a need for more personalized approaches to recovery nutrition. However, literature on personalization is currently lacking. Moreover, it is important to consider the interactions between different performance and recovery-enhancing supplements, as they often do not result in additive improvements [
+218
+]. Understanding these interactions is crucial for developing effective and safe nutritional strategies. Given that athletes such as bodybuilders and powerlifters often engage in two training sessions per day, future research is needed to explore this training strategy. Such studies should focus on individuals involved in resistance training to assess their training quality and muscle adaptation variables. Finally, a greater emphasis on the practical application of these strategies in real-world sports contexts, including team sports and ultra-endurance events, would help bridge the gap between laboratory findings and field performance. Future research should focus on translating experimental results into practical guidelines that athletes and coaches can readily implement
+.
+
+Conclusions
+
+Table 
+1
+ summarises the evidence regarding the nutrition recommendations for optimizing post-exercise recovery. Table 
+2
+ provides recommendations on the basis of the duration between exercise bouts. Restoration of carbohydrate stores within the body (i.e., muscle and liver glycogen) appears to play the most important role in promoting recovery, followed by a sufficient protein intake to promote tissue regeneration and adaptive responses to exercise. While the intake of fats and micronutrients may also aid recovery, the evidence supporting their efficacy is not as strong as that for carbohydrates. Co-ingestion of caffeine with carbohydrates may accelerate post-exercise muscle glycogen resynthesis and can be beneficial for athletes competing multiple times in a single day or those engaging in training sessions with low carbohydrate availability to maximize training adaptations. However, caution is advised owing to the increased risk of sleep disturbances associated with high caffeine intake. Post-exercise creatine and carbohydrate co-ingestion may enhance muscle glycogen resynthesis but their role in improving subsequent exercise performance remains to be fully investigated. Milk-based formulations, sports drinks, oral rehydration solutions, and water, along with solid meals, may optimize post-exercise rehydra

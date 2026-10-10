@@ -1,0 +1,717 @@
+Introduction
+
+The continuous development of competitive sports has led to improvements and refinements in the physical fitness and skills of athletes worldwide. However, fatigue is inevitable during sports activities. Prolonged high-intensity high-density training and competition not only affect athletes’ physical health but also produce a sense of fatigue. Various physiological and social problems caused by athletes’ fatigue are becoming increasingly prominent [
+1
+].
+
+In contrast to other parameters used in athletic training assessments, fatigue is difficult to quantify using specific data. It can be broadly categorized into two types, motor fatigue, which is a type induced at the physical level, and mental fatigue (MF), which is induced at both the mental and cognitive levels. Both motor and MF have significant impacts on human performance [
+2
+]. The concept of MF has attracted a great deal of attention in the last decade [
+3
+]. MF is a well-defined concept in daily life. It can occur after limited cognitive work and increases the risk of error in the normal work of mental occupations, such as doctors and nurses in healthcare, precision instrument operators and air traffic controllers in industry, and military personnel [
+4
+]. Similarly, in sports, MF can have a significant impact on the quality of performance and presentation of athletes [
+5
+]. This study elucidates the impact of MF on athletes’ sporting performance and the strategies employed to address it by synthesizing research on MF and sports performance conducted in China and in international contexts. This study provides theoretical and practical support for enhancing athletes’ sports performances and coaches’ coaching and training proficiencies.
+
+In this narrative review, we aim to provide a qualitative synthesis of the existing literature on mental fatigue in athletes, focusing on the evolution of understanding and the impact on performance. It is important to note that our approach is not that of a systematic review or meta-analysis, which would offer a quantitative synthesis, but rather a thematic exploration of the subject matter.
+
+To ensure a comprehensive exploration of the topic, we conducted a literature search across various databases including PubMed and Web of Science. Our search strategy encompassed the terms ‘mental fatigue’, ‘athletes’, and ‘sports performance’, focusing on studies published from 2000 to the present. This approach allowed us to capture a broad spectrum of qualitative insights into the phenomenon of mental fatigue in athletes
+
+2. Theoretical Explanations and Neural Mechanisms
+
+The current academic explanations for MF include four main theories: motivational control theory, underload theory, resource depletion theory, and the neurotoxic waste disposal hypothesis.
+
+The motivational control theory postulates that when the energetic costs associated with a task exceed perceived rewards, MF is the consequence of a diminished willingness to sustain performance due to an imbalance between the effort expended and the rewards received during task performance [
+6
+,
+7
+]. This theory posits that, during prolonged periods of cognitive performance, the brain’s reward system subconsciously evaluates the costs and benefits associated with sustained task performance. The low- and high-cost outcomes of such analyses are posited to lead to a sense of fatigue, a decrease in motivation or willingness to invest in sustained task performance, and a subsequent decline 
+
+----
+
+Methods
+
+Wu
+
+Chang-Hong
+
+1
+
+*
+
+†
+
+https://orcid.org/0009-0008-0603-067X
+
+Zhao
+
+Yun-Di
+
+2
+
+Yin
+
+Fu-Qiang
+
+3
+
+Yi
+
+Yang
+
+4
+
+†
+
+Geng
+
+Lu
+
+1
+
+Xu
+
+Xia
+
+5
+
+*
+
+Borghini
+
+Gianluca
+
+Academic Editor
+
+Ronca
+
+Vincenzo
+
+Academic Editor
+
+Rossi
+
+Dario
+
+Academic Editor
+
+1
+School of Sports Medicine, Wuhan Sports University, Wuhan 430079, China; 
+2021420010@whsu.edu.cn
+
+2
+School of Future Technology, Xi’an Jiaotong University, Xi’an 710049, China; 
+zhaoyd2001@stu.xjtu.edu.cn
+
+3
+Football Academy, Wuhan Sports University, Wuhan 430079, China; 
+2022410511@whsu.edu.cn
+
+4
+Sports Drug Rehabilitation Center of Physical Education, Southwest University, Chongqing 400715, China; 
+yangyi99@email.swu.edu.cn
+
+5
+Key Laboratory of Exercise Training and Monitoring, Wuhan Sports University, Wuhan 430079, China
+
+*
+Correspondence: 
+2021420013@whsu.edu.cn
+ (C.-H.W.); 
+xuxia@whsu.edu.cn
+ (X.X.)
+
+†
+
+These authors contributed equally to this work.
+
+24
+
+11
+
+2024
+
+12
+
+2024
+
+14
+
+12
+
+477799
+
+1125
+
+22
+
+10
+
+2024
+
+13
+
+11
+
+2024
+
+19
+
+11
+
+2024
+
+24
+
+11
+
+2024
+
+28
+
+12
+
+2024
+
+09
+
+01
+
+2025
+
+© 2024 by the authors.
+
+2024
+
+https://creativecommons.org/licenses/by/4.0/
+
+Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (
+https://creativecommons.org/licenses/by/4.0/
+).
+
+Mental fatigue is an important factor affecting athletes’ performance. Explaining the effects of mental fatigue on sports performance from a theoretical point of view can help us deeply understand the interconnection between mental fatigue and sports performance and conduct effective interventions based on this. Combining the relevant literature in China and abroad reveals that the current academic theories on the mechanism of sports fatigue include motivational control theory, underload theory, neural waste disposal hypothesis, and resource depletion theory. The effects of mental fatigue on performance are reflected in aerobic endurance, sports decision-making, tactical performance, and technical performance. Current coping strategies for mental fatigue include physiological coping strategies based on nutrition (caffeine), odor, and noninvasive neuromodulation techniques and psychological and behavioral coping strategies based on music and positive thinking.
+
+mental fatigue
+
+athlete
+
+sports performance
+
+sport intervention
+
+14th Five-Year Plan Advantageous and Characteristic Disciplines (Groups) of Colleges and Universities in Hubei Province for Exercise and Brain Science
+
+This research was funded by the 14th Five-Year Plan Advantageous and Characteristic Disciplines (Groups) of Colleges and Universities in Hubei Province for Exercise and Brain Science (Hubei Teaching Research [2021] No. 5).
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+1. Introduction
+
+The continuous development of competitive sports has led to improvements and refinements in the physical fitness and skills of athletes worldwide. However, fatigue is inevitable during sports activities. Prolonged high-intensity high-density training and competition not only affe
+
+----
+
+Methods
+
+Wu
+
+Chang-Hong
+
+1
+
+*
+
+†
+
+https://orcid.org/0009-0008-0603-067X
+
+Zhao
+
+Yun-Di
+
+2
+
+Yin
+
+Fu-Qiang
+
+3
+
+Yi
+
+Yang
+
+4
+
+†
+
+Geng
+
+Lu
+
+1
+
+Xu
+
+Xia
+
+5
+
+*
+
+Borghini
+
+Gianluca
+
+Academic Editor
+
+Ronca
+
+Vincenzo
+
+Academic Editor
+
+Rossi
+
+Dario
+
+Academic Editor
+
+1
+School of Sports Medicine, Wuhan Sports University, Wuhan 430079, China; 
+2021420010@whsu.edu.cn
+
+2
+School of Future Technology, Xi’an Jiaotong University, Xi’an 710049, China; 
+zhaoyd2001@stu.xjtu.edu.cn
+
+3
+Football Academy, Wuhan Sports University, Wuhan 430079, China; 
+2022410511@whsu.edu.cn
+
+4
+Sports Drug Rehabilitation Center of Physical Education, Southwest University, Chongqing 400715, China; 
+yangyi99@email.swu.edu.cn
+
+5
+Key Laboratory of Exercise Training and Monitoring, Wuhan Sports University, Wuhan 430079, China
+
+*
+Correspondence: 
+2021420013@whsu.edu.cn
+ (C.-H.W.); 
+xuxia@whsu.edu.cn
+ (X.X.)
+
+†
+
+These authors contributed equally to this work.
+
+24
+
+11
+
+2024
+
+12
+
+2024
+
+14
+
+12
+
+477799
+
+1125
+
+22
+
+10
+
+2024
+
+13
+
+11
+
+2024
+
+19
+
+11
+
+2024
+
+24
+
+11
+
+2024
+
+28
+
+12
+
+2024
+
+09
+
+01
+
+2025
+
+© 2024 by the authors.
+
+2024
+
+https://creativecommons.org/licenses/by/4.0/
+
+Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (
+https://creativecommons.org/licenses/by/4.0/
+).
+
+Mental fatigue is an important factor affecting athletes’ performance. Explaining the effects of mental fatigue on sports performance from a theoretical point of view can help us deeply understand the interconnection between mental fatigue and sports performance and conduct effective interventions based on this. Combining the relevant literature in China and abroad reveals that the current academic theories on the mechanism of sports fatigue include motivational control theory, underload theory, neural waste disposal hypothesis, and resource depletion theory. The effects of mental fatigue on performance are reflected in aerobic endurance, sports decision-making, tactical performance, and technical performance. Current coping strategies for mental fatigue include physiological coping strategies based on nutrition (caffeine), odor, and noninvasive neuromodulation techniques and psychological and behavioral coping strategies based on music and positive thinking.
+
+mental fatigue
+
+athlete
+
+sports performance
+
+sport intervention
+
+14th Five-Year Plan Advantageous and Characteristic Disciplines (Groups) of Colleges and Universities in Hubei Province for Exercise and Brain Science
+
+This research was funded by the 14th Five-Year Plan Advantageous and Characteristic Disciplines (Groups) of Colleges and Universities in Hubei Province for Exercise and Brain Science (Hubei Teaching Research [2021] No. 5).
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+1. Introduction
+
+The continuous development of competitive sports has led to improvements and refinements in the physical fitness and skills of athletes worldwide. However, fatigue is inevitable during sports activities. Prolonged high-intensity high-density training and competition not only affe
+
+----
+
+results in reduced activity in some areas, brain areas that provide the motivational drive for behavior, including the ventral midbrain and ventral striatum, are unaffected by TOT [
+6
+]. Similarly, the subjective experience of MF was not associated with activity in the brain’s motivational circuitry [
+9
+]. Consequently, reduced motivation is unlikely to be an explanatory mechanism for MF.
+
+The underload theory provides an alternative explanation for the subjective perception of fatigue and reduced task performance during sustained or prolonged cognitive task performance. This theory proposes that prolonged performance of inherently simple and repetitive cognitive tasks may cause participants to experience boredom, which leads to a negative effect, decreased task engagement, and increased task-irrelevant thoughts, resulting in decreased cognitive performance [
+10
+,
+11
+]. As TOT increases, increased activity in the default mode network (DMN) structure may cause participants to increase their level of task-irrelevant thought activity, leading to an increased frequency of attentional lapses and decreased levels of cognitive performance. The DMN becomes active when the brain is in a state of wakefulness and rest or when the individual is engaged in an internally directed thought unrelated to an externally directed goal-directed task. The DMN is the brain system that becomes active when the brain is at rest or when the individual is engaged in internally directed thoughts unrelated to externally driven goal-directed tasks [
+12
+]. Structures that make up the DMN include the posterior cingulate cortex, posterior spinal cortex, medial prefrontal cortex, precuneus, and subparietal lobule. Increased activity in these structures is negatively correlated with activity in the cognitive control network (CCN), suggesting their potential role in reducing cognitive control in goal-directed tasks [
+13
+]. Studies have suggested that inactivation of the CCN may be associated with increased activity in the DMN, as activity in both networks is negatively correlated [
+12
+], and that the subjective experience of fatigue is correlated with the experience of boredom on the basis of the underload theory. That is, studies posit a positive correlation between DMN activity and the subjective experience of fatigue. However, existing research suggests a negative correlation between DMN activity and subjective fatigue [
+9
+]. Therefore, the underload theory does not seem to be a reasonable explanation for MF. As a negative correlation exists between MF and the subjective experience of brain fatigue induced by TOT and DMN partial activity, the negative correlation between reduced activity in the cognitive control regions of the brain and DMN partial activity may be explained in terms of the other two theories of MF discourse.
+
+The resource depletion theory suggests that the decline in subjective experience and objective performance in MF is the result of the depletion of available cognitive resources due to the continued allocation of attention to the task [
+14
+,
+15
+,
+16
+]. According to this hypothesis, the observed deactivation of the anterior cingulate cortex, dorsolateral prefrontal lobe, dorsolateral premotor cortex, and anterior supplementary motor area may be due to the gradual depletion and overuse of available metabolic resources in these areas. These regions form cognitive control networks that support the top-down control of behavior and are responsible for the 
+
+----
+
+discussion on the impact of MF on ball control and precision [
+44
+].
+
+A recent meta-analysis showed that MF had no significant effect on the total running distance and tactical behavior of footballers in small-field games [
+48
+]. However, the results of this study, which were limited in scope (based on six research trials) and small in sample size (sample size of 75), need to be treated with caution; therefore, the results that MF has no significant effect on the total running distance and tactical behavior of football players during small field games cannot be generalized.
+
+3.4. Technical Performance
+
+Different groups and specialized sports have different technical requirements. Research on the effects of MF on technical performance has been conducted in a number of specialist areas, such as football, basketball, table tennis, cycling, swimming, canoeing, badminton, and competitive gymnastics, with the largest number of studies in football. A review of these studies has shown that MF alters the speed-accuracy trade-off in sports, thus affecting technical performance in sports such as boxing and fencing. Moreover, MF negatively affects technical performance in lower limb-dominant and upper limb-dominant sports, such as passing accuracy, interception rate, shot speed, and shot accuracy in football and ball speed and ball accuracy in table tennis. Accordingly, the researcher hypothesized that free throws in basketball, drop-kick shooting in rugby, and throwing in darts would be affected by the MF [
+39
+]. Another systematic review of the effect of MF on the technical performance of athletes found that the negative effects of MF on motor performance, in terms of decreased accuracy and increased execution time, may be due to the fact that MF impairs executive function [
+23
+]. However, the conclusion that MF has a greater effect on offensive skills than on defensive skills is not conclusive in this study, as seven studies on offensive skills were analyzed in this study, compared to only two studies on defensive skills. This suggests that further attention is required with regard to this area to add empirical studies from various perspectives. However, at this stage, the conclusions drawn are often not meaningful due to the small amount of the literature included.
+
+Current academic researchers have conducted more football-specific studies in this area, and most have used football games as specialized vehicles. One study showed that MF negatively affected the offensive and defensive skills of players in small-sided games, mainly in terms of lower positive involvement, ball possession, passing accuracy, tackling, and ball control errors [
+49
+]. Furthermore, another study by the team showed that MF affects players’ technical performance in the Loughborough Soccer Passing Test (LSPT) and Shot Test (LSST), resulting in a reduction in both the speed and accuracy of their shots, as well as an increase in the time taken to take a penalty. This was because MF affected player running during the tests, with shorter distances during intermittent running, more errors in passing and ball control, slower shooting speeds, and reduced accuracy, leading to a reduction in passing and shooting performance [
+50
+]. Another review indicated that MF adversely affects the use of fundamental motor skills (FMS). Translating this to specific football skills, MF impairs the performance of offensive and defensive football skills [
+26
+]. In addition, MF affects not only bal
+
+----
+
+conclusion, these four theories explain MF from different perspectives, each with different degrees of shortcomings, and no single theory can fully explain MF. The occurrence of MF may be the result of multiple factors, and its complexity requires a comprehensive consideration of different theoretical viewpoints for in-depth understanding.
+
+Despite the strong association between MF and negative outcomes, the neural mechanisms underlying subjective negative experiences and reduced performance when individuals experience MF remain unclear [
+27
+]. In a narrative review of the neural mechanisms of MF, researchers proposed a dual regulatory system consisting of neural facilitatory and inhibitory systems to explain the mechanisms behind acute MF [
+28
+]. They proposed that the cortico-striatal-thalamo-cortical loops connecting the limbic system, basal ganglia, thalamus, and frontal cortex form a psycho-promoting system. Moreover, motivational inputs from mental tasks and stimulation of this system prevent a decline in task performance, and a psycho-inhibitory system is thought to be related to the insula and posterior cingulate cortex. The stimulation of this system during mental tasks leads to a decline in cognitive performance. Thus, acute MF may result from unconscious activation of the mental facilitation system, enhancement of the mental inhibition system, or a combination of both [
+9
+]. Although this study provides a mechanism for further elucidation of the mechanisms associated with MF, it is only a narrative review that builds on previous research and does not include a systematic literature search. In addition, this study did not include functional imaging studies and did not assess changes in brain activity throughout the duration of mental task performance. Thus, it did not provide any insights into the extent to which MF develops subjectively and objectively or the regulation of activity in brain regions during task performance. Other perspectives on the mechanisms of MF suggest that acute subjective and objective MF develop as a result of long-term cognitive performance, leading to a reduced ability to sustain task performance, possibly because of resource depletion, accumulation of neurotoxic waste products, or boredom among other reasons [
+11
+].
+
+Some studies related to MF imaging suggest that a novel approach to inducing MF using a specific cognitive task is to simultaneously monitor the progression of brain activity, cognitive task performance, and subjective sensations of MF as the fatiguing task progresses over time levels [
+29
+]. Thus, changes in brain activity associated with objective and subjective measures of MF can be investigated, and the underlying neural mechanisms can be explained.
+
+3. The Effect of MF on Athletic Performance
+
+3.1. Endurance Performance
+
+Endurance is a very important physical ability in many sports, and its importance for athletes in these sports cannot be underestimated. According to previous studies, the negative impact of mental fatigue on endurance performance is undeniable. A meta-analysis showed that despite significant individual differences in susceptibility to MF and gender, age, BMI, and fitness level not being affected by MF (possibly due to methodological differences), the negative effect of MF on whole-body endurance was generally confirmed [
+30
+]. Some researchers have suggested that MF has a greater effect on aerobic endurance than on anaerobic endurance in athletes [
+2
+]. A study on
+
+----
+
+practical support for enhancing athletes’ sports performances and coaches’ coaching and training proficiencies.
+
+In this narrative review, we aim to provide a qualitative synthesis of the existing literature on mental fatigue in athletes, focusing on the evolution of understanding and the impact on performance. It is important to note that our approach is not that of a systematic review or meta-analysis, which would offer a quantitative synthesis, but rather a thematic exploration of the subject matter.
+
+To ensure a comprehensive exploration of the topic, we conducted a literature search across various databases including PubMed and Web of Science. Our search strategy encompassed the terms ‘mental fatigue’, ‘athletes’, and ‘sports performance’, focusing on studies published from 2000 to the present. This approach allowed us to capture a broad spectrum of qualitative insights into the phenomenon of mental fatigue in athletes
+
+2. Theoretical Explanations and Neural Mechanisms
+
+The current academic explanations for MF include four main theories: motivational control theory, underload theory, resource depletion theory, and the neurotoxic waste disposal hypothesis.
+
+The motivational control theory postulates that when the energetic costs associated with a task exceed perceived rewards, MF is the consequence of a diminished willingness to sustain performance due to an imbalance between the effort expended and the rewards received during task performance [
+6
+,
+7
+]. This theory posits that, during prolonged periods of cognitive performance, the brain’s reward system subconsciously evaluates the costs and benefits associated with sustained task performance. The low- and high-cost outcomes of such analyses are posited to lead to a sense of fatigue, a decrease in motivation or willingness to invest in sustained task performance, and a subsequent decline in task performance [
+6
+]. Accordingly, this assertion posits that objective MF resulting from time on task (TOT) may be associated with reduced activity in the motivational and cognitive control regions of the brain [
+6
+,
+7
+]. Areas of the cognitive control network include the anterior cingulate cortex, dorsolateral prefrontal cortex, and dorsolateral premotor cortex [
+8
+]. Studies have found that while TOT results in reduced activity in some areas, brain areas that provide the motivational drive for behavior, including the ventral midbrain and ventral striatum, are unaffected by TOT [
+6
+]. Similarly, the subjective experience of MF was not associated with activity in the brain’s motivational circuitry [
+9
+]. Consequently, reduced motivation is unlikely to be an explanatory mechanism for MF.
+
+The underload theory provides an alternative explanation for the subjective perception of fatigue and reduced task performance during sustained or prolonged cognitive task performance. This theory proposes that prolonged performance of inherently simple and repetitive cognitive tasks may cause participants to experience boredom, which leads to a negative effect, decreased task engagement, and increased task-irrelevant thoughts, resulting in decreased cognitive performance [
+10
+,
+11
+]. As TOT increases, increased activity in the default mode network (DMN) structure may cause participants to increase their level of task-irrelevant thought activity, leading to an increased frequency of attentional lapses and decreased levels of cognitive performance. The DMN becomes active when the brain is in a state of wakeful
+
+----
+
+limitations of current research, the specific degree of influence and mechanisms still need further exploration [
+54
+].
+
+Another study on the effects of MF on the technical performance of young footballers of different ages (U14, U16, and U18) showed that impaired passing performance was only observed in the U18 group, but not in the other two groups, suggesting that age does not play a moderating role in the effects of MF [
+55
+].
+
+In terms of other specialized technical performances, MF negatively affected paddling efficiency, paddling speed, and time in junior kayakers [
+56
+]; reduced swimming speed in junior swimmers [
+57
+]; affected ball speed when hitting a table tennis ball; reduced stroke and landing accuracy; increased the number of errors made by players; altered the speed-accuracy trade-off (favoring ball speed over accuracy) of players [
+58
+]; increased the number of falls from the balance beam in female gymnasts [
+59
+]; and impaired visuomotor reaction time in badminton players [
+60
+]. Several studies have shown that MF has a negative effect on technical performance in several sports such as canoeing, swimming, table tennis, badminton, and gymnastics, whereas studies on table tennis have shown a negative effect of MF on hand dexterity.
+
+However, several studies on cycling have shown that the effect of MF may not be significant in all sports. One study comparing the technical performance of professional and amateur cyclists under MF found that professional athletes performed better than amateur athletes under MF conditions, suggesting that professional athletes have better resistance to MF [
+61
+]. One study showed that MF did not affect the performance of amateur athletes in cycling speed training, and another study indicated that MF did not affect the performance of amateur athletes in cycling speed training [
+62
+]. Another study revealed that MF may affect the endurance performance of sub-elite cyclists, which in turn affects their finishing times [
+63
+]. The reason for this difference may be that cycling is a closed sport compared with other disciplines, and MF clearly has a greater effect in open sports (e.g., basketball) than in closed sports. A systematic review of MF in basketball performance showed that MF affects free-throw and three-point shooting rates [
+64
+], whereas another study examining the effects of MF on the technical performance of adolescent players found that MF modulates individual endocrine and autonomic responses, including attenuating salivary testosterone concentrations and increasing α-amylase concentrations [
+65
+]. Decreased salivary testosterone concentrations may affect dopamine messaging in brain regions associated with cognitive control, ultimately leading to an increase in overall player turnover, thereby affecting the technical performance of basketball players.
+
+4. Interventions for MF
+
+4.1. Physiological Coping Strategies
+
+The main physiological coping strategies used to manage the negative effects of MF include nutritional interventions, odor interventions, and noninvasive neuromodulation techniques. The most common nutritional intervention administered was caffeine. Caffeine is a natural xanthine alkaloid that positively alters the central nervous system function. Adenosine inhibits the release of excitatory neurotransmitters (e.g., dopamine) in the brain, reducing alertness and spontaneous behavioral activity, and caffeine can easily cross the blood–brain barrier and occupy adenosine re
+
+----
+
+acknowledge the inherent limitations due to our non-systematic approach in selecting and reviewing the literature. This approach may have influenced the breadth and depth of our synthesis, as compared to a systematic review method that ensures a more rigorous and unbiased assessment of the impact of MF on athletic performance. We concur with the suggestion that future research should employ systematic review methods to enhance the comprehensiveness and reliability of the findings in this domain. Furthermore, our review has primarily focused on the application of tDCS in the context of sports performance. We recognize the potential of other neuromodulatory techniques, such as TMS and tPBM, which warrant exploration for their efficacy in mitigating mental fatigue and enhancing athletic capabilities. The exploration of these alternatives could provide a broader understanding of interventions to address MF and should be considered in future studies.
+
+We also acknowledge that the current review may not have captured all of the relevant studies due to the limitations in our literature search strategy. This could have led to omissions or issues in self-consistency. To address this, we recommend that future research applies more stringent inclusion and exclusion criteria and provides a clear methodology for literature selection, thereby reducing potential biases and ensuring a more representative overview of the field. Lastly, while we have discussed various physiological, psychological, and behavioral coping strategies for MF, we agree that there is a need for further exploration of non-invasive neuromodulation techniques, such as tPBM, in the treatment of MF. These techniques may offer unique characteristics and limitations that could be beneficial in specific sports scenarios.
+
+In conclusion, we have taken the opportunity to clarify and expand upon the limitations of our study, with the aim of providing a more transparent and comprehensive understanding of the current state of knowledge on mental fatigue in athletes. We believe that these revisions will guide future research in addressing the gaps identified and in adopting a more systematic approach to understanding and managing mental fatigue in sports.
+
+In reflecting on the narrative review, it is evident that our approach has allowed us to capture the qualitative trends and patterns in the literature on mental fatigue in sports. We have not aimed to provide a systematic or exhaustive quantitative synthesis but rather to offer a thematic exploration that highlights the evolution of understanding and identifies areas for future research
+
+Disclaimer/Publisher’s Note:
+ The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+Author Contributions
+
+Conceptualization, C.-H.W. and L.G.; resources, F.-Q.Y.; writing—original draft preparation, C.-H.W.; writing—review and editing, Y.-D.Z.; supervision, Y.Y.; project administration, X.X.; funding acquisition, X.X. All authors have read and agreed to the published version of the manuscript.
+
+Institutional Review Board Statement
+
+Not applicable.
+
+Informed Consent Statement
+
+Not applicable.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+References
+

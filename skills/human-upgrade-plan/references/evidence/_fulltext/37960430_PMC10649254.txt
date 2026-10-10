@@ -1,0 +1,871 @@
+
+Abstract
+
+We sought to determine the utility of Stryd, a commercially available inertial measurement unit, to quantify running intensity and aerobic fitness. Fifteen (eight male, seven female) runners (age = 30.2 [4.3] years; 
+
+V
+
+·
+
+O
+2
+max = 54.5 [6.5] ml·kg
+−1
+·min
+−1
+) performed moderate- and heavy-intensity step transitions, an incremental exercise test, and constant-speed running trials to establish the maximal lactate steady state (MLSS). Stryd running power stability, sensitivity, and reliability were evaluated near the MLSS. Stryd running power was also compared to running speed, 
+
+V
+
+·
+
+O
+2
+, and metabolic power measures to estimate running mechanical efficiency (EFF) and to determine the efficacy of using Stryd to delineate exercise intensities, quantify aerobic fitness, and estimate running economy (RE). Stryd running power was strongly associated with 
+
+V
+
+·
+
+O
+2
+ (R
+2
+ = 0.84; 
+p
+ < 0.001) and running speed at the MLSS (R
+2
+ = 0.91; 
+p
+ < 0.001). Stryd running power measures were strongly correlated with RE at the MLSS when combined with metabolic data (R
+2
+ = 0.79; 
+p
+ < 0.001) but not in isolation from the metabolic data (R
+2
+ = 0.08; 
+p
+ = 0.313). Measures of running EFF near the MLSS were not different across intensities (~21%; 
+p
+ > 0.05). In conclusion, although Stryd could not quantify RE in isolation, it provided a stable, sensitive, and reliable metric that can estimate aerobic fitness, delineate exercise intensities, and approximate the metabolic requirements of running near the MLSS.
+
+Keywords:
+ wearable technology, running economy, critical intensity, human performance, inertial measurement unit, treadmill
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2023 Sep 27; Revised 2023 Oct 20; Accepted 2023 Oct 23; Collection date 2023 Nov.
+
+1. Introduction
+
+A consensus regarding an approach to evaluate mechanical running power output (PO) is lacking, resulting in a range of PO values for a given running speed, depending on the method [
+1
+,
+2
+]. During level running, the working muscles transfer energy to produce and absorb the forces needed to move body segments. As a result, there is no dissipative load external to the body that can be measured to quantify mechanical PO. Instead, running mechanical PO measurements may be derived from “external” or “internal” work perspectives by evaluating the centre of mass (CoM) or the body segments, respectively [
+1
+,
+2
+,
+3
+]. Such approaches require sophisticated laboratory assessments of joint kinetics and/or kinematics based on ground reaction force and motion-capture data. Several methodological challenges also limit the utility of running mechanical PO to approximate the metabolic work rate [
+1
+,
+3
+], and, in contrast to cycling, where there is a strong relationship between mechanical and metabolic PO [
+4
+,
+5
+], many factors complicate the relationship between mechanical and metabolic PO when running [
+6
+,
+7
+,
+8
+]. Nevertheless, a wearable running device that can quantify and monitor training intensity, analogous to a cycling power meter [
+9
+,
+10
+], would be useful to guide training and maximize running performance.
+
+Several consumer technologies providing a running power metric have been developed [
+11
+,
+12
+]. These technologies derive a measurement of mechanical PO using estimates of ground reaction forces, CoM velocity, and/or vertical displacement from global positioni
+
+----
+
+Introduction
+
+A consensus regarding an approach to evaluate mechanical running power output (PO) is lacking, resulting in a range of PO values for a given running speed, depending on the method [
+1
+,
+2
+]. During level running, the working muscles transfer energy to produce and absorb the forces needed to move body segments. As a result, there is no dissipative load external to the body that can be measured to quantify mechanical PO. Instead, running mechanical PO measurements may be derived from “external” or “internal” work perspectives by evaluating the centre of mass (CoM) or the body segments, respectively [
+1
+,
+2
+,
+3
+]. Such approaches require sophisticated laboratory assessments of joint kinetics and/or kinematics based on ground reaction force and motion-capture data. Several methodological challenges also limit the utility of running mechanical PO to approximate the metabolic work rate [
+1
+,
+3
+], and, in contrast to cycling, where there is a strong relationship between mechanical and metabolic PO [
+4
+,
+5
+], many factors complicate the relationship between mechanical and metabolic PO when running [
+6
+,
+7
+,
+8
+]. Nevertheless, a wearable running device that can quantify and monitor training intensity, analogous to a cycling power meter [
+9
+,
+10
+], would be useful to guide training and maximize running performance.
+
+Several consumer technologies providing a running power metric have been developed [
+11
+,
+12
+]. These technologies derive a measurement of mechanical PO using estimates of ground reaction forces, CoM velocity, and/or vertical displacement from global positioning system (GPS) and/or inertial measurement unit (IMU) sensor data [
+11
+,
+12
+,
+13
+]. Previously, the Stryd running power device (a portable IMU), has provided the closest relationship with 
+
+V
+
+·
+
+O
+2
+ when compared to other available commercial devices [
+11
+]. Possibly by generating a running power metric based on estimates of horizontal velocity and vertical displacement using acceleration data, it is purported that Stryd power can be used as a proxy for metabolic PO, despite changes in external conditions such as air resistance or gradient [
+13
+]. Thus, Stryd running power can theoretically quantify training intensity in a manner analogous to cycling mechanical PO and could be superior to conventional measurement approaches using running speed. Despite evidence of repeatability [
+11
+], reliability [
+14
+,
+15
+], stability during prolonged running [
+16
+], and strong linear correlations with running speed [
+17
+,
+18
+], limited research has investigated the Stryd running metric at stable metabolic work rates relative to exercising thresholds. Thus, to determine the utility of Stryd power to indicate relative exercise intensity and assess running fitness and performance, the relationship between Stryd mechanical power and metabolic power needs to be established using an exercise intensity domain training approach (i.e., evaluating running power metrics during steady-state exercise relative to the gas exchange threshold (GET) and maximal metabolic steady state (MMSS)).
+
+Prior to determining whether Stryd running power can monitor training, like cycling power output, in uncontrolled environments (e.g., variable inclines, wind speeds, and surfaces), the primary purpose of the present study was to evaluate the Stryd power metric in a controlled environment (i.e., in situ). Using an exercise intensity domain approach, we assessed the stability, sensitivity, and reliability o
+
+----
+
+Methods
+
+2.1. Participants
+
+Fifteen (8 male; 7 female) recreationally active or trained/developmental runners [
+19
+] (mean [SD]; age = 30.2 [4.3] years; body mass = 68.8 [8.2] kg; height = 173.2 [8.4] cm; 
+
+V
+
+·
+
+O
+2
+max, 54.5 [6.5] ml·kg
+−
+
+1
+·min
+−
+
+1
+) were recruited using convenience sampling. Participants were included if they were healthy, uninjured, and between 18 and 45 years of age, with recent 10-km performances of ≤50 min and ≤55 min for males and females, respectively. Within the 3 months prior to testing, runners reported exercising an average of 3.5 [1.4] days per week, running an average of 27.7 [17.1] km each week, and having 10-km best performance times of 44.6 [6.5] min. Written informed consent was provided by the runners to participate in the experimental procedures, which were approved by the University of Calgary Conjoint Health Research Ethics Board (REB20-0111) and conducted in accordance with the declaration of Helsinki, except for pre-trial registration. Participants had the option to cease participation at any time during the experimental procedures. Prior to test administration, runners completed the physical activity readiness questionnaire (PAR-Q+) to identify contraindications to exercise testing and to ensure that participants were free of medical conditions and injuries that could interfere with metabolic and cardiorespiratory exercise responses. All runners provided their own lightweight running shoes and wore the same shoes for all testing sessions.
+
+2.2. Experimental Design
+
+Runners visited the laboratory for five to six exercise testing sessions, with a minimum of 48 h between visits. The exercise sessions included: (1) a “Step-Ramp-Step” (SRS) exercise test to determine maximal exercising parameters [
+20
+]; (2) a series of 3–4 constant-speed bouts to determine the MLSS; and (3) a repeated trial at the MLSS running speed. Runners were asked to refrain from smoking, eating, or consuming caffeine within 2 h prior to their testing sessions. Runners did not engage in strenuous exercise on the same day as the testing sessions. A manuscript validating the SRS approach to identify the running speed and Stryd running power associated with the MLSS has been published [
+20
+]; however, despite the overlap in experimental procedures, the results presented herein are distinct.
+
+2.3. Exercise Protocols
+
+2.3.1. Step-Ramp-Step (SRS) Protocol
+
+As described in detail in our previous study [
+20
+], runners performed an SRS exercise protocol during their first testing visit to establish their maximal exercising values and estimate the running speed associated with the MLSS. This SRS protocol was modified for treadmill running from a cycle ergometer-based method [
+21
+]. Of relevance to the present study, the SRS protocol involved a moderate-intensity step-transition (MOD; 6 min at 1.9 m·s
+−
+
+1
+, 6 min at 2.4 m·s
+−
+
+1
+, and 6 min at 1.9 m·s
+−
+
+1
+); an incremental treadmill running test (an initial speed of 1.9 m·s
+−
+
+1
+, increasing by ~0.2 m·s
+−
+
+1
+ (i.e., 0.5 mph) per min, until volitional exhaustion); and a heavy-intensity step transition (HVY; 4 min of treadmill running at 1.9 m·s
+−
+
+1
+, followed by 12 min of treadmill running at a speed associated with the heavy-intensity exercise domain). The incremental treadmill test immediately preceded the MOD step, but the participants recovered passively for 30 min between the incremental test and the HVY step. The SRS protocol facilitated the identification of the MLSS in 2–3 c
+
+----
+
+method [
+1
+,
+2
+]. During level running, the working muscles transfer energy to produce and absorb the forces needed to move body segments. As a result, there is no dissipative load external to the body that can be measured to quantify mechanical PO. Instead, running mechanical PO measurements may be derived from “external” or “internal” work perspectives by evaluating the centre of mass (CoM) or the body segments, respectively [
+1
+,
+2
+,
+3
+]. Such approaches require sophisticated laboratory assessments of joint kinetics and/or kinematics based on ground reaction force and motion-capture data. Several methodological challenges also limit the utility of running mechanical PO to approximate the metabolic work rate [
+1
+,
+3
+], and, in contrast to cycling, where there is a strong relationship between mechanical and metabolic PO [
+4
+,
+5
+], many factors complicate the relationship between mechanical and metabolic PO when running [
+6
+,
+7
+,
+8
+]. Nevertheless, a wearable running device that can quantify and monitor training intensity, analogous to a cycling power meter [
+9
+,
+10
+], would be useful to guide training and maximize running performance.
+
+Several consumer technologies providing a running power metric have been developed [
+11
+,
+12
+]. These technologies derive a measurement of mechanical PO using estimates of ground reaction forces, CoM velocity, and/or vertical displacement from global positioning system (GPS) and/or inertial measurement unit (IMU) sensor data [
+11
+,
+12
+,
+13
+]. Previously, the Stryd running power device (a portable IMU), has provided the closest relationship with 
+
+V
+
+·
+
+O
+2
+ when compared to other available commercial devices [
+11
+]. Possibly by generating a running power metric based on estimates of horizontal velocity and vertical displacement using acceleration data, it is purported that Stryd power can be used as a proxy for metabolic PO, despite changes in external conditions such as air resistance or gradient [
+13
+]. Thus, Stryd running power can theoretically quantify training intensity in a manner analogous to cycling mechanical PO and could be superior to conventional measurement approaches using running speed. Despite evidence of repeatability [
+11
+], reliability [
+14
+,
+15
+], stability during prolonged running [
+16
+], and strong linear correlations with running speed [
+17
+,
+18
+], limited research has investigated the Stryd running metric at stable metabolic work rates relative to exercising thresholds. Thus, to determine the utility of Stryd power to indicate relative exercise intensity and assess running fitness and performance, the relationship between Stryd mechanical power and metabolic power needs to be established using an exercise intensity domain training approach (i.e., evaluating running power metrics during steady-state exercise relative to the gas exchange threshold (GET) and maximal metabolic steady state (MMSS)).
+
+Prior to determining whether Stryd running power can monitor training, like cycling power output, in uncontrolled environments (e.g., variable inclines, wind speeds, and surfaces), the primary purpose of the present study was to evaluate the Stryd power metric in a controlled environment (i.e., in situ). Using an exercise intensity domain approach, we assessed the stability, sensitivity, and reliability of Stryd at stable metabolic work rates to (i) determine the efficacy of Stryd running power as a training intensity and running performance metric, (ii) explore the relationship between r
+
+----
+
+
+Results were similar when speed was used in place of 
+
+V
+
+·
+
+O
+2
+; however, the difference in model intercept variances was in the opposite direction, with a stronger and less variable relationship between relative power and speed compared to absolute power and speed (
+Table 6
+; 
+Figure 3
+).
+
+3.5. Stryd Running Power—Association with Running Economy
+
+Based on the constant-speed running trials at MOD and near the MLSS, there were significant effects of intensity on metabolic power, Stryd
+MECH
+, and Stryd
+MET
+ measurements (
+Table 6
+). The metabolic power and Stryd
+MET
+ measurements were significantly lower at MOD compared to measurements 5% below, at, and 5% above the MLSS (
+p
+ < 0.001 for all pairwise comparisons; 
+Table 6
+). In contrast, the Stryd
+MECH
+ measurements were significantly higher at MOD compared to the three higher intensities (
+p
+ < 0.001 for all comparisons; 
+Table 6
+). All variables had excellent reliability for the repeated trials at the MLSS, without significant differences between trials at the MLSS (
+Table 3
+).
+
+Figure 4
+ depicts the relationships between metabolic power (kJ·kg
+−1
+·km
+−1
+) and absolute Stryd
+MECH
+ (kJ·km
+−1
+), relative Stryd
+MECH
+ (kJ·kg
+−1
+·km
+−1
+), absolute Stryd
+MET
+ ((J·s
+−1
+)·W
+−1
+), and relative Stryd
+MET
+ ((kJ·s
+−1
+)·(W·kg
+−1
+)
+−1
+) at the MLSS. Metabolic power (kJ·kg
+−1
+·km
+−1
+) was not significantly correlated with absolute Stryd
+MECH
+ (kJ·km
+−1
+) or relative Stryd
+MECH
+ (kJ·kg
+−1
+·km
+−1
+); however, strong positive and moderately positive correlations were detected between metabolic power (kJ·kg
+−1
+·km
+−1
+) and absolute Stryd
+MET
+ (J·s
+−1
+)·W
+−1
+) and relative Stryd
+MET
+ ((kJ·s
+−1
+)·(W·kg
+−1
+)
+−1
+), respectively (
+Figure 4
+). The results for other intensities were similar.
+
+Figure 4
+
+Relationships between metabolic power and absolute Stryd
+MECH
+ (
+A
+), relative Stryd
+MECH
+ (
+B
+), absolute Stryd
+MET
+ (
+C
+), and relative Stryd
+MET
+ (
+D
+) during constant-speed running trials performed at the maximal lactate steady state (MLSS). Circles represent individual data. 
+n
+ = 15 for all panels.
+
+3.6. Stryd Running Power—Estimates of Mechanical Running Efficiency
+
+There was a statistically significant main effect of running speed for EFF (
+p
+ < 0.001; 
+Figure 5
+). Pairwise comparisons revealed that EFF was significantly higher at MOD (25.0 [1.8]%) compared to HVY (21.3 [1.2]%), 5% below MLSS (20.9 [1.7]%), MLSS (20.7 [1.4]%), and 5% above MLSS (20.4 [1.4]%) (
+p
+ < 0.001 for these pairwise comparisons). No other significant differences were detected between the EFF measurements.
+
+Figure 5
+
+Average running mechanical efficiency (EFF) measurements during the moderate- (MOD) and heavy-intensity (HVY) steps, and during constant-speed trials near the maximal lactate steady state (MLSS). The asterisks (*) indicate statistically significant differences between intensities. Error bars represent one standard deviation. Circles represent individual data. 
+n
+ = 15.
+
+3.7. Stryd Running Power—Association with Aerobic Fitness 
+
+Absolute running power at the MLSS was strongly correlated with absolute 
+
+V
+
+·
+
+O
+2
+ at the MLSS, moderately correlated with relative 
+
+V
+
+·
+
+O
+2
+ and absolute running speed at the MLSS, and not correlated with relative running speed at the MLSS (
+Table 1
+; 
+Figure 6
+). Relative running power at the MLSS was not correlated with absolute 
+
+V
+
+·
+
+O
+2
+ at the MLSS, but it was strongly correlated with relative 
+
+V
+
+·
+
+O
+2
+ and absolute running speed at the MLSS and moderately correlated with rela
+
+----
+
+Discussion
+
+The results from this investigation support the use of Stryd in research and applied settings. The Stryd running power metric was stable during 30-min constant-speed running trials, repeatable across trials at the MLSS, and sensitive enough to differentiate between trials performed at running speeds of 5% below, at, and 5% above the MLSS threshold. Running power was strongly correlated with running speed and 
+
+V
+
+·
+
+O
+2
+ during constant-speed exercise relative to the GET and MLSS, supporting its use as a training intensity metric. Furthermore, running power measurements at the MLSS were strongly associated with both the 
+
+V
+
+·
+
+O
+2
+ and running speed at the MLSS. Although metabolic power was strongly associated with absolute Stryd
+MET
+, it appears that Stryd power cannot provide an indication of RE in isolation from metabolic data, as the associations between metabolic power and Stryd
+MECH
+ were weak. Despite this finding, the mechanical running efficiency derived using Stryd (i.e., EFF) remained consistent and proportional at various exercise intensities near the MLSS threshold.
+
+4.1. Stability, Sensitivity, and Reliability
+
+Mean running power measurements were similar across the 10- and 30-min timepoints during constant-speed running trials at 5% below, at, and 5% above the MLSS. Along with a strong correlation, zero bias, and narrow LOA between time points, these findings indicate that the Stryd signal remained stable during constant-speed treadmill running. Running power across two runs at the MLSS was also strongly correlated, with a near-zero bias and narrow LOA, indicating the excellent day-to-day reliability of the metric. Furthermore, the Stryd power metric was able to distinguish between exercise intensities near the MLSS. In agreement with our results, previous investigations also reported that Stryd running power was stable during constant-speed running [
+33
+], repeatable [
+11
+], and sensitive between conditions [
+34
+]; however, our investigation is the first to evaluate these running power parameters near the MLSS, an important threshold for training programs and fitness assessment [
+35
+,
+36
+]. In support of the Stryd running power metric results, besides a significantly lower RPE measurement during the second compared to the first MLSS trial (i.e., 0.8 units on the Borg 6–20 scale), which may indicate increased comfort during testing, the 
+
+V
+
+·
+
+O
+2
+ (
+Table 2
+) and other physiological and perceptual responses to running near the MLSS were also stable, sensitive, and reliable (
+Table S1
+).
+
+4.2. Stryd Running Power and Exercise Intensity
+
+The strong associations observed between running power, 
+
+V
+
+·
+
+O
+2
+, and speed support the use of Stryd running power to guide exercise training relative to the exercise intensity domains. Of note, the relationship between Stryd running power and 
+
+V
+
+·
+
+O
+2
+, considered at the group level, was stronger when running power was expressed in absolute units, whereas the relationship between Stryd running power and speed, at the group level, was stronger when running power was expressed in relative units. In practice, our results suggest that absolute Stryd power may be best used as a metric to approximate the rate of absolute oxygen consumption, while relative running power may be best used to indicate running speed—at least during treadmill running. Due to the varying methodological approaches used to establish 
+
+V
+
+·
+
+O
+2
+–power relationships in previous research [
+11
+,
+17
+,
+1
+
+----
+
+conclusion, although Stryd could not quantify RE in isolation, it provided a stable, sensitive, and reliable metric that can estimate aerobic fitness, delineate exercise intensities, and approximate the metabolic requirements of running near the MLSS.
+
+Keywords:
+ wearable technology, running economy, critical intensity, human performance, inertial measurement unit, treadmill
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2023 Sep 27; Revised 2023 Oct 20; Accepted 2023 Oct 23; Collection date 2023 Nov.
+
+1. Introduction
+
+A consensus regarding an approach to evaluate mechanical running power output (PO) is lacking, resulting in a range of PO values for a given running speed, depending on the method [
+1
+,
+2
+]. During level running, the working muscles transfer energy to produce and absorb the forces needed to move body segments. As a result, there is no dissipative load external to the body that can be measured to quantify mechanical PO. Instead, running mechanical PO measurements may be derived from “external” or “internal” work perspectives by evaluating the centre of mass (CoM) or the body segments, respectively [
+1
+,
+2
+,
+3
+]. Such approaches require sophisticated laboratory assessments of joint kinetics and/or kinematics based on ground reaction force and motion-capture data. Several methodological challenges also limit the utility of running mechanical PO to approximate the metabolic work rate [
+1
+,
+3
+], and, in contrast to cycling, where there is a strong relationship between mechanical and metabolic PO [
+4
+,
+5
+], many factors complicate the relationship between mechanical and metabolic PO when running [
+6
+,
+7
+,
+8
+]. Nevertheless, a wearable running device that can quantify and monitor training intensity, analogous to a cycling power meter [
+9
+,
+10
+], would be useful to guide training and maximize running performance.
+
+Several consumer technologies providing a running power metric have been developed [
+11
+,
+12
+]. These technologies derive a measurement of mechanical PO using estimates of ground reaction forces, CoM velocity, and/or vertical displacement from global positioning system (GPS) and/or inertial measurement unit (IMU) sensor data [
+11
+,
+12
+,
+13
+]. Previously, the Stryd running power device (a portable IMU), has provided the closest relationship with 
+
+V
+
+·
+
+O
+2
+ when compared to other available commercial devices [
+11
+]. Possibly by generating a running power metric based on estimates of horizontal velocity and vertical displacement using acceleration data, it is purported that Stryd power can be used as a proxy for metabolic PO, despite changes in external conditions such as air resistance or gradient [
+13
+]. Thus, Stryd running power can theoretically quantify training intensity in a manner analogous to cycling mechanical PO and could be superior to conventional measurement approaches using running speed. Despite evidence of repeatability [
+11
+], reliability [
+14
+,
+15
+], stability during prolonged running [
+16
+], and strong linear correlations with running speed [
+17
+,
+18
+], limited research has investigated the Stryd running metric at stable metabolic work rates relative to exercising thresholds. Thus, to determine the utility of Stryd power to indicate relative exercise intensity and assess running fitness and performance, the relationship between Stryd mechanical power and metabolic power needs to be established using
+
+----
+
+limitations related to the accurate detection of changing RE [
+37
+,
+47
+] and the quantification of running mechanical PO [
+39
+], our data suggest that foot-worn running power metrics can still be used to monitor training and quantify running performance. Although these findings do question the ability of Stryd running power to accurately represent the running mechanical PO, we suggest that a wearable running power device need not evaluate running power in a manner that is true to the definition of mechanical PO to be useful. Indeed, as the relationship between metabolic demand and measurements of running mechanical PO may vary with running speed, incline, and surface [
+6
+,
+7
+,
+8
+], a running training tool that provides a consistent and seemingly equivalent evaluation of metabolic demand may be more useful than one that evaluates external work rate, particularly for such applied uses.
+
+4.5. Experimental Considerations
+
+Several limitations warrant discussion. Firstly, as all testing was performed on a treadmill with a fixed incline (1%), it remains unknown whether our findings can be extended to outdoor running conditions under variable running gradients, surfaces, or air resistances. With varying inclines, Stryd has shown evidence of repeatability [
+11
+] and strong correlations with 
+
+V
+
+·
+
+O
+2
+ [
+11
+,
+18
+,
+39
+], but the influence of variable running gradients and surfaces on metabolic cost requires further investigation. Secondly, it remains unknown whether Stryd power can adjust for changes in air resistance, such as changes in wind speed. For example, changes in air resistance (e.g., wind, drafting, or drag) impact the cycling 
+
+V
+
+·
+
+O
+2
+–speed relationship [
+45
+] without influencing the 
+
+V
+
+·
+
+O
+2
+–PO relationship. As Stryd seemingly derives its estimate of running power by quantifying positive changes in vertical displacement and horizontal velocities, whether it can account for the increases in mechanical PO required to overcome greater air resistance is unclear [
+13
+]. Despite evidence that Stryd may detect changes in wind speed [
+48
+] and has introduced a metric, “Air power”, to adjust running power based on changes in air resistance from increasing or decreasing wind speeds and/or running speeds [
+49
+], it remains unknown whether the Stryd power metric–
+
+V
+
+·
+
+O
+2
+ relationship is linear in uncontrolled environments. 
+
+5. Conclusions
+
+A wide variety of internal and external load-monitoring methods have been used in endurance sports, such as running speed and pace, RPE, [BLa], HR, step count, step frequency, and distance [
+50
+]; however, none of these variables provide a continuous, instantaneous, and reliable method to measure training intensity, and imprecise measurements of training stress may negatively affect performance and elevate injury risk. With evidence of stability, reliability, and sensitivity, our study suggests that Stryd’s foot-worn wearable device can be used to monitor training intensity and quantify aerobic fitness. While the impact of variable running gradients, surfaces, and air resistance on the Stryd running power metric still needs to be assessed, our results support the use of Styrd running power to delineate exercise intensity domains, guide training intensity, and assess aerobic fitness during level treadmill running.
+
+Table 4
+
+Mean metabolic and mechanical power measures during the moderate-intensity step (MOD) and during constant-speed running 5% below, at, and 5% above the maximal lactate steady st
+
+----
+
+acknowledge the contributions of all participants, students, faculty, and staff, who assisted and made this investigation possible. 
+
+Footnotes
+
+Disclaimer/Publisher’s Note:
+ The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+References
+
+1.
+
+Williams K.R., Cavanagh P.R. A model for the calculation of mechanical power during distance running. J. Biomech. 1983;16:115–128. doi: 10.1016/0021-9290(83)90035-0.
+
+2.
+
+Arampatzis A., Knicker A., Metzler V., Bruggemann G.P. Mechanical power in running: A comparison of different approaches. J. Biomech. 2000;33:457–463. doi: 10.1016/S0021-9290(99)00187-6.
+
+3.
+
+Willems P.A., Cavagna G.A., Heglund N.C. External, internal and total work in human locomotion. J. Exp. Biol. 1995;198:379–393. doi: 10.1242/jeb.198.2.379.
+
+4.
+
+Ettema G., Loras H.W. Efficiency in cycling: A review. Eur. J. Appl. Physiol. 2009;106:1–14. doi: 10.1007/s00421-009-1008-7.
+
+5.
+
+Keir D.A., Paterson D.H., Kowalchuk J.M., Murias J.M. Using ramp-incremental 
+
+V
+
+·
+
+O2 responses for constant-intensity exercise selection. Appl. Physiol. Nutr. Metab. 2018;43:882–892. doi: 10.1139/apnm-2017-0826.
+
+6.
+
+Rasica L., Porcelli S., Minetti A., Pavei G. Biomechanical and metabolic aspects of backward (and forward) running on uphill gradients: Another clue towards an almost inelastic rebound. Eur. J. Appl. Physiol. 2020;120:2507–2515. doi: 10.1007/s00421-020-04474-7.
+
+7.
+
+Monte A., Maganaris C., Baltzopoulos V., Zamparo P. The influence of Achilles tendon mechanical behaviour on “apparent” efficiency during running at different speeds. Eur. J. Appl. Physiol. 2020;120:2495–2505. doi: 10.1007/s00421-020-04472-9.
+
+8.
+
+Lejeune T.M., Willems P.A., Heglund N.C. Mechanics and energetics of human locomotion on sand. J. Exp. Biol. 1998;201:2071–2080. doi: 10.1242/jeb.201.13.2071.
+
+9.
+
+Jamnick N.A., By S., Pettitt C.D., Pettitt R.W. Comparison of the YMCA and a custom submaximal exercise test for determining 
+
+V
+
+·
+
+O2max. Med. Sci. Sports Exerc. 2016;48:254–259. doi: 10.1249/MSS.0000000000000763.
+
+10.
+
+Passfield L., Hopker J.G., Jobson S., Friel D., Zabala M. Knowledge is power: Issues of measuring training and performance in cycling. J. Sports Sci. 2017;35:1426–1434. doi: 10.1080/02640414.2016.1215504.
+
+11.
+
+Cerezuela-Espejo V., Hernández-Belmonte A., Courel-Ibáñez J., Conesa-Ros E., Mora-Rodríguez R., Pallarés J.G. Are we ready to measure running power? Repeatability and concurrent validity of five commercial technologies. Eur. J. Sport. Sci. 2021;21:341–350. doi: 10.1080/17461391.2020.1748117.
+
+12.
+
+Jaen-Carrillo D., Roche-Seruendo L.E., Carton-Llorente A., Ramirez-Campillo R., Garcia-Pinillos F. Mechanical power in endurance running: A scoping review on sensors for power output estimation during running. Sensors. 2020;20:6482.  doi: 10.3390/s20226482.
+
+13.
+
+Stryd T. How to Lead the Pack: Running Power Meters & Quality Data. 2022.  [(accessed on 11 January 2022)].  Available online:  
+https://blog.stryd.com/2017/12/07/how-to-lead-the-pack-running-power-meters-quality-data/
+
+14.
+
+García-Pinillos F., Roche-Seruendo L.E., Marcén-Cinca N., Marco-Contreras L.A., Latorre-Román P.A. Absolute reliability and concurrent validity of the Stryd system for the assessment of running

@@ -1,0 +1,705 @@
+
+Abstract
+
+The optimisation of muscle recovery from exercise-induced muscle damage (EIMD) is a major issue in sports medicine. This comprehensive review examines the effects of four environmental stressors, including cold (cold therapy), heat (heat therapy), hot–cold alternation (contrast therapy) and reduced oxygen availability (hypoxia therapy), on muscle recovery following EIMD. The analysis of related randomised controlled trials assessed the influences of these stressors on five markers of recovery (muscular performance, joint amplitude, muscle pain, swelling and blood biomarkers). Although cold therapy has been widely studied, the lack of consensus on its application modalities leads to controversial debates regarding its effectiveness for muscle recovery. Heat therapy, particularly hot water immersion, appears to be the most effective method for restoring muscle function. However, the use of local heating techniques is less well understood. Moreover, contrast therapy seems to be promising for reducing swelling post-EIMD; however, the lack of studies and the variety of utilised techniques involving contrast therapy limit conclusions. Finally, local hypoxia, which is elicited by intermittent blood flow restriction, demonstrates potential for reducing inflammation and improving the recovery of muscle function, based on the appropriate application of protocols. By synthesising existing data, this comprehensive review shows that most environmental stress-based therapies can be effective, if the modalities of application—such as dose or frequency—are appropriate. It offers practical recommendations for optimising muscle recovery. This review also highlights the need for further research to refine protocols and better understand the potential synergistic effects of these environmental stress-based interventions.
+
+Supplementary Information
+
+The online version contains supplementary material available at 10.1007/s40279-025-02300-8.
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-in-collection-domain
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Accepted 2025 Aug 4; Issue date 2025.
+
+Key Points
+
+The efficacy of environmental stress-based therapies is mainly determined by the dose, i.e., the intensity, duration and timing of application, rather than by the technique employed.
+
+Determining endogenous response thresholds would make it possible to individualise treatments and reduce inter-individual response variability induced by exogenous dosage.
+
+Combined effects, such as hypoxia combined with heat or cold, should be explored to optimise the recovery process.
+
+Introduction
+
+In sports medicine, the use of environmental stressors, such as cold, heat or hypoxia, has recently generated substantial interest in optimising muscle recovery and regeneration following traumatic exercise or injuries. Although most of the research in this area has been conducted on animal models [
+1
+–
+3
+], physiological responses to these stressors have also been explored in humans [
+4
+–
+7
+]. To synthesise the current knowledge regarding this topic, key reviews [
+8
+–
+12
+] have recently been published focusing on each of these environmental stressors.
+
+From a mechanical point of view, cold therapy causes vasoconstriction, thereby limiting the blood supply to the treated areas [
+13
+, 
+14
+]. While this reduced perfusion may limit oxygen delivery, it is offset by a parallel decrease in metabolic activity [
+15
+] and o
+
+----
+
+
+Introduction
+
+In sports medicine, the use of environmental stressors, such as cold, heat or hypoxia, has recently generated substantial interest in optimising muscle recovery and regeneration following traumatic exercise or injuries. Although most of the research in this area has been conducted on animal models [
+1
+–
+3
+], physiological responses to these stressors have also been explored in humans [
+4
+–
+7
+]. To synthesise the current knowledge regarding this topic, key reviews [
+8
+–
+12
+] have recently been published focusing on each of these environmental stressors.
+
+From a mechanical point of view, cold therapy causes vasoconstriction, thereby limiting the blood supply to the treated areas [
+13
+, 
+14
+]. While this reduced perfusion may limit oxygen delivery, it is offset by a parallel decrease in metabolic activity [
+15
+] and oxygen demand [
+16
+]
+.
+ This reduction in tissue temperature could delay or reduce delayed onset muscle soreness (DOMS) [
+17
+, 
+18
+], oedema [
+19
+–
+21
+], inflammation [such as changes in nuclear factor kappa B (NF-κB) and tumour necrosis factor alpha (TNF-α)] and proinflammatory macrophage 1 (M1) infiltration [
+22
+–
+24
+]. However, the severity of muscle injury may condition how cold therapy modulates the regenerative process, highlighting the complexity of its physiological effects. Indeed, in cases of substantial muscle injury, these changes could impair the clearance of the damaged tissue and limit the activation of satellite cells, thereby compromising muscle regeneration after injury [
+23
+–
+25
+]. Nevertheless, for injuries in which necrosis is limited to a small fraction of myofibers (< 10%), a recent animal study suggests that cold therapy could promote regeneration by limiting secondary damage and enhancing satellite cell activation [
+26
+]. Although these effects are well documented in animals, their translation to humans remains uncertain. For instance, according to Peake et al. [
+27
+], immersing the lower body in cold water (10 °C) for 10 min (CWI) does not significantly attenuate inflammatory responses compared with active recovery from resistance exercise.
+
+Unlike cold therapy, heat therapy (HT) causes vasodilation in the treated area [
+28
+, 
+29
+], thereby improving the supply of nutrients to muscle tissue [
+30
+], which can accelerate the elimination of metabolites and substances that sensitise muscle nociceptors [
+31
+]. Nevertheless, according to the Arrhenius equation [
+32
+], the increase in tissue temperature also leads to a passive rise in metabolic demand (~ 7% increase per °C) [
+33
+, 
+34
+], which could partially limit the benefits of increased oxygen and nutrient delivery. In parallel, HT can also activate heat shock proteins (HSPs) [
+1
+, 
+35
+], which protect cells from oxidative stress and inflammation [
+8
+], while also stimulating molecular pathways involved in muscle repair, including the upregulation of genes associated with growth and differentiation [
+36
+].
+
+Contrast therapy (CT), which involves alternating cycles of heat and cold exposure, offers a different approach to HT and cold therapy for thermal treatment. Most of the physiological effects attributed to CT depend on substantial fluctuations in tissue temperatures [
+37
+]. A previous study proposed that contrast water therapy (CWT) may help to reduce inflammation and oedema by inducing alternating vasoconstriction and vasodilation effects in the peripheral blood vessels [
+38
+]. It can also decrease muscle spasms and improve range of mot
+
+----
+
+
+Methods
+
+The impacts of cold therapy, HT, CT and hypoxia therapy on muscle recovery were assessed by using the five EIMD criteria (MP, ROM, BM, SOR and SWELL). For MP, a variety of techniques for assessing muscle efficiency were grouped together, including maximal voluntary isometric or concentric contraction, the rate of torque/force development, vertical jump and sprint. For BM, several blood biomarkers, such as creatine kinase (CK), myoglobin (Mb), lactate dehydrogenase (LDH), C-reactive protein (CRP), various cytokines [including interleukin-6 (IL-6), interleukin-12 (IL-12), interleukin-1 alpha (IL-1α), and TNF-α] and proteins linked to cellular stress [such as protein carbonyls (PCs), alanine transaminase (ALT), aspartate transaminase (AST), chemokine ligand 2 (CCL2), fractalkine (CX3CL1), HSP70, HSP90 and cluster of differentiation 68 (CD68 +)] were recorded.
+
+Search Strategies and Selection of Studies
+
+The included studies were methodically selected via a keyword-based search in the PubMed database, which targeted titles and abstracts available up to March 2025. The search strategy included terms related to muscle damage, recovery, and various therapeutic interventions (such as cold therapy, HT, CT and hypoxia therapy). The complete list of keywords is provided in the electronic supplementary document (Online Resource 1)
+.
+ While this is a comprehensive review, key elements of the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) 2020 guidelines [
+50
+] were followed to enhance the methodological quality and consistency of the search and selection process.
+
+To ensure the relevance of the included studies in this comprehensive review, selection criteria were applied. Studies that were not available in full text or not published in English were initially excluded. A preliminary screening of the titles and abstracts was then conducted to remove irrelevant studies, including nonhuman studies (such as cellular or animal studies), literature reviews and studies that did not address the effects of any of the aforementioned environmental stress-based therapies on post-EIMD muscle recovery.
+
+The full-text articles of the remaining studies were obtained and evaluated for eligibility. In addition, the reference lists of the selected studies and prior reviews were screened to identify any other relevant studies that may have been missed within the search.
+
+The included studies were required to be RCTs that were published in peer-reviewed journals and that evaluated the effects of cold, HT, CT or hypoxia therapies before or after EIMD. Studies were retained only if they involved a protocol for inducing muscle damage via eccentric effort, included a control group with passive recovery or a sham intervention, and measured at least one functional marker (i.e., MP or ROM) and one inflammatory marker (i.e., SWELL, SOR or BM). Furthermore, the studies were required to have ensured a follow-up of at least 48 h post-exercise. Studies were excluded if they mainly induced fatigue instead of muscle damage (via prolonged endurance effort) or if they involved contact sports that could generate additional damage independent of eccentric effort. In addition, studies combining several treatments that were likely to bias the effects of the environmental stressors (such as the application of cold therapy combined with massage), studies involving more than one session of EIMD, and studies that failed to reveal any reduction in function
+
+----
+
+
+Methods
+
+The impacts of cold therapy, HT, CT and hypoxia therapy on muscle recovery were assessed by using the five EIMD criteria (MP, ROM, BM, SOR and SWELL). For MP, a variety of techniques for assessing muscle efficiency were grouped together, including maximal voluntary isometric or concentric contraction, the rate of torque/force development, vertical jump and sprint. For BM, several blood biomarkers, such as creatine kinase (CK), myoglobin (Mb), lactate dehydrogenase (LDH), C-reactive protein (CRP), various cytokines [including interleukin-6 (IL-6), interleukin-12 (IL-12), interleukin-1 alpha (IL-1α), and TNF-α] and proteins linked to cellular stress [such as protein carbonyls (PCs), alanine transaminase (ALT), aspartate transaminase (AST), chemokine ligand 2 (CCL2), fractalkine (CX3CL1), HSP70, HSP90 and cluster of differentiation 68 (CD68 +)] were recorded.
+
+Search Strategies and Selection of Studies
+
+The included studies were methodically selected via a keyword-based search in the PubMed database, which targeted titles and abstracts available up to March 2025. The search strategy included terms related to muscle damage, recovery, and various therapeutic interventions (such as cold therapy, HT, CT and hypoxia therapy). The complete list of keywords is provided in the electronic supplementary document (Online Resource 1)
+.
+ While this is a comprehensive review, key elements of the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) 2020 guidelines [
+50
+] were followed to enhance the methodological quality and consistency of the search and selection process.
+
+To ensure the relevance of the included studies in this comprehensive review, selection criteria were applied. Studies that were not available in full text or not published in English were initially excluded. A preliminary screening of the titles and abstracts was then conducted to remove irrelevant studies, including nonhuman studies (such as cellular or animal studies), literature reviews and studies that did not address the effects of any of the aforementioned environmental stress-based therapies on post-EIMD muscle recovery.
+
+The full-text articles of the remaining studies were obtained and evaluated for eligibility. In addition, the reference lists of the selected studies and prior reviews were screened to identify any other relevant studies that may have been missed within the search.
+
+The included studies were required to be RCTs that were published in peer-reviewed journals and that evaluated the effects of cold, HT, CT or hypoxia therapies before or after EIMD. Studies were retained only if they involved a protocol for inducing muscle damage via eccentric effort, included a control group with passive recovery or a sham intervention, and measured at least one functional marker (i.e., MP or ROM) and one inflammatory marker (i.e., SWELL, SOR or BM). Furthermore, the studies were required to have ensured a follow-up of at least 48 h post-exercise. Studies were excluded if they mainly induced fatigue instead of muscle damage (via prolonged endurance effort) or if they involved contact sports that could generate additional damage independent of eccentric effort. In addition, studies combining several treatments that were likely to bias the effects of the environmental stressors (such as the application of cold therapy combined with massage), studies involving more than one session of EIMD, and studies that failed to reveal any reduction in function
+
+----
+
+
+Results
+
+The analysis identified 37 studies focusing on cold therapy (see Tables 
+1
+ and 
+2
+ in Sect. 
+3.1
+), 22 studies on HT (see Tables 
+3
+ and 
+4
+ in Sect. 
+3.2
+), 5 studies on CT (see Tables 
+5
+ and 
+6
+ in Sect. 
+3.3
+), and 7 studies on hypoxia therapy (see Tables 
+7
+ and 
+8
+ in Sect. 
+3.4
+). HT studies had the highest proportion of untrained subjects (77%), followed by cold therapy studies (58%), with both types of studies involving a majority of males (> 75%). Although less studied, CT demonstrated a more balanced population in terms of sex (~ 1/3 female), whereas hypoxia remained largely predominant in male participants (94%). However, both approaches involved a greater proportion of trained subjects (57–60%). These results highlight the underrepresentation of females.
+
+Table 1
+
+Summary of cold therapy studies
+
+References
+
+First author, year
+
+n
+, sex, age, training status, 
+n
+/grp
+
+Muscle: exercise
+
+Cold stressor
+
+Beneficial effect
+
+Adverse effect
+
+Neutral effect
+
+[
+53
+]
+
+Paddon-Jones, 1997
+
+8 M, 23 ± 2 years, (UT), 8/grp
+
+Elbow flexors: 8 × 8 max. eccentric contractions at 110% of 1RM. Performed in each arm
+
+CWI: 5 °C for 5 × 20 min (60 min rest), applied 0 h post-EIMD
+
+X
+
+X
+
+MP, SOR, SWELL
+
+[
+54
+]
+
+Kuligowski, 1998
+
+28 M, 28F, 21 ± 3 years, (UT), 14/grp
+
+Elbow flexors: 5 × 10 max. eccentric contractions at 1RM + 2.27 kg, lowered by 2.27 kg if < 10 reps
+
+CWI: 12.8 °C for 24 min, applied 0–72 h (each day) post-EIMD
+
+SOR, ROM
+
+X
+
+MP
+
+[
+55
+]
+
+Eston, 1999
+
+15F, 22 ± 2 years, (UT), 7–8/grp
+
+Elbow flexors: 8 × 5 max. eccentric and concentric contractions at 30°/s
+
+CWI: 15 °C for 5 × 20 min, separated by 60 min rest intervals, applied 0–72 h post-EIMD (each 12 h)
+
+ROM, BM
+
+X
+
+MP, SOR, SWELL
+
+[
+56
+]
+
+Nosaka, 2004
+
+20F, 20 ± 3 years (UT), 10/grp
+
+Elbow flexors: 12 max. eccentric contractions at 45°/s of each arm on two separate occasion (4 weeks between)
+
+Ice Pack: 0 °C for 15 min. (− 8 °C, 26.4 °C muscle °C), applied 0 h pre-EIMD
+
+X
+
+X
+
+MP, SOR, SWELL, ROM, BM
+
+[
+57
+]
+
+Skurvydas, 2006
+
+20 M, 20 ± 2 years, (UT), 20/grp
+
+Quadriceps: 100 DJ, 0.75 m box and upon landing jumped up max
+
+CWI: 15 °C for 2 × 15 min (10 min rest), applied 0, 4, 8, 24 h post-EIMD
+
+MP, SOR, BM
+
+X
+
+X
+
+[
+58
+]
+
+Sellwood, 2007
+
+11 M, 29F, 21 ± 4 years, (UT), 20/grp
+
+Quadriceps: 5 × 10 eccentric contractions at 120% 1RM
+
+CWI: 5 °C for 3 × 1 min (1 min rest), applied 0 h post-EIMD
+
+X
+
+SOR
+
+MP, BM
+
+[
+59
+]
+
+Goodall, 2008
+
+18 M, 24 ± 5 years, (TR), 9/grp
+
+Quadriceps: 5 × 20 DJ, 0.6 m box and upon landing jumped up max
+
+CWI: 15 °C for 12 min, applied at 0–72 h (each day) post-EIMD
+
+X
+
+X
+
+MP, SOR, SWELL, BM
+
+[
+6
+]
+
+Vaile, 2008
+
+38 M, 32 ± 4 years (TR), 11–15/grp
+
+Quadriceps: 5 × 10 eccentric contractions at 120% 1RM + 2 × 10 eccentric contractions at 100% 1RM of leg press eccentric contractions
+
+CWI: 15 °C for 14 min, applied at 0–72 h (each day) post-EIMD
+
+MP, SWELL, BM
+
+X
+
+SOR
+
+[
+60
+]
+
+Jakeman, 2009
+
+18F, 20 ± 1 years, (UT), 9/grp
+
+Quadriceps: 10 × 10 CMJ
+
+CWI: 10 °C for 10 min, applied 0 h post-EIMD
+
+X
+
+X
+
+MP, SOR, BM
+
+[
+61
+]
+
+Hausswirth, 2011
+
+9 M, 32 ± 6 years, (TR), 9/grp
+
+Quadriceps: five blocks: block 1: 6 min flat (0% gradient) + 3 min uphill (+ 10% gradient) + 3 min downhill (− 15% gradient). Blocks 2–5: 3 min flat + 3 min uphill + 3 min downhill
+
+WBC: − 110 °C for 3 min, applied 0–48 h (each day) post-EIMD
+
+MP, SOR
+
+X
+
+BM
+
+[
+62
+]
+
+Pointon, 2011
+
+10 M, 21 ± 2 years, (TR), 10/grp
+
+Quadriceps: 6 × 25 max. concentric and eccentric contractions at 60 and 120°/s respec
+
+----
+
+
+Discussion
+
+The aim of this comprehensive review was to assess the efficacy of cold therapy, HT, CT and hypoxia therapy on muscle recovery post-EIMD. At first glance, when all techniques and application modalities are considered together, the overall effectiveness of recovery strategies appears inconsistent, with generally modest benefits. However, when studies are filtered first by application timing, then by technique, and finally by specific parameters within each technique, clearer putative patterns emerged. These observations suggest that most recovery techniques can be effective when applied under appropriate conditions, highlighting the importance of optimising the ‘how’ rather than questioning the ‘what’. In this section, we discuss these findings and their implications for refining muscle recovery strategies (see summaries in Tables 
+9
+, 
+10
+, 
+11
+, 
+12
+, presented respectively at the end of Sects. 
+4.1
+, 
+4.2
+, 
+4.3
+, 
+4.4
+).
+
+Table 9
+
+Key points of cold therapy
+
+Section
+
+Key observations
+
+Practical implications
+
+Description
+
+37 studies, 20% female participants, avg. age 23 ± 4 years. Most were untrained (58%). Techniques: WBC, PBC, CWI, localised (ice bags, cold air-pulsed, cold wraps, PCM)
+
+Not representative of a mixed sporting population. To be considered
+
+Overall effectiveness
+
+Only a third of studies observed benefits on inflammation management and functional muscle recovery
+
+Across all techniques, cold therapy provides poor recovery benefits
+
+Timing effect
+
+Most trials (98%) used cold therapy post-EIMD. One study tested pre-EIMD cold therapy and found no benefits
+
+Cold therapy pre-EIMD is not recommended owing to its inefficiency and potential negative effects (performance and risk of injury)
+
+Method comparison
+
+CRYO is an effective technique for improving muscle recovery, with most studies reporting benefits on MP, and half or slightly more reporting benefits on SWELL and SOR
+
+Optimal modalities: − 110 to − 195 °C for 3 min
+
+CRYO appears to be the most effective cold therapy for improving muscle performance recovery
+
+CWI is the least effective technique when considering the whole immersion temperature range (5–20 °C)
+
+However, many studies involving immersion at 11–15 °C showed clear benefits in terms of restoring muscle function. Half also reported positive effects on inflammation management
+
+Avoid CWI ≤ 10 °C owing to its lack of efficiency post-EIMD
+
+Using CWI at 11–15 °C seems to be a very good alternative to CRYO for improving post-EIMD recovery
+
+Around half the studies on local cold therapy report a reduction in SOR, while a third or fewer observe effects on other recovery indicators
+
+Local cold therapy seems only moderately effective in relieving muscle pain
+
+Avg. average, CRYO cryotherapy, CWI
+ cold water immersion, 
+EIMD
+ exercise induced muscle damage, 
+MP
+ muscular performance, 
+PBC
+ partial-body cryotherapy, 
+PCM
+ phase change material
+, SOR
+ soreness, 
+SWELL
+ swelling, 
+WBC
+ whole-body cryotherapy
+
+Table 10
+
+Key points of heat therapy
+
+Section
+
+Key observations
+
+Practical implications
+
+Description
+
+21 studies, 23% female participants, avg. age 23 ± 3 years. Most were untrained (77%). Techniques: HWI, HC, L-DH (SWD, MD, US, FIR), L-SH (heat pad, heat pack, heat wrap, water circulation garment)
+
+Not representative of a mixed sporting population. To be considered
+
+Overall effectiveness
+
+Half of the studies on HT observed an improvement in muscle function recovery (MP, ROM), but less than a quarter reported a
+
+----
+
+
+Conclusions
+
+Although the overall efficacy of environmental stress-based therapies seems inconsistent, trends emerge when studies are categorised by application timing, technique and parameters. This suggests that most environmental stress-based therapies can be effective if the modalities of application (dose, frequency and timing) are appropriate.
+
+Cold therapy
+ When all techniques are pooled together, cold therapy appears to yield limited overall effectiveness. Whole- and partial-body cryotherapy provide recovery benefits in terms of muscle performance, swelling and soreness. Regarding cold water immersion, its effectiveness is temperature-dependent, with immersions at 11–15 °C being more efficient for muscle recovery than lower temperatures. Finally, local cold therapy is moderately effective in reducing muscle soreness, but its impact on other recovery indices seems limited.
+
+Heat therapy
+ Overall, heat therapy appears to support muscle function recovery after exercise-induced damage, as suggested by most available studies. Evidence suggests that hot water immersion may be effective in promoting muscle function recovery when applied at 41–44 °C for 40–45 min, or at slightly lower temperatures if used repeatedly across several days (3–4). Concerning superficial localised heating, it demonstrates promise when applied immediately post-exercise, but its efficacy drops significantly with delays. Lastly, deep localised heating shows more modest efficacy, mainly due to sub-optimal application protocols (inappropriate dose).
+
+Contrast therapy
+ Data on contrast therapy highlight benefits in reducing swelling, although its impact on other recovery markers remains limited. However, adjusting the protocol to alternate between a 15 °C cold bath and a 38 °C hot bath every min for 14 min may enhance most muscle recovery outcomes. In addition, emerging techniques (such as far-infrared lamps and cold pulsed air) may enhance blood flow more effectively than traditional contrast water therapy, warranting further research.
+
+Hypoxia therapy
+ Finally, hypoxia therapy via intermittent compression provides benefits for muscle recovery, especially at high compression pressures (190–220 mmHg, ~ 80% occlusion). Furthermore, application pre- or post-exercise appears to have different effects on inflammatory markers, but improved muscle function is observed in both cases. Comparatively, intermittent systemic hypoxia remains an emerging approach, with limited evidence supporting its efficacy. Although preliminary results suggest potential benefits, further studies exploring alternative protocols are needed to determine the optimal parameters for muscle recovery.
+
+This comprehensive review highlights the importance of optimising application modalities for each environmental stress-based therapy to maximise benefits on muscle recovery (see infographic in Online Resource 3). Nevertheless, it is important to interpret these findings with caution owing to several methodological limitations (see Sect. 
+5
+). Moreover, muscle damage in the included studies is induced through controlled eccentric exercise protocols in laboratory settings. Although these protocols aim to replicate the eccentric loads present in many sports, they may not fully represent the muscle damage experienced in real sporting environments. Despite these limitations, this review offers valuable preliminary observations on the effects of environmental stress-based therapies. Future studies should th
+
+----
+
+
+Practical implications
+
+Description
+
+37 studies, 20% female participants, avg. age 23 ± 4 years. Most were untrained (58%). Techniques: WBC, PBC, CWI, localised (ice bags, cold air-pulsed, cold wraps, PCM)
+
+Not representative of a mixed sporting population. To be considered
+
+Overall effectiveness
+
+Only a third of studies observed benefits on inflammation management and functional muscle recovery
+
+Across all techniques, cold therapy provides poor recovery benefits
+
+Timing effect
+
+Most trials (98%) used cold therapy post-EIMD. One study tested pre-EIMD cold therapy and found no benefits
+
+Cold therapy pre-EIMD is not recommended owing to its inefficiency and potential negative effects (performance and risk of injury)
+
+Method comparison
+
+CRYO is an effective technique for improving muscle recovery, with most studies reporting benefits on MP, and half or slightly more reporting benefits on SWELL and SOR
+
+Optimal modalities: − 110 to − 195 °C for 3 min
+
+CRYO appears to be the most effective cold therapy for improving muscle performance recovery
+
+CWI is the least effective technique when considering the whole immersion temperature range (5–20 °C)
+
+However, many studies involving immersion at 11–15 °C showed clear benefits in terms of restoring muscle function. Half also reported positive effects on inflammation management
+
+Avoid CWI ≤ 10 °C owing to its lack of efficiency post-EIMD
+
+Using CWI at 11–15 °C seems to be a very good alternative to CRYO for improving post-EIMD recovery
+
+Around half the studies on local cold therapy report a reduction in SOR, while a third or fewer observe effects on other recovery indicators
+
+Local cold therapy seems only moderately effective in relieving muscle pain
+
+Avg. average, CRYO cryotherapy, CWI
+ cold water immersion, 
+EIMD
+ exercise induced muscle damage, 
+MP
+ muscular performance, 
+PBC
+ partial-body cryotherapy, 
+PCM
+ phase change material
+, SOR
+ soreness, 
+SWELL
+ swelling, 
+WBC
+ whole-body cryotherapy
+
+Table 10
+
+Key points of heat therapy
+
+Section
+
+Key observations
+
+Practical implications
+
+Description
+
+21 studies, 23% female participants, avg. age 23 ± 3 years. Most were untrained (77%). Techniques: HWI, HC, L-DH (SWD, MD, US, FIR), L-SH (heat pad, heat pack, heat wrap, water circulation garment)
+
+Not representative of a mixed sporting population. To be considered
+
+Overall effectiveness
+
+Half of the studies on HT observed an improvement in muscle function recovery (MP, ROM), but less than a quarter reported any benefit on inflammation (SWELL, SOR, BM). In particular, no study reports any benefit on SWELL
+
+Taking all techniques into account, HT is moderately effective in restoring muscle function. But it is also useless in SWELL reduction
+
+Timing effect
+
+The application pre-EIMD appears to be superior in improving ROM than post-EIMD
+
+Immediate application post-EIMD is more effective than delayed application (24–48 h later)
+
+Apply HT pre-EIMD when ROM needs to be recovered quickly
+
+Post-EIMD, HT must be applied quickly after exercise, otherwise it loses its effectiveness
+
+Method comparison
+
+Most studies (83%) indicate that HWI promotes the recovery of muscle function, and half observe a benefit on inflammation, although it has no impact on SWELL
+
+Also, its efficiency depends on the water temperature and duration of application. Optimal modalities: 41–44 °C for 38–45 min
+
+HWI is the most effective HT strategy—highly beneficial, especially for restoring muscle function and reducing some aspect of inflammatio
+
+----
+
+
+Limitations and Perspectives
+
+Research on cold, HT, CT and hypoxia therapies reveal several limitations. One major concern is the overrepresentation of untrained males, which limits the applicability of results to other populations, particularly female athletes. In addition, the heterogeneity of methods and the small number of trials involving certain techniques hinder interpretation and comparison. This methodological diversity, even within the same intervention subgroup, also made it unfeasible to consistently extract or calculate standardised effect sizes across studies, leading us to classify findings solely on the basis of reported 
+p
+-values. Furthermore, no statistical weighting was applied to account for variations in sample sizes between studies, which may limit the interpretability of comparisons. However, it is important to concede that this approach is more typical of meta-analyses than comprehensive reviews.
+
+A further limitation is the absence of analysis regarding the effectiveness of these therapies at different specific time points during recovery (e.g. 24 h, 48 h and 72 h post-exercise). Owing to variability in measurement timing and the limited number of available studies per technique, it was considered that such an analysis would not yield sufficiently reliable conclusions. However, this remains a constraint, as some recovery effects may emerge at later stages (e.g., 72 h or 96 h post-exercise) and would therefore be missed in studies stopping follow-up at 48 h. We believe that future studies should explore whether distinct recovery kinetics exist between these environmental therapies.
+
+Most studies also focused on exogenous doses, whereas identifying endogenous thresholds based on stress type could enable individualised treatments, thus enhancing the effectiveness of techniques. Moreover, further exploration is needed on combining stimuli (such as cold × hypoxia or heat × hypoxia) and their sequential application for optimal muscle recovery. The combination with other stressors, such as hyperbaric oxygen therapy, may also be a promising research avenue [
+165
+, 
+166
+].
+
+Finally, the present review was limited to the muscular levels, but similar reviews on cardiovascular, cerebral or psychological responses to cold, HT, CT and hypoxia therapies are needed. This body of research is still in the early stages, despite established mechanisms and clinical potential being evident.
+
+Conclusions
+
+Although the overall efficacy of environmental stress-based therapies seems inconsistent, trends emerge when studies are categorised by application timing, technique and parameters. This suggests that most environmental stress-based therapies can be effective if the modalities of application (dose, frequency and timing) are appropriate.
+
+Cold therapy
+ When all techniques are pooled together, cold therapy appears to yield limited overall effectiveness. Whole- and partial-body cryotherapy provide recovery benefits in terms of muscle performance, swelling and soreness. Regarding cold water immersion, its effectiveness is temperature-dependent, with immersions at 11–15 °C being more efficient for muscle recovery than lower temperatures. Finally, local cold therapy is moderately effective in reducing muscle soreness, but its impact on other recovery indices seems limited.
+
+Heat therapy
+ Overall, heat therapy appears to support muscle function recovery after exercise-induced damage, as suggested by most available studies. Evidence sugges

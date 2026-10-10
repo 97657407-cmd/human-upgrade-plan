@@ -1,0 +1,1164 @@
+
+Abstract
+
+A supervised intense aerobic exercise program improves the health of individuals with metabolic syndrome (MetS). However, it is unclear whether the timing of training within the 24 h day would influence those health benefits. The present study aimed to determine the influence of morning 
+vs
+. afternoon exercise on body composition, cardiometabolic health and components of MetS. One hundred thirty‐nine individuals with MetS were block randomized into morning (AMEX; 
+n
+ = 42) or afternoon (PMEX; 
+n
+ = 59) exercise training groups, or a non‐training control group (Control; 
+n
+ = 38). Exercise training was comprised of 48 supervised high‐intensity interval sessions distributed over 16 weeks. Body composition, cardiorespiratory fitness (assessed by 
+
+V
+
+˙
+
+O
+
+2
+
+max
+
+), maximal fat oxidation (
+FO
+
+max
+), blood pressure and blood metabolites were assessed before and after the intervention. Compared with the non‐training Control, both exercise groups improved similarly body composition (–0.7% fat loss; 
+P
+ = 0.002), waist circumference (–2.1 cm; 
+P
+ < 0.001), diastolic blood pressure (–3.8 mmHg; 
+P
+ = 0.004) and 
+
+V
+
+˙
+
+O
+
+2
+
+max
+
+ (3.5 mL kg
+−1
+  min
+−1
+; 
+P
+ < 0.001) with no differences between training groups. AMEX, in comparison with PMEX, reduced systolic blood pressure (–4% 
+vs
+. –1%; 
+P
+ = 0.019), plasma fasting insulin concentration (–12% 
+vs
+. –5%; 
+P
+ = 0.001) and insulin resistance (–14% 
+vs
+. –4%; 
+P
+ = 0.006). Furthermore, MetS 
+Z
+ score was further reduced in the AMEX compared to PMEX (–52% 
+vs
+. –19%; 
+P
+ = 0.021) after training. In summary, high‐intensity aerobic exercise training in the morning in comparison to training in the afternoon is somewhat more efficient at reducing cardiometabolic risk factors (i.e. systolic blood pressure and insulin sensitivity).
+
+Key points
+
+The effect of exercise time of day on health promotion is an area that has gained interest in recent years; however, large‐scale, randomized‐control studies are scarce.
+
+People with metabolic syndrome (MetS) are at risk of developing cardiometabolic diseases and reductions in this risk with exercise training can be precisely gauged using a compound score sensitive to subtle evolution in each MetS component (i.e. 
+Z
+ score).
+
+Supervised aerobic exercise for 16 weeks (morning and afternoon), without dietary restriction, improved cardiorespiratory and metabolic fitness, body composition and mean arterial pressure compared to a non‐exercise control group.
+
+However, training in the morning, without changes in exercise dose or intensity, reduced systolic blood pressure and insulin resistance further compared to when training in the afternoon.
+
+Thus, high‐intensity aerobic exercise training in the morning is somewhat more efficient in improving the health of individuals with metabolic syndrome.
+
+Abstract figure legend
+ Exercise training can be used as a non‐pharmacological treatment to halt, or at least reduce, the progression of the cardiovascular and metabolic derangements that compose the metabolic syndrome. Recent studies using intense interval training have spurred interest in other exercise factors that may increase exercise training effectiveness. For example, the time of day at which training takes place could modulate the health outcome. The present study randomly assigned 175 individuals with metabolic syndrome to train in the morning or afternoon, or to remain untrained. The novel finding was that working out in the morning further improved, sys
+
+----
+
+
+Introduction
+
+Metabolic syndrome (MetS) is a cluster of cardiometabolic risk factors and comorbidities conveying a high risk of cardiovascular disease and type 2 diabetes (Alberti et al., 
+2009
+). This syndrome has become a major public health threat in the US and worldwide since an estimated 33% of individuals between the ages of 20 and 60 have MetS (Aguilar et al., 
+2015
+). Lifestyle interventions based on supervised exercise are cost‐effective strategies to halt the progression in MetS that occurs with aging (Morales‐Palomo et al., 
+2023
+). The impact of exercise training on health improvements depends mainly on the frequency, intensity, time, and type of exercise (FITT (Barisic et al., 
+2011
+)). However, genetics (Bouchard et al., 
+2011
+) or even the timing of exercise concerning meal ingestion (Edinburgh et al., 
+2019
+) could modulate the training adaptations that promote health.
+
+Circadian rhythms are biological responses that follow a 24‐hour cycle and respond primarily to light and dark phases (Gabriel & Zierath, 
+2022
+). Circadian rhythms affect several physiological processes influencing appetite, sleep/wake cycles, and even exercise performance (Chaput et al., 
+2023
+; Gabriel & Zierath, 
+2019
+; Mora‐Rodríguez et al., 
+2012
+). Some authors have suggested that the desynchronization of natural circadian rhythms is at the core of the etiology of the MetS (Maury et al., 
+2010
+; Zimmet et al., 
+2019
+). Conversely, adequate timing of exercise could promote phase adjustment of circadian rhythms. Therefore, exercise used as a Zeitgeber (i.e. circadian rhythm cue) could help to fight cardiometabolic disease and MetS (Gabriel & Zierath, 
+2019
+). Timing exercise bouts to coordinate with an individual's circadian rhythms might be an efficacious strategy to optimize the health benefits of exercise.
+
+The effect of exercise time of day on health promotion is an area that has gained research interest in recent years. In the past, the time of day at which exercise was prescribed or undertaken was often unreported in protocol descriptions or not controlled. Despite recent experiments devoted to this topic, the timing of exercise remains a controversial issue, with some studies favouring evening exercise to improve glycaemic control (Savikj et al., 
+2019
+), metabolic benefits (van der Velde et al., 
+2022
+), weight loss (Di Blasio et al., 
+2010
+), fat mass loss or exercise performance (Mancilla et al., 
+2021
+). By contrast, several studies report that exercise in the morning may be associated with more effective management of obesity (Alizadeh et al., 
+2017
+; Chomistek et al., 
+2016
+; Schumacher et al., 
+2020
+; Willis et al., 
+2020
+) and lower risk of incident cardiovascular diseases (Albalak et al., 
+2022
+). Lastly, some studies argue for a lack of differential effect of exercise timing (Janssen et al., 
+2022
+) in glycaemic control (Teo et al., 
+2020
+), weight loss (Blankenship et al., 
+2021
+; Brooker et al., 
+2023
+) or cardiorespiratory fitness (CRF) levels (i.e. 
+
+V
+
+˙
+
+O
+
+2
+
+max
+
+) (Brooker et al., 
+2023
+; Mancilla et al., 
+2021
+).
+
+An intense supervised aerobic exercise program (8–20 weeks in duration) has repeatedly been shown to improve health parameters in individuals with cardiometabolic diseases (Johnson et al., 
+2007
+; Morales‐Palomo et al., 
+2019
+). However, it is unclear whether the timing of training within the 24 h day would influence those health benefits in patients with the metabolic syndrome (MetS). The present study aimed to 
+
+----
+
+
+Methods
+
+Experimental design and participants
+
+In total, 139 volunteers (49 women and 90 men; body mass index, 30.6 ± 3.0 kg m
+−2
+) fulfilling MetS criteria as per harmonized definition (Alberti et al., 
+2009
+) using population Europid waist circumference cutpoints completed the study. MetS was defined as the presence of three of the following five risk factors; elevated waist circumference (≥94 cm for males and ≥80 cm for females), elevated blood pressure (>130 mmHg for systolic and/or >85 mmHg for diastolic), elevated fasting blood glucose (≥100 mg dL
+−1
+), triglycerides (i.e. ≥150 mg dL
+−1
+) and reduced high‐density lipoprotein (HDL)‐cholesterol (i.e. <40 mg dL
+−1
+ for males and <50 mg dL
+−1
+ for females). Taking a prescription for any of the MetS components was accounted for comparable to the presence of the factor. Participants were previously inactive (<150 min week
+−1
+ of the moderate‐intensity activity assessed by 7 day International physical activity questionnaire) (Craig et al., 
+2003
+). Subjects under medical treatment were instructed to continue with their current medication prescriptions during the study (Table 
+1
+). Exclusion criteria included untreated cardiovascular or renal disease, peripheral vascular disease and any disease associated with exercise intolerance. Body weight stability in the 4 months before study enrolment was an additional requirement (gain or loss <4 kg). All subjects provided written, witnessed and informed consent under a protocol approved by the local Virgen de la Salud Hospital's Ethics Committee and in accordance with the 
+Declaration of Helsinki
+. This is a substudy part of a larger clinical trial evaluating the interactions between the timing of oral medicines, exercise training and meal intake in the evolution of the factors that compose the MetS (ClinicalTrials.gov Identifier: 
+NCT04477590
+).
+
+Table 1
+
+Participants' characteristics before the intervention
+
+AMEX (
+n
+ = 42)
+
+PMEX (
+n
+ = 59)
+
+Control (
+n
+ = 38)
+
+P
+ value
+
+Age
+
+57 ± 7
+
+56 ± 7
+
+60 ± 7
+
+0.28
+
+% Women
+
+38%
+
+36%
+
+32%
+
+0.17
+
+MetS components
+
+3.2 ± 0.9
+
+3.4 ± 1.0
+
+3.4 ± 1.0
+
+0.54
+
+Body weight (kg)
+
+82.2 ± 11.4
+
+85.7 ± 12.9
+
+87.3 ± 11.1
+
+0.15
+
+Body fat (kg)
+
+27.8 ± 5.4
+
+28.7 ± 5.8
+
+29.8 ± 6.4
+
+0.34
+
+Fat‐free mass (kg)
+
+54.4 ± 10.0
+
+57.0 ± 11.2
+
+57.5 ± 10.7
+
+0.36
+
+V
+
+˙
+
+O
+
+2
+
+max
+
+ (mL kg
+−1
+ min
+−1
+)
+
+23.3 ± 5.0
+
+24.4 ± 5.7
+
+24.2 ± 5.9
+
+0.60
+
+V
+
+˙
+
+O
+
+2
+
+max
+
+ (mL kg FFM
+−1
+ min
+−1
+)
+
+35.2 ± 6.4
+
+36.6 ± 6.9
+
+36.6 ± 6.3
+
+0.55
+
+Medication (user in %)
+
+P
+ value of Chi‐squared
+
+Anti‐hypertensive
+
+52%
+
+63%
+
+61%
+
+0.57
+
+Cholesterol‐lowering
+
+48%
+
+46%
+
+47%
+
+0.98
+
+Triglyceride‐lowering
+
+0%
+
+5%
+
+11%
+
+0.29
+
+Glucose‐lowering
+
+19%
+
+19%
+
+21%
+
+0.96
+
+No medication
+
+15%
+
+33%
+
+16%
+
+0.59
+
+One medication
+
+44%
+
+29%
+
+45%
+
+0.22
+
+Two medications
+
+36%
+
+26%
+
+21%
+
+0.28
+
+Three medications
+
+5%
+
+10%
+
+16%
+
+0.21
+
+Four medications
+
+0%
+
+2%
+
+3%
+
+0.47
+
+Data presented as the mean ± SD, FFM, fat‐free mass.
+
+John Wiley & Sons, Ltd.
+
+Volunteers were recruited, clinically screened, randomized and tested as depicted in Fig. 
+1
+ in compliance with CONSORT (Consolidated Standards of Reporting Trials). Following baseline testing, participants were randomized to one of three groups: morning exercise (AMEX), afternoon exercise (PMEX) or waitlist control (Control) at a 1:1.5:1 (AMEX:PMEX:Control) ratio using a block randomized (by sex, age and body mass index) controlled design. We increased participants in the PMEX group to represent that more individuals in our country exercise af
+
+----
+
+
+Methods
+
+Experimental design and participants
+
+In total, 139 volunteers (49 women and 90 men; body mass index, 30.6 ± 3.0 kg m
+−2
+) fulfilling MetS criteria as per harmonized definition (Alberti et al., 
+2009
+) using population Europid waist circumference cutpoints completed the study. MetS was defined as the presence of three of the following five risk factors; elevated waist circumference (≥94 cm for males and ≥80 cm for females), elevated blood pressure (>130 mmHg for systolic and/or >85 mmHg for diastolic), elevated fasting blood glucose (≥100 mg dL
+−1
+), triglycerides (i.e. ≥150 mg dL
+−1
+) and reduced high‐density lipoprotein (HDL)‐cholesterol (i.e. <40 mg dL
+−1
+ for males and <50 mg dL
+−1
+ for females). Taking a prescription for any of the MetS components was accounted for comparable to the presence of the factor. Participants were previously inactive (<150 min week
+−1
+ of the moderate‐intensity activity assessed by 7 day International physical activity questionnaire) (Craig et al., 
+2003
+). Subjects under medical treatment were instructed to continue with their current medication prescriptions during the study (Table 
+1
+). Exclusion criteria included untreated cardiovascular or renal disease, peripheral vascular disease and any disease associated with exercise intolerance. Body weight stability in the 4 months before study enrolment was an additional requirement (gain or loss <4 kg). All subjects provided written, witnessed and informed consent under a protocol approved by the local Virgen de la Salud Hospital's Ethics Committee and in accordance with the 
+Declaration of Helsinki
+. This is a substudy part of a larger clinical trial evaluating the interactions between the timing of oral medicines, exercise training and meal intake in the evolution of the factors that compose the MetS (ClinicalTrials.gov Identifier: 
+NCT04477590
+).
+
+Table 1
+
+Participants' characteristics before the intervention
+
+AMEX (
+n
+ = 42)
+
+PMEX (
+n
+ = 59)
+
+Control (
+n
+ = 38)
+
+P
+ value
+
+Age
+
+57 ± 7
+
+56 ± 7
+
+60 ± 7
+
+0.28
+
+% Women
+
+38%
+
+36%
+
+32%
+
+0.17
+
+MetS components
+
+3.2 ± 0.9
+
+3.4 ± 1.0
+
+3.4 ± 1.0
+
+0.54
+
+Body weight (kg)
+
+82.2 ± 11.4
+
+85.7 ± 12.9
+
+87.3 ± 11.1
+
+0.15
+
+Body fat (kg)
+
+27.8 ± 5.4
+
+28.7 ± 5.8
+
+29.8 ± 6.4
+
+0.34
+
+Fat‐free mass (kg)
+
+54.4 ± 10.0
+
+57.0 ± 11.2
+
+57.5 ± 10.7
+
+0.36
+
+V
+
+˙
+
+O
+
+2
+
+max
+
+ (mL kg
+−1
+ min
+−1
+)
+
+23.3 ± 5.0
+
+24.4 ± 5.7
+
+24.2 ± 5.9
+
+0.60
+
+V
+
+˙
+
+O
+
+2
+
+max
+
+ (mL kg FFM
+−1
+ min
+−1
+)
+
+35.2 ± 6.4
+
+36.6 ± 6.9
+
+36.6 ± 6.3
+
+0.55
+
+Medication (user in %)
+
+P
+ value of Chi‐squared
+
+Anti‐hypertensive
+
+52%
+
+63%
+
+61%
+
+0.57
+
+Cholesterol‐lowering
+
+48%
+
+46%
+
+47%
+
+0.98
+
+Triglyceride‐lowering
+
+0%
+
+5%
+
+11%
+
+0.29
+
+Glucose‐lowering
+
+19%
+
+19%
+
+21%
+
+0.96
+
+No medication
+
+15%
+
+33%
+
+16%
+
+0.59
+
+One medication
+
+44%
+
+29%
+
+45%
+
+0.22
+
+Two medications
+
+36%
+
+26%
+
+21%
+
+0.28
+
+Three medications
+
+5%
+
+10%
+
+16%
+
+0.21
+
+Four medications
+
+0%
+
+2%
+
+3%
+
+0.47
+
+Data presented as the mean ± SD, FFM, fat‐free mass.
+
+John Wiley & Sons, Ltd.
+
+Volunteers were recruited, clinically screened, randomized and tested as depicted in Fig. 
+1
+ in compliance with CONSORT (Consolidated Standards of Reporting Trials). Following baseline testing, participants were randomized to one of three groups: morning exercise (AMEX), afternoon exercise (PMEX) or waitlist control (Control) at a 1:1.5:1 (AMEX:PMEX:Control) ratio using a block randomized (by sex, age and body mass index) controlled design. We increased participants in the PMEX group to represent that more individuals in our country exercise af
+
+----
+
+
+Results
+
+Subjects and exercise characteristics
+
+Participants were all white living in southern Europe. Women participants comprised 35% of all subjects. Data were analysed without sex differentiation because all women were postmenopausal and were not taking hormonal replacement (Guio de Prada et al., 
+2019
+) and their responses did not differ from men's responses in primary and secondary outcomes of the study [time × sex interaction; MetS 
+Z
+ score, 
+P
+ = 0.20; body weight (kg), 
+P
+ = 0.06; 
+
+V
+
+˙
+
+O
+
+2
+
+max
+
+ (L min
+−1
+), 
+P
+ = 0.70]. No differences existed between groups at baseline in the number of women, age, body composition, number of MetS components, 
+
+V
+
+˙
+
+O
+
+2
+
+max
+
+ or medicine use (Table 
+1
+). There were also no changes in the use of medications to treat MetS after the intervention in any group (
+P
+ = 0.37 for time × group) (Table 
+3
+). There were no significant differences between exercise groups for training compliance, exercise training intensity, and exercise‐induced energy expenditure per session (all 
+P
+ > 0.05) (Table 
+2
+). The withdrawal rate was similar in all three groups (AMEX,16%; PMEX; 21%; and Control, 24%; 
+P
+ value of χ
+2
+ = 0.59) and always took place during the first 3 weeks of the experiment. Discontinuation in study participation was a result of changes in work schedule, unable to attend to the post‐16 week test and minor injuries or diseases (back pain and prolonged flu‐like symptoms) (Fig. 
+1
+).
+
+Table 3
+
+Anthropometric, metabolic syndrome factors, and clinical variables before and after 16 weeks of high‐intensity interval training
+
+AMEX (
+n
+ = 42)
+
+PMEX (
+n
+ = 59)
+
+Control (
+n
+ = 38)
+
+P
+ value (ɳ
+2
+)
+
+Baseline
+
+16 weeks
+
+Baseline
+
+16 weeks
+
+Baseline
+
+16 weeks
+
+Time
+
+Time × Group
+
+Weight (kg)
+
+82.2 ± 11.4
+
+81.4 ± 11.1
+
+85.7 ± 12.9
+
+84.7 ± 12.7
+
+87.3 ± 11.1
+
+86.9 ± 11.0
+
+0.07 (0.02)
+
+0.31 (0.02)
+
+Body mass index (kg m
+−2
+)
+
+30.0 ± 2.9
+
+29.7 ± 3.0
+
+30.5 ± 2.9
+
+30.1 ± 2.8
+
+31.6 ± 3.0
+
+31.4 ± 3.1
+
+0.40 (0.01)
+
+0.50 (0.01)
+
+Fat mass (kg)
+
+27.8 ± 5.4
+
+27.0 ± 5.4 *†
+
+28.7 ± 5.8
+
+28.0 ± 5.6 *†
+
+29.8 ± 6.4
+
+30.4 ± 6.1 *
+
+0.008 (0.05)
+
+0.002 (0.09)
+
+Fat‐free mass (kg)
+
+54.4 ± 10.0
+
+54.4 ± 9.5
+
+57.0 ± 11.4
+
+56.4 ± 10.8
+
+57.5 ± 10.7
+
+56.6 ± 10.0
+
+0.037 (0.03
+)
+
+0.13 (0.03)
+
+Waist circumference (cm)
+
+101 ± 10
+
+99 ± 10 #†
+
+105 ± 9
+
+103 ± 8 #†
+
+107 ± 8
+
+108 ± 8
+
+0.027 (0.04)
+
+<0.001 (0.20)
+
+Glucose (mg dL
+−1
+)
+
+109 ± 24
+
+108 ± 23
+
+113 ± 31
+
+114 ± 30
+
+112 ± 23
+
+111 ± 19
+
+<0.001 (0.10)
+
+0.28 (0.02)
+
+Triglycerides (mg dL
+−1
+)
+
+116 ± 52
+
+110 ± 43
+
+137 ± 77
+
+138 ± 70
+
+138 ± 69
+
+130 ± 64
+
+<0.001 (0.14)
+
+0.25 (0.02)
+
+HDL‐cholesterol (mg dL
+−1
+)
+
+49 ± 16
+
+49 ± 14
+
+46 ± 12
+
+46 ± 11
+
+46 ± 10
+
+46 ± 10
+
+<0.001 (0.18)
+
+0.94 (0.01)
+
+Systolic blood pressure (mmHg)
+
+131 ± 20
+
+126 ± 15 *†
+
+127 ± 14
+
+126 ± 13
+
+127 ± 14
+
+130 ± 13
+
+<0.001 (0.28)
+)
+
+0.019 (0.06)
+
+Diastolic blood pressure (mmHg)
+
+81 ± 11
+
+76 ± 9 #†
+
+80 ± 8
+
+77 ± 7 #†
+
+79 ± 8
+
+80 ± 7
+
+<0.001 (0.28)
+
+0.004 (0.08)
+
+MetS 
+Z
+ score
+
+0.46 ± 0.68
+
+0.22 ± 0.58 #†‡
+
+0.57 ± 0.58
+
+0.46 ± 0.51 *†
+
+0.59 ± 0.52
+
+0.61 ± 0.52
+
+0.72 
+(0.01)
+
+<0.001 (0.14)
+
+MetS prescribed medications (n)
+
+1.19 ± 1.09
+
+1.21 ± 1.07
+
+1.31 ± 0.79
+
+1.31 ± 0.79
+
+1.45 ± 1.03
+
+1.45 ± 1.03
+
+0.09 
+(0.02)
+
+0.37 
+(0.02)
+
+Mean arterial pressure (mmHg)
+
+98 ± 13
+
+93 ± 10 #†
+
+96 ± 9
+
+93 ± 8 *
+
+95 ± 10
+
+96 ± 9
+
+<0.001 (0.28)
+
+0.004 (0.08)
+
+Insulin (μU mL
+−1
+)
+
+10.5 ± 4.5
+
+9.2 ± 3.4 *†
+
+11.5 ± 5.4
+
+11.0 ± 4.9
+
+12.2 ± 5.1
+
+13.0 ± 5.0*
+
+<0.001 (0.19)
+
+0.001 (0.09)
+
+HOMA‐IR
+
+2.9 ± 1.5
+
+2.5 ± 1.3 *†
+
+3.2 ± 1.6
+
+3.1 ± 1.4
+
+3.4 
+
+----
+
+
+Discussion
+
+In the present study, individuals with MetS were block‐randomized and completed a supervised 16 week exercise‐training program either in the morning or afternoon (AMEX and PMEX groups) or continued with their habitual physical activity level (Control group). Their compliance with training was 91% of the supervised sessions and did not differ between EX groups. The 24 h calorie intake and physical activity level were similar among groups and did not change with exercise training in the EX groups. We observed the expected training adaptations in health and fitness parameters when compared to the non‐training Control group (Morales‐Palomo et al., 
+2019
+). Among those, there were small but consistent reductions in waist circumference (−2.1 ± 2.8 cm) and mean arterial pressure (−3.6 ± 1.6 mmHg), as well as increases in CRF (14% in 
+
+V
+
+˙
+
+O
+
+2
+
+max
+
+), metabolic fitness (29% in 
+FO
+
+max
+) and exercise performance (18% in cycling 
+W
+
+max
+). Those improvements were of similar magnitude in the AMEX and PMEX groups (Table 
+3
+). However, systolic blood pressure, plasma insulin concentrations and HOMA‐IR were improved significantly only in the AMEX group (Table 
+3
+). Of note, the MetS 
+Z
+ score, a compound score sensitive to subtle evolution in each MetS component, was improved in AMEX beyond the levels of the PMEX group (Fig. 
+2
+). In summary, our data suggest that high‐intensity aerobic exercise training for 16 weeks in the morning (AMEX) is more efficient at reducing insulin sensitivity [i.e. insulin concentration and insulin resistance (HOMA‐IR)] and systolic blood pressure than similar training in the afternoon (PMEX) in individuals with MetS.
+
+Several studies have explored the influence of the time of day of exercise on weight management, but the findings are mixed. We found that both training groups experienced a similar reduction in body fat (AMEX, −0.8 ± 2.1 kg; PMEX, −0.6 ± 2.2 kg; 
+P
+ < 0.05) and waist circumference (AMEX, −2.3 ± 3.2 cm; PMEX, −1.9 ± 2.3 cm; 
+P
+ < 0.05). Our results are in agreement with other studies that reported no differences in weight loss and body composition between morning and evening exercise groups (Blankenship et al., 
+2021
+; Janssen et al., 
+2022
+). By contrast, two randomized controlled trials and one review reported larger reductions in body weight in participants who performed exercise in the morning (Alizadeh et al., 
+2017
+; Schumacher et al., 
+2020
+; Willis et al., 
+2020
+). Conversely, two non‐randomized trials reported that morning exercise resulted in a smaller loss of body fat than when exercising in the afternoon or evening (Di Blasio et al., 
+2010
+; Mancilla et al., 
+2021
+).
+
+Both exercising groups maintained caloric intake and physical activity unchanged during the 16 week intervention (Table 
+4
+). On average, participants incurred 388 ± 83 kcal of energy deficit per exercise session (Table 
+2
+), which likely induced the 0.8–0.6 kg of body fat losses reported. An energy deficit of 7700 kcal is required to lose 1 kg of body weight (Hall et al., 
+2012
+). Based on these data, an average weight loss of more than 2.5 kg was expected after the 16 week training intervention in the AMEX and PMEX groups. However, we observed only modest changes in the exercise groups (AMEX, −0.8; PMEX,−1.0 kg). The difference between expected and actual weight loss is well‐documented in the literature and may be related to other physiological or behavioural compensatory adaptive responses to oppose the energy 
+
+----
+
+limitations. The strengths are that, in addition to the randomized‐controlled design, the sample size was larger than in other similar studies, boosting statistical power and the trustworthiness of the results. Compliance with exercise intensity and duration of each session was directly supervised. Physical activity outside the training intervention and 24 h caloric intake were monitored to assess if compensatory behaviour took place between groups. Conversely, the study is not free of limitations. We did not assess participants’ circadian preference for the timing of various activities (i.e. morningness 
+vs
+. eveningness questionnaire). We hope that subject randomization resulted in an even distribution of those individual types in the three experimental groups. Our participants were middle‐aged MetS patients with sufficient motivation to complete 16 weeks of training. Similar results may not be obtained in a no‐supervised group or less motivated patients. The 24 h ambulatory blood pressure provides a more comprehensive assessment of blood pressure than clinical blood pressure (Staplin et al., 
+2023
+). Thus, the measure of ambulatory blood pressure could have provided us with more information about the circadian blood pressure pattern. Another limitation was that the intervention only included aerobic exercise training, whereas evidence is growing that the inclusion of strength training could further improve MetS.
+
+In summary, it has been hypothesized that MetS emerges because of a derangement of the circadian rhythm. On the other hand, exercise could be a solid cue for realigning those rhythms. In a randomized‐controlled fashion, we manipulated exercise training time of day in individuals with MetS and measured cardiovascular and metabolic responses to training. We corroborated that 16 week of supervised high‐intensity interval aerobic exercise (AMEX and PMEX), without dietary restriction, improved cardiorespiratory and metabolic fitness and body composition compared to a non‐exercise Control group. The findings support the concept that exercise training, regardless of the time of day, improves the fitness and health of individuals with MetS. The novel finding was that systolic blood pressure, blood insulin concentration and insulin resistance were improved further in the morning than in the afternoon training group (AMEX 
+vs
+. PMEX). Our data suggest that morning training is a somewhat more effective strategy to maximize health promotion in individuals with MetS.
+
+Additional information
+
+Competing interests
+
+The authors declare that they have no competing interests.
+
+Author contributions
+
+F.M.P., R.M.R., A.M.C. and L.A.J. were responsible for the conceptualization and design of the study. F.M.P., J.F.O., A.M.C., D.M.G. and L.A.J. were responsible for the acquisition of data. F.M.P., R.M.R., AMC, J.F.O. and L.A.J. were responsible for the analysis and interpretation of data. F.M.P. and R.M.R. were responsible for writing the original draft. F.M.P., R.M.R., A.M.C., D.M.G. and L.A.J. were responsible for reviewing and editing. F.M.P., J.F.O. and R.M.R. were responsible for supervision. All authors have approved the final version of the manuscript and agree to be accountable for all aspects of the work. All persons designated as authors qualify for authorship, and all those who qualify for authorship are listed.
+
+Funding
+
+Spanish Ministry of Science and Innovation (PID2020‐116159RB‐ IOO MCIN/AEI/10.13039/501 100 011 033). The granting ag

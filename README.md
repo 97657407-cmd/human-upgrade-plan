@@ -46,6 +46,7 @@ COROS MCP 本身免费；AI 平台的 MCP/开发者模式常要付费套餐。�
 - 对话流程：基础问题 → 手表/MCP → 跟进具体需求 → 计划 + 原理与文献 → 反馈。
 - 决策协议与输出：阶段判断、每日/周计划、反馈、进阶/减量与学习模式。
 - 决策大脑：[知识大脑](skills/human-upgrade-plan/references/knowledge-brain.md) — 给建议时先判断取舍，再写课表。
+- 长期备赛：[备赛框架](skills/human-upgrade-plan/references/race-prep-framework.md) — 100m 至全马/越野，按大众、进阶、体测、上班族降级；证据见 [race-prep-core](skills/human-upgrade-plan/references/evidence/race-prep-core.md)。
 - 训练产出：[框架手册](skills/human-upgrade-plan/references/framework-handbook.md)（金样课表、伤后树、项目、力量菜单）。课表不从论文堆出来。
 - 项目框架：11 个项目（100m 至越野）的能力需求、课型选择与评估重点。
 - 恢复与工作：睡眠、精神疲劳、坐站工作、组间休息、力量与耐力组合。

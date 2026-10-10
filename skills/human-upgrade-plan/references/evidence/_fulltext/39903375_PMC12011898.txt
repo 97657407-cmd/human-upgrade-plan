@@ -1,0 +1,664 @@
+abstract, and keyword search fields: (“resistance training” OR “weight training” OR “strength training”) AND (“superset” OR “paired set” OR “compound set” OR “agonist antagonist” OR “complex set” OR “alternate”). In the subsequent phase of the search, the reference lists of the review studies identified in the initial search were screened. Additionally, studies that met the inclusion criteria were used to further identify potential literature through the “Related articles” feature in Google Scholar. Free-text terms were applied based on pilot searches to strike an appropriate balance between search sensitivity and precision, without the use of controlled vocabulary (e.g., medical subject headings). The strategy exclusively encompassed terms related to the intervention and did not include population/subject information. Abstracts, letters to the editor, commentaries, proceedings, and theses were excluded.
+
+Eligibility Criteria
+
+A PICO principle was applied to build eligibility criteria for including/excluding studies as follows:
+
+- P (Population): Healthy individuals without known medical conditions or injuries;
+
+- I (Intervention): RT with superset structures were considered. Excluded were combinations of plyometric training and RT, as this combination is commonly referred to as complex training, which falls into a different domain;
+
+- C (Comparison): Comparisons between superset and traditional set prescriptions during and/or after intervention;
+
+- O (Outcomes): Acute indicators including mechanical, metabolic, and perceptual responses, as well as long-term adaptations including muscle hypertrophy, maximal strength, and athletic performance indicators.
+
+Only studies that underwent peer review and were published in English were considered [
+35
+, 
+36
+]. Finally, traditional set prescription was defined as the execution of multiple sets of one RT exercise with consistent interset rest periods. Additionally, after completing all sets of one RT exercise, the next RT exercise is performed following a predefined rest period. Superset prescription was defined as the consecutive performance of two RT exercises, with either no rest or little rest (e.g., traveling between exercises) between them. After completing the two RT exercises included in one superset, a rest period is taken before commencing the next superset. As such, superset prescription should include at least two sets of each exercise. For subgroup analyses, supersets were divided according to the groups defined by Weakley et al. [
+31
+]: (1) agonist–antagonist supersets, which involved one RT exercise targeting a specific body part and another targeting its antagonist part (e.g., bench press and bench row); (2) similar biomechanical supersets, which involved two RT exercises targeting the same muscle group (e.g., bench press and dumbbell bench press); and (3) alternate peripheral supersets, which involved one RT exercise targeting lower-body muscles and another targeting upper-body muscles (e.g., squat and bench press).
+
+Study Selection
+
+The assessment of study eligibility was independently conducted by two reviewers (XZ and HSL). All records were downloaded into Endnote X8 (Clarivate Analytics, Philadelphia, PA, USA), and duplicates were removed based on author, title, and publication year before the screening process. Subsequently, the titles and abstracts were screened to determine initial eligibility. Following this, full texts of the remaining records were retrieved and assessed
+
+----
+
+
+Introduction
+
+Resistance training (RT) is widely used as a method for enhancing maximal strength [
+1
+, 
+2
+], jumping [
+3
+, 
+4
+], sprinting [
+5
+], and change of direction [
+6
+]. Moreover, RT has been proven to be effective in preventing and rehabilitating sports injuries by contributing to the strengthening of ligaments, tendons, and connective tissue within the muscle [
+7
+]. RT also plays a pivotal role in improving physical and mental health while enhancing overall quality of life [
+8
+–
+12
+]. However, to maximize the benefits of RT, it is essential to carefully consider the prescription of various training variables, such as training intensity, lifting velocity, velocity loss, training frequency, interset rest, training volume, and set structures [
+13
+, 
+14
+]. Among these factors, set structure is an important variable in modulating the effects of RT, and numerous studies have explored how different RT set structures affect immediate responses and long-term adaptations [
+15
+, 
+16
+].
+
+Resistance training often involves performing multiple sets of an exercise with interset rest periods. Once all sets of one exercise are completed, the next exercise is performed. This “traditional” set structure has been widely adopted in training programs [
+17
+–
+20
+]. However, this approach requires substantial time to be spent resting between sets and exercises [
+21
+–
+23
+]. With lack of time commonly reported as one of the biggest barriers to exercise [
+24
+–
+26
+], training efficiency is a crucial consideration for the general population and athletes often must balance competing demands within tight schedules [
+27
+]. Therefore, more time-efficient RT methods could boost exercise participation among the general public and support the physical and social demands of athletes.
+
+To develop more time-efficient RT methods, strength and conditioning experts have explored various approaches [
+15
+, 
+16
+, 
+28
+]. Specifically, superset RT, which involves the consecutive performance of two exercises with little or no rest between them, is considered a potential alternative. After completing all exercises in a superset, a rest period is taken before starting the next superset. This approach significantly reduces total rest time, thus increasing the overall efficiency of RT sessions. Previous studies have indicated that supersets can shorten training duration by approximately 50% compared with traditional set prescriptions [
+23
+, 
+28
+–
+30
+]. However, the shorter recovery periods in supersets may result in increased metabolic disturbance and fatigue, potentially leading to different training adaptations [
+29
+, 
+31
+, 
+32
+]. Furthermore, it is important to note that superset sequencing encompasses various forms, such as agonist–antagonist, similar biomechanical, and alternate peripheral supersets [
+31
+]. Although these superset structures are similar, they differ in the exercises used. For example, similar biomechanical supersets require exercises targeting the same muscle group (e.g., barbell bench press and dumbbell press) [
+31
+], whereas alternate peripheral supersets focus on pairing upper- and lower-body exercises (e.g., bench press and back squat) [
+31
+]. These differences can lead to varying outcomes.
+
+To date, numerous experimental studies have been conducted to explore the distinctions between superset and traditional set prescriptions [
+28
+, 
+29
+, 
+31
+–
+33
+]. However, they have not yielded a unified conclusion and, at times, have even presented contradictory re
+
+----
+
+
+Methods
+
+A systematic literature search was conducted in PubMed, Web of Science, Embase, and EBSCO databases from inception to 10 February 2024. Studies written in English and meeting our inclusion criteria were included. Pooled meta-analysis and subgroup meta-analysis were performed using a random-effects model.
+
+Results
+
+Nineteen studies involving 313 participants were included. Although there was considerable variance in certain outcomes, our estimated effects suggested that, compared with traditional set prescription, supersets allow for (1) a similar total number of repetitions [standardized mean differences (SMD) =  − 0.03; 
+p
+ = 0.92] and volume load (SMD = 0.05; 
+p
+ = 0.86) with a shorter session duration and increased training efficiency (SMD = 1.74; 
+p
+ = 0.01); (2) higher blood lactate concentration during (SMD = 0.94; 
+p
+ = 0.03) and after (SMD = 1.13; 
+p
+ < 0.01) RT; (3) higher energy cost during RT (SMD = 1.93; 
+p
+ = 0.04); (4) similar creatine kinase concentration after RT (SMD = 0.22; 
+p
+ = 0.36), surface electromyography (SMD = 0.01; 
+p
+ = 0.98), acute muscle swelling (SMD = − 0.28; 
+p
+ = 0.36) and blood pressure (systolic blood pressure [SMD = 0.08; 
+p
+ = 0.71], diastolic blood pressure [SMD = − 0.05; 
+p
+ = 0.85], and mean arterial pressure [SMD = − 0.03; 
+p
+ = 0.88]); (5) higher rating of perceived exertion (SMD = 0.77; 
+p
+ = 0.02) and similar perceived recovery (SMD = 0.32; 
+p
+ = 0.33); and (6) similar chronic adaptations in maximal strength (SMD = 0.10; 
+p
+ = 0.36), strength endurance (SMD = 0.07; 
+p
+ = 0.81), and muscle hypertrophy (SMD =  − 0.05; 
+p
+ = 0.87). The subgroup analysis revealed that utilizing agonist–antagonist supersets leads to a significant increase in the number of repetitions that are able to be completed compared with traditional sets (SMD = 0.68; 
+p
+ = 0.01). Similar biomechanical supersets led to less volume load (SMD =  − 1.08; 
+p
+ < 0.01) compared with traditional sets.
+
+Conclusions
+
+Supersets provide a time-efficient alternative to traditional RT, reducing session duration without compromising training volume, muscle activation, perceived recovery, or chronic adaptations in maximal strength, strength endurance, and muscle hypertrophy. Thus, supersets can be effectively implemented by athletes with busy schedules and RT enthusiasts whose main barrier to exercise is time. However, it should be noted that supersets generally induce higher internal loads, more severe muscle damage, and increased perceived exertion, potentially necessitating extended recovery times between sessions. Additionally, superset RT may have a similar potential to traditional RT in eliciting post-exercise hypotension. Regarding different types of supersets, agonist–antagonist supersets are more suitable for maintaining training volume, while similar biomechanical supersets concentrate stimulation on the same muscle group, compromising volume load.
+
+Protocol Registration
+: The original protocol for this review was prospectively registered with the International Prospective Register of Systematic Reviews (PROSPERO) in December 2023 (CRD42023491533).
+
+Universidad de Granada
+
+Funding for open access publishing: Universidad de Granada/CBUA.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppr
+
+----
+
+
+Methods
+
+A systematic literature search was conducted in PubMed, Web of Science, Embase, and EBSCO databases from inception to 10 February 2024. Studies written in English and meeting our inclusion criteria were included. Pooled meta-analysis and subgroup meta-analysis were performed using a random-effects model.
+
+Results
+
+Nineteen studies involving 313 participants were included. Although there was considerable variance in certain outcomes, our estimated effects suggested that, compared with traditional set prescription, supersets allow for (1) a similar total number of repetitions [standardized mean differences (SMD) =  − 0.03; 
+p
+ = 0.92] and volume load (SMD = 0.05; 
+p
+ = 0.86) with a shorter session duration and increased training efficiency (SMD = 1.74; 
+p
+ = 0.01); (2) higher blood lactate concentration during (SMD = 0.94; 
+p
+ = 0.03) and after (SMD = 1.13; 
+p
+ < 0.01) RT; (3) higher energy cost during RT (SMD = 1.93; 
+p
+ = 0.04); (4) similar creatine kinase concentration after RT (SMD = 0.22; 
+p
+ = 0.36), surface electromyography (SMD = 0.01; 
+p
+ = 0.98), acute muscle swelling (SMD = − 0.28; 
+p
+ = 0.36) and blood pressure (systolic blood pressure [SMD = 0.08; 
+p
+ = 0.71], diastolic blood pressure [SMD = − 0.05; 
+p
+ = 0.85], and mean arterial pressure [SMD = − 0.03; 
+p
+ = 0.88]); (5) higher rating of perceived exertion (SMD = 0.77; 
+p
+ = 0.02) and similar perceived recovery (SMD = 0.32; 
+p
+ = 0.33); and (6) similar chronic adaptations in maximal strength (SMD = 0.10; 
+p
+ = 0.36), strength endurance (SMD = 0.07; 
+p
+ = 0.81), and muscle hypertrophy (SMD =  − 0.05; 
+p
+ = 0.87). The subgroup analysis revealed that utilizing agonist–antagonist supersets leads to a significant increase in the number of repetitions that are able to be completed compared with traditional sets (SMD = 0.68; 
+p
+ = 0.01). Similar biomechanical supersets led to less volume load (SMD =  − 1.08; 
+p
+ < 0.01) compared with traditional sets.
+
+Conclusions
+
+Supersets provide a time-efficient alternative to traditional RT, reducing session duration without compromising training volume, muscle activation, perceived recovery, or chronic adaptations in maximal strength, strength endurance, and muscle hypertrophy. Thus, supersets can be effectively implemented by athletes with busy schedules and RT enthusiasts whose main barrier to exercise is time. However, it should be noted that supersets generally induce higher internal loads, more severe muscle damage, and increased perceived exertion, potentially necessitating extended recovery times between sessions. Additionally, superset RT may have a similar potential to traditional RT in eliciting post-exercise hypotension. Regarding different types of supersets, agonist–antagonist supersets are more suitable for maintaining training volume, while similar biomechanical supersets concentrate stimulation on the same muscle group, compromising volume load.
+
+Protocol Registration
+: The original protocol for this review was prospectively registered with the International Prospective Register of Systematic Reviews (PROSPERO) in December 2023 (CRD42023491533).
+
+Universidad de Granada
+
+Funding for open access publishing: Universidad de Granada/CBUA.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppr
+
+----
+
+
+Results
+
+Nineteen studies involving 313 participants were included. Although there was considerable variance in certain outcomes, our estimated effects suggested that, compared with traditional set prescription, supersets allow for (1) a similar total number of repetitions [standardized mean differences (SMD) =  − 0.03; 
+p
+ = 0.92] and volume load (SMD = 0.05; 
+p
+ = 0.86) with a shorter session duration and increased training efficiency (SMD = 1.74; 
+p
+ = 0.01); (2) higher blood lactate concentration during (SMD = 0.94; 
+p
+ = 0.03) and after (SMD = 1.13; 
+p
+ < 0.01) RT; (3) higher energy cost during RT (SMD = 1.93; 
+p
+ = 0.04); (4) similar creatine kinase concentration after RT (SMD = 0.22; 
+p
+ = 0.36), surface electromyography (SMD = 0.01; 
+p
+ = 0.98), acute muscle swelling (SMD = − 0.28; 
+p
+ = 0.36) and blood pressure (systolic blood pressure [SMD = 0.08; 
+p
+ = 0.71], diastolic blood pressure [SMD = − 0.05; 
+p
+ = 0.85], and mean arterial pressure [SMD = − 0.03; 
+p
+ = 0.88]); (5) higher rating of perceived exertion (SMD = 0.77; 
+p
+ = 0.02) and similar perceived recovery (SMD = 0.32; 
+p
+ = 0.33); and (6) similar chronic adaptations in maximal strength (SMD = 0.10; 
+p
+ = 0.36), strength endurance (SMD = 0.07; 
+p
+ = 0.81), and muscle hypertrophy (SMD =  − 0.05; 
+p
+ = 0.87). The subgroup analysis revealed that utilizing agonist–antagonist supersets leads to a significant increase in the number of repetitions that are able to be completed compared with traditional sets (SMD = 0.68; 
+p
+ = 0.01). Similar biomechanical supersets led to less volume load (SMD =  − 1.08; 
+p
+ < 0.01) compared with traditional sets.
+
+Conclusions
+
+Supersets provide a time-efficient alternative to traditional RT, reducing session duration without compromising training volume, muscle activation, perceived recovery, or chronic adaptations in maximal strength, strength endurance, and muscle hypertrophy. Thus, supersets can be effectively implemented by athletes with busy schedules and RT enthusiasts whose main barrier to exercise is time. However, it should be noted that supersets generally induce higher internal loads, more severe muscle damage, and increased perceived exertion, potentially necessitating extended recovery times between sessions. Additionally, superset RT may have a similar potential to traditional RT in eliciting post-exercise hypotension. Regarding different types of supersets, agonist–antagonist supersets are more suitable for maintaining training volume, while similar biomechanical supersets concentrate stimulation on the same muscle group, compromising volume load.
+
+Protocol Registration
+: The original protocol for this review was prospectively registered with the International Prospective Register of Systematic Reviews (PROSPERO) in December 2023 (CRD42023491533).
+
+Universidad de Granada
+
+Funding for open access publishing: Universidad de Granada/CBUA.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2025
+
+Key Points
+
+Supersets can enhance training efficiency by reducing training duration without compro
+
+----
+
+
+Discussion
+
+This systematic review and meta-analysis is the first to compare the acute and chronic effects of traditional and superset RT prescription on mechanical, metabolic, and perceptual variables. The findings from this review demonstrate that (1) superset prescription can maintain a similar total number of repetitions and volume load as traditional set prescription while enhancing training efficiency by reducing session duration; (2) superset prescription induces higher blood lactate concentrations and energy cost than traditional set prescription, but similar creatine kinase concentrations, surface electromyography, acute muscle swelling, and blood pressure responses; (3) supersets lead to higher perceived exertion than traditional set prescription, but similar perceived recovery; (4) superset prescription may induce similar long-term adaptations in maximal strength, strength endurance, and muscle hypertrophy as traditional set prescription (Fig. 
+3
+). Considering these findings, supersets should be recommended when individuals wish to increase training efficiency without impairing maximal strength, strength endurance, and muscle hypertrophy adaptations. However, it is important to note that supersets can increase the metabolic response and perception of effort during training. Consequently, when using supersets, greater recovery between sessions may be prudent and the placement of this form of training should be carefully considered within a periodized program.
+
+Fig. 3
+
+Comparison of acute responses and chronic adaptations between superset and traditional set prescriptions (
+N
+, total number of repetitions; CK, creatine kinase; RPE, rating of perceived exertion)
+
+Acute Variables
+
+Training Volume and Efficiency
+
+Our findings showed that supersets reduced training time by approximately 37% when compared with traditional set structures. This is primarily due to superset prescription decreasing rest frequency or duration of rest periods. For example, in the study by Paz et al. [
+55
+], participants performed three sets of bench press and seated row. In the traditional set condition, participants rested five times (e.g., 2 min each time; 10 min in total) between sets and exercises, while the superset condition only involved two rest intervals (e.g., 2 min each; 4 min in total) because the two exercises of the superset were performed without rest. Additionally, although superset structures sacrifice some rest time, this does not necessarily result in a decreased training volume. Our point estimates revealed negligible differences between superset and traditional set prescriptions in the total number of repetitions (SMD =  − 0.03; 
+p
+ = 0.92) and volume load (SMD = 0.05; 
+p
+ = 0.86). However, there is some uncertainty due to the wide prediction intervals [total number of repetitions (95% PI: − 1.69 to 1.64) and volume load (95% PI: − 1.71 to 1.81)]. On the other hand, superset prescription has higher training efficiency than traditional set structures (SMD = 1.74; 
+p
+ = 0.01) because the same training volume was completed in less training time. Considering this change in training efficiency, it could easily be hypothesized that this decrease in interset rest would lead to greater fatigue accumulation, which would acutely impair strength and thereby reduce training volume [
+59
+]. However, supersets can mitigate localized muscle fatigue responses through the strategic selection of different exercises [
+31
+]. In this review, most studies
+
+----
+
+
+Conclusions
+
+Supersets provide a time-efficient alternative to traditional RT, reducing session duration without compromising training volume, muscle activation, perceived recovery, or chronic adaptations in maximal strength, strength endurance, and muscle hypertrophy. Thus, supersets can be effectively implemented by athletes with busy schedules and RT enthusiasts whose main barrier to exercise is time. However, it should be noted that supersets generally induce higher internal loads, more severe muscle damage, and increased perceived exertion, potentially necessitating extended recovery times between sessions. Additionally, superset RT may have a similar potential to traditional RT in eliciting post-exercise hypotension. Regarding different types of supersets, agonist–antagonist supersets are more suitable for maintaining training volume, while similar biomechanical supersets concentrate stimulation on the same muscle group, compromising volume load.
+
+Protocol Registration
+: The original protocol for this review was prospectively registered with the International Prospective Register of Systematic Reviews (PROSPERO) in December 2023 (CRD42023491533).
+
+Universidad de Granada
+
+Funding for open access publishing: Universidad de Granada/CBUA.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2025
+
+Key Points
+
+Supersets can enhance training efficiency by reducing training duration without compromising training volume, muscle activation, or perceived recovery.
+
+Compared with traditional sets, supersets induce higher internal loads, more severe muscle damage, and increased perceived exertion.
+
+Supersets can achieve comparable chronic adaptations to traditional set prescriptions in maximal strength, strength endurance, and muscle hypertrophy.
+
+Introduction
+
+Resistance training (RT) is widely used as a method for enhancing maximal strength [
+1
+, 
+2
+], jumping [
+3
+, 
+4
+], sprinting [
+5
+], and change of direction [
+6
+]. Moreover, RT has been proven to be effective in preventing and rehabilitating sports injuries by contributing to the strengthening of ligaments, tendons, and connective tissue within the muscle [
+7
+]. RT also plays a pivotal role in improving physical and mental health while enhancing overall quality of life [
+8
+–
+12
+]. However, to maximize the benefits of RT, it is essential to carefully consider the prescription of various training variables, such as training intensity, lifting velocity, velocity loss, training frequency, interset rest, training volume, and set structures [
+13
+, 
+14
+]. Among these factors, set structure is an important variable in modulating the effects of RT, and numerous studies have explored how different RT set structures affect immediate responses and long-term adaptations [
+15
+, 
+16
+].
+
+Resistance training often involves performing multiple sets of an exercise with interset rest periods. Once all sets of one exercise are completed, the next exercise is performed. This “traditional” set structure has been widely adopted in training programs [
+17
+–
+20
+]. However, 
+
+----
+
+
+Limitations
+
+Several limitations should be acknowledged when interpreting the findings of this review. First, the majority of individuals included in this systematic review and meta-analysis are young and trained males, which may potentially limit the generalizability of our findings to other populations, such as females, older individuals, and those who are untrained. Second, there may be confounding factors influencing our findings. For example, total training volume potentially influences the impact of supersets on internal loads, rest time potentially alters the influence of supersets on muscle damage, and RT intensity (as a percentage of the one-repetition maximum) potentially moderates the impact of supersets on strength adaptations. However, due to limited sample sizes for most of the outcomes, further subgroup analyses and meta-regression could not be conducted to identify potential moderators. Third, we conducted subgroup analyses to explore differences between different superset configurations (e.g., similar biomechanical versus alternate peripheral). However, the limited number of included studies only allowed subgroup analysis to be performed for certain outcomes. As a result, we are unable to provide a comprehensive understanding of how different types of supersets influence mechanical, metabolic, and perceptual responses. Finally, some outcomes were affected by high levels of heterogeneity. Although we conducted subgroup analyses, the source of heterogeneity cannot be fully determined. We speculate that the small number of included studies may be one of the main reasons contributing to the high levels of heterogeneity.
+
+Conclusions
+
+The current systematic review and meta-analysis aimed to compare the acute and chronic effects of superset and traditional set prescriptions on mechanical, metabolic, and perceptual responses. Our findings suggest that supersets offer a time-efficient alternative to traditional RT, enabling individuals to reduce training time without compromising training volume, muscle activation, or perceived recovery. Moreover, individuals using supersets can achieve comparable chronic adaptations to traditional set prescription in maximal strength, strength endurance, and muscle hypertrophy. However, researchers, sports professionals, and athletes should note that individuals implementing superset RT will experience greater internal loads along with higher levels of muscle damage and perceived exertion. Thus, considering longer recovery time following superset RT sessions could be beneficial. Additionally, superset RT may have a similar potential to traditional RT in eliciting post-exercise hypotension. On the other hand, agonist–antagonist supersets are advantageous for maintaining training volume and may be more suitable for individuals who are required to perform more training volume in time constrained periods. Similar biomechanical supersets, while shortening training time, concentrate stimulation on the same muscle group, causing individuals to train in closer proximity to failure and potentially making them more suitable for individuals who want to increase muscle hypertrophy.
+
+Funding
+
+Funding for open access publishing: Universidad de Granada/CBUA.
+
+Declarations
+
+Funding
+
+No external sources of funding were used to assist in the preparation of this article.
+
+Conflict of Interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that co
+
+----
+
+acknowledged when interpreting the findings of this review. First, the majority of individuals included in this systematic review and meta-analysis are young and trained males, which may potentially limit the generalizability of our findings to other populations, such as females, older individuals, and those who are untrained. Second, there may be confounding factors influencing our findings. For example, total training volume potentially influences the impact of supersets on internal loads, rest time potentially alters the influence of supersets on muscle damage, and RT intensity (as a percentage of the one-repetition maximum) potentially moderates the impact of supersets on strength adaptations. However, due to limited sample sizes for most of the outcomes, further subgroup analyses and meta-regression could not be conducted to identify potential moderators. Third, we conducted subgroup analyses to explore differences between different superset configurations (e.g., similar biomechanical versus alternate peripheral). However, the limited number of included studies only allowed subgroup analysis to be performed for certain outcomes. As a result, we are unable to provide a comprehensive understanding of how different types of supersets influence mechanical, metabolic, and perceptual responses. Finally, some outcomes were affected by high levels of heterogeneity. Although we conducted subgroup analyses, the source of heterogeneity cannot be fully determined. We speculate that the small number of included studies may be one of the main reasons contributing to the high levels of heterogeneity.
+
+Conclusions
+
+The current systematic review and meta-analysis aimed to compare the acute and chronic effects of superset and traditional set prescriptions on mechanical, metabolic, and perceptual responses. Our findings suggest that supersets offer a time-efficient alternative to traditional RT, enabling individuals to reduce training time without compromising training volume, muscle activation, or perceived recovery. Moreover, individuals using supersets can achieve comparable chronic adaptations to traditional set prescription in maximal strength, strength endurance, and muscle hypertrophy. However, researchers, sports professionals, and athletes should note that individuals implementing superset RT will experience greater internal loads along with higher levels of muscle damage and perceived exertion. Thus, considering longer recovery time following superset RT sessions could be beneficial. Additionally, superset RT may have a similar potential to traditional RT in eliciting post-exercise hypotension. On the other hand, agonist–antagonist supersets are advantageous for maintaining training volume and may be more suitable for individuals who are required to perform more training volume in time constrained periods. Similar biomechanical supersets, while shortening training time, concentrate stimulation on the same muscle group, causing individuals to train in closer proximity to failure and potentially making them more suitable for individuals who want to increase muscle hypertrophy.
+
+Funding
+
+Funding for open access publishing: Universidad de Granada/CBUA.
+
+Declarations
+
+Funding
+
+No external sources of funding were used to assist in the preparation of this article.
+
+Conflict of Interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of 

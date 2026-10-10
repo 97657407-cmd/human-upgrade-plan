@@ -1,0 +1,1043 @@
+abstracts were screened first, followed by full-text assessment. No automation tools were used in the selection process. During the review process, the following information was extracted from each study: publication year; authors; participant characteristics (sample size, age, performance level, sex); type of event (distance, number of stages, positive elevation gain); muscle damage biomarkers (CK and ALT); cardiac biomarkers (CK-MB, Pro-BNP, cTnI, hs-cTnI and NT-proBNP); and neuromuscular outcomes such as reductions in squat jump (SJ) performance and maximal voluntary isometric contraction (MVIC). For each outcome, all reported time points (pre-, post-race, and recovery) were extracted when available. After applying the inclusion and exclusion criteria, two authors (I.G.-V. and F.P.) independently extracted all data using Microsoft Excel
+®
+ 2024 (Microsoft Corporation, Redmond, WA, USA). No assumptions were made for missing or unclear data, and no data were imputed. Disagreements were resolved through discussion, and when necessary, a third reviewer (M.Á.O.-Z.) participated to reach consensus.
+
+No standardized effect measures or quantitative effect sizes were calculated.
+
+2.5. Overall Quality of Included Studies
+
+The articles included were screened by two independent reviewers (I.G.-V. and M.L.) based on the predefined inclusion and exclusion criteria. Duplicate articles were removed using Mendeley Desktop
+®
+ v.2112.0 (Elsevier, Amsterdam, The Netherlands), and titles and abstracts were analyzed. When required, full texts were consulted for additional evaluation. All decisions were approved by both reviewers; disagreements were resolved by consulting a third reviewer (M.Á.O.-Z.). The full analysis process lasted four weeks. A detailed summary of the selection process is shown in 
+Figure 1
+.
+
+2.6. Synthesis Methods
+
+Given the heterogeneity in study designs, outcome measures, and reporting formats, a quantitative synthesis (meta-analysis) was not performed. Instead, a narrative qualitative synthesis was conducted. Studies were grouped according to the primary domain assessed (muscular damage, neuromuscular function, or cardiac damage), and results were summarized descriptively across studies.
+
+2.7. Risk of Bias Assessment and Methodological Quality
+
+Most studies included in this review were observational with descriptive designs. Due to their non-experimental nature, tools such as the PEDro scale [
+46
+] or the Cochrane Collaboration tool [
+47
+], commonly used in clinical trials, could not be applied. Instead, methodological quality was assessed using tools adapted to observational descriptive studies, focusing on qualitative criteria [
+48
+].
+
+Methodological quality was evaluated using the National Heart, Lung, and Blood Institute (NHLBI) Study Quality Assessment Tool (
+Figure 2
+), available at 
+https://www.nhlbi.nih.gov/health-topics/study-quality-assessment-tools
+, accessed on 9 November 2025. This tool was selected due to the predominance of observational and descriptive study designs. It includes 14 items rated as “yes” (green), “no” (red), “not reported” (yellow), or “cannot determine” (gray). Studies were categorized as good (>11 “yes” items), fair (7–10 “yes” items), or poor (<6 “yes” items). The 14 items were assessed independently by two authors (M.L. and A.G.-G.), and disagreements were resolved through consensus or, when necessary, arbitration by a third reviewer (M.Á.O.-Z.).
+
+2.8. Reporting Bias Assessment
+
+Formal assessment 
+
+----
+
+Introduction
+
+Trail running (TR) is a discipline that combines running with the challenge of traversing natural mountainous environments with varying levels of technical difficulty. Unlike running on smooth surfaces, this modality exposes athletes to substantial elevation changes, irregular terrain, variable weather conditions, and natural obstacles throughout the course [
+1
+]. This constantly changing and unpredictable environment requires greater physical and mental effort, not only due to the need for continuous adaptation but also because of the increased risk of accidents and/or injuries [
+2
+]. In recent years, this discipline has experienced significant growth at both recreational and competitive levels, reflected in the increasing number of official events and participants [
+3
+]. Due to its characteristics, TR attracts a wide population range—from young individuals to older adults—and is practiced by both men and women [
+4
+]. However, this expansion has also generated uncertainty, as the risk factors associated with TR vary considerably depending on age, sex, previous experience, and training level [
+5
+].
+
+Compared with road running, TR requires athletes to cope with uneven terrain, elevation gain and loss, and fluctuating environmental conditions, all of which greatly increase the likelihood of sustaining injuries. Injury incidence is higher during competitions than training, particularly in ultra-distance events [
+6
+,
+7
+]. The type and distribution of injuries vary according to the nature of the event; multistage competitions show a predominance of knee injuries, whereas continuous long-distance races present higher rates of foot and ankle injuries [
+8
+,
+9
+]. In general, the most frequent injuries in TR affect the lower limbs and include ankle sprains, Achilles and patellar tendinopathies, various types of muscular overload, and even stress fractures [
+10
+,
+11
+].
+
+One of the most relevant aspects of injury analysis in TR is muscle damage induced during performance—particularly during the eccentric phase of muscle contraction that occurs on downhill sections, where mechanical stress on muscle fibers is substantial [
+12
+,
+13
+]. During eccentric contractions, the muscle lengthens while producing tension, which can lead to sarcomere disruption, cell membrane damage, and the release of muscle damage biomarkers, such as creatine kinase (CK), lactate dehydrogenase (LDH), alanine aminotransferase (ALT), and myoglobin (MB). These responses reflect structural microdamage and inflammation [
+14
+]. This downhill-related eccentric stress compromises not only muscle tissue integrity but also neuromuscular function, altering motor coordination, reducing maximal voluntary force, and increasing both peripheral and central fatigue [
+15
+].
+
+Neuromuscular fatigue—defined as a transient decline in the neuromuscular system’s ability to generate force—is closely related to muscle damage, with both phenomena influencing one another [
+16
+]. Damaged muscle exhibits reduced contractile efficiency, potentially increasing mechanical load on other structures and contributing to compensatory patterns that elevate injury risk [
+17
+]. Reduced motor control may also lead to technical errors, further increasing the likelihood of musculoskeletal injuries [
+16
+]. In TR, neuromuscular function can be profoundly affected due to irregular terrain, frequent pace changes, and prolonged uphill and downhill segments [
+18
+].
+
+Similarly to the muscle damage biomarkers descr
+
+----
+
+
+Methods
+: This systematic review followed PRISMA 2020 guidelines and was registered in PROSPERO (CRD420251135043). Five databases (PubMed, Web of Science, Scopus, SportDiscus, and ScienceDirect) were searched up to 31 August 2025. Observational, longitudinal, prospective, and case studies involving healthy adolescent or adult trail runners were included. Outcomes comprised muscle damage biomarkers (e.g., creatine kinase, alanine aminotransferase), neuromuscular function (e.g., squat jump performance, maximal voluntary isometric contraction), and cardiac biomarkers (e.g., CK-MB, cardiac troponins, NT-proBNP). Methodological quality was assessed using the National Heart, Lung, and Blood Institute Study Quality Assessment Tool. Results were synthesized qualitatively. 
+Results
+: Fifteen studies met the inclusion criteria, including a total of 247 participants. Post-race analyses consistently showed marked increases in muscle damage biomarkers and significant reductions in neuromuscular performance. Transient elevations in cardiac biomarkers were also observed, suggesting acute but reversible cardiac stress following TR events. 
+Limitations
+: Evidence was limited by methodological heterogeneity, small sample sizes, and underrepresentation of female athletes. 
+Conclusions
+: It was found that trail running induces substantial acute muscular, neuromuscular, and cardiac stress, particularly in events with high eccentric loading. Monitoring biochemical and neuromuscular markers may support training load optimization, recovery strategies, and injury prevention. 
+
+endurance
+
+natural environment
+
+muscle damage
+
+biomarkers
+
+contractile efficiency
+
+Instituto de Estudios Altoaragoneses of the Diputación Provincial de Huesca (Spain)
+
+139/2016 (3.600€)
+
+The present research was funded by a research grant from the Instituto de Estudios Altoaragoneses of the Diputación Provincial de Huesca (Spain), file number 139/2016 (3.600€). The funders had no role in the study design, data collection, analysis, interpretation of results, or manuscript preparation.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+1. Introduction
+
+Trail running (TR) is a discipline that combines running with the challenge of traversing natural mountainous environments with varying levels of technical difficulty. Unlike running on smooth surfaces, this modality exposes athletes to substantial elevation changes, irregular terrain, variable weather conditions, and natural obstacles throughout the course [
+1
+]. This constantly changing and unpredictable environment requires greater physical and mental effort, not only due to the need for continuous adaptation but also because of the increased risk of accidents and/or injuries [
+2
+]. In recent years, this discipline has experienced significant growth at both recreational and competitive levels, reflected in the increasing number of official events and participants [
+3
+]. Due to its characteristics, TR attracts a wide population range—from young individuals to older adults—and is practiced by both men and women [
+4
+]. However, this expansion has also gener
+
+----
+
+
+Methods
+: This systematic review followed PRISMA 2020 guidelines and was registered in PROSPERO (CRD420251135043). Five databases (PubMed, Web of Science, Scopus, SportDiscus, and ScienceDirect) were searched up to 31 August 2025. Observational, longitudinal, prospective, and case studies involving healthy adolescent or adult trail runners were included. Outcomes comprised muscle damage biomarkers (e.g., creatine kinase, alanine aminotransferase), neuromuscular function (e.g., squat jump performance, maximal voluntary isometric contraction), and cardiac biomarkers (e.g., CK-MB, cardiac troponins, NT-proBNP). Methodological quality was assessed using the National Heart, Lung, and Blood Institute Study Quality Assessment Tool. Results were synthesized qualitatively. 
+Results
+: Fifteen studies met the inclusion criteria, including a total of 247 participants. Post-race analyses consistently showed marked increases in muscle damage biomarkers and significant reductions in neuromuscular performance. Transient elevations in cardiac biomarkers were also observed, suggesting acute but reversible cardiac stress following TR events. 
+Limitations
+: Evidence was limited by methodological heterogeneity, small sample sizes, and underrepresentation of female athletes. 
+Conclusions
+: It was found that trail running induces substantial acute muscular, neuromuscular, and cardiac stress, particularly in events with high eccentric loading. Monitoring biochemical and neuromuscular markers may support training load optimization, recovery strategies, and injury prevention. 
+
+endurance
+
+natural environment
+
+muscle damage
+
+biomarkers
+
+contractile efficiency
+
+Instituto de Estudios Altoaragoneses of the Diputación Provincial de Huesca (Spain)
+
+139/2016 (3.600€)
+
+The present research was funded by a research grant from the Instituto de Estudios Altoaragoneses of the Diputación Provincial de Huesca (Spain), file number 139/2016 (3.600€). The funders had no role in the study design, data collection, analysis, interpretation of results, or manuscript preparation.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+1. Introduction
+
+Trail running (TR) is a discipline that combines running with the challenge of traversing natural mountainous environments with varying levels of technical difficulty. Unlike running on smooth surfaces, this modality exposes athletes to substantial elevation changes, irregular terrain, variable weather conditions, and natural obstacles throughout the course [
+1
+]. This constantly changing and unpredictable environment requires greater physical and mental effort, not only due to the need for continuous adaptation but also because of the increased risk of accidents and/or injuries [
+2
+]. In recent years, this discipline has experienced significant growth at both recreational and competitive levels, reflected in the increasing number of official events and participants [
+3
+]. Due to its characteristics, TR attracts a wide population range—from young individuals to older adults—and is practiced by both men and women [
+4
+]. However, this expansion has also gener
+
+----
+
+
+Results
+: Fifteen studies met the inclusion criteria, including a total of 247 participants. Post-race analyses consistently showed marked increases in muscle damage biomarkers and significant reductions in neuromuscular performance. Transient elevations in cardiac biomarkers were also observed, suggesting acute but reversible cardiac stress following TR events. 
+Limitations
+: Evidence was limited by methodological heterogeneity, small sample sizes, and underrepresentation of female athletes. 
+Conclusions
+: It was found that trail running induces substantial acute muscular, neuromuscular, and cardiac stress, particularly in events with high eccentric loading. Monitoring biochemical and neuromuscular markers may support training load optimization, recovery strategies, and injury prevention. 
+
+endurance
+
+natural environment
+
+muscle damage
+
+biomarkers
+
+contractile efficiency
+
+Instituto de Estudios Altoaragoneses of the Diputación Provincial de Huesca (Spain)
+
+139/2016 (3.600€)
+
+The present research was funded by a research grant from the Instituto de Estudios Altoaragoneses of the Diputación Provincial de Huesca (Spain), file number 139/2016 (3.600€). The funders had no role in the study design, data collection, analysis, interpretation of results, or manuscript preparation.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+1. Introduction
+
+Trail running (TR) is a discipline that combines running with the challenge of traversing natural mountainous environments with varying levels of technical difficulty. Unlike running on smooth surfaces, this modality exposes athletes to substantial elevation changes, irregular terrain, variable weather conditions, and natural obstacles throughout the course [
+1
+]. This constantly changing and unpredictable environment requires greater physical and mental effort, not only due to the need for continuous adaptation but also because of the increased risk of accidents and/or injuries [
+2
+]. In recent years, this discipline has experienced significant growth at both recreational and competitive levels, reflected in the increasing number of official events and participants [
+3
+]. Due to its characteristics, TR attracts a wide population range—from young individuals to older adults—and is practiced by both men and women [
+4
+]. However, this expansion has also generated uncertainty, as the risk factors associated with TR vary considerably depending on age, sex, previous experience, and training level [
+5
+].
+
+Compared with road running, TR requires athletes to cope with uneven terrain, elevation gain and loss, and fluctuating environmental conditions, all of which greatly increase the likelihood of sustaining injuries. Injury incidence is higher during competitions than training, particularly in ultra-distance events [
+6
+,
+7
+]. The type and distribution of injuries vary according to the nature of the event; multistage competitions show a predominance of knee injuries, whereas continuous long-distance races present higher rates of foot and ankle injuries [
+8
+,
+9
+]. In general, the most frequent injuries in TR affect the lower li
+
+----
+
+discussion, and when necessary, a third reviewer (M.Á.O.-Z.) participated to reach consensus.
+
+No standardized effect measures or quantitative effect sizes were calculated.
+
+2.5. Overall Quality of Included Studies
+
+The articles included were screened by two independent reviewers (I.G.-V. and M.L.) based on the predefined inclusion and exclusion criteria. Duplicate articles were removed using Mendeley Desktop
+®
+ v.2112.0 (Elsevier, Amsterdam, The Netherlands), and titles and abstracts were analyzed. When required, full texts were consulted for additional evaluation. All decisions were approved by both reviewers; disagreements were resolved by consulting a third reviewer (M.Á.O.-Z.). The full analysis process lasted four weeks. A detailed summary of the selection process is shown in 
+Figure 1
+.
+
+2.6. Synthesis Methods
+
+Given the heterogeneity in study designs, outcome measures, and reporting formats, a quantitative synthesis (meta-analysis) was not performed. Instead, a narrative qualitative synthesis was conducted. Studies were grouped according to the primary domain assessed (muscular damage, neuromuscular function, or cardiac damage), and results were summarized descriptively across studies.
+
+2.7. Risk of Bias Assessment and Methodological Quality
+
+Most studies included in this review were observational with descriptive designs. Due to their non-experimental nature, tools such as the PEDro scale [
+46
+] or the Cochrane Collaboration tool [
+47
+], commonly used in clinical trials, could not be applied. Instead, methodological quality was assessed using tools adapted to observational descriptive studies, focusing on qualitative criteria [
+48
+].
+
+Methodological quality was evaluated using the National Heart, Lung, and Blood Institute (NHLBI) Study Quality Assessment Tool (
+Figure 2
+), available at 
+https://www.nhlbi.nih.gov/health-topics/study-quality-assessment-tools
+, accessed on 9 November 2025. This tool was selected due to the predominance of observational and descriptive study designs. It includes 14 items rated as “yes” (green), “no” (red), “not reported” (yellow), or “cannot determine” (gray). Studies were categorized as good (>11 “yes” items), fair (7–10 “yes” items), or poor (<6 “yes” items). The 14 items were assessed independently by two authors (M.L. and A.G.-G.), and disagreements were resolved through consensus or, when necessary, arbitration by a third reviewer (M.Á.O.-Z.).
+
+2.8. Reporting Bias Assessment
+
+Formal assessment of reporting bias was not conducted due to the absence of a quantitative synthesis and the limited number of studies available for each outcome.
+
+2.9. Certainty of Evidence
+
+The certainty of evidence was not formally assessed using tools such as GRADE due to heterogeneity in study designs, outcomes, and reporting formats.
+
+3. Results
+
+A total of 408 potentially relevant studies were initially identified (
+Figure 1
+). After removing duplicates, 137 articles remained. The inclusion and exclusion criteria were then applied through title and abstract screening, resulting in 80 studies selected for full-text evaluation. Of these, 57 were classified according to their main thematic focus. Finally, fifteen studies were included in this review, selected for specifically addressing the effects of TR on muscle damage, neuromuscular function, and/or cardiac stress. Reasons for exclusion of full-text articles are reported in the PRISMA flow diagram (
+Figure 1
+).
+
+3.1. Studied Population and Type of Event
+
+Table 1
+ p
+
+----
+
+
+Conclusions
+: It was found that trail running induces substantial acute muscular, neuromuscular, and cardiac stress, particularly in events with high eccentric loading. Monitoring biochemical and neuromuscular markers may support training load optimization, recovery strategies, and injury prevention. 
+
+endurance
+
+natural environment
+
+muscle damage
+
+biomarkers
+
+contractile efficiency
+
+Instituto de Estudios Altoaragoneses of the Diputación Provincial de Huesca (Spain)
+
+139/2016 (3.600€)
+
+The present research was funded by a research grant from the Instituto de Estudios Altoaragoneses of the Diputación Provincial de Huesca (Spain), file number 139/2016 (3.600€). The funders had no role in the study design, data collection, analysis, interpretation of results, or manuscript preparation.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+1. Introduction
+
+Trail running (TR) is a discipline that combines running with the challenge of traversing natural mountainous environments with varying levels of technical difficulty. Unlike running on smooth surfaces, this modality exposes athletes to substantial elevation changes, irregular terrain, variable weather conditions, and natural obstacles throughout the course [
+1
+]. This constantly changing and unpredictable environment requires greater physical and mental effort, not only due to the need for continuous adaptation but also because of the increased risk of accidents and/or injuries [
+2
+]. In recent years, this discipline has experienced significant growth at both recreational and competitive levels, reflected in the increasing number of official events and participants [
+3
+]. Due to its characteristics, TR attracts a wide population range—from young individuals to older adults—and is practiced by both men and women [
+4
+]. However, this expansion has also generated uncertainty, as the risk factors associated with TR vary considerably depending on age, sex, previous experience, and training level [
+5
+].
+
+Compared with road running, TR requires athletes to cope with uneven terrain, elevation gain and loss, and fluctuating environmental conditions, all of which greatly increase the likelihood of sustaining injuries. Injury incidence is higher during competitions than training, particularly in ultra-distance events [
+6
+,
+7
+]. The type and distribution of injuries vary according to the nature of the event; multistage competitions show a predominance of knee injuries, whereas continuous long-distance races present higher rates of foot and ankle injuries [
+8
+,
+9
+]. In general, the most frequent injuries in TR affect the lower limbs and include ankle sprains, Achilles and patellar tendinopathies, various types of muscular overload, and even stress fractures [
+10
+,
+11
+].
+
+One of the most relevant aspects of injury analysis in TR is muscle damage induced during performance—particularly during the eccentric phase of muscle contraction that occurs on downhill sections, where mechanical stress on muscle fibers is substantial [
+12
+,
+13
+]. During eccentric contractions, the muscle lengthens while producing tension, which can 
+
+----
+
+
+Limitations
+: Evidence was limited by methodological heterogeneity, small sample sizes, and underrepresentation of female athletes. 
+Conclusions
+: It was found that trail running induces substantial acute muscular, neuromuscular, and cardiac stress, particularly in events with high eccentric loading. Monitoring biochemical and neuromuscular markers may support training load optimization, recovery strategies, and injury prevention. 
+
+endurance
+
+natural environment
+
+muscle damage
+
+biomarkers
+
+contractile efficiency
+
+Instituto de Estudios Altoaragoneses of the Diputación Provincial de Huesca (Spain)
+
+139/2016 (3.600€)
+
+The present research was funded by a research grant from the Instituto de Estudios Altoaragoneses of the Diputación Provincial de Huesca (Spain), file number 139/2016 (3.600€). The funders had no role in the study design, data collection, analysis, interpretation of results, or manuscript preparation.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+yes
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+1. Introduction
+
+Trail running (TR) is a discipline that combines running with the challenge of traversing natural mountainous environments with varying levels of technical difficulty. Unlike running on smooth surfaces, this modality exposes athletes to substantial elevation changes, irregular terrain, variable weather conditions, and natural obstacles throughout the course [
+1
+]. This constantly changing and unpredictable environment requires greater physical and mental effort, not only due to the need for continuous adaptation but also because of the increased risk of accidents and/or injuries [
+2
+]. In recent years, this discipline has experienced significant growth at both recreational and competitive levels, reflected in the increasing number of official events and participants [
+3
+]. Due to its characteristics, TR attracts a wide population range—from young individuals to older adults—and is practiced by both men and women [
+4
+]. However, this expansion has also generated uncertainty, as the risk factors associated with TR vary considerably depending on age, sex, previous experience, and training level [
+5
+].
+
+Compared with road running, TR requires athletes to cope with uneven terrain, elevation gain and loss, and fluctuating environmental conditions, all of which greatly increase the likelihood of sustaining injuries. Injury incidence is higher during competitions than training, particularly in ultra-distance events [
+6
+,
+7
+]. The type and distribution of injuries vary according to the nature of the event; multistage competitions show a predominance of knee injuries, whereas continuous long-distance races present higher rates of foot and ankle injuries [
+8
+,
+9
+]. In general, the most frequent injuries in TR affect the lower limbs and include ankle sprains, Achilles and patellar tendinopathies, various types of muscular overload, and even stress fractures [
+10
+,
+11
+].
+
+One of the most relevant aspects of injury analysis in TR is muscle damage induced during performance—particularly during the eccentric phase of muscle contraction that occurs on downhill sections, where mechanical stress
+
+----
+
+
+Acknowledgments
+
+To the ENFYRED research group of the Government of Aragon.
+
+Disclaimer/Publisher’s Note:
+ The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+Supplementary Materials
+
+The following supporting information can be downloaded at: 
+https://www.mdpi.com/article/10.3390/muscles5010009/s1
+, Table S1. Full electronic search strategy for PubMed (last searched: 31 August 2025). Supplementary File S1: PRISMA 2020 Checklist for Systematic Reviews. Supplementary File S2: PRISMA 2020 Checklist for Abstracts [
+76
+].
+
+Author Contributions
+
+Conceptualization, I.G.-V. and F.P.; methodology, F.P. and M.L.; investigation, I.G.-V., F.P., M.Á.O.-Z. and C.C.-O.; writing—original draft preparation, I.G.-V., F.P. and M.Á.O.-Z.; writing—review and editing, M.L. and A.G.-G.; supervision, F.P. and C.C.-O. All authors have read and agreed to the published version of the manuscript.
+
+Institutional Review Board Statement
+
+Not applicable.
+
+Informed Consent Statement
+
+Not applicable.
+
+Data Availability Statement
+
+Further inquiries can be directed to the corresponding author.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+Abbreviations
+
+The following abbreviations are used in this manuscript:
+
+TR
+
+Trail Running
+
+CK
+
+Creatine Kinase 
+
+LDH
+
+Lactate Dehydrogenase
+
+ALT
+
+Alanine Aminotransferase
+
+MB
+
+Myoglobin
+
+LVEF
+
+Left Ventricular Ejection Fraction
+
+HRV
+
+Heart Rate Variability
+
+cTn
+
+Cardiac Troponin
+
+hs-cTn
+
+High-sensitivity Troponin
+
+CK-MB
+
+Creatine Kinase MB isoenzyme 
+
+NT-proBNP
+
+N-Terminal pro–B-type Natriuretic Peptide
+
+PRISMA
+
+Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+
+NIHR
+
+National Institute for Health and Care Research 
+
+PROSPERO
+
+International Prospective Register of Systematic Reviews
+
+MeSH
+
+Medical Subject Headings
+
+AST
+
+Aspartato Aminotransferasa
+
+SJ
+
+Squat Jump
+
+CMJ
+
+Counter-Movement Jump
+
+ABA
+
+Abalakov Jump
+
+MVIC
+
+Maximal Voluntary Isometric Contractions
+
+Pro-BNP
+
+Pro–B-type Natriuretic Peptide
+
+cTnI
+
+Cardiac Troponin I
+
+hs-cTnI
+
+High-sensitivity cardiac Troponin I
+
+NT-proBNP
+
+N-terminal pro–Brain Natriuretic Peptide
+
+PEDro
+
+Physiotherapy Evidence Database
+
+NHLBI
+
+National Heart, Lung, and Blood Institute 
+
+hs-TnT
+
+Troponin T High Sensitivity
+
+FAC
+
+Fractional Area Changes
+
+LAVI
+
+Left Atrial Volume Index
+
+M
+
+Male
+
+F
+
+Female
+
+CG
+
+Control Group
+
+SD
+
+Standard Deviation
+
+A
+
+Amateur
+
+HT
+
+Highly Trained
+
+P
+
+Professional
+
+T
+
+Treadmill
+
+U
+
+Ultra Trail
+
+S
+
+Speed
+
+m
+
+Meters of elevation
+
+km/h
+
+Kilometers per hour
+
+NR
+
+Not Reported
+
+N
+
+Newtons
+
+GFWS
+
+Global Free Wall Strain
+
+GLS
+
+Global Longitudinal Strain
+
+G
+
+Group
+
+h
+
+Hours
+
+d
+
+Days
+
+References
+
+1.
+
+Hamill
+
+J.
+
+Hercksen
+
+J.
+
+Salzano
+
+M.
+
+Udofa
+
+A.
+
+Trudeau
+
+M.B.
+
+The prevalence of injuries in trail running: Influence of trails, terrains and footwear
+
+Footwear Sci.
+
+2022
+
+14
+
+113
+
+121
+
+10.1080/19424280.2022.2048901
+
+2.
+
+Jiang
+
+X.
+
+Sárosi
+
+J.
+
+Bíró
+
+I.
+
+Characteristics of Lower Limb Running-Related Injuries in Trail Runners: A Systematic Review
+
+Phys. Act. Health
+
+2024
+
+8
+
+137
+
+147
+
+10.5334/paah.375
+
+3.
+
+Andersen
+
+J.J.
+
+The State of Trail Running 2022
+
+2022
+
+Available online: 
+https://runrepeat.com/the-state-of-trail-running-2022
+
+(accessed on 29 November 2025)
+
+4.
+
+Bab

@@ -1,0 +1,523 @@
+
+Abstract
+
+Heart rate variability (HRV), particularly the root mean square of successive differences (RMSSD), is widely used as a non-invasive indicator of autonomic nervous system activity and physiological recovery. This study examined whether daily short-term HRV, measured under standardised morning conditions, was associated with self-reported wellness in a non-clinical adult population. Over a 14-day period, 41 participants completed daily five-minute HRV recordings using a Polar H10 chest sensor and the Kubios mobile app, followed by ratings of sleep quality, fatigue, stress, and physical recovery. Bayesian ordinal mixed-effects models revealed that higher RMSSD values were associated with better self-reported sleep (β = 0.510, 95% HDI: 0.239 to 0.779), lower fatigue (β = 0.281, 95% HDI: 0.020 to 0.562), and reduced stress (β = 0.353, 95% HDI: 0.059 to 0.606), even after adjusting for covariates. No association was found between RMSSD and perceived muscle soreness. These findings support the interpretability of RMSSD as a physiological marker of daily recovery and stress in real-world settings. While the effect sizes were modest and individual variability remained substantial, results suggest that consistent HRV monitoring may offer meaningful insight into subjective wellness—particularly when contextualised and tracked over time.
+
+Keywords:
+ heart rate variability, monitoring, physiologic, Polar H10, Kubios, wearable electronic devices, validity
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2025 Jun 25; Revised 2025 Jul 11; Accepted 2025 Jul 14; Collection date 2025 Jul.
+
+1. Introduction
+
+Heart rate variability (HRV) refers to the fluctuation in time intervals between consecutive heartbeats, measured as R–R intervals on an electrocardiogram or similar device [
+1
+]. It serves as a non-invasive marker of autonomic nervous system function, particularly the dynamic interplay between sympathetic and parasympathetic activity [
+2
+]. Higher levels of HRV, especially in vagally mediated metrics like the root mean square of successive differences (RMSSD), generally reflect a more adaptable, resilient autonomic state [
+2
+,
+3
+,
+4
+]. Lower HRV, by contrast, is associated with stress, fatigue, and diminished physiological flexibility [
+3
+,
+4
+].
+
+Accurate HRV measurement relies on consistent protocols, valid hardware, and robust signal processing—particularly for photoplethysmography (PPG)-based devices, where algorithmic filtering and artefact correction are essential [
+5
+]. HRV is also highly sensitive to contextual factors such as posture, time of day, and psychological or physiological state, making standardised measurement conditions strongly advisable [
+4
+,
+6
+]. Best practice involves taking readings either during sleep or immediately upon waking, under relaxed and consistent conditions [
+4
+,
+7
+]. Short-term (e.g., 60 s to 5 min) recordings in a seated or supine position are commonly used for longitudinal monitoring and can yield reliable estimates of vagally mediated HRV [
+8
+,
+9
+]. Chest-worn heart rate monitors such as the Polar H10 have shown excellent agreement with gold-standard ECG under these conditions [
+10
+,
+11
+]. In contrast, wrist-worn or camera-based sensors are more prone to noise, and their HRV estimates vary considerably depending on sampling rate and movement artefacts [
+8
+]. Within-subject variability is another import
+
+----
+
+Introduction
+
+Heart rate variability (HRV) refers to the fluctuation in time intervals between consecutive heartbeats, measured as R–R intervals on an electrocardiogram or similar device [
+1
+]. It serves as a non-invasive marker of autonomic nervous system function, particularly the dynamic interplay between sympathetic and parasympathetic activity [
+2
+]. Higher levels of HRV, especially in vagally mediated metrics like the root mean square of successive differences (RMSSD), generally reflect a more adaptable, resilient autonomic state [
+2
+,
+3
+,
+4
+]. Lower HRV, by contrast, is associated with stress, fatigue, and diminished physiological flexibility [
+3
+,
+4
+].
+
+Accurate HRV measurement relies on consistent protocols, valid hardware, and robust signal processing—particularly for photoplethysmography (PPG)-based devices, where algorithmic filtering and artefact correction are essential [
+5
+]. HRV is also highly sensitive to contextual factors such as posture, time of day, and psychological or physiological state, making standardised measurement conditions strongly advisable [
+4
+,
+6
+]. Best practice involves taking readings either during sleep or immediately upon waking, under relaxed and consistent conditions [
+4
+,
+7
+]. Short-term (e.g., 60 s to 5 min) recordings in a seated or supine position are commonly used for longitudinal monitoring and can yield reliable estimates of vagally mediated HRV [
+8
+,
+9
+]. Chest-worn heart rate monitors such as the Polar H10 have shown excellent agreement with gold-standard ECG under these conditions [
+10
+,
+11
+]. In contrast, wrist-worn or camera-based sensors are more prone to noise, and their HRV estimates vary considerably depending on sampling rate and movement artefacts [
+8
+]. Within-subject variability is another important consideration. Even under controlled conditions, day-to-day fluctuations in HRV are common and may reflect changes in sleep, hydration, or behavioural and environmental stressors [
+5
+,
+12
+,
+13
+]. For this reason, researchers recommend tracking HRV trends over time—often using rolling averages or coefficients of variation—to distinguish meaningful changes from random noise [
+12
+,
+14
+].
+
+Numerous studies have explored how HRV corresponds with subjective experiences of stress, fatigue, recovery, and sleep quality [
+12
+,
+15
+,
+16
+,
+17
+,
+18
+,
+19
+]. In general, lower HRV is associated with higher perceived stress, greater fatigue, and poorer recovery [
+15
+,
+18
+,
+19
+]. Among athletes, HRV tends to decrease during periods of heavy training and improve during recovery, often tracking with subjective reports of wellness [
+17
+,
+18
+,
+19
+,
+20
+]. However, findings in real-world, non-athletic populations are less consistent. For example, Martinez et al. found that HRV explained only a small fraction of the variance in daily stress ratings among information workers, despite statistically significant associations in the expected direction [
+16
+]. Similarly, de Vries et al. reported weak and inconsistent within-person relationships between HRV and self-reported stress or fatigue in a longitudinal study of police officers [
+15
+]. These findings suggest that while HRV is sensitive to changes in physiological state, its relationship with perceived wellness is subtle, highly individualised, and influenced by contextual factors.
+
+In summary, while HRV is increasingly used to monitor stress, recovery, and overall wellness, its day-to-day relationship with self-reported experience remains inconsistent—espec
+
+----
+
+Methods
+
+2.1. Study Design
+
+This was a 14-day prospective cohort study designed to evaluate associations between short-term HRV and self-reported wellness in a real-world, non-clinical setting. Participants performed daily HRV recordings each morning using a chest-worn Polar H10 heart rate monitor (Polar Electro Oy, Kempele, Finland) connected to the Kubios HRV mobile application (version 1.6.6; Kubios Oy, Kuopio, Finland). HRV data were automatically uploaded to the Kubios Team Readiness platform, which facilitated centralised data management, team coordination, and real-time monitoring of data quality and adherence. The platform computed validated time-domain HRV metrics—such as RMSSD and standard deviation of normal-to-normal intervals (SDNN).
+
+Ethical approval for the study was granted by the University College Dublin Human Research Ethics Committee (LS-23-55) in November 2023.
+
+2.2. Study Population
+
+Participants were recruited via convenience sampling through digital advertisements, university posters, and community outreach. Eligible participants were adults aged 18 years or older, in good general health, and without a history of cardiovascular, respiratory, or major psychiatric conditions. Individuals were excluded if they reported use of medications known to affect autonomic function.
+
+Interested individuals received a detailed study information leaflet and completed a digital consent form prior to enrolment. Upon consent, participants completed a baseline questionnaire assessing demographics, sleep quality (Pittsburgh Sleep Quality Index), health-related quality of life (WHOQOL-BREF), and physical activity (modified International Physical Activity Questionnaire). The Pittsburgh Sleep Quality Index and WHOQOL-BREF are validated instruments with well-established internal consistency and construct validity across general populations [
+27
+,
+28
+].
+
+2.3. Measurement Protocol
+
+Participants were trained on proper use of the Polar H10 sensor and Kubios app during an onboarding session, which included installation, device pairing, and a supervised test measurement. Each morning, participants were instructed to remain supine and still while recording a five-minute HRV measurement following a one-minute relaxation period. Measurements were performed immediately after waking, under consistent conditions, and before any caffeine, physical activity, or digital device use.
+
+Physiological data were collected via the Kubios mobile app and transferred securely to the Kubios Team Readiness platform. RMSSD and SDNN were calculated automatically using Kubios’ artefact-corrected beat-to-beat interval processing. Respiratory rate and heart rate were also derived from each session.
+
+After the HRV measurement, participants completed a brief self-report questionnaire via SurveyMonkey (SurveyMonkey Europe UC). This included daily ratings of perceived fatigue, stress, sleep quality, and physical recovery (muscle soreness), each on a five-point Likert-type scale. Participants were also asked whether they had engaged in physical exercise in the past 24 h. If yes, they were prompted to rate their perceived exertion using the Borg Rating of Perceived Exertion (RPE) scale, and their subjective exercise experience, defined as how they felt during the session. This was rated on a five-point scale (Very Weak, Weak, Normal, Strong, Very Strong) based on perceived strength or energy during exercise. Additional contextual items included alcohol consumption (units), 
+
+----
+
+methodological variability, individual differences in physiological responses, and the limited validation of proprietary readiness scores commonly featured in consumer wearables [
+21
+]. While studies have shown general associations between HRV and subjective wellness in patients [
+22
+,
+23
+] and trained athletes [
+24
+,
+25
+], evidence from real-world, non-clinical and/or non-athletic settings is mixed, with weak and context-dependent within-person correlations. Given the widespread adoption of wearable devices—hundreds of millions globally [
+26
+], many of which provide HRV-based metrics—there is a pressing need for rigorous, ecologically valid studies that evaluate how well these measures reflect or predict users’ self-reported stress, fatigue, recovery, and sleep quality in everyday life.
+
+Therefore, the aim of this study was to evaluate the relationship between short-term, morning HRV measurements and self-reported indicators of health and wellness—including perceived fatigue, stress, physical recovery, and sleep quality—across a 14-day observational period.
+
+2. Materials and Methods
+
+2.1. Study Design
+
+This was a 14-day prospective cohort study designed to evaluate associations between short-term HRV and self-reported wellness in a real-world, non-clinical setting. Participants performed daily HRV recordings each morning using a chest-worn Polar H10 heart rate monitor (Polar Electro Oy, Kempele, Finland) connected to the Kubios HRV mobile application (version 1.6.6; Kubios Oy, Kuopio, Finland). HRV data were automatically uploaded to the Kubios Team Readiness platform, which facilitated centralised data management, team coordination, and real-time monitoring of data quality and adherence. The platform computed validated time-domain HRV metrics—such as RMSSD and standard deviation of normal-to-normal intervals (SDNN).
+
+Ethical approval for the study was granted by the University College Dublin Human Research Ethics Committee (LS-23-55) in November 2023.
+
+2.2. Study Population
+
+Participants were recruited via convenience sampling through digital advertisements, university posters, and community outreach. Eligible participants were adults aged 18 years or older, in good general health, and without a history of cardiovascular, respiratory, or major psychiatric conditions. Individuals were excluded if they reported use of medications known to affect autonomic function.
+
+Interested individuals received a detailed study information leaflet and completed a digital consent form prior to enrolment. Upon consent, participants completed a baseline questionnaire assessing demographics, sleep quality (Pittsburgh Sleep Quality Index), health-related quality of life (WHOQOL-BREF), and physical activity (modified International Physical Activity Questionnaire). The Pittsburgh Sleep Quality Index and WHOQOL-BREF are validated instruments with well-established internal consistency and construct validity across general populations [
+27
+,
+28
+].
+
+2.3. Measurement Protocol
+
+Participants were trained on proper use of the Polar H10 sensor and Kubios app during an onboarding session, which included installation, device pairing, and a supervised test measurement. Each morning, participants were instructed to remain supine and still while recording a five-minute HRV measurement following a one-minute relaxation period. Measurements were performed immediately after waking, under consistent conditions, and before any caffeine, physical activity, or digital device us
+
+----
+
+results suggest that consistent HRV monitoring may offer meaningful insight into subjective wellness—particularly when contextualised and tracked over time.
+
+Keywords:
+ heart rate variability, monitoring, physiologic, Polar H10, Kubios, wearable electronic devices, validity
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2025 Jun 25; Revised 2025 Jul 11; Accepted 2025 Jul 14; Collection date 2025 Jul.
+
+1. Introduction
+
+Heart rate variability (HRV) refers to the fluctuation in time intervals between consecutive heartbeats, measured as R–R intervals on an electrocardiogram or similar device [
+1
+]. It serves as a non-invasive marker of autonomic nervous system function, particularly the dynamic interplay between sympathetic and parasympathetic activity [
+2
+]. Higher levels of HRV, especially in vagally mediated metrics like the root mean square of successive differences (RMSSD), generally reflect a more adaptable, resilient autonomic state [
+2
+,
+3
+,
+4
+]. Lower HRV, by contrast, is associated with stress, fatigue, and diminished physiological flexibility [
+3
+,
+4
+].
+
+Accurate HRV measurement relies on consistent protocols, valid hardware, and robust signal processing—particularly for photoplethysmography (PPG)-based devices, where algorithmic filtering and artefact correction are essential [
+5
+]. HRV is also highly sensitive to contextual factors such as posture, time of day, and psychological or physiological state, making standardised measurement conditions strongly advisable [
+4
+,
+6
+]. Best practice involves taking readings either during sleep or immediately upon waking, under relaxed and consistent conditions [
+4
+,
+7
+]. Short-term (e.g., 60 s to 5 min) recordings in a seated or supine position are commonly used for longitudinal monitoring and can yield reliable estimates of vagally mediated HRV [
+8
+,
+9
+]. Chest-worn heart rate monitors such as the Polar H10 have shown excellent agreement with gold-standard ECG under these conditions [
+10
+,
+11
+]. In contrast, wrist-worn or camera-based sensors are more prone to noise, and their HRV estimates vary considerably depending on sampling rate and movement artefacts [
+8
+]. Within-subject variability is another important consideration. Even under controlled conditions, day-to-day fluctuations in HRV are common and may reflect changes in sleep, hydration, or behavioural and environmental stressors [
+5
+,
+12
+,
+13
+]. For this reason, researchers recommend tracking HRV trends over time—often using rolling averages or coefficients of variation—to distinguish meaningful changes from random noise [
+12
+,
+14
+].
+
+Numerous studies have explored how HRV corresponds with subjective experiences of stress, fatigue, recovery, and sleep quality [
+12
+,
+15
+,
+16
+,
+17
+,
+18
+,
+19
+]. In general, lower HRV is associated with higher perceived stress, greater fatigue, and poorer recovery [
+15
+,
+18
+,
+19
+]. Among athletes, HRV tends to decrease during periods of heavy training and improve during recovery, often tracking with subjective reports of wellness [
+17
+,
+18
+,
+19
+,
+20
+]. However, findings in real-world, non-athletic populations are less consistent. For example, Martinez et al. found that HRV explained only a small fraction of the variance in daily stress ratings among information workers, despite statistically significant associations in the expected direction [
+16
+]. Similarly, de Vries et al. reported weak and incons
+
+----
+
+Discussion
+
+This study investigated whether short-term HRV, measured each morning under standardised conditions, was associated with self-reported wellness indicators in a non-clinical adult population. Across 424 daily observations, higher RMSSD values were credibly linked to more favourable self-reports of fatigue (β = 0.281, 95% HDI: 0.020 to 0.562), stress (β = 0.353, 95% HDI: 0.059 to 0.606), and sleep quality (β = 0.510, 95% HDI: 0.239 to 0.779). These associations remained robust after adjusting for physiological and contextual covariates, including resting heart rate, respiratory rate, alcohol intake, and physical activity. Specifically, participants with higher RMSSD were more likely to report feeling rested, relaxed, and well-slept. By contrast, RMSSD was not credibly associated with body soreness (β = 0.172, 95% HDI: −0.051 to 0.396), suggesting either a weak or context-dependent relationship between autonomic recovery and perceived muscle soreness.
+
+These findings align with a growing body of literature suggesting that HRV—particularly RMSSD—tracks with day-to-day fluctuations in subjective wellness [
+24
+,
+36
+,
+37
+]. Prior repeated-measures studies in athletic and occupational settings have reported similar within-person associations. For example, Martinez et al. [
+16
+] found that lower daytime HRV corresponded with higher perceived stress in a large sample of knowledge workers, albeit with small effect sizes. Similarly, Lundstrom et al. [
+20
+] reported that declines in morning RMSSD were associated with elevated fatigue in collegiate swimmers during intensified training periods. These studies, like ours, highlight RMSSD’s potential to reflect real-time changes in recovery and physiological strain when measured consistently.
+
+Our results also echo insights from N-of-1 designs in high-demand sport [
+38
+] and professional [
+15
+] settings. In a longitudinal study of police officers, daily HRV derived from the Oura Ring showed weak but stable associations with self-reported stress and fatigue [
+15
+]. Notably, these effects were more apparent in subjective domains like mood and sleep than in physical recovery measures such as soreness. This pattern is consistent with the physiological basis of RMSSD: as a marker of parasympathetic tone, RMSSD may more directly reflect psychological strain and autonomic recovery than biomechanical or inflammatory processes involved in muscle soreness [
+4
+,
+24
+,
+37
+]. This pattern also aligns with our own findings. While some studies have shown that HRV decreases in response to muscle damage or overtraining [
+36
+,
+39
+,
+40
+], others suggest that soreness arises from peripheral mechanisms not readily detected through autonomic markers—particularly when assessed using brief Likert-type items [
+41
+,
+42
+].
+
+By capturing these associations in a healthy, mixed-activity adult sample using a validated chest-worn sensor (Polar H10), this study extends HRV research beyond elite or clinical populations. It also reinforces the role of resting heart rate and respiratory rate as co-regulators of subjective wellness [
+43
+]. Consistent with prior work, lower resting heart rate was associated with better self-reported sleep and fatigue, supporting its utility as a general marker of recovery status [
+44
+,
+45
+].
+
+Overall, our results support the interpretation of RMSSD as a meaningful, though not exclusive, indicator of short-term recovery and stress in daily life. While effect sizes were modest, the associations with
+
+----
+
+Conclusions
+
+In this 14-day real-world monitoring study, higher morning HRV—measured via RMSSD—was consistently associated with better self-reported sleep, lower fatigue, and reduced stress in a healthy adult sample. While effect sizes were modest and the recruited sample was skewed towards younger adults, the direction and consistency of associations support the interpretation of RMSSD as a physiologically grounded indicator of daily wellness. These findings highlight the potential utility of RMSSD in both research and real-world monitoring contexts—particularly when used to track within-person changes over time. As interest in wearable biosensors grows, future work should continue to refine the use of HRV as a behavioural signal—one that complements, rather than replaces, subjective experience and situational context in understanding recovery, resilience, and physiological strain.
+
+Author Contributions
+
+Conceptualization, C.D., R.L. and B.O.; methodology, C.D., R.L. and B.O.; investigation, B.O. and R.L.; data collection, B.O. and R.L.; formal analysis, J.H. and A.O.; writing—original draft preparation, C.D., J.H., A.O. and R.L.; writing—review and editing, C.D., J.H., A.O. and R.L.; supervision, C.D. and A.O.; funding acquisition, C.D. All authors have read and agreed to the published version of the manuscript.
+
+Institutional Review Board Statement
+
+The study was conducted in accordance with the Declaration of Helsinki and approved by the Institutional Review Board of the University College Dublin School of Public Health, Physiotherapy, and Sports Science Undergraduate Human Research Ethics Committee (protocol code: LS-23-55, date of approval: November 2023).
+
+Informed Consent Statement
+
+Informed consent was obtained from all subjects involved in the study.
+
+Data Availability Statement
+
+The data supporting the reported results of this study are available on GitHub at 
+https://github.com/JamesHannon97/Associations-Between-Daily-HRV-SelfReported-Wellness-14Day-Observational-Study-in-Healthy-Adults
+ (accessed on 13 July 2025).
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest. The funding bodies, including Research Ireland and Google Ireland, had no role in the design, data collection, analysis, interpretation, or writing of this study.
+
+Funding Statement
+
+This publication has emanated from research jointly funded by Taighde Éireann—Research Ireland (grant numbers 18/CRT/6049 and 12/RC/2289_P2) and Google Ireland.
+
+Footnotes
+
+Disclaimer/Publisher’s Note:
+ The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+References
+
+1.
+
+Joyce D., Barrett M. State of the science: Heart rate variability in health and disease. BMJ Support. Palliat. Care. 2019;9:274–276. doi: 10.1136/bmjspcare-2018-001588.
+
+2.
+
+Sztajzel J. Heart rate variability: A noninvasive electrocardiographic method to measure the autonomic nervous system. Swiss Med. Wkly. 2004;134:514–522. doi: 10.4414/smw.2004.10321.
+
+3.
+
+McCraty R., Shaffer F. Heart Rate Variability: New Perspectives on Physiological Mechanisms, Assessment of Self-regulatory Capacity, and Health risk. Glob. Adv. Health Med. 2015;4:46–61. doi: 10.7453/gahmj.2014.073.
+
+4.
+
+Shaffer F., Ginsberg J.P. An Overview of
+
+----
+
+practical relevance in light of growing public interest in HRV monitoring. Consumer platforms such as WHOOP, Oura, Garmin, and Polar increasingly provide users with composite “readiness” scores that incorporate HRV alongside other metrics. While the rationale for these scores is intuitive—integrating multiple physiological signals to estimate recovery—they may obscure variation in individual inputs, while also serving as test beds for companies to experiment with new markers of health and wellness—often at the expense of users’ data privacy [
+46
+]. HRV is particularly sensitive to context and personal baseline. Aggregating it into a single opaque score, without transparency or independent validation, risks diluting its interpretive value. At present, few of these readiness indices have been tested in prospective, real-world studies. Before relying on black-box recovery scores, we argue for the importance of isolating and validating core physiological signals such as RMSSD. By modelling RMSSD in relation to clearly defined self-reported outcomes, this study offers a transparent and interpretable approach to understanding biosignal dynamics in everyday life. Methodologically, several features support the credibility of our findings: the use of research-grade devices (Polar H10) and validated analysis software (Kubios HRV); a standardised morning protocol to reduce confounding from posture, circadian variation, or physical activity; and a 14-day prospective design that captured repeated within-subject measurements under real-world conditions. Finally, the use of Bayesian ordinal regression allowed us to account for uncertainty and the ordinal nature of our outcome variables, while leave-one-out cross-validation ensured robust model selection.
+
+Conceptually, this study contributes to the field of wearable-based digital phenotyping by demonstrating that daily RMSSD can track perceived stress, fatigue, and sleep quality in a general adult population. Much of the existing literature has focused on athletes [
+24
+,
+25
+] or clinical groups [
+22
+,
+23
+]; our findings extend these insights to more diverse, non-clinical settings. HRV may therefore hold promise as a scalable, low-burden indicator of recovery and strain—particularly for self-monitoring and occupational health applications.
+
+Still, the heterogeneity in effect strength across outcomes warrants cautious interpretation. Not all dimensions of self-reported wellness tracked equally with RMSSD. While stress, fatigue, and sleep quality showed credible associations, physical recovery (body soreness) did not. These differences likely reflect the multi-factorial nature of perceived wellness, shaped by individual autonomic responsivity, psychological framing, and contextual influences like sleep disruption, alcohol intake, or workload. Even under controlled measurement conditions, HRV may reflect some wellness domains more strongly than others.
+
+On this basis, HRV should not be viewed as a diagnostic or standalone marker but rather as a context-sensitive physiological correlate. Its interpretive value increases when considered alongside subjective experience, behavioural patterns, and temporal trends. Our findings reinforce the view that single-day HRV readings offer limited insight, whereas multi-day trajectories—interpreted in context—provide a more robust signal of stress, recovery, and physiological adaptability. To illustrate this, we calculated the coefficient of variation (CV) of RMSSD acro
+
+----
+
+limitation stems from methodological variability, individual differences in physiological responses, and the limited validation of proprietary readiness scores commonly featured in consumer wearables [
+21
+]. While studies have shown general associations between HRV and subjective wellness in patients [
+22
+,
+23
+] and trained athletes [
+24
+,
+25
+], evidence from real-world, non-clinical and/or non-athletic settings is mixed, with weak and context-dependent within-person correlations. Given the widespread adoption of wearable devices—hundreds of millions globally [
+26
+], many of which provide HRV-based metrics—there is a pressing need for rigorous, ecologically valid studies that evaluate how well these measures reflect or predict users’ self-reported stress, fatigue, recovery, and sleep quality in everyday life.
+
+Therefore, the aim of this study was to evaluate the relationship between short-term, morning HRV measurements and self-reported indicators of health and wellness—including perceived fatigue, stress, physical recovery, and sleep quality—across a 14-day observational period.
+
+2. Materials and Methods
+
+2.1. Study Design
+
+This was a 14-day prospective cohort study designed to evaluate associations between short-term HRV and self-reported wellness in a real-world, non-clinical setting. Participants performed daily HRV recordings each morning using a chest-worn Polar H10 heart rate monitor (Polar Electro Oy, Kempele, Finland) connected to the Kubios HRV mobile application (version 1.6.6; Kubios Oy, Kuopio, Finland). HRV data were automatically uploaded to the Kubios Team Readiness platform, which facilitated centralised data management, team coordination, and real-time monitoring of data quality and adherence. The platform computed validated time-domain HRV metrics—such as RMSSD and standard deviation of normal-to-normal intervals (SDNN).
+
+Ethical approval for the study was granted by the University College Dublin Human Research Ethics Committee (LS-23-55) in November 2023.
+
+2.2. Study Population
+
+Participants were recruited via convenience sampling through digital advertisements, university posters, and community outreach. Eligible participants were adults aged 18 years or older, in good general health, and without a history of cardiovascular, respiratory, or major psychiatric conditions. Individuals were excluded if they reported use of medications known to affect autonomic function.
+
+Interested individuals received a detailed study information leaflet and completed a digital consent form prior to enrolment. Upon consent, participants completed a baseline questionnaire assessing demographics, sleep quality (Pittsburgh Sleep Quality Index), health-related quality of life (WHOQOL-BREF), and physical activity (modified International Physical Activity Questionnaire). The Pittsburgh Sleep Quality Index and WHOQOL-BREF are validated instruments with well-established internal consistency and construct validity across general populations [
+27
+,
+28
+].
+
+2.3. Measurement Protocol
+
+Participants were trained on proper use of the Polar H10 sensor and Kubios app during an onboarding session, which included installation, device pairing, and a supervised test measurement. Each morning, participants were instructed to remain supine and still while recording a five-minute HRV measurement following a one-minute relaxation period. Measurements were performed immediately after waking, under consistent conditions, and before any caffeine, physical activity

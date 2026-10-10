@@ -1,0 +1,2096 @@
+Introduction
+
+On 7 August 2021, 20-year-old Norwegian middle-distance runner Jakob Ingebrigtsen won the 1500 m Olympic title in Tokyo while breaking the Olympic and European records with a time of 3:28.32 (min:s). He also has won the World 5000 m and European 1500 m, 3000 m, 5000 m, and cross-country titles and owns the current indoor 1500 m world record (3:30.60 (min:s)). Further, his brothers Henrik and Filip, also Olympians, won the European 1500 m championships in 2012 and 2016, respectively. Their training pattern was described in a recent article [
+1
+] and is considered critical for their development as athletes. While it does not differ greatly from usual training modes in world-class runners [
+2
+,
+3
+], there is one specific characteristic which makes it unique and innovative: they were typically measuring their blood lactate concentration ([BLa]) during most of their high-intensity training sessions with the intent of matching a specific physiological intensity [
+1
+].
+
+The main physiological performance determinants which account for success in distance running events are: maximal oxygen uptake (VO
+2max
+) [
+4
+,
+5
+,
+6
+]; running economy (RE), defined as steady-state VO
+2
+ at a given submaximal speed or as the VO
+2
+ per unit of distance [
+5
+,
+7
+,
+8
+,
+9
+]; the ability to sustain a high percentage of VO
+2max
+ during competition (% VO
+2max
+) [
+10
+,
+11
+,
+12
+]; the lactate threshold (LT), defined either as the velocity at which a non-linear increase in blood lactate occurs, the maximal lactate steady-state (MLSS), or the velocity corresponding to a blood lactate concentration of 4 mmol·L
+−1
+ [
+13
+]; velocity at LT (vLT)/MLSS [
+14
+,
+15
+]; and the minimum velocity needed to achieve VO
+2max
+ (vVO
+2max
+) [
+6
+,
+16
+,
+17
+]. To improve distance running performance, the training stimulus must enhance one or more of these factors [
+18
+].
+
+The training stimulus represents the interaction among training volume (km per week), training frequency, and training intensity designed to enhance the aforementioned performance physiological determinants and performance in distance runners (19). The ideal relationship among these three training variables has, through several decades, been a topic of discussion in both the scientific [
+19
+,
+20
+,
+21
+,
+22
+,
+23
+,
+24
+,
+25
+] and coaching [
+26
+,
+27
+,
+28
+,
+29
+,
+30
+] literature.
+
+However, it remains unclear whether selecting the absolute training intensity composing the training stimulus through the control of an internal training load marker (i.e., blood lactate concentration) to match specific metabolic (relative) intensities may represent a training pattern optimizing the improvement of performance and its physiological determinants in distance runners. Accordingly, the present article aims to describe this training model and its similarities with those considered optimal according to the current scientific literature and examine the potential physiological mechanisms which may support its effectiveness. It would encourage the conduction of further intervention studies testing its influence on performance and its physiological determinants. If this model represents a more efficient training approach than those currently accepted, it may be useful for coaches and athletes, thereby optimizing performance in the latter.
+
+2. Historical Trends in Distance Runners’ Training Principles
+
+During the last 100 years, the training principles used by middle- and long-distance runners have been inspired by training theories tha
+
+----
+
+
+Methods to Determine Aerobic Endurance
+
+Sport. Med.
+
+2002
+
+32
+
+675
+
+700
+
+10.2165/00007256-200232110-00002
+
+12196030
+
+18.
+
+Joyner
+
+M.J.
+
+Coyle
+
+E.F.
+
+Endurance Exercise Performance: The Physiology of Champions
+
+J. Physiol.
+
+2008
+
+586
+
+35
+
+44
+
+10.1113/jphysiol.2007.143834
+
+17901124
+
+PMC2375555
+
+19.
+
+Midgley
+
+A.W.
+
+McNaughton
+
+L.R.
+
+Jones
+
+A.M.
+
+Training to Enhance the Physiological Determinants of Long-Distance Running Performance: Can Valid Recommendations Be given to Runners and Coaches Based on Current Scientific Knowledge?
+
+Sport. Med.
+
+2007
+
+37
+
+857
+
+880
+
+10.2165/00007256-200737100-00003
+
+17887811
+
+20.
+
+Brandon
+
+L.J.
+
+Physiological Factors Associated with Middle Distance Running Performance
+
+Sport. Med.
+
+1995
+
+19
+
+268
+
+277
+
+10.2165/00007256-199519040-00004
+
+7604199
+
+21.
+
+Seiler
+
+K.S.
+
+Kjerland
+
+G.Ø.
+
+Quantifying Training Intensity Distribution in Elite Endurance Athletes: Is There Evidence for an “Optimal” Distribution?
+
+Scand. J. Med. Sci. Sport.
+
+2006
+
+16
+
+49
+
+56
+
+10.1111/j.1600-0838.2004.00418.x
+
+16430681
+
+22.
+
+Seiler
+
+S.
+
+Tønnessen
+
+E.
+
+Intervals, Thresholds, and Long Slow Distance: The Role of Intensity and Duration in Endurance Training
+
+Training
+
+2009
+
+13
+
+32
+
+53
+
+23.
+
+Grant
+
+G.
+
+No Short-Cuts to the Top
+
+Athletics Weekly
+
+Descartes. Publishing Ltd.
+
+Peterborough, UK
+
+2009
+
+26
+
+24.
+
+Foster
+
+C.
+
+Casado
+
+A.
+
+Esteve-Lanao
+
+J.
+
+Haugen
+
+T.
+
+Seiler
+
+S.
+
+Polarized Training Is Optimal for Endurance Athletes
+
+Med. Sci. Sport. Exerc.
+
+2022
+
+54
+
+1028
+
+1031
+
+10.1249/MSS.0000000000002871
+
+35136001
+
+25.
+
+Burnley
+
+M.
+
+Bearden
+
+S.E.
+
+Jones
+
+A.M.
+
+Polarized Training Is Not Optimal for Endurance Athletes
+
+Med. Sci. Sport. Exerc.
+
+2022
+
+54
+
+1032
+
+1034
+
+10.1249/MSS.0000000000002869
+
+35135998
+
+26.
+
+Lydiard
+
+A.
+
+Gilmour
+
+G.
+
+Running to the Top
+
+Meyer & Meyer Sport
+
+Aachen, Germany
+
+1997
+
+27.
+
+Brook
+
+N.
+
+Endurance Running Events
+
+British Athletics Federation
+
+Birmingham, England
+
+1992
+
+28.
+
+Martin
+
+D.E.
+
+Coe
+
+P.N.
+
+Training Distance Runners
+
+Leisure Press
+
+Champaign, IL, USA
+
+1991
+
+29.
+
+Van Aaken
+
+E.
+
+Van Aaken Method: Finding the Endurance to Run Faster and Live Healthier
+
+World Publications
+
+Mountain View, CA, USA
+
+1976
+
+30.
+
+Dellinger
+
+B.
+
+Freeman
+
+B.
+
+The Competitive Runners Book
+
+Collier Books
+
+Springfield, OH, USA
+
+1984
+
+31.
+
+Billat
+
+V.L.
+
+Interval Training for Performance: A Scientific and Empirical Practice. Special Recommendations for Middle- and Long-Distance Running. Part I: Aerobic Interval Training
+
+Sport. Med.
+
+2001
+
+31
+
+75
+
+90
+
+10.2165/00007256-200131020-00001
+
+11219499
+
+32.
+
+Holmer
+
+G.
+
+Veien Til Rekorden
+
+Instruksjonsbok i Friidrett
+
+Oslo, Norway
+
+1947
+
+33.
+
+Temple
+
+C.
+
+Cross Country and Road Running
+
+Stanley Paul
+
+London, UK
+
+1980
+
+34.
+
+Burfoot
+
+A.
+
+Training the Hard/Easy Way
+
+Run. World
+
+1981
+
+16
+
+57
+
+105
+
+35.
+
+Ferreira
+
+P.
+
+Experience in Oporto
+
+Track Field Q. Rev.
+
+1983
+
+83
+
+38
+
+41
+
+36.
+
+Moritani
+
+T.
+
+DeVries
+
+H.A.
+
+Neural Factors versus Hypertrophy in the Time Course of Muscle Strength Gain
+
+Am. J. Phys. Med.
+
+1979
+
+58
+
+115
+
+130
+
+453338
+
+37.
+
+Casado
+
+A.
+
+Tjelta
+
+L.I.
+
+Training Volume and Intensity Distribution among Elite Middle- and Long-Distance Runners
+
+The Science and Practice of Middle- and Long-Distance Running
+
+Blagrove
+
+R.
+
+Hayes
+
+P.
+
+Routledge
+
+New York, NY, USA
+
+2021
+
+38.
+
+Tjelta
+
+L.I.
+
+The Training of International Level Distance Runners
+
+Int. J. Sport. Sci. Coach
+
+2016
+
+11
+
+122
+
+134
+
+10.1177/1747954115624813
+
+39.
+
+Kaggestad
+
+J.
+
+So Trainiert Ingrid Kristiansen 1986
+
+Leichtatletik
+
+1987
+
+38
+
+831
+
+834
+
+40.
+
+Jones
+
+A.
+
+----
+
+
+Methods to Determine Aerobic Endurance
+
+Sport. Med.
+
+2002
+
+32
+
+675
+
+700
+
+10.2165/00007256-200232110-00002
+
+12196030
+
+18.
+
+Joyner
+
+M.J.
+
+Coyle
+
+E.F.
+
+Endurance Exercise Performance: The Physiology of Champions
+
+J. Physiol.
+
+2008
+
+586
+
+35
+
+44
+
+10.1113/jphysiol.2007.143834
+
+17901124
+
+PMC2375555
+
+19.
+
+Midgley
+
+A.W.
+
+McNaughton
+
+L.R.
+
+Jones
+
+A.M.
+
+Training to Enhance the Physiological Determinants of Long-Distance Running Performance: Can Valid Recommendations Be given to Runners and Coaches Based on Current Scientific Knowledge?
+
+Sport. Med.
+
+2007
+
+37
+
+857
+
+880
+
+10.2165/00007256-200737100-00003
+
+17887811
+
+20.
+
+Brandon
+
+L.J.
+
+Physiological Factors Associated with Middle Distance Running Performance
+
+Sport. Med.
+
+1995
+
+19
+
+268
+
+277
+
+10.2165/00007256-199519040-00004
+
+7604199
+
+21.
+
+Seiler
+
+K.S.
+
+Kjerland
+
+G.Ø.
+
+Quantifying Training Intensity Distribution in Elite Endurance Athletes: Is There Evidence for an “Optimal” Distribution?
+
+Scand. J. Med. Sci. Sport.
+
+2006
+
+16
+
+49
+
+56
+
+10.1111/j.1600-0838.2004.00418.x
+
+16430681
+
+22.
+
+Seiler
+
+S.
+
+Tønnessen
+
+E.
+
+Intervals, Thresholds, and Long Slow Distance: The Role of Intensity and Duration in Endurance Training
+
+Training
+
+2009
+
+13
+
+32
+
+53
+
+23.
+
+Grant
+
+G.
+
+No Short-Cuts to the Top
+
+Athletics Weekly
+
+Descartes. Publishing Ltd.
+
+Peterborough, UK
+
+2009
+
+26
+
+24.
+
+Foster
+
+C.
+
+Casado
+
+A.
+
+Esteve-Lanao
+
+J.
+
+Haugen
+
+T.
+
+Seiler
+
+S.
+
+Polarized Training Is Optimal for Endurance Athletes
+
+Med. Sci. Sport. Exerc.
+
+2022
+
+54
+
+1028
+
+1031
+
+10.1249/MSS.0000000000002871
+
+35136001
+
+25.
+
+Burnley
+
+M.
+
+Bearden
+
+S.E.
+
+Jones
+
+A.M.
+
+Polarized Training Is Not Optimal for Endurance Athletes
+
+Med. Sci. Sport. Exerc.
+
+2022
+
+54
+
+1032
+
+1034
+
+10.1249/MSS.0000000000002869
+
+35135998
+
+26.
+
+Lydiard
+
+A.
+
+Gilmour
+
+G.
+
+Running to the Top
+
+Meyer & Meyer Sport
+
+Aachen, Germany
+
+1997
+
+27.
+
+Brook
+
+N.
+
+Endurance Running Events
+
+British Athletics Federation
+
+Birmingham, England
+
+1992
+
+28.
+
+Martin
+
+D.E.
+
+Coe
+
+P.N.
+
+Training Distance Runners
+
+Leisure Press
+
+Champaign, IL, USA
+
+1991
+
+29.
+
+Van Aaken
+
+E.
+
+Van Aaken Method: Finding the Endurance to Run Faster and Live Healthier
+
+World Publications
+
+Mountain View, CA, USA
+
+1976
+
+30.
+
+Dellinger
+
+B.
+
+Freeman
+
+B.
+
+The Competitive Runners Book
+
+Collier Books
+
+Springfield, OH, USA
+
+1984
+
+31.
+
+Billat
+
+V.L.
+
+Interval Training for Performance: A Scientific and Empirical Practice. Special Recommendations for Middle- and Long-Distance Running. Part I: Aerobic Interval Training
+
+Sport. Med.
+
+2001
+
+31
+
+75
+
+90
+
+10.2165/00007256-200131020-00001
+
+11219499
+
+32.
+
+Holmer
+
+G.
+
+Veien Til Rekorden
+
+Instruksjonsbok i Friidrett
+
+Oslo, Norway
+
+1947
+
+33.
+
+Temple
+
+C.
+
+Cross Country and Road Running
+
+Stanley Paul
+
+London, UK
+
+1980
+
+34.
+
+Burfoot
+
+A.
+
+Training the Hard/Easy Way
+
+Run. World
+
+1981
+
+16
+
+57
+
+105
+
+35.
+
+Ferreira
+
+P.
+
+Experience in Oporto
+
+Track Field Q. Rev.
+
+1983
+
+83
+
+38
+
+41
+
+36.
+
+Moritani
+
+T.
+
+DeVries
+
+H.A.
+
+Neural Factors versus Hypertrophy in the Time Course of Muscle Strength Gain
+
+Am. J. Phys. Med.
+
+1979
+
+58
+
+115
+
+130
+
+453338
+
+37.
+
+Casado
+
+A.
+
+Tjelta
+
+L.I.
+
+Training Volume and Intensity Distribution among Elite Middle- and Long-Distance Runners
+
+The Science and Practice of Middle- and Long-Distance Running
+
+Blagrove
+
+R.
+
+Hayes
+
+P.
+
+Routledge
+
+New York, NY, USA
+
+2021
+
+38.
+
+Tjelta
+
+L.I.
+
+The Training of International Level Distance Runners
+
+Int. J. Sport. Sci. Coach
+
+2016
+
+11
+
+122
+
+134
+
+10.1177/1747954115624813
+
+39.
+
+Kaggestad
+
+J.
+
+So Trainiert Ingrid Kristiansen 1986
+
+Leichtatletik
+
+1987
+
+38
+
+831
+
+834
+
+40.
+
+Jones
+
+A.
+
+----
+
+Results-Proven Practice
+
+Sport. Med. Open
+
+2022
+
+8
+
+46
+
+10.1186/s40798-022-00438-7
+
+35362850
+
+PMC8975965
+
+54.
+
+Campos
+
+Y.
+
+Casado
+
+A.
+
+Vieira
+
+J.G.
+
+Guimarães
+
+M.
+
+Sant’Ana
+
+L.
+
+Leitão
+
+L.
+
+da Silva
+
+S.F.
+
+Silva Marques De Azevedo
+
+P.H.
+
+Vianna
+
+J.
+
+Domínguez
+
+R.
+
+Training-Intensity Distribution on Middle- And Long-Distance Runners: A Systematic Review
+
+Int. J. Sport. Med.
+
+2021
+
+43
+
+305
+
+316
+
+10.1055/a-1559-3623
+
+34749417
+
+55.
+
+Casado
+
+A.
+
+González-Mohíno
+
+F.
+
+González-Ravé
+
+J.M.
+
+Foster
+
+C.
+
+Training Periodization, Methods, Intensity Distribution, and Volume in Highly Trained and Elite Distance Runners: A Systematic Review
+
+Int. J. Sport. Physiol. Perform.
+
+2022
+
+17
+
+1
+
+14
+
+10.1123/ijspp.2021-0435
+
+35418513
+
+56.
+
+Egan
+
+B.
+
+Zierath
+
+J.R.
+
+Exercise Metabolism and the Molecular Regulation of Skeletal Muscle Adaptation
+
+Cell Metab.
+
+2013
+
+17
+
+162
+
+184
+
+10.1016/j.cmet.2012.12.012
+
+23395166
+
+57.
+
+Van der Zwaard
+
+S.
+
+Brocherie
+
+F.
+
+Jaspers
+
+R.T.
+
+Under the Hood: Skeletal Muscle Determinants of Endurance Performance
+
+Front. Sport. Act. Living
+
+2021
+
+3
+
+719434
+
+10.3389/fspor.2021.719434
+
+34423293
+
+PMC8371266
+
+58.
+
+Bishop
+
+D.J.
+
+Botella
+
+J.
+
+Granata
+
+C.
+
+CrossTalk Opposing View: Exercise Training Volume Is More Important than Training Intensity to Promote Increases in Mitochondrial Content
+
+J. Physiol.
+
+2019
+
+597
+
+4115
+
+4118
+
+10.1113/JP277634
+
+31309570
+
+59.
+
+MacInnis
+
+M.J.
+
+Gibala
+
+M.J.
+
+Physiological Adaptations to Interval Training and the Role of Exercise Intensity
+
+J. Physiol.
+
+2017
+
+595
+
+2915
+
+2930
+
+10.1113/JP273196
+
+27748956
+
+PMC5407969
+
+60.
+
+Gibala
+
+M.J.
+
+McGee
+
+S.L.
+
+Garnham
+
+A.P.
+
+Howlett
+
+K.F.
+
+Snow
+
+R.J.
+
+Hargreaves
+
+M.
+
+Brief Intense Interval Exercise Activates AMPK and P38 MAPK Signaling and Increases the Expression of PGC-1α in Human Skeletal Muscle
+
+J. Appl. Physiol.
+
+2009
+
+106
+
+929
+
+934
+
+10.1152/japplphysiol.90880.2008
+
+19112161
+
+61.
+
+MacInnis
+
+M.J.
+
+Skelly
+
+L.E.
+
+Gibala
+
+M.J.
+
+CrossTalk Proposal: Exercise Training Intensity Is More Important than Volume to Promote Increases in Human Skeletal Muscle Mitochondrial Content
+
+J. Physiol.
+
+2019
+
+597
+
+4111
+
+4113
+
+10.1113/JP277633
+
+31309577
+
+62.
+
+Meeusen
+
+R.
+
+Duclos
+
+M.
+
+Foster
+
+C.
+
+Fry
+
+A.
+
+Gleeson
+
+M.
+
+Nieman
+
+D.
+
+Raglin
+
+J.
+
+Rietjens
+
+G.
+
+Steinacker
+
+J.
+
+Urhausen
+
+A.
+
+Prevention, Diagnosis, and Treatment of the Overtraining Syndrome: Joint Consensus Statement of the European College of Sport Science and the American College of Sports Medicine
+
+Med. Sci. Sport. Exerc.
+
+2013
+
+45
+
+186
+
+205
+
+10.1080/17461391.2012.730061
+
+23247672
+
+63.
+
+Seiler
+
+S.
+
+Haugen
+
+O.
+
+Kuffel
+
+E.
+
+Autonomic Recovery after Exercise in Trained Athletes: Intensity and Duration Effects
+
+Med. Sci. Sport. Exerc.
+
+2007
+
+39
+
+1366
+
+1373
+
+10.1249/mss.0b013e318060f17d
+
+17762370
+
+64.
+
+Billat
+
+V.L.
+
+Flechet
+
+B.
+
+Petit
+
+B.
+
+Muriaux
+
+G.
+
+Koralsztein
+
+J.P.
+
+Interval Training at VO(2max): Effects on Aerobic Performance and Overtraining Markers
+
+Med. Sci. Sport. Exerc.
+
+1999
+
+31
+
+156
+
+163
+
+10.1097/00005768-199901000-00024
+
+9927024
+
+65.
+
+Esteve-Lanao
+
+J.
+
+Foster
+
+C.
+
+Seiler
+
+S.
+
+Lucia
+
+A.
+
+Impact of Training Intensity Distribution on Performance in Endurance Athletes
+
+J. Strength Cond. Res.
+
+2007
+
+21
+
+943
+
+949
+
+10.1519/R-19725.1
+
+17685689
+
+66.
+
+Foster
+
+C.
+
+Monitoring Training in Athletes with Reference to Overtraining Syndrome
+
+Med. Sci. Sport. Exerc.
+
+1998
+
+30
+
+1164
+
+1168
+
+10.1097/00005768-199807000-00023
+
+9662690
+
+67.
+
+Tjelta
+
+L.I.
+
+A Longitudinal Case Study of the Training of the 2012 European 1500 m Track Champion
+
+Int. J. Appl
+
+----
+
+discussion in both the scientific [
+19
+,
+20
+,
+21
+,
+22
+,
+23
+,
+24
+,
+25
+] and coaching [
+26
+,
+27
+,
+28
+,
+29
+,
+30
+] literature.
+
+However, it remains unclear whether selecting the absolute training intensity composing the training stimulus through the control of an internal training load marker (i.e., blood lactate concentration) to match specific metabolic (relative) intensities may represent a training pattern optimizing the improvement of performance and its physiological determinants in distance runners. Accordingly, the present article aims to describe this training model and its similarities with those considered optimal according to the current scientific literature and examine the potential physiological mechanisms which may support its effectiveness. It would encourage the conduction of further intervention studies testing its influence on performance and its physiological determinants. If this model represents a more efficient training approach than those currently accepted, it may be useful for coaches and athletes, thereby optimizing performance in the latter.
+
+2. Historical Trends in Distance Runners’ Training Principles
+
+During the last 100 years, the training principles used by middle- and long-distance runners have been inspired by training theories that provided success for contemporary outstanding runners. To a lesser extent, principles derived from physiological research have contributed to our understanding of how to train runners.
+
+In the 1920s and 1930s, international distance running was dominated by Finnish runners. The Finnish sports professor Lauri Pikhala inspired Pavo Nurmi (nine-time Olympic champion from 1920–1928 in events ranging from 1500 m to 10,000 m and cross country) and other Finnish runners with training principles he brought home from the United States. Their training system during the spring and summer seasons was a precursor to interval training [
+27
+]. Nurmi could, for instance, incorporate 6 × 400 m in 60 s into a slow run of 10 to 20 km in the forest [
+31
+]. The term “interval training” was introduced in the 1930s by the German coach Woldmar Gerschler and physician Herbert Reindel [
+27
+]. Their interval training represented a way to quantify the training load on the basis of repetitive runs to a heart rate of 180 beats/min, with a recovery interval to a heart rate of 120 beats/min. An interval training session consisted of repetitions of shorter (100 m to 400 m) runs. Gerschler was the coach of elite German middle-distance runners, such as Rudolf Harbig, who broke the 800 m world record in 1939 with a time of 1:46.6 (min:s). Importantly, in the 1930s, many years before the advent of portable heart rate monitors, accurately measuring a heart rate of 180 was nearly impossible, and the rationale for choosing “run to 180, recover to 120” is lost to history. Gösta Holmér was the coach of the Swedish runners Gunder Hägg and Arne Anderson who set numerous world records (WR) over distances from 1500 m to 5000 m in the 1940s. Holmér developed “fartlek”, which consisted of intensive efforts of varying distance and duration, interspersed with slower running [
+32
+]. It was very similar to Gerschler’s interval training but less formally organized and often conducted “by feel” in the forests rather than on a track. Czech runner Emil Zatopek, multiple-time Olympic champion in events from 5000 m to marathon from 1948 to 1952, typically performed an interval training regime consisting of a very high number of repet
+
+----
+
+conclusion of a recent debate regarding which of the two models was more effective [
+24
+,
+25
+]. However, a more recent review reported that a pyramidal approach was typically adopted more often in highly trained and elite distance runners, despite the fact that polarized TID also appears to be effective [
+55
+]. Most importantly, a high-volume low-intensity approach is carried out in both the pyramidal and polarized TID models.
+
+5. Physiological and Performance Development Using Lactate-Guided Threshold Interval Training (LTIT) within a High-Volume Low-Intensity Approach
+
+5.1. Physiological Mechanisms Underpinning the Effectiveness of the Use of High Training Volume at Low Intensity
+
+Different hypotheses have been proposed to explain the underpinning mechanisms regarding the reason why a great proportion (70–80%) of overall training volume conducted at low intensity yields optimal performance development in endurance athletes who will race at comparatively high intensities (e.g., low specificity of training). The improvement of endurance performance through high volume of low/moderate continuous training is generated by sustaining increased cardiac output over a prolonged time (therefore augmenting oxygen delivery to working skeletal muscle) and by increased capacity for the oxidative metabolism through mitochondrial biogenesis and capillarization in Type I skeletal muscle fibers [
+56
+,
+57
+]. Importantly, the mozaic architecture of human skeletal muscle dictates that increased capillarization in Type I skeletal muscle fibers also serves to augment O
+2
+ delivery in Type II muscle fibers. Two primary signaling pathways for mitochondrial proliferation (both convergent on PGC1-α expression) exist. One is based on calcium signaling, which is more likely used with high-volume training [
+57
+,
+58
+], and the other is based on signaling derived from adenosine monophosphate (AMP)-activated protein kinase (AMPK) pathway, which is more likely used with high-intensity training, as [ATP] and AMP levels are reduced and increased, respectively [
+59
+,
+60
+]. As recruiting certain motor units elicited during competitive intensity exercise is needed in order to generate adaptative responses leading to increase mitochondrial density and aerobic metabolism, it can be achieved through the completion of at least a modicum of high-intensity training. The fact that most studies conclude that most of the training volume in distance runners should be covered at easy intensity to optimize performance development implies that adaptive potential of calcium signaling pathway is much larger than that of the AMPK signaling pathway. Accordingly, only relatively small training volume of the latter is needed to reach saturation in the adaptive response using this pathway [
+58
+,
+61
+].
+
+Alternatively, evidence suggests that some homeostatic disturbances leading to failure to adapt to training (i.e., overtraining or non-functional overreaching) may be related to either inflammatory responses [
+62
+] or that slow autonomic recovery following high intensity training [
+63
+] may be caused by monotonic loads of high intensity training. These disturbances could lead to a reduction of the capacity for aerobic ATP generation through deficiencies in the mitochondrial electron transport chain or selective delivery of blood flow and/or reductions in maximal cardiac output [
+24
+]. Despite the mechanisms involved, quasi-experimental observations [
+64
+,
+65
+] have suggested the negative effect
+
+----
+
+Practical Applications
+
+The present article examined the current training regime of some of the best runners in the world and its derived potential physiological benefits on the basis of only observational studies and reports. Therefore, the assumptions stated previously should be taken cautiously since no controlled studies have tested the efficacy of this training model. Furthermore, whereas [BLa] ranges for training zones were suggested according to current recommendations [
+1
+,
+52
+,
+53
+] allowing for interindividual variability, specific values demarcating zones should be detected for each athlete through physiological tests [
+14
+]. Additionally, the training characteristics and its effects on performance and its development have been described only in 1500 m and 5000 m runners. Its applicability in other endurance events, such as the marathon, remains uncertain. However, our article presented sufficient evidence showing that these training characteristics display agreement with those reported in the current scientific literature in highly trained and elite distance runners. In addition, their differences may, in fact, be considered advantages of this new training approach from a physiological perspective:
+
+The allowance of a greater number of ‘high-intensity’ sessions compared with adopting a usual z4 interval training-based approach.
+
+Achieving pre-established goals of internal load during the training session.
+
+The possibility of adjusting and individualizing the specific training sessions within the model framework in a periodized approach (i.e., month by month, year by year, etc.). In this way, it is possible to accurately monitor not only the training adaptations being achieved without the need of specific tests but also the response to the different sessions through [BLa] measurements and make individual adjustments to the training program on the basis of this information.
+
+Adaptation to altitude training while preventing excessive internal training loads derived from low air’s O
+2
+ partial pressure, given that [BLa] monitoring ensures that internal load remains at the pre-established levels.
+
+For these reasons, new interventions comparing the physiological and performance effects of the previously described training characteristics with those of traditional training methods in highly trained distance runners are particularly encouraged. In this way, this new training model may represent an evolution of the training characteristics of highly trained and elite distance runners, and if future studies demonstrate its efficacy and safety, it may be implemented in other runners. Training characteristics and intensity distribution characterizing this training model and its derived potential physiological benefits are illustrated in 
+Figure 3
+.
+
+Acknowledgments
+
+The present article is dedicated to the memory of one of its coauthors, the recently deceased Leif Inge Tjelta, who significantly contributed to the development of distance running training research in Norway and worldwide.
+
+Disclaimer/Publisher’s Note:
+ The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+Author Contributions
+
+A.C., L.I.T., M.B. and C.F. contributed to the design of the pap
+
+----
+
+Limitations, Future Studies, and Practical Applications
+
+The present article examined the current training regime of some of the best runners in the world and its derived potential physiological benefits on the basis of only observational studies and reports. Therefore, the assumptions stated previously should be taken cautiously since no controlled studies have tested the efficacy of this training model. Furthermore, whereas [BLa] ranges for training zones were suggested according to current recommendations [
+1
+,
+52
+,
+53
+] allowing for interindividual variability, specific values demarcating zones should be detected for each athlete through physiological tests [
+14
+]. Additionally, the training characteristics and its effects on performance and its development have been described only in 1500 m and 5000 m runners. Its applicability in other endurance events, such as the marathon, remains uncertain. However, our article presented sufficient evidence showing that these training characteristics display agreement with those reported in the current scientific literature in highly trained and elite distance runners. In addition, their differences may, in fact, be considered advantages of this new training approach from a physiological perspective:
+
+The allowance of a greater number of ‘high-intensity’ sessions compared with adopting a usual z4 interval training-based approach.
+
+Achieving pre-established goals of internal load during the training session.
+
+The possibility of adjusting and individualizing the specific training sessions within the model framework in a periodized approach (i.e., month by month, year by year, etc.). In this way, it is possible to accurately monitor not only the training adaptations being achieved without the need of specific tests but also the response to the different sessions through [BLa] measurements and make individual adjustments to the training program on the basis of this information.
+
+Adaptation to altitude training while preventing excessive internal training loads derived from low air’s O
+2
+ partial pressure, given that [BLa] monitoring ensures that internal load remains at the pre-established levels.
+
+For these reasons, new interventions comparing the physiological and performance effects of the previously described training characteristics with those of traditional training methods in highly trained distance runners are particularly encouraged. In this way, this new training model may represent an evolution of the training characteristics of highly trained and elite distance runners, and if future studies demonstrate its efficacy and safety, it may be implemented in other runners. Training characteristics and intensity distribution characterizing this training model and its derived potential physiological benefits are illustrated in 
+Figure 3
+.
+
+Acknowledgments
+
+The present article is dedicated to the memory of one of its coauthors, the recently deceased Leif Inge Tjelta, who significantly contributed to the development of distance running training research in Norway and worldwide.
+
+Disclaimer/Publisher’s Note:
+ The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+Author Contributions
+
+A.C., L.I.T., M.B. and C.F. con
+
+----
+
+
+Acknowledgments
+
+The present article is dedicated to the memory of one of its coauthors, the recently deceased Leif Inge Tjelta, who significantly contributed to the development of distance running training research in Norway and worldwide.
+
+Disclaimer/Publisher’s Note:
+ The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+Author Contributions
+
+A.C., L.I.T., M.B. and C.F. contributed to the design of the paper; A.C. and L.I.T. prepared the first draft of the manuscript. All authors have read and agreed to the published version of the manuscript. 
+
+Institutional Review Board Statement
+
+Not applicable.
+
+Informed Consent Statement
+
+Not applicable.
+
+Data Availability Statement
+
+Not applicable.
+
+Conflicts of Interest
+
+Arturo Casado, Carl Foster, Marius Bakken, and Leif Inge Tjelta have no conficts of interest relevant to the content of this article.
+
+References
+
+1.
+
+Tjelta
+
+L.I.
+
+Three Norwegian Brothers All European 1500 m Champions: What Is the Secret?
+
+Int. J. Sport. Sci. Coach.
+
+2019
+
+14
+
+694
+
+700
+
+10.1177/1747954119872321
+
+2.
+
+Casado
+
+A.
+
+Hanley
+
+B.
+
+Santos-Concejero
+
+J.
+
+Ruiz-Pérez
+
+L.M.
+
+World-Class Long-Distance Running Performances Are Best Predicted by Volume of Easy Runs and Deliberate Practice of Short-Interval and Tempo Runs
+
+J. Strength Cond. Res.
+
+2021
+
+35
+
+2525
+
+2531
+
+10.1519/JSC.0000000000003176
+
+31045681
+
+3.
+
+Kenneally
+
+M.
+
+Casado
+
+A.
+
+Santos-Concejero
+
+J.
+
+The Effect of Periodization and Training Intensity Distribution on Middle-and Long-Distance Running Performance: A Systematic Review
+
+Int. J. Sport. Physiol. Perform.
+
+2018
+
+13
+
+1114
+
+1121
+
+10.1123/ijspp.2017-0327
+
+29182410
+
+4.
+
+Foster
+
+C.
+
+VO
+2max
+ and Training Indices as Determinants of Competitive Running Performance
+
+J. Sport. Sci.
+
+1983
+
+1
+
+13
+
+22
+
+10.1080/02640418308729657
+
+5.
+
+Noakes
+
+T.D.
+
+Myburgh
+
+K.H.
+
+Schall
+
+R.
+
+Peak Treadmill Running Velocity during the Vo2 Max Test Predicts Running Performance
+
+J. Sport. Sci.
+
+1990
+
+8
+
+35
+
+45
+
+10.1080/02640419008732129
+
+2359150
+
+6.
+
+Ingham
+
+S.A.
+
+Whyte
+
+G.P.
+
+Pedlar
+
+C.
+
+Bailey
+
+D.M.
+
+Dunman
+
+N.
+
+Nevill
+
+A.M.
+
+Determinants of 800-m and 1500-m Running Performance Using Allometric Models
+
+Med. Sci. Sport. Exerc.
+
+2008
+
+40
+
+345
+
+350
+
+10.1249/mss.0b013e31815a83dc
+
+18202566
+
+7.
+
+Conley
+
+D.L.
+
+Krahenbuhl
+
+G.S.
+
+Running Economy and Distance Running Performance of Highly Trained Athletes
+
+Med. Sci. Sport. Exerc.
+
+1980
+
+12
+
+357
+
+360
+
+10.1249/00005768-198025000-00010
+
+7453514
+
+8.
+
+Morgan
+
+D.W.
+
+Martin
+
+P.E.
+
+Krahenbuhl
+
+G.S.
+
+Factors Affecting Running Economy
+
+Sport. Med.
+
+1989
+
+7
+
+310
+
+330
+
+10.2165/00007256-198907050-00003
+
+2662320
+
+9.
+
+Foster
+
+C.
+
+Lucia
+
+A.
+
+Running Economy: The Forgotten Factor in Elite Performance
+
+Sport. Med.
+
+2007
+
+37
+
+316
+
+319
+
+10.2165/00007256-200737040-00011
+
+17465597
+
+10.
+
+Bassett
+
+D.R.
+
+Howley
+
+E.T.
+
+Limiting Factors for Maximum Oxygen Uptake and Determinants of Endurance Performance
+
+Med. Sci. Sport. Exerc.
+
+2000
+
+32
+
+70
+
+84
+
+10.1097/00005768-200001000-00012
+
+10647532
+
+11.
+
+Noakes
+
+T.
+
+Physiological Capacity of the Elite Runner
+
+Running&Science—In An Interdisciplinary Perspective
+
+Bangsbo
+
+J.
+
+Larsen
+
+H.B.
+
+Institute of Exercise and Sport Sciences, University of Copenhagen
+
+Copenhagen, Denmark
+
+2001
+
+19
+
+47
+
+12.
+
+Jones
+

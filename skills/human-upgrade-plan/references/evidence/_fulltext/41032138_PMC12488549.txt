@@ -1,0 +1,980 @@
+abstracts. The same researchers then examined the eligibility of the full-text papers. Disagreements during the screening and eligibility assessment were resolved by a third researcher (JKI).
+
+Data Extraction
+
+The following data from the included studies were extracted by one researcher (EKA): study design (randomised trial or crossover design), participant characteristics (sample size, age, sport, training level), characteristics of the interventions (timing, durations, temperature, and frequency of recovery methods and control; training protocol/intervention), test protocols (tested measures, timing), and results (between-groups and within-groups). Included studies were divided into (1) acute recovery studies, and (2) training adaptation and long-term effect studies.
+
+Risk of Bias Assessment
+
+The risk of bias of included studies was assessed using the Cochrane Collaboration Risk of Bias Tool version 2 for randomised trials and Risk of Bias Tool version 2 for crossover trials [
+11
+]. Risk of bias was evaluated according to the domains (i) randomisation process; (ii) deviations from intended interventions; (iii) missing outcome data; (iv) measurement of the outcome and (v) selection of the reported result. In crossover trials, the sixth domain (s) period and carryover effects were evaluated. Two researchers (EKA and RH) independently assessed studies for risk of bias. Any disagreements were resolved by discussions between three researchers (EKA, RH, and JKI).
+
+Results
+
+Study Selection
+
+Of 1182 records identified from the literature search in December 2023, 582 duplicates were removed, and 600 records were screened, of which 562 records were excluded based on titles and abstracts. The remaining 38 records from the literature search were added to two records identified by the authors from archives and reference lists. These 40 records were then screened in full. In June 2025, 344 records were identified, of which 221 duplicates were removed, and 123 titles and abstracts were screened. Of these, the full text of four records was screened. Finally, fourteen studies were included in the review (Fig. 
+1
+).
+
+Fig. 1
+
+Flow chart illustrating the literature search and selection of studies. 
+HWI
+ hot water immersion, 
+TWI
+ thermoneutral water immersion
+
+Study Characteristics
+
+Of the 14 studies included, 3 were randomised controlled trials [
+12
+–
+14
+] and 11 were crossover trials [
+10
+, 
+15
+–
+24
+]. A total of nine studies investigated acute recovery and five studies investigated training adaptations and long-term effects on physical performance. Of the acute recovery studies, six used HWI as a post-exercise recovery method, whilst traditional sauna was used in one study and infrared sauna (IRS) in two studies. In training adaptation studies, three used traditional saunas and two used HWI as a post-exercise recovery method. The total number of participants in the systematic review was 194 and the number of participants ranged from 6 to 20 per intervention or control group. Three studies had < 10 participants per group [
+17
+, 
+18
+, 
+20
+]. Participants’ level of physical activity ranged from recreationally active to elite athletes. Only male participants were recruited in 11 studies, only female participants were recruited in 1 study, and both female and male participants were included in 2 studies [
+18
+, 
+22
+].
+
+Heat Exposure Effects on Acute Recovery of Physical Performance
+
+Studies investigating the effects of heat-based recovery methods on acute r
+
+----
+
+
+Methods
+
+This review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. A systematic search for articles was conducted in December 2023 and updated in June 2025 using the PubMed, SPOLIT, Medline, and SPORTDiscus databases. Eligible studies were randomised or crossover trials comparing whole-body post-exercise heat exposure (≥ 36 °C, e.g., hot water immersion to at least sternum level, or sauna bathing) to passive or placebo recovery. The risk of bias of the included studies was assessed using the Cochrane Collaboration Risk of Bias Tool version 2. Only studies that provided results on maximal physical performance outcomes in healthy adults were included.
+
+Results
+
+Fourteen studies, including a total of 194 participants, met the inclusion criteria. Nine studies investigated acute effects after heat exposure and five were long-term training intervention studies. The acute studies reported uncertain results, with studies showing no effects (
+n
+ = 4), beneficial (
+n
+ = 4), or adverse (
+n
+ = 1) effects of post-exercise heat exposure on performance recovery. The chronic studies suggested that post-exercise heating may improve running performance, at least in hot conditions. However, repeated heat exposures had no effect on cycling performance or VO
+2
+max. The overall quality of the evidence was low to moderate. The heterogeneity of study designs, heating protocols, exercise modes, performance outcomes and recovery times precluded meta-analysis.
+
+Conclusion
+
+Based on the current evidence, it is not possible to draw definitive conclusions about the effects of post-exercise heat exposure on recovery and physical performance development. Additional high-quality studies are needed to determine the optimal heat exposure methods and recovery strategies for different types of training and performance outcomes.
+
+Key Points
+
+The effects of post-exercise whole-body heating on acute recovery of physical performance are not clear, although some improvements in physical performance have been observed immediately after heat exposure.
+
+Regular use of post-exercise heating methods may improve endurance performance if physiological adaptations related to heat acclimation also occur.
+
+Future studies should focus on the effects of repeated use of post-exercise heating on training adaptations of power and strength capacities.
+
+Physiological responses during heat exposure should also be reported in future studies since both the methods employed and the research findings are so diverse.
+
+Keywords
+
+Sauna
+
+Hot water immersion
+
+Endurance performance
+
+Neuromuscular performance
+
+Recovery
+
+Adaptations
+
+Heat acclimation
+
+Urheiluopistosäätiö
+
+20210091
+
+The Finnish Sauna Society
+
+The Finnish Sauna Society
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2025
+
+Background
+
+Heating interventions have been widely used for body-mass reduction in combat sports [
+1
+]. However, whole-body heating methods, such as saunas, heated chambers, and hot water immersion (HWI), have also gained pop
+
+----
+
+
+Methods
+
+This review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. A systematic search for articles was conducted in December 2023 and updated in June 2025 using the PubMed, SPOLIT, Medline, and SPORTDiscus databases. Eligible studies were randomised or crossover trials comparing whole-body post-exercise heat exposure (≥ 36 °C, e.g., hot water immersion to at least sternum level, or sauna bathing) to passive or placebo recovery. The risk of bias of the included studies was assessed using the Cochrane Collaboration Risk of Bias Tool version 2. Only studies that provided results on maximal physical performance outcomes in healthy adults were included.
+
+Results
+
+Fourteen studies, including a total of 194 participants, met the inclusion criteria. Nine studies investigated acute effects after heat exposure and five were long-term training intervention studies. The acute studies reported uncertain results, with studies showing no effects (
+n
+ = 4), beneficial (
+n
+ = 4), or adverse (
+n
+ = 1) effects of post-exercise heat exposure on performance recovery. The chronic studies suggested that post-exercise heating may improve running performance, at least in hot conditions. However, repeated heat exposures had no effect on cycling performance or VO
+2
+max. The overall quality of the evidence was low to moderate. The heterogeneity of study designs, heating protocols, exercise modes, performance outcomes and recovery times precluded meta-analysis.
+
+Conclusion
+
+Based on the current evidence, it is not possible to draw definitive conclusions about the effects of post-exercise heat exposure on recovery and physical performance development. Additional high-quality studies are needed to determine the optimal heat exposure methods and recovery strategies for different types of training and performance outcomes.
+
+Key Points
+
+The effects of post-exercise whole-body heating on acute recovery of physical performance are not clear, although some improvements in physical performance have been observed immediately after heat exposure.
+
+Regular use of post-exercise heating methods may improve endurance performance if physiological adaptations related to heat acclimation also occur.
+
+Future studies should focus on the effects of repeated use of post-exercise heating on training adaptations of power and strength capacities.
+
+Physiological responses during heat exposure should also be reported in future studies since both the methods employed and the research findings are so diverse.
+
+Keywords
+
+Sauna
+
+Hot water immersion
+
+Endurance performance
+
+Neuromuscular performance
+
+Recovery
+
+Adaptations
+
+Heat acclimation
+
+Urheiluopistosäätiö
+
+20210091
+
+The Finnish Sauna Society
+
+The Finnish Sauna Society
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2025
+
+Background
+
+Heating interventions have been widely used for body-mass reduction in combat sports [
+1
+]. However, whole-body heating methods, such as saunas, heated chambers, and hot water immersion (HWI), have also gained pop
+
+----
+
+
+Results
+
+Fourteen studies, including a total of 194 participants, met the inclusion criteria. Nine studies investigated acute effects after heat exposure and five were long-term training intervention studies. The acute studies reported uncertain results, with studies showing no effects (
+n
+ = 4), beneficial (
+n
+ = 4), or adverse (
+n
+ = 1) effects of post-exercise heat exposure on performance recovery. The chronic studies suggested that post-exercise heating may improve running performance, at least in hot conditions. However, repeated heat exposures had no effect on cycling performance or VO
+2
+max. The overall quality of the evidence was low to moderate. The heterogeneity of study designs, heating protocols, exercise modes, performance outcomes and recovery times precluded meta-analysis.
+
+Conclusion
+
+Based on the current evidence, it is not possible to draw definitive conclusions about the effects of post-exercise heat exposure on recovery and physical performance development. Additional high-quality studies are needed to determine the optimal heat exposure methods and recovery strategies for different types of training and performance outcomes.
+
+Key Points
+
+The effects of post-exercise whole-body heating on acute recovery of physical performance are not clear, although some improvements in physical performance have been observed immediately after heat exposure.
+
+Regular use of post-exercise heating methods may improve endurance performance if physiological adaptations related to heat acclimation also occur.
+
+Future studies should focus on the effects of repeated use of post-exercise heating on training adaptations of power and strength capacities.
+
+Physiological responses during heat exposure should also be reported in future studies since both the methods employed and the research findings are so diverse.
+
+Keywords
+
+Sauna
+
+Hot water immersion
+
+Endurance performance
+
+Neuromuscular performance
+
+Recovery
+
+Adaptations
+
+Heat acclimation
+
+Urheiluopistosäätiö
+
+20210091
+
+The Finnish Sauna Society
+
+The Finnish Sauna Society
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2025
+
+Background
+
+Heating interventions have been widely used for body-mass reduction in combat sports [
+1
+]. However, whole-body heating methods, such as saunas, heated chambers, and hot water immersion (HWI), have also gained popularity in endurance and team sports [
+2
+, 
+3
+]. A survey study across several sports revealed that 62% of athletes (
+n
+ = 295) used heating strategies in their training [
+2
+]. Alongside weight-control, heat exposures have been used for recovery, rehabilitation, acclimation, and warming-up purposes [
+2
+]. Furthermore, interest in the use of post-exercise saunas and HWI for passive heat acclimation has been observed, as they may be more accessible and time efficient strategies than exercise-based approaches [
+4
+].
+
+The impact of saunas [
+5
+] and HWI [
+6
+] on acute recovery of performance and adaptations to training appear equivocal and contradictory, which may be explained by differences in methodologies, 
+
+----
+
+
+Discussion
+
+According to the results extracted from the studies included in this systematic review, the effects of post-exercise whole-body heat exposure on acute recovery and training adaptations present uncertain outcomes. In four of the nine studies [
+15
+, 
+16
+, 
+19
+, 
+23
+] examining acute recovery, some positive heat exposure-induced effects on physical performance were found. However, enhanced performance during acute recovery was not consistently observed across various performance variables. Only one study on acute recovery of physical performance reported negative effects [
+22
+]. In two [
+13
+, 
+20
+] out of five studies examining training adaptations, beneficial effects of repeated use of heat exposure after exercise were observed, although in one study some negative effects were found [
+18
+].
+
+Contradictory findings were observed with respect to acute recovery of endurance performance and the application of post-exercise heat. Whilst HWI had beneficial effects on immediate cycling performance in the Wingate test after immersion [
+16
+] and some beneficial effects on average power during a cycling time trial over a five day training period [
+24
+], HWI did not improve running time trial performance after five hours of recovery compared to passive recovery [
+17
+]. Coertjens et al. [
+16
+] postulated that improved anaerobic performance in the Wingate test immediately after HWI could be explained by increased muscle temperature, which enhanced restoration of energy stores and function of the nervous system, including increased corticospinal excitability, decreased intracortical inhibition, and increased intracortical facilitation. Contrary to the authors’ hypothesis that HWI would enhance lactate clearance due to vasodilation and hydrostatic pressure-induced fluid shifts toward central blood volume, blood lactate concentration remained similar between HWI and passive recovery over the 10-minute exposure period [
+16
+]. However, the authors speculated that a longer heat exposure could have revealed differences in lactate levels between HWI and passive recovery [
+16
+], which could happen possibly due to the greater and longer increase in body temperature. Indeed, a 30 min post-exercise IRS (45 °C) after submaximal running session was found to enhance lactate clearance [
+26
+]. Furthermore, HWI performed immediately post-exercise attenuated the recovery of ventilation and heart rate (HR) [
+16
+]. The increase in ventilation observed during HWI might be due to the body’s need to facilitate heat dissipation, as the absorbed energy during HWI may impede the release of cellular heat energy generated during physical exercise [
+16
+]. In addition, higher HR was found during HWI compared to passive recovery when it was performed after eccentric strength exercise and a 90 min running session [
+17
+]. However, there were no differences in HR 0–30 min after the immersion and during a running time trial five hours later, and rectal temperature (T
+rec
+) was not statistically higher during the HWI and 0–30 min after that compared to passive recovery [
+17
+]. Furthermore, nocturnal HR and heart rate variability (HRV) did not differ between IRS and passive recovery after a resistance exercise session, even though HR was higher and HRV lower during heat exposure in IRS [
+15
+]. Thus, it seems that parasympathetic reactivation occurs soon after heating. Vaile et al. [
+24
+] also found higher T
+rec
+ immediately- and 15 min post heat exposure, but there was no dif
+
+----
+
+
+Conclusion
+
+Based on the current evidence, it is not possible to draw definitive conclusions about the effects of post-exercise heat exposure on recovery and physical performance development. Additional high-quality studies are needed to determine the optimal heat exposure methods and recovery strategies for different types of training and performance outcomes.
+
+Key Points
+
+The effects of post-exercise whole-body heating on acute recovery of physical performance are not clear, although some improvements in physical performance have been observed immediately after heat exposure.
+
+Regular use of post-exercise heating methods may improve endurance performance if physiological adaptations related to heat acclimation also occur.
+
+Future studies should focus on the effects of repeated use of post-exercise heating on training adaptations of power and strength capacities.
+
+Physiological responses during heat exposure should also be reported in future studies since both the methods employed and the research findings are so diverse.
+
+Keywords
+
+Sauna
+
+Hot water immersion
+
+Endurance performance
+
+Neuromuscular performance
+
+Recovery
+
+Adaptations
+
+Heat acclimation
+
+Urheiluopistosäätiö
+
+20210091
+
+The Finnish Sauna Society
+
+The Finnish Sauna Society
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+issue-copyright-statement
+
+© Springer Nature Switzerland AG 2025
+
+Background
+
+Heating interventions have been widely used for body-mass reduction in combat sports [
+1
+]. However, whole-body heating methods, such as saunas, heated chambers, and hot water immersion (HWI), have also gained popularity in endurance and team sports [
+2
+, 
+3
+]. A survey study across several sports revealed that 62% of athletes (
+n
+ = 295) used heating strategies in their training [
+2
+]. Alongside weight-control, heat exposures have been used for recovery, rehabilitation, acclimation, and warming-up purposes [
+2
+]. Furthermore, interest in the use of post-exercise saunas and HWI for passive heat acclimation has been observed, as they may be more accessible and time efficient strategies than exercise-based approaches [
+4
+].
+
+The impact of saunas [
+5
+] and HWI [
+6
+] on acute recovery of performance and adaptations to training appear equivocal and contradictory, which may be explained by differences in methodologies, including exercise sessions or training interventions, outcome measures of performance, types of recovery strategies applied, and participant characteristics. There is some evidence that long-term heating without physical training may enhance muscle hypertrophy [
+7
+] and maximal force production [
+7
+–
+9
+] in sedentary participants, but these results may not be generalisable to trained populations due to their pre-existing exercise-induced adaptations [
+10
+].
+
+The primary of this study was to investigate the effects of whole-body heat exposure interventions on the acute recovery of physical performance following a single training session or a brief training period. The second aim was to study the effects of the repeated use of heat exposure in combination with training on the development of
+
+----
+
+
+Acknowledgements
+
+Not applicable.
+
+Author Contributions
+
+Conceptualisation, E.K.A. and J.K.I.; methodology, E.K.A., H.G.H, H.K., and J.K.I.; formal analysis, E.K.A., R.H.; investigation, E.K.A., R.H., and J.K.I.; writing - original draft preparation, E.K.A.; Writing - review and editing: E.K.A., R.H., H.G.H, H.K., and J.K.I.; visualisation, E.K.A.; supervision, H.G.H, H.K., and J.K.I.; funding acquisition, E.K.A. and J.K.I. All authors read and agreed to the published version of the manuscript.
+
+Funding
+
+The present research was supported by Urheiluopistosäätiö (Helsinki, Finland; E.K.A.) and The Finnish Sauna Society (Helsinki, Finland; E.K.A.).
+
+Data Availability
+
+Data will be made available on reasonable request.
+
+Declarations
+
+Ethics Approval and Consent to Participate
+
+Not applicable.
+
+Consent for Publication
+
+Not applicable.
+
+Competing Interests
+
+The authors declare no conflicts of interest.
+
+Abbreviations
+
+HWI
+
+Hot water immersion
+
+PRISMA
+
+Preferred Reporting Items for Systematic Reviews and Meta-Analysis
+
+IRS
+
+Infrared sauna
+
+CMJ
+
+Counter-movement jump
+
+SJ
+
+Squat jump
+
+TWI
+
+Thermoneutral water immersion
+
+VO
+2max
+
+Maximal oxygen uptake
+
+VO
+2peak
+
+Peak oxygen uptake
+
+HR
+
+Heart rate
+
+T
+rec
+
+Rectal temperature
+
+HRV
+
+Heart rate variability
+
+CK
+
+Creatine kinase
+
+IL-6
+
+Interleukin-6
+
+HSP
+
+Heat shock protein
+
+mTOR
+
+Mammalian target of rapamycin
+
+References
+
+1.
+
+Brito
+
+CJ
+
+Roas
+
+AFCM
+
+Brito
+
+ISS
+
+Marins
+
+JCB
+
+Córdova
+
+C
+
+Franchini
+
+E
+
+Methods of Body-Mass reduction by combat sport athletes
+
+Int J Sport Nutr Exerc Metabolism
+
+2012
+
+22
+
+89
+
+97
+
+10.1123/ijsnem.22.2.89
+
+22349031
+
+Brito CJ, Roas AFCM, Brito ISS, Marins JCB, Córdova C, Franchini E. Methods of Body-Mass reduction by combat sport athletes. Int J Sport Nutr Exerc Metabolism. 2012;22:89–97.
+10.1123/ijsnem.22.2.89
+
+22349031
+
+2.
+
+Menzies
+
+C
+
+Clarke
+
+ND
+
+Pugh
+
+CJA
+
+Steward
+
+CJ
+
+Thake
+
+CD
+
+Cullen
+
+T
+
+Athlete and practitioner prevalence, practices, and perceptions of passive heating in sport
+
+Sport Sci Health
+
+2023
+
+19
+
+329
+
+38
+
+10.1007/s11332-022-00954-9
+
+Menzies C, Clarke ND, Pugh CJA, Steward CJ, Thake CD, Cullen T. Athlete and practitioner prevalence, practices, and perceptions of passive heating in sport. Sport Sci Health. 2023;19:329–38.
+
+3.
+
+Altarriba-Bartés
+
+A
+
+Peña
+
+J
+
+Vicens-Bordas
+
+J
+
+Casals
+
+M
+
+Peirau
+
+X
+
+Calleja Gonzalez
+
+J
+
+The use of recovery strategies by Spanish first division soccer teams: a cross-sectional survey
+
+Physician Sportsmed
+
+2021
+
+49
+
+297
+
+307
+
+10.1080/00913847.2020.1819150
+
+32882156
+
+Altarriba-Bartés A, Peña J, Vicens-Bordas J, Casals M, Peirau X, Calleja Gonzalez J. The use of recovery strategies by Spanish first division soccer teams: a cross-sectional survey. Physician Sportsmed. 2021;49:297–307.
+10.1080/00913847.2020.1819150
+
+32882156
+
+4.
+
+McIntyre
+
+RD
+
+Zurawlew
+
+MJ
+
+Oliver
+
+SJ
+
+Cox
+
+AT
+
+Mee
+
+JA
+
+Walsh
+
+NP
+
+A comparison of heat acclimation by post-exercise hot water immersion and exercise in the heat
+
+J Sci Med Sport
+
+2021
+
+24
+
+729
+
+34
+
+10.1016/j.jsams.2021.05.008
+
+34116919
+
+McIntyre RD, Zurawlew MJ, Oliver SJ, Cox AT, Mee JA, Walsh NP. A comparison of heat acclimation by post-exercise hot water immersion and exercise in the heat. J Sci Med Sport. 2021;24:729–34.
+34116919
+
+10.1016/j.jsams.2021.05.008
+
+5.
+
+Driller M, Leabeater A. Fundamentals or icing on top of the cake?? A narrative review of recovery strategies and devices for athletes. Sports (2075–4663). 2023;23:213.
+10.3390/sports11110213
+
+PMC10674277
+
+37999430
+
+6.
+
+McGorm
+
+H
+
+Roberts
+
+LA
+
+Coombes

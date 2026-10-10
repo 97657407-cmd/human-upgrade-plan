@@ -1,0 +1,544 @@
+
+Abstract
+
+The purpose of this narrative review is to identify health and performance consequences associated with LCA in female endurance athletes. The intake of carbohydrates (CHO) before, during, and after exercise has been demonstrated to support sport performance, especially endurance activities which rely extensively on CHO as a fuel source. However, low energy availability (LEA) and low carbohydrate availability (LCA) are common in female athletes. LEA occurs when energy intake is insufficient compared to exercise energy expenditure, and LEA-related conditions (e.g., Female Athlete Triad (Triad) and Relative Energy Deficiency in Sport (RED-S)) are associated with a myriad of health and performance consequences. The RED-S model highlights 10 health consequences and 10 performance consequences related to LEA. The independent effect of LCA on health and performance has been under-researched, despite current CHO intake being commonly insufficient in athletes. It is proposed that LCA may not only contribute to LEA but also have independent health and performance consequences in athletes. Furthermore, this review highlights current recommendations for CHO intake, as well as recent data on LCA prevalence and menstrual cycle considerations. A literature review was conducted on PubMed, Science Direct, and ResearchGate using relevant search terms (i.e., “low carbohydrate/energy availability”, “female distance runners”). Twenty-one articles were identified and twelve met the inclusion criteria. The total number of articles included in this review is 12, with 7 studies illustrating that LCA was associated with direct negative health and/or performance implications for endurance-based athletes. Several studies included assessed male athletes only, and no studies included a female-only study design. Overall, the cumulative data show that female athletes remain underrepresented in sports science research and that current CHO intake recommendations and strategies may fail to consider female-specific adaptations and hormone responses, such as monthly fluctuations in estrogen and progesterone throughout the menstrual cycle. Current CHO guidelines for female athletes and exercising women need to be audited and explored further in the literature to support female athlete health and performance.
+
+Keywords:
+ carbohydrates (CHO), relative energy deficiency in sport (RED-S), low energy availability (LEA), low carbohydrate availability (LCA), female athletes, menstrual cycle
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2023 Sep 13; Revised 2023 Oct 11; Accepted 2023 Oct 16; Collection date 2023 Oct.
+
+1. Introduction
+
+Over the past 50 years, female athlete participation has been on the rise, with the Tokyo Olympics in 2020/2021 being the first ever gender-balanced Olympics [
+1
+]. However, research focused on the female athlete has not yet corrected for this increased participation in both recreational and elite-level sports. For example, in a review of 1382 exercise and sports science articles published from 2011–2013, 39% of study participants identified as female, and only 4–13% of the articles incorporated a female-only design in their studies [
+2
+]. An updated review of six major journals, including a total of 5261 sports science articles published from 2014–2021 illustrated that 34% of all participants reviewed identified as women and 6% of artic
+
+----
+
+Introduction
+
+Over the past 50 years, female athlete participation has been on the rise, with the Tokyo Olympics in 2020/2021 being the first ever gender-balanced Olympics [
+1
+]. However, research focused on the female athlete has not yet corrected for this increased participation in both recreational and elite-level sports. For example, in a review of 1382 exercise and sports science articles published from 2011–2013, 39% of study participants identified as female, and only 4–13% of the articles incorporated a female-only design in their studies [
+2
+]. An updated review of six major journals, including a total of 5261 sports science articles published from 2014–2021 illustrated that 34% of all participants reviewed identified as women and 6% of articles included women-only study designs [
+3
+]. This highlights the need to balance sports science research on female and male athletes.
+
+Relatedly, the importance of acute carbohydrate (CHO) intake has primarily been studied in male athletes and recommendations have been extrapolated to female athletes. However, it may be necessary to account for sex-based differences in determining CHO intake guidelines based on sex and sport type. In a 2022 publication, researchers conducted an audit of 937 research studies evaluating acute CHO intake recommendations to assess if there was evidence to support the use of these strategies among female athletes [
+4
+]. Only 11% (
+n
+ = 197 of 937 studies) of the participants in these studies were women, and of these studies, only 31% utilized sufficient methodologies to define menstrual status [
+4
+]. The persisting nutritional recommendations for female athletes emphasize the primary goal of obtaining sufficient energy availability (EA) and hydration. Once caloric needs have been met, the composition of EA can then be considered, including CHO, protein, and fat availability [
+5
+]. This lack of high-quality research using female-specific study designs directly impacts our ability to provide high-quality, population-specific nutritional recommendations for athletes.
+
+Given that the prevalence of low EA (LEA) is fairly common in female endurance athletes, a growing area of concern is that athletes are not meeting their CHO recommendations. These athletes may experience an additive effect of low carbohydrate availability (LCA) in addition to the health and performance consequences associated with LEA. 
+Figure 1
+ illustrates the proposed theoretical model of LCA, adapted from Mountjoy et al., 2014, to demonstrate the potential independent effect of LCA on health and performance consequences associated with LEA [
+6
+]. The purpose of this narrative review is to evaluate the current evidence that gives rise to the consideration of LCA and the associated health and performance consequences in female endurance athletes.
+
+Figure 1
+
+Proposed theoretical model; low carbohydrate availability (LCA) has independent health and performance consequences, illustrated in the Relative Energy Deficiency in Sport (RED-S) model due to low energy availability (LEA) (* Psychological consequences can either precede LCA or be the result of LCA) (adapted from Mountjoy et al., 2014 [
+6
+]).
+
+2. Low Energy Availability
+
+The following equation is traditionally used in sports science literature to define energy availability (EA): EA (kcal/kg fat-free mass (FFM)/day) = energy intake (EI; kcal) − exercise energy expenditure (EEE; kcal), normalized to fat-free mass (FFM; kg) [
+7
+]. It is often recog
+
+----
+
+methods, instructions or products referred to in the content.
+
+References
+
+1.
+
+Grabmüllerová A. Social Media and the Olympics: A Chance for Improving Gender Equality. Front. Sport Act. Living. 2022;4:825440. doi: 10.3389/fspor.2022.825440.
+
+2.
+
+Costello J., Bieuzen F., Bleakley C. Where are all the female participants in Sports and Exercise Medicine research? Psychol. Soc. Sci. Humanit. 2014;14:847–851. doi: 10.1080/17461391.2014.911354.
+
+3.
+
+Cowley E.S., Olenick A.A., McNulty K.L., Ross E.Z. “Invisible Sportswomen”: The Sex Data Gap in Sport and Exercise Science Research. Women Sport Phys. Act. J. 2021;29:146–151. doi: 10.1123/wspaj.2021-0028.
+
+4.
+
+Kuikman M.A., Smith E.S., Mckay A.K.A., Ackerman K.E., Harris R., Elliott-Sale K.J., Stellingwerff T., Burke L.M. Fuelling the Female Athlete: Auditing her Representation in Studies of Acute Carbohydrate Intake for Exercise. Med. Sci. Sport Exerc. 2022;55:569–580. doi: 10.1249/MSS.0000000000003056.
+
+5.
+
+Holtzman B., Ackerman K.E. Recommendations and Nutritional Considerations for Female Athletes: Health and Performance. Sport Med. 2021;51:43–57. doi: 10.1007/s40279-021-01508-8.
+
+6.
+
+Mountjoy M., Sundgot-Borgen J., Burke L., Carter S., Constantini N., Lebrun C., Meyer N., Sherman R., Steffen K., Budgett R., et al.  The IOC consensus statement: Beyond the Female Athlete Triad—Relative Energy Deficiency in Sport (RED-S) Br. J. Sports Med. 2014;47:15–28. doi: 10.1136/bjsports-2014-093502.
+
+7.
+
+Logue D., Madigan S.M., Delahunt E., Heinen M., Mc Donnell S.J., Corish C.A. Low Energy Availability in Athletes: A Review of Prevalence, Dietary Patterns, Physiological Health, and Sports Performance. Sports Med. 2018;48:73–96. doi: 10.1007/s40279-017-0790-3.
+
+8.
+
+Mountjoy M., Sundgot-Borgen J.K., Burke L.M., Ackerman K.E., Blauwet C., Constantini N., Lebrun C., Lundy B., Melin A.K., Meyer N.L., et al.  IOC consensus statement on relative energy deficiency in sport (RED-S): 2018 update. Br. J. Sports Med. 2018;52:687–697. doi: 10.1136/bjsports-2018-099193.
+
+9.
+
+De Souza M.J., Nattiv A., Joy E., Misra M., I Williams N., Mallinson R.J., Gibbs J.C., Olmsted M., Goolsby M., Matheson G., et al.  2014 Female Athlete Triad Coalition Consensus Statement on Treatment and Return to Play of the Female Athlete Triad: 1st International Conference held in San Francisco, California, May 2012 and 2nd International Conference held in Indianapolis, Indiana, May 2013. Br. J. Sports Med. 2014;48:289. doi: 10.1136/bjsports-2013-093218.
+
+10.
+
+Otis C.L., Drinkwater B., Johnson M., Loucks A., Wilmore J. ACSM Position Stand: The Female Athlete Triad. Med. Sci. Sport Exerc. 1997;29:i–ix. doi: 10.1097/00005768-199705000-00037.
+
+11.
+
+Nattiv A., Loucks A.B., Manore M.M., Sanborn C.F., Sundgot-Borgen J., Warren M.P. The Female Athlete Triad. Med. Sci. Sports Exerc. 2007;39:1867–1882. doi: 10.1080/00913847.1994.11710446.
+
+12.
+
+Beals K.A., Manore M.M. Disorders of the Female Athlete Triad Among Collegiate Athletes. Int. J. Sport Nutr. Exerc. Metab. 2002;12:281–293. doi: 10.1123/ijsnem.12.3.281.
+
+13.
+
+Carson T.L., West B.T., Sonneville K., Zernicke R.F., Clarke P., Harlow S., Karvonen-Gutierrez C. Identifying latent classes of Relative Energy Deficiency in Sport (RED-S) consequences in a sample of collegiate female cross country runners. Br. J. Sports Med. 2022;57:153–159. doi: 10.1136/bjsports-2021-104083.
+
+14.
+
+Brook E.M., Tenforde A.S., Broad E.M., Matzkin E.G., Yang H.Y., Collins J.E., Blauwet C.A. Low energy availability, menstrual 
+
+----
+
+methodologies to define menstrual status [
+4
+]. The persisting nutritional recommendations for female athletes emphasize the primary goal of obtaining sufficient energy availability (EA) and hydration. Once caloric needs have been met, the composition of EA can then be considered, including CHO, protein, and fat availability [
+5
+]. This lack of high-quality research using female-specific study designs directly impacts our ability to provide high-quality, population-specific nutritional recommendations for athletes.
+
+Given that the prevalence of low EA (LEA) is fairly common in female endurance athletes, a growing area of concern is that athletes are not meeting their CHO recommendations. These athletes may experience an additive effect of low carbohydrate availability (LCA) in addition to the health and performance consequences associated with LEA. 
+Figure 1
+ illustrates the proposed theoretical model of LCA, adapted from Mountjoy et al., 2014, to demonstrate the potential independent effect of LCA on health and performance consequences associated with LEA [
+6
+]. The purpose of this narrative review is to evaluate the current evidence that gives rise to the consideration of LCA and the associated health and performance consequences in female endurance athletes.
+
+Figure 1
+
+Proposed theoretical model; low carbohydrate availability (LCA) has independent health and performance consequences, illustrated in the Relative Energy Deficiency in Sport (RED-S) model due to low energy availability (LEA) (* Psychological consequences can either precede LCA or be the result of LCA) (adapted from Mountjoy et al., 2014 [
+6
+]).
+
+2. Low Energy Availability
+
+The following equation is traditionally used in sports science literature to define energy availability (EA): EA (kcal/kg fat-free mass (FFM)/day) = energy intake (EI; kcal) − exercise energy expenditure (EEE; kcal), normalized to fat-free mass (FFM; kg) [
+7
+]. It is often recognized that reduced or subclinical EA ranges from 30–45 kcal/kg FFM/day, which can serve as a tolerable range for athletes seeking to lose weight as part of a diet or exercise program that is short in duration [
+7
+]. Typically, LEA is defined as less than 30 kcal/kg FFM/day and illustrates an unsafe energy balance for optimal body function [
+7
+]. Physiological responses to the dose and duration of LEA may vary depending on sex, sport type, and genetics [
+7
+]. LEA is more common in female athletes compared to male athletes [
+8
+]. LEA is associated with unfavorable health and sport performance consequences, as illustrated by LEA-related conditions such as Female Athlete Triad (Triad) and Relative Energy Deficiency in Sport (RED-S) [
+8
+,
+9
+].
+
+2.1. Female Athlete Triad (Triad)
+
+The Female Athlete Triad (Triad) was proposed by the American College of Sports Medicine (ACSM) in a 1992 position statement and updated in 2014 [
+9
+,
+10
+]. The Triad demonstrates an interrelated condition of (1) LEA with or without eating disorder/disordered eating (ED/DE), (2) osteoporosis, or low bone mineral density (BMD), and (3) functional hypothalamic amenorrhea, or menstrual irregularities. Prospective studies to date illustrate a causal relationship between LEA and menstrual disturbances [
+9
+,
+10
+,
+11
+,
+12
+,
+13
+,
+14
+]. Additionally, current findings show a strong correlation between Triad and negative bone health outcomes, such as increased bone stress injuries and decreased BMD [
+6
+,
+7
+,
+9
+,
+11
+,
+14
+,
+15
+,
+16
+,
+17
+,
+18
+].
+
+2.2. Relative Energy Defic
+
+----
+
+results in an inhibition of ATP-utilizing pathways and activation of ATP-generating pathways [
+31
+]. Therefore, AMPK promotes glucose uptake, glycolysis, and fatty acid oxidation while inhibiting glycogen and protein synthesis [
+31
+]. In mice models, a lack of AMPK notably impaired muscle contraction and reduced voluntary wheel running, which demonstrates the essential role of AMPK in endurance exercise [
+31
+]. An increase in calcium concentration in the cells, via phosphorylase kinase activation, stimulates glycogen degradation [
+31
+].
+
+The rate of muscle glycogen degradation depends on exercise intensity and training status; as exercise intensity increases, muscle glycogen is depleted at an increasing rate [
+30
+,
+32
+]. Exercise greater than 70% of VO
+2
+max utilizes muscle glycogen as the major carbohydrate source. Well-trained individuals improve their ability to metabolize glucose and fat at a much higher capacity compared to untrained individuals [
+30
+]. High-intensity activity (e.g., repeated sprinting) can rapidly decrease glycogen stores contained within the active muscle cells, despite the total activity time being relatively brief [
+32
+]. However, endurance athletes often train for hours at a time, which causes a marked decline in muscle glycogen over time, especially at exercise intensities greater than 70% VO
+2
+max [
+30
+,
+32
+]. Over time, muscle glycogen degradation progressively decreases due to the finite storage of CHO within skeletal muscles [
+31
+]. Another critical factor for glycogen metabolism is CHO availability before exercise as increases in the rate of muscle glycogen degradation during exercise are exponentially related to muscle glycogen concentrations before exercise [
+31
+].
+
+3.2. Metabolism of CHO
+
+Exercise performance typically decreases due to an impaired availability and, hence, ability to use CHO as fuel, which is necessary for exercise at higher intensities and recommended for longer durations such as endurance training [
+33
+]. Few studies have attempted to define CHO availability; however, one study calculated CHO availability as the difference between dietary CHO intake and the amount of CHO oxidized during exercise beyond the requirements of normal activity [
+23
+]. Nonetheless, LCA ranges have not been established based on these criteria for CHO availability, and many studies continue to report CHO intake, using low CHO intake to define intake below current recommendations [
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+39
+,
+40
+,
+41
+,
+42
+,
+43
+].
+
+LEA, mediated by reduced CHO availability, affects leptin and triiodothyronine (T3) concentrations, which, in turn, can suppress the resting metabolic rate (RMR) [
+44
+]. In two conditions of identical LEA (with one achieved from dietary restriction and the other one achieved from exercise), CHO availability was 57% higher in women who reduced EA via exercise compared to reduced EA via dietary restriction [
+45
+]. In this same study, leptin levels decreased by 50% in response to dietary restriction, and this difference is proportional to the reductions in CHO intake [
+45
+]. Restricted EA conditions, due to reduced energy intake, of 10 kcal/kg LBM/day, 20 kcal/kg LBM/day, 30 kcal/kg LBM/day, reduced CHO availability by approximately 80%, 60%, and 40%, respectively [
+23
+]. In this study, CHO availability was defined as the difference between CHO intake and the amount of CHO oxidized during exercise beyond the requirements of normal activity [
+23
+]. These data demonstrate that there is 
+
+----
+
+discussions were conducted among the review authors to synthesize the key findings and prepare the current narrative review. The review authors ensured a comprehensive analysis of the literature and provided a cohesive and informative narrative that addresses the specific objectives of this paper.
+
+4.1.2. Results of Search
+
+Twenty-one articles were identified, and twelve met the inclusion criteria and were included in this review. The identified studies included one cross-sectional study [
+52
+], seven longitudinal studies [
+34
+,
+35
+,
+36
+,
+38
+,
+40
+,
+43
+,
+53
+], and four randomized control trials [
+37
+,
+39
+,
+41
+,
+42
+]. A full summary of the 12 primary research studies included in this review can be found in 
+Supplementary Materials (Supplementary Table S1
+).
+
+4.2. Results
+
+4.2.1. Health Consequences of LCA
+
+CHO availability plays an important role in maintaining normal estrogen and progesterone levels [
+43
+]. As estrogen is associated with decreased gluconeogenesis, reduced exogenous CHO intake can compound these unfavorable rates of gluconeogenesis [
+5
+]. By maintaining these naturally cycling hormones, CHO helps regulate normal menstrual cycles and bone health maintenance through benefits to hormones (e.g., estrogen, IGF-1, cortisol, growth hormone) influencing BMD [
+43
+]. Therefore, LCA is independently associated with poor bone outcomes (e.g., bone stress injuries, decreased bone mineral density (BMD)), even with adequate EA [
+43
+].
+
+A clinical, longitudinal investigation of elite male racewalkers with two 6-day phases showed that negative effects on bone health were observed in athletes who consumed either a low CHO, high fat (LCHF) diet or a LEA diet compared to athletes who consumed an adequate CHO + EA diet [
+43
+]. However, bone health consequences were more deleterious (e.g., greater decreases in bone formation markers and increases in bone resorption markers) in the LCHF group compared to the LEA group [
+43
+]. In male runners, CHO consumption before, during, and after acute training sessions attenuated bone resorption markers, independent of LEA [
+38
+]. In a longitudinal study of 10 adult competitive endurance cyclists (n = 4 females), BMD was assessed at 0 months, 5 months, and 10 months. Energy intake and CHO intake were both significantly below the minimum sport nutrition recommendations and low BMD persisted through the 10 months, which illustrates that LCA may be a primary contributor to chronic LEA as low CHO intake drives down total energy intake [
+34
+]. CHO intake before, during, and after exercise illustrated positive effects on short-term bone turnover markers in healthy, physically active men ingesting 8% glucose supplements before, during, and after exercise compared to placebo [
+53
+]. A study of 30 world-class racewalkers (n = 5 females) assessed 3.5 weeks of LCHF diet followed by a restoration with CHO feeding [
+40
+]. Bone remodeling pathways were impaired after short-term LCHF accommodation, and only the bone resorption marker recovered after acute CHO restoration [
+40
+]. Additionally, the effects of post-exercise CHO (with protein) are protective for bone health as it decreases bone resorption markers and increases bone formation markers, which creates a positive bone turnover balance [
+39
+].
+
+LCA is also associated with depressed immune function [
+43
+]. Heikura et al. investigated CHO-specific themes and practices, such as periodic CHO restriction versus training with high CHO availability, with 46 endurance athl
+
+----
+
+Conclusions
+
+Women and girls in sports are currently underrepresented in research that has been utilized to develop CHO intake recommendations. Current CHO recommendations and fueling strategies fail to consider female-specific research, adaptations, and fluctuating hormones due to the menstrual cycle or hormonal birth control. Implications of research on LCA will provide more sex-specific guidelines and CHO recommendations that prioritize a proper ratio of macronutrients for optimal functioning. Coaches, athletes, sports dietitians, and other members of the athlete’s care team would be able to use these recommendations and strategies to help support the health and performance of the female athlete. In conclusion, diets with adequate energy and CHO availability support the physiological demands of elite athletes while minimizing unfavorable health and performance consequences.
+
+Supplementary Materials
+
+The following supporting information can be downloaded at: 
+https://www.mdpi.com/article/10.3390/nu15204457/s1
+, Table S1: Summary of 12 primary research studies included in review of the current literature.
+
+Click here for additional data file.
+
+Author Contributions
+
+Conceptualization, M.T.L. and K.J.M.; methodology, M.T.L.; validation, M.T.L.; formal analysis, M.T.L.; investigation, M.T.L.; data curation, M.T.L.; writing—original draft preparation, M.T.L.; writing—review and editing, M.T.L., K.J.M. and C.L.W.-R.; visualization, M.T.L.; project administration, M.T.L. All authors have read and agreed to the published version of the manuscript.
+
+Institutional Review Board Statement
+
+Not applicable.
+
+Informed Consent Statement
+
+Not applicable.
+
+Data Availability Statement
+
+No new data were created or analyzed in this study. Data sharing is not applicable to this article.
+
+Conflicts of Interest
+
+The authors declare no conflict of interest.
+
+Funding Statement
+
+This research received no external funding.
+
+Footnotes
+
+Disclaimer/Publisher’s Note:
+ The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+References
+
+1.
+
+Grabmüllerová A. Social Media and the Olympics: A Chance for Improving Gender Equality. Front. Sport Act. Living. 2022;4:825440. doi: 10.3389/fspor.2022.825440.
+
+2.
+
+Costello J., Bieuzen F., Bleakley C. Where are all the female participants in Sports and Exercise Medicine research? Psychol. Soc. Sci. Humanit. 2014;14:847–851. doi: 10.1080/17461391.2014.911354.
+
+3.
+
+Cowley E.S., Olenick A.A., McNulty K.L., Ross E.Z. “Invisible Sportswomen”: The Sex Data Gap in Sport and Exercise Science Research. Women Sport Phys. Act. J. 2021;29:146–151. doi: 10.1123/wspaj.2021-0028.
+
+4.
+
+Kuikman M.A., Smith E.S., Mckay A.K.A., Ackerman K.E., Harris R., Elliott-Sale K.J., Stellingwerff T., Burke L.M. Fuelling the Female Athlete: Auditing her Representation in Studies of Acute Carbohydrate Intake for Exercise. Med. Sci. Sport Exerc. 2022;55:569–580. doi: 10.1249/MSS.0000000000003056.
+
+5.
+
+Holtzman B., Ackerman K.E. Recommendations and Nutritional Considerations for Female Athletes: Health and Performance. Sport Med. 2021;51:43–57. doi: 10.1007/s40279-021-01508-8.
+
+6.
+
+Mountjoy M., Sundgot-Borgen J., Burke L., Carter S., Constantini N., Lebrun C., Meyer N., Sherman R., 
+
+----
+
+practical recommendations. Nutrients. 2019;11:1084.  doi: 10.3390/nu11051084.
+
+47.
+
+Bytomski J.R. Fueling for Performance. Sports Health. 2018;10:47–53. doi: 10.1177/1941738117743913.
+
+48.
+
+American College of Sports Medicine, Academy of Nutrition and Dietetics, Dietitians of Canada  Nutrition and Athletic Performance. Med. Sci. Sports Exerc. 2016;48:543–568. doi: 10.1249/MSS.0000000000000852.
+
+49.
+
+Beermann B.L., Lee D.G., Almstedt H.C., McCormack W.P. Nutritional Intake and Energy Availability of Collegiate Distance Runners. J. Am. Coll. Nutr. 2020;39:747–755. doi: 10.1080/07315724.2020.1735570.
+
+50.
+
+Condo D., Lohman R., Kelly M., Carr A. Nutritional Intake, Sports Nutrition Knowledge and Energy Availability in Female Australian Rules Football Players. Nutrients. 2019;11:971.  doi: 10.3390/nu11050971.
+
+51.
+
+Nunes C.L., Matias C.N., Santos D.A., Morgado J.P., Monteiro C.P., Sousa M., Minderico C.S., Rocha P.M., St-Onge M.-P., Sardinha L.B., et al.  Characterization and comparison of nutritional intake between preparatory and competitive phase of highly trained athletes. Medicina. 2018;54:41.  doi: 10.3390/medicina54030041.
+
+52.
+
+Heikura I.A., Stellingwerff T., Mero A.A., Uusitalo A.L.T., Burke L.M. A mismatch between athlete practice and current sports nutrition guidelines among elite female and male middle- and long-distance athletes. Int. J. Sport Nutr. Exerc. Metab. 2017;27:351–360. doi: 10.1123/ijsnem.2016-0316.
+
+53.
+
+Sale C., Varley I., Jones T.W., James R.M., Tang J.C.Y., Fraser W.D., Greeves J.P. Effect of carbohydrate feeding on the bone metabolic response to running. J. Appl. Physiol. 2015;119:824–830. doi: 10.1152/japplphysiol.00241.2015.
+
+54.
+
+Rogers M.A., Appaneal R.N., Hughes D., Vlahovich N., Waddington G., Burke L.M., Drew M. Prevalence of impaired physiological function consistent with Relative Energy Deficiency in Sport (RED-S): An Australian elite and pre-elite cohort. Br. J. Sports Med. 2021;55:38–45. doi: 10.1136/bjsports-2019-101517.
+
+55.
+
+McKay A.K.A., Pyne D.B., Burke L.M., Peeling P. Iron metabolism: Interactions with energy and carbohydrate availability. Nutrients. 2020;12:3692.  doi: 10.3390/nu12123692.
+
+56.
+
+Petkus D.L., Murray-Kolb L.E., De Souza M.J. The Unexplored Crossroads of the Female Athlete Triad and Iron Deficiency: A Narrative Review. Sport Med. 2017;47:1721–1737. doi: 10.1007/s40279-017-0706-2.
+
+57.
+
+Lynne Walker J., Heigenhauser G.J.F., Hultman E., Spriet L.L., Lynne J. Dietary carbohydrate, muscle glycogen content, and endurance performance in well-trained women.  [(accessed on 14 September 2022)];J. Appl. Physiol. 2000 88:2151–2158. doi: 10.1152/jappl.2000.88.6.2151. Available online:  
+http://www.jap.org
+.
+
+58.
+
+Mclay R.T., Thomson C.D., Williams S.M., Rehrer N.J. Carbohydrate Loading and Female Endurance Athletes: Effect of Menstrual-Cycle Phase. Int. J. Sport Nutr. Exerc. Metab. 2007;17:189–205. doi: 10.1123/ijsnem.17.2.189.
+
+59.
+
+James A.P., Lorraine M., Cullen D., Goodman C., Dawson B., Palmer N.T., Fournier P.A. Muscle glycogen supercompensation: Absence of a gender-related difference. Eur. J. Appl. Physiol. 2001;85:533–538. doi: 10.1007/s004210100499.
+
+60.
+
+Paul D.R., Mulroy S.M., Horner J.A., Jacobs K.A., Lamb D.R. Carbohydrate-Loading During the Follicular Phase of the Menstrual Cycle: Effects on Muscle Glycogen and Exercise Performance. Int. J. Sport Nutr. Exerc. Metab. 2001;11:430–441. doi: 10.1123/ijsnem.11.4.430.
+
+61.
+
+Randell R.K., Spriet L.L. Nutritional Factors That Affect Fat 
+
+----
+
+Limitations
+
+There are several key strengths and limitations to this review that ought to be discussed. While the purpose of this narrative review was to provide a detailed summary of LCA in female endurance athletes and its associated health and performance consequences, a more formal systematic review would add further precision and replicability to the associations described in this paper. In addition, many of the studies used to illustrate deleterious health and performance consequences associated with LCA were performed on male athletes. As such, more intervention-based, longitudinal studies are needed, particularly in female athletes.
+
+7. Future Directions
+
+Future research on LCA should aim to establish an appropriate equation to determine CHO availability status, as well as ranges for CHO availability, as exists in the LEA research. In female athletes, EA is defined as greater than or equal to 45 kcal/kg FFM/day, reduced or subclinical LEA ranges from 30–45 kcal/kg FFM/day, and clinical LEA less than 30 kcal/kg FFM/day [
+7
+]. To date, much of the current literature classifies CHO intake based on recommendations, rather than CHO availability. LCA has commonly been defined as low CHO intake that reduces the amount of CHO available for the body to use for energy [
+21
+,
+22
+]. Few studies calculate LCA or use it as a primary outcome, despite it being an important indicator of CHO availability for the body to use, which is of importance to fuel exercise and physical activity. In the current literature, CHO availability was calculated by taking the difference between dietary CHO intake and the amount of CHO oxidation during exercise beyond the minimal requirements of normal physiological function [
+23
+]. Perhaps this proposed equation for CHO availability should be adopted across LCA research. Further research is needed to establish a specific equation to determine CHO availability and the appropriate thresholds for adequate, sub-clinically low, and low CHO availability.
+
+It is necessary to audit current guidelines for CHO intake to include sport-specific recommendations and strategies for female athletes to support their health and performance as well as ensure that proper CHO availability is being met through the recommended CHO intake guidelines.
+
+8. Conclusions
+
+Women and girls in sports are currently underrepresented in research that has been utilized to develop CHO intake recommendations. Current CHO recommendations and fueling strategies fail to consider female-specific research, adaptations, and fluctuating hormones due to the menstrual cycle or hormonal birth control. Implications of research on LCA will provide more sex-specific guidelines and CHO recommendations that prioritize a proper ratio of macronutrients for optimal functioning. Coaches, athletes, sports dietitians, and other members of the athlete’s care team would be able to use these recommendations and strategies to help support the health and performance of the female athlete. In conclusion, diets with adequate energy and CHO availability support the physiological demands of elite athletes while minimizing unfavorable health and performance consequences.
+
+Supplementary Materials
+
+The following supporting information can be downloaded at: 
+https://www.mdpi.com/article/10.3390/nu15204457/s1
+, Table S1: Summary of 12 primary research studies included in review of the current literature.
+
+Click here for additional data file.
+
+Author Contributions
+
+Conceptualization, M.

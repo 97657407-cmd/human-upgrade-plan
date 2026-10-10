@@ -1,0 +1,1054 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="eph70463" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Exp Physiol</journal-id><journal-id journal-id-type="iso-abbrev">Exp Physiol</journal-id><journal-id journal-id-type="pmc-domain-id">4417</journal-id><journal-id journal-id-type="pmc-domain">expphys</journal-id><journal-id journal-id-type="nlm-id">9002940</journal-id><journal-id journal-id-type="publisher-id">EPH</journal-id><journal-title-group><journal-title>Experimental Physiology</journal-title></journal-title-group><issn pub-type="ppub">0958-0670</issn><issn pub-type="epub">1469-445X</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13525907</article-id><article-id pub-id-type="pmcid-ver">PMC13525907.1</article-id><article-id pub-id-type="pmcaid">13525907</article-id><article-id pub-id-type="pmcaiid">13525907</article-id><article-id pub-id-type="pmid">42667675</article-id><article-id pub-id-type="doi">10.1113/EP094042</article-id><article-id pub-id-type="publisher-id">EPH70463</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>The cold‐water immersion recovery–adaptation paradox: Reconciling acute parasympathetic and analgesic benefits with chronic hypertrophy attenuation</article-title><alt-title alt-title-type="left-running-head">TORNERO‐AGUILERA <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="eph70463-cr-0001" contrib-type="author"><name name-style="western"><surname>Tornero‐Aguilera</surname><given-names initials="JF">Jose Francisco</given-names></name><xref rid="eph70463-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="eph70463-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Lozano‐Meca</surname><given-names initials="J">Jose</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6092-2344</contrib-id><xref rid="eph70463-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="eph70463-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>jose.lozano@uib.es</email></address></contrib><contrib id="eph70463-cr-0003" contrib-type="author"><name name-style="western"><surname>López‐Moreno</surname><given-names initials="M">Miguel</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0553-6210</contrib-id><xref rid="eph70463-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="eph70463-cr-0004" contrib-type="author"><name name-style="western"><surname>Sancho‐Haro</surname><given-names initials="ES">Edgar Simón</given-names></name><xref rid="eph70463-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="eph70463-cr-0005" contrib-type="author"><name name-style="western"><surname>Muñoz‐López</surname><given-names initials="M">Mario</given-names></name><xref rid="eph70463-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="eph70463-cr-0006" contrib-type="author"><name name-style="western"><surname>Baz‐Valle</surname><given-names initials="E">Eneko</given-names></name><xref rid="eph70463-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="eph70463-cr-0007" contrib-type="author"><name name-style="western"><surname>López‐Gil</surname><given-names initials="JF">José Francisco</given-names></name><xref rid="eph70463-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="eph70463-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="eph70463-cr-0008" contrib-type="author"><name name-style="western"><surname>Yáñez‐Sepúlveda</surname><given-names initials="R">Rodrigo</given-names></name><xref rid="eph70463-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="eph70463-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="eph70463-cr-0009" contrib-type="author"><name name-style="western"><surname>Clemente‐Suárez</surname><given-names initials="VJ">Vicente Javier</given-names></name><xref rid="eph70463-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="eph70463-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Sport Sciences</named-content>
+<named-content content-type="organisation-division">Faculty of Sport and Health Sciences</named-content>
+<institution>Fit Generation Research Institute</institution>
+<city>Andorra la Vella</city>
+<country country="AD">Andorra</country>
+</aff><aff id="eph70463-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Nursing and Physiotherapy</named-content>
+<named-content content-type="organisation-division">Faculty of Nursing and Physiotherapy</named-content>
+<institution>University of the Balearic Islands</institution>
+<city>Palma de Mallorca</city>
+<country country="ES">Spain</country>
+</aff><aff id="eph70463-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Nutrition and Dietetics</named-content>
+<named-content content-type="organisation-division">Faculty of Sport and Health Sciences</named-content>
+<institution>Fit Generation Research Institute</institution>
+<city>Andorra la Vella</city>
+<country country="AD">Andorra</country>
+</aff><aff id="eph70463-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Education and Social Sciences</named-content>
+<institution>University Andrés Bello</institution>
+<city>Viña del Mar</city>
+<country country="CL">Chile</country>
+</aff><aff id="eph70463-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">School of Medicine</named-content>
+<institution>University Espíritu Santo</institution>
+<city>Samborondón</city>
+<country country="EC">Ecuador</country>
+</aff><aff id="eph70463-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Health Sciences</named-content>
+<institution>Universidad Autónoma de Chile</institution>
+<city>Temuco</city>
+<country country="CL">Chile</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Jose Lozano‐Meca, Department of Nursing and Physiotherapy, Faculty of Nursing and Physiotherapy, University of the Balearic Islands, Palma de Mallorca, Spain.<break/> Email: <email>jose.lozano@uib.es</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>8</month><year>2026</year></pub-date><issue-id pub-id-type="pmc-issue-id">518187</issue-id><elocation-id>10.1113/EP094042</elocation-id><history>
+<date date-type="received"><day>16</day><month>5</month><year>2026</year></date>
+<date date-type="accepted"><day>13</day><month>8</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>29</day><month>08</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>30</day><month>08</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-08-30 16:25:19.550"><day>30</day><month>08</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Experimental Physiology</italic> published by John Wiley &amp; Sons Ltd on behalf of The Physiological Society.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="EPH-9999-0.pdf"><?pdf-name EPH-9999-0.pdf?><?pdf-size 799753?><?pdf-md5 16e9268d647e0a9b30f5bfc01252bf92?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:ab41/13525907/16e9268d647e/EPH-9999-0.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:EPH-9999-0.pdf"/><abstract><title>Abstract</title><p>Cold‐water immersion (CWI) is among the most widely used post‐exercise recovery modalities in elite sport and clinical rehabilitation, yet a fundamental paradox now emerges from the evidence: the same protocols that accelerate parasympathetic reactivation and reduce perceived muscle soreness also suppress the molecular and cellular machinery of skeletal‐muscle hypertrophy when applied repeatedly across resistance‐training mesocycles. This narrative review synthesises the multi‐axis acute physiological response to CWI, the meta‐analytic evidence supporting its acute recovery benefits, and the molecular, cellular and longitudinal evidence documenting its chronic attenuation of resistance‐training adaptations. Acute CWI (10–15°C, 10–15 min) consistently augments parasympathetic reactivation, reduces soreness within 24–72 h (network meta‐analytic SUCRA 88%) and modulates inflammatory time‐courses. In parallel, equivalent protocols attenuate post‐resistance‐exercise mechanistic target of rapamycin complex 1 signalling, ribosomal biogenesis and satellite‐cell‐mediated myonuclear addition, translating into reduced type II fibre cross‐sectional area and modest impairments of strength gain (effect size −0.23). Endurance‐related microvascular and mitochondrial adaptations appear less affected and may be selectively enhanced. A protocol‐by‐goal decision framework links CWI parameters – water temperature, duration, body coverage and temporal placement – to expected adaptive outcomes across hypertrophy, strength, endurance and concurrent training contexts. CWI is neither uniformly beneficial nor uniformly harmful; its effects are predictable and depend on the training goal. CWI should be used when fast recovery between sessions matters most, and withheld after resistance training when muscle growth is the main goal of the training block.</p></abstract><abstract id="eph70463-abs-0001" abstract-type="highlights"><p>
+<list list-type="bullet" id="eph70463-list-0001"><list-item><p>
+<bold>What is the topic of this review?</bold>
+</p><p>This review asks how the divergent acute (parasympathetic and analgesic) and chronic (anti‐anabolic) effects of post‐exercise cold‐water immersion can be reconciled into a single mechanistically grounded prescription framework.</p></list-item><list-item><p>
+<bold>What advances does it highlight?</bold>
+</p><p>Acute cold‐water immersion (10–15°C, 10–15 min) reliably augments parasympathetic reactivation and reduces perceived soreness, while the same protocols, applied repeatedly after resistance training, attenuate mTORC1 signalling and type II fibre hypertrophy. The protocol‐by‐goal framework presented here translates these mechanistic findings into context‐specific, evidence‐based clinical and applied prescriptions.</p></list-item></list>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="eph70463-kwd-0001">cold‐water immersion</kwd><kwd id="eph70463-kwd-0002">heart rate variability</kwd><kwd id="eph70463-kwd-0003">mTORC1 signalling</kwd><kwd id="eph70463-kwd-0004">muscle hypertrophy</kwd><kwd id="eph70463-kwd-0005">resistance training</kwd></kwd-group><counts><fig-count count="1"/><table-count count="2"/><page-count count="15"/><word-count count="11371"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>edited-state</meta-name><meta-value>corrected-proof</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.6 mode:remove_FC converted:29.08.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="self-citation" id="eph70463-cite-0001">
+<string-name name-style="western">
+<surname>Tornero‐Aguilera</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lozano‐Meca</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>López‐Moreno</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sancho‐Haro</surname>, <given-names>E. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muñoz‐López</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baz‐Valle</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>López‐Gil</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yáñez‐Sepúlveda</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Clemente‐Suárez</surname>, <given-names>V. J.</given-names>
+</string-name> (<year>2026</year>). <article-title>The cold‐water immersion recovery–adaptation paradox: Reconciling acute parasympathetic and analgesic benefits with chronic hypertrophy attenuation</article-title>. <source>Experimental Physiology</source>, <fpage>1</fpage>–<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1113/EP094042</pub-id>
+<pub-id pub-id-type="pmid">42667675</pub-id>
+<pub-id pub-id-type="pmcid">PMC13525907</pub-id></mixed-citation>
+</p><fn-group><fn id="eph70463-note-0001"><p>Handling Editor: Damian Bailey</p></fn></fn-group></notes></front><body><sec id="eph70463-sec-0010"><label>1</label><title>INTRODUCTION</title><p>The recovery industry – both clinical and consumer – has converged on cold‐water immersion (CWI) as one of the most visible and commercially proliferated interventions for accelerating return‐to‐performance after exercise (Veen et al., <xref rid="eph70463-bib-0069" ref-type="bibr">2026</xref>). Cold‐plunge tubs are now standard fixtures in professional sport facilities across European football, rugby and athletics; they appear in commercial wellness chains in urban centres; and an estimated several million CWI sessions are performed weekly in healthy adult populations across Europe, North America and Oceania (Allan et al., <xref rid="eph70463-bib-0001" ref-type="bibr">2022</xref>). The expansion of recreational CWI has been propelled by social‐media‐driven wellness culture, the popularisation of Wim Hof‐style cold‐exposure protocols and an increasingly vocal consumer discourse that has conflated therapeutic cryotherapy, athletic recovery and general health promotion into a single undifferentiated endorsement of cold (Almahayni &amp; Hammond, <xref rid="eph70463-bib-0002" ref-type="bibr">2024</xref>; Versey et al., <xref rid="eph70463-bib-0070" ref-type="bibr">2013</xref>; Wakabayashi et al., <xref rid="eph70463-bib-0072" ref-type="bibr">2025</xref>). Behind all these uses sits a long‐standing assumption that has rarely been subjected to systematic scrutiny within a single framework: that the modality, by attenuating inflammation and perceived muscle soreness, must necessarily benefit subsequent training quality, adaptation and long‐term performance. As this review will show, that assumption holds for acute recovery but breaks down for chronic adaptation: applied repeatedly after resistance training, CWI can blunt the very muscle growth that the training is designed to stimulate.</p><p>The evidence assembled over the past decade complicates this assumption as a generalisation while preserving it as a context‐specific truth. Three convergent lines sharpen the picture. First, meta‐analytic evidence confirms that acute post‐exercise CWI (10–15°C, 10–15 min) accelerates parasympathetic reactivation on time‐ and frequency‐domain heart rate variability (HRV) indices, reduces delayed onset muscle soreness (DOMS) within 24–72 h, and modulates inflammatory time courses favourably for next‐session readiness (Cain et al., <xref rid="eph70463-bib-0011" ref-type="bibr">2025</xref>; Chen et al., <xref rid="eph70463-bib-0015" ref-type="bibr">2024</xref>; Galvez‐Rodriguez et al., <xref rid="eph70463-bib-0027" ref-type="bibr">2025</xref>; Moore et al., <xref rid="eph70463-bib-0049" ref-type="bibr">2022</xref>). Second, mechanistic and longitudinal evidence shows that comparable protocols, applied repeatedly after resistance training across mesocycles, attenuate mechanistic target of rapamycin complex 1 (mTORC1) signalling, reduce ribosomal biogenesis, impair satellite‐cell‐mediated myonuclear addition and reduce type II fibre cross‐sectional area gains (Fyfe et al., <xref rid="eph70463-bib-0026" ref-type="bibr">2019</xref>; Grgic, <xref rid="eph70463-bib-0031" ref-type="bibr">2023</xref>; Piñero et al., <xref rid="eph70463-bib-0056" ref-type="bibr">2024</xref>; Roberts et al., <xref rid="eph70463-bib-0061" ref-type="bibr">2015</xref>). Third, a 2024 International Olympic Committee critical review concluded that direct human evidence for cryotherapy as a regenerative intervention for soft‐tissue injury is essentially absent, with mechanistic claims resting largely on animal extrapolation (Racinais et al., <xref rid="eph70463-bib-0058" ref-type="bibr">2024</xref>).</p><p>Together these findings produce what this review terms the recovery–adaptation paradox: a single intervention improves the acute markers practitioners use to judge recovery – soreness, autonomic balance, perceived freshness, creatine kinase normalisation – while suppressing the molecular and cellular substrates of chronic skeletal‐muscle adaptation (Fyfe et al., <xref rid="eph70463-bib-0026" ref-type="bibr">2019</xref>; Piñero et al., <xref rid="eph70463-bib-0056" ref-type="bibr">2024</xref>; Rantala &amp; Chaillou, <xref rid="eph70463-bib-0059" ref-type="bibr">2019</xref>). This is not a methodological artefact but an emergent property of the heterogeneous responses CWI elicits across vascular, neural, inflammatory, anabolic and perceptual domains, each operating on a distinct time scale (Ihsan et al., <xref rid="eph70463-bib-0038" ref-type="bibr">2020</xref>; Rousse et al., <xref rid="eph70463-bib-0062" ref-type="bibr">2025</xref>). The acute benefits are concentrated in the first 24–72 h and are largely reversible; the chronic costs accumulate insidiously across weeks of systematic post‐resistance CWI and become difficult to recover within the closed mesocycle (Choo et al., <xref rid="eph70463-bib-0017" ref-type="bibr">2022</xref>; Malta et al., <xref rid="eph70463-bib-0047" ref-type="bibr">2021</xref>; Piñero et al., <xref rid="eph70463-bib-0056" ref-type="bibr">2024</xref>).</p><p>The mTORC1 pathway integrates mechanical, nutritional and hormonal signals to regulate muscle protein synthesis after resistance exercise (detailed in section <xref rid="eph70463-sec-0130" ref-type="sec">5</xref>). Cooling skeletal muscle by 2–5°C after resistance exercise slows enzyme kinetics, reduces mTORC1 activation and attenuates the translational machinery needed to capitalise on the post‐exercise muscle protein synthesis signal (Fyfe et al., <xref rid="eph70463-bib-0026" ref-type="bibr">2019</xref>; Petersen &amp; Fyfe, <xref rid="eph70463-bib-0055" ref-type="bibr">2021</xref>; Rantala &amp; Chaillou, <xref rid="eph70463-bib-0059" ref-type="bibr">2019</xref>; Roberts et al., <xref rid="eph70463-bib-0061" ref-type="bibr">2015</xref>).</p><p>This review addresses three questions the field has raised but rarely synthesised within one practitioner‐accessible framework. First, where does the paradox arise mechanistically – which molecular and cellular pathways are simultaneously accelerated and suppressed by post‐exercise CWI? Second, under what protocol conditions (temperature, duration, body coverage, timing) does each side dominate? Third, how can these signals be assembled into an evidence‐based decision framework that lets clinicians, exercise physiologists and coaches deploy CWI with intention rather than habit? The scope is bounded to post‐exercise CWI in healthy adults, with particular attention to resistance‐ and concurrent‐training contexts; thermoregulatory, therapeutic and recreational cold exposure are addressed only where directly relevant.</p><p>Throughout this review, CWI denotes whole‐ or partial‐body submersion in water at 5–15°C for 5–20 min applied within minutes to hours after exercise. This excludes whole‐body cryotherapy chambers (cold air, −100°C to −140°C, with a substantially different intramuscular cooling profile), localised ice‐pack application (Bleakley et al., <xref rid="eph70463-bib-0007" ref-type="bibr">2004</xref>) and cold‐water exercise. Acute effects are those occurring within hours to ∼72 h of a single exposure; chronic effects are adaptation phenotypes (hypertrophy, strength, <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="inline"><mml:mrow><mml:msub><mml:mover accent="true"><mml:mi>V</mml:mi><mml:mo>˙</mml:mo></mml:mover><mml:mrow><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>max</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>, fibre type) following repeated exposures across multi‐week training cycles (Machado et al., <xref rid="eph70463-bib-0046" ref-type="bibr">2016</xref>; Yamane et al., <xref rid="eph70463-bib-0079" ref-type="bibr">2015</xref>).</p></sec><sec id="eph70463-sec-0020"><label>2</label><title>METHODS</title><p>This narrative review was conducted in accordance with established best practices for synthesis in exercise physiology. Electronic database searches were performed in PubMed/MEDLINE, Web of Science Core Collection and Cochrane CENTRAL from January 2010 to April 2026, with targeted extensions to 2000 for foundational molecular biology and thermoregulation studies. The 2010 start date reflects the fact that the modern CWI evidence base – particularly the molecular signalling and longitudinal resistance‐training studies that define the recovery–adaptation paradox – emerged almost entirely from 2010 onward. The comparatively few earlier foundational papers on muscle protein‐synthesis signalling, thermoregulation and post‐exercise parasympathetic reactivation were captured through the targeted pre‐2010 extensions and through reference mining, so no substantive body of 2000–2009 CWI‐adaptation literature was excluded. The primary search strategy combined MeSH terms and free‐text keywords across four conceptual domains: (i) the intervention (CWI, ice bath, water immersion, cryotherapy, cold therapy, water temperature, cold exposure); (ii) the acute outcome axis (HRV, RMSSD, autonomic recovery, delayed onset muscle soreness, DOMS, creatine kinase, perceived exertion, inflammation, interleukin‐6 (IL‐6), tumour necrosis factor‐α, C‐reactive protein); (iii) the chronic adaptation axis (mTORC1, mTOR signalling, muscle protein synthesis, hypertrophy, muscle fibre cross‐sectional area, strength, satellite cells, ribosomal biogenesis, p70S6K1, eukaryotic translation initiation factor 4E‐binding protein 1 (4E‐BP1)); and (iv) training context (resistance training, endurance training, concurrent training, sport recovery, in‐season).</p><p>A representative PubMed string combined the four domains – for example, (‘cold water immersion’ OR ‘ice bath’ OR cryotherapy) AND (‘mTOR’ OR ‘muscle protein synthesis’ OR hypertrophy OR ‘HRV’ OR DOMS OR recovery) AND (‘resistance training’ OR ‘strength training’ OR exercise OR sport). Reference lists of identified systematic reviews, network meta‐analyses and key narrative reviews were screened for additional primary and mechanistic studies. Evidence was weighted hierarchically – meta‐analyses of randomised controlled trials (RCTs) highest, then individual RCTs, longitudinal controlled trials, mechanistic human biopsy studies, and finally in vitro or animal data – with preclinical‐only mechanistic claims explicitly flagged and treated with epistemic caution. Studies beyond healthy adults were included only for mechanistic context.</p></sec><sec id="eph70463-sec-0030"><label>3</label><title>THE ACUTE PHYSIOLOGICAL RESPONSE TO CWI: A MULTI‐AXIS CASCADE</title><p>Although the five physiological responses to CWI are presented below under separate headings for clarity, they do not occur in isolation. They are activated in an overlapping, time‐ordered cascade that begins within seconds of immersion and, when the exposure is repeated across a training block, ultimately shapes chronic adaptation. Figure <xref rid="eph70463-fig-0001" ref-type="fig">1</xref> integrates these axes along a single time axis – from the cold‐shock response (0–90 s), through the acute autonomic, vascular, inflammatory, metabolic and perceptual responses (minutes to ∼72 h), to the cumulative effect of repeated post‐resistance‐exercise exposure across weeks – and shows how the same cascade that produces the acute recovery benefit also drives the chronic adaptive cost that defines the paradox. The subsections that follow detail each axis in turn but should be read as components of this single integrated time course rather than as independent phenomena.</p><fig position="float" fig-type="FIGURE" id="eph70463-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>The cold‐water immersion recovery–adaptation paradox: integration of the five acute physiological axes (vascular, autonomic, inflammatory, metabolic, perceptual) along the immersion‐to‐mesocycle time course. Acute, largely reversible benefits dominate the first 1–72 h after a single exposure; repeated post‐resistance‐exercise exposure across weeks drives the chronic attenuation of mTORC1‐dependent hypertrophy that defines the paradox.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="EPH-9999-0-g001.webp"><?image-name EPH-9999-0-g001.webp?><?image-size 85550?><?image-md5 95849cd17f27affcb8bbd08008d95fca?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 547?><?image-original-width 820?><?image-scaled-height 547?><?image-scaled-width 820?><?image-cloudpmc-urn urn:cdn:blobs/ab41/13525907/95849cd17f27/EPH-9999-0-g001.webp?><?thumb-name EPH-9999-0-g001.gif?><?thumb-size 15594?><?thumb-md5 6e43778408d057ba3665a1050f4864c9?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 133?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/ab41/13525907/6e43778408d0/EPH-9999-0-g001.gif?></graphic></fig><sec id="eph70463-sec-0040"><label>3.1</label><title>The vascular axis: Cutaneous vasoconstriction, oedema reduction and microvascular dynamics</title><p>Within 20–30 s of immersion in water at 10–15°C, intense cutaneous vasoconstriction is initiated through α‐adrenergic activation and simultaneous inhibition of the nitric oxide (NO) vasodilatory pathway (Rowell, <xref rid="eph70463-bib-0063" ref-type="bibr">1974</xref>; Wakabayashi et al., <xref rid="eph70463-bib-0072" ref-type="bibr">2025</xref>; Wilcock et al., <xref rid="eph70463-bib-0076" ref-type="bibr">2006</xref>). Cutaneous (skin) blood flow falls sharply in the distal limbs within the first minute and remains substantially below resting values for the full duration of the exposure; in the context of cooling, the reduction in peripheral perfusion is driven predominantly by this fall in skin blood flow rather than by an equivalent reduction in muscle blood flow, although the steep thermal gradient it establishes does secondarily lower intramuscular perfusion and metabolic rate as cooling progresses. Reduced peripheral perfusion has two immediate physiological consequences relevant to athletic recovery. First, it creates a steep transmembrane temperature gradient that propagates inward from the subcutaneous compartment to the skeletal‐muscle belly over approximately 20–30 min, cooling intramuscular temperature by 2–5°C depending on submersion depth, adipose thickness and water temperature (Machado et al., <xref rid="eph70463-bib-0046" ref-type="bibr">2016</xref>; Roberts et al., <xref rid="eph70463-bib-0061" ref-type="bibr">2015</xref>; Vieira et al., <xref rid="eph70463-bib-0071" ref-type="bibr">2016</xref>). Second, it mechanically compresses the oedematous fluid accumulating in the interstitial space of recently exercised muscle by reducing capillary hydrostatic pressure, attenuating the net filtration pressure driving fluid from the vascular to the interstitial compartment, and – when the immersion includes hydrostatic compression above knee level – assisting lymphatic drainage through external pressure gradients (Schaser et al., <xref rid="eph70463-bib-0064" ref-type="bibr">2007</xref>; Wilcock et al., <xref rid="eph70463-bib-0076" ref-type="bibr">2006</xref>). This oedema‐reduction mechanism is a major contributor to the perceived analgesic benefit of CWI in the 24–48 h post‐exercise window, where swelling‐associated mechanoreceptor activation contributes substantially to perceived soreness (Bleakley et al., <xref rid="eph70463-bib-0006" ref-type="bibr">2012</xref>).</p><p>At the microvascular level, an important distinction exists between the acute response – which suppresses peripheral perfusion – and the adaptive response to repeated CWI during sustained training. A within‐subject trial by Ihsan et al. (<xref rid="eph70463-bib-0038" ref-type="bibr">2020</xref>) demonstrated that the leg receiving 15 min of 10°C CWI after each of 3‐weekly endurance sessions over 4 weeks exhibited significantly higher microvascular reperfusion rates (measured by contrast‐enhanced ultrasound) than the untreated contralateral control leg (Ihsan et al., <xref rid="eph70463-bib-0037" ref-type="bibr">2016</xref>, <xref rid="eph70463-bib-0038" ref-type="bibr">2020</xref>). This finding of enhanced rather than attenuated microvascular adaptation with repeated CWI during endurance training is mechanistically plausible through a hormetic cold‐stress mechanism: repeated acute reductions in perfusion followed by reactive hyperaemia may represent a training‐like stimulus for capillary remodelling analogous to the metabolic perturbation that drives angiogenesis during endurance training. This distinction between acute (suppressive) and chronic (potentially adaptive) microvascular effects is one of the key factors underpinning the differential sensitivity of endurance versus resistance adaptations to CWI, discussed in section <xref rid="eph70463-sec-0200" ref-type="sec">6</xref>.</p></sec><sec id="eph70463-sec-0050"><label>3.2</label><title>The autonomic axis: From cold shock to parasympathetic dominance</title><p>The autonomic response to CWI is characteristically biphasic and constitutes the most clinically relevant and best‐characterised benefit of the modality for athletic recovery. The initial cold‐shock response – involuntary gasping, hyperventilation, tachycardia and a transient surge in circulating catecholamines – is mediated by cutaneous thermoreceptor (TRPM8, TRPA1) activation and sympatho‐adrenal stimulation occurring within the first 30–90 s of immersion (Flouris &amp; Schlader, <xref rid="eph70463-bib-0025" ref-type="bibr">2015</xref>; Wakabayashi et al., <xref rid="eph70463-bib-0072" ref-type="bibr">2025</xref>). This response accounts for the primary cardiovascular safety risk of CWI: the sympathetic surge combined with peripheral vasoconstriction elevates systemic vascular resistance and cardiac afterload transiently, and in susceptible individuals may provoke arrhythmia or sudden cardiac death, particularly in outdoor cold‐water environments where drowning risk compounds cardiac risk (Faivre‐Rampant et al., <xref rid="eph70463-bib-0023" ref-type="bibr">2024</xref>). In supervised laboratory settings with healthy trained adults, this initial sympathetic period is brief and self‐limiting. Beyond thermoreception, cold immersion also directly stimulates cutaneous and deep nociceptors in addition to TRPM8/TRPA1 thermoreceptors, and this nociceptive afferent barrage contributes to the initial sympatho‐excitatory cold‐shock response and, through spinal and supraspinal reflex pathways, to the subsequent autonomic adjustments – a nociceptive component that is frequently overlooked when the autonomic response to CWI is attributed to thermoreception and baroreflex activation alone (Cheung et al., <xref rid="eph70463-bib-0016" ref-type="bibr">2003</xref>; Flouris &amp; Schlader, <xref rid="eph70463-bib-0025" ref-type="bibr">2015</xref>).</p><p>Within 2–3 min of stable immersion, the cold‐shock response gives way to a profound parasympathetic dominance mediated by baroreflex activation. Cold‐induced cutaneous vasoconstriction increases central blood volume and mean arterial pressure, stimulating arterial baroreceptors that reflexly augment vagal outflow to the sinoatrial node (Buchheit et al., <xref rid="eph70463-bib-0009" ref-type="bibr">2009</xref>; Rowell, <xref rid="eph70463-bib-0063" ref-type="bibr">1974</xref>). This produces rapid reductions in heart rate and measurable increases in HRV indices reflecting cardiac parasympathetic modulation: the root mean square of successive R–R interval differences (RMSSD) rises substantially, high‐frequency spectral power (0.15–0.40 Hz) increases, and the low frequency/high frequency (LF/HF) ratio normalises toward parasympathetic dominance (Buchheit et al., <xref rid="eph70463-bib-0009" ref-type="bibr">2009</xref>; Galvez‐Rodriguez et al., <xref rid="eph70463-bib-0027" ref-type="bibr">2025</xref>; Stanley et al., <xref rid="eph70463-bib-0066" ref-type="bibr">2012</xref>). The Galvez‐Rodriguez et al. (<xref rid="eph70463-bib-0027" ref-type="bibr">2025</xref>) systematic review, synthesising 12 randomised trials, confirmed that all 12 included studies reported parasympathetic reactivation following post‐exercise CWI, with six demonstrating statistically significant differences versus passive recovery on at least one HRV index (all <italic toggle="yes">P</italic> &lt; 0.05) and eight reporting moderate‐to‐large standardised effect sizes. The effect persists for 30–60 min after emergence from immersion, providing a window in which subjective recovery and training willingness are reliably enhanced. This parasympathetic window has real operational significance in the multi‐session day scenario: an athlete completing morning and afternoon training sessions can use CWI between sessions to partially restore the autonomic modulation that underpins high‐quality afternoon performance.</p></sec><sec id="eph70463-sec-0060"><label>3.3</label><title>The inflammatory axis: A nuanced bi‐directional time course</title><p>The inflammatory response to acute CWI is bi‐directional and time‐dependent, resolving apparent contradictions in the older literature. The 2025 meta‐analysis by Cain et al. (<xref rid="eph70463-bib-0011" ref-type="bibr">2025</xref>), pooling 11 RCTs in healthy adults, documented significantly increased circulating inflammatory markers (IL‐6, C‐reactive protein, white cell count) at the immediate and 1‐h time points (standardised mean differences 1.0–1.3; <italic toggle="yes">P</italic> &lt; 0.01), consistent with a cold‐stress transient, followed by relative suppression of inflammatory burden at 12 h versus passive recovery (Cain et al., <xref rid="eph70463-bib-0011" ref-type="bibr">2025</xref>; Gleeson et al., <xref rid="eph70463-bib-0029" ref-type="bibr">2011</xref>; Peake et al., <xref rid="eph70463-bib-0053" ref-type="bibr">2017</xref>). Mechanistically, CWI introduces a brief, self‐limiting cold‐stress inflammatory signal, after which reduced activity of temperature‐sensitive enzymes including cyclooxygenase‐2 (COX2) and reduced prostaglandin E2 (PGE2) and nuclear factor kappa‐B (NF‐κB) activation in cooled muscle produce a relative suppression that is smaller and shorter‐lived than the exercise‐induced response it overlaps (Gleeson et al., <xref rid="eph70463-bib-0029" ref-type="bibr">2011</xref>; Rousse et al., <xref rid="eph70463-bib-0062" ref-type="bibr">2025</xref>).</p><p>This pattern has a critical implication for the paradox. The same NF‐κB and prostaglandin cascade that CWI suppresses in the 12‐h window is not merely an inflammatory nuisance: PGE2 and IL‐6 released from mechanically stimulated fibres are upstream activators of the satellite‐cell cascade required for myonuclear addition and true hypertrophy (Chargé &amp; Rudnicki, <xref rid="eph70463-bib-0014" ref-type="bibr">2004</xref>; Serrano et al., <xref rid="eph70463-bib-0065" ref-type="bibr">2008</xref>). Suppressing this cascade accelerates resolution of soreness but simultaneously delays or attenuates the anabolic phase of muscle remodelling (Fyfe et al., <xref rid="eph70463-bib-0026" ref-type="bibr">2019</xref>; Piñero et al., <xref rid="eph70463-bib-0056" ref-type="bibr">2024</xref>). This coupling of anti‐inflammatory benefit to anti‐anabolic cost is the deepest explanation of the paradox and is directly analogous to the trade‐off of chronic NSAID use during resistance training (Gleeson et al., <xref rid="eph70463-bib-0029" ref-type="bibr">2011</xref>; Trappe et al., <xref rid="eph70463-bib-0068" ref-type="bibr">2011</xref>).</p></sec><sec id="eph70463-sec-0070"><label>3.4</label><title>The metabolic axis: Thermogenesis, brown adipose tissue and energy expenditure</title><p>Acute CWI raises metabolic rate mainly through shivering thermogenesis and, in cold‐acclimated individuals with brown adipose tissue (BAT), through UCP1‐mediated non‐shivering thermogenesis; the energy cost of a single session (∼50–100 kcal) is negligible for performance or body composition. Repeated cold may upregulate BAT and skeletal‐muscle peroxisome proliferator‐activated receptor γ coactivator 1‐α (PGC‐1α) in animal models, but translation to athletes – who generally have low BAT activity – remains poorly characterised (Cannon &amp; Nedergaard, <xref rid="eph70463-bib-0012" ref-type="bibr">2004</xref>; Puigserver &amp; Spiegelman, <xref rid="eph70463-bib-0057" ref-type="bibr">2003</xref>).</p></sec><sec id="eph70463-sec-0080"><label>3.5</label><title>The perceptual axis: Freshness, pain modulation and decision behaviour</title><p>A fifth physiological axis – the perceptual – warrants explicit placement alongside the four canonical responses because it mediates the most immediate and practitioner‐visible outcome of CWI: the subjective sense of restored readiness. The cold‐shock response, the rapid reduction in skin and muscle temperature, the analgesic effect of slowed nociceptive conduction velocity in Aδ and C fibres, and the subsequent parasympathetic shift collectively produce a distinctive subjective state recognisable to practitioners as ‘freshness’ or ‘reset’ (Cheung et al., <xref rid="eph70463-bib-0016" ref-type="bibr">2003</xref>; Flouris &amp; Schlader, <xref rid="eph70463-bib-0025" ref-type="bibr">2015</xref>). The perceptual axis is functionally important not just as an outcome but as a mediator of training behaviour: athletes who perceive themselves to have recovered are more willing to commit to high‐intensity subsequent sessions, to undertake additional training volume and to accept coaching‐imposed performance demands (Chen et al., <xref rid="eph70463-bib-0015" ref-type="bibr">2024</xref>; Moore et al., <xref rid="eph70463-bib-0049" ref-type="bibr">2022</xref>). Whether this perceptual benefit translates into objective adaptation gains – by enabling additional high‐quality training – or instead drives maladaptive over‐training by masking the actual tissue‐level state of recovery, is a context‐dependent question that the decision framework in section <xref rid="eph70463-sec-0210" ref-type="sec">7</xref> addresses explicitly. The five acute physiological axes and their integration across the immersion‐to‐mesocycle time course are summarised in Figure <xref rid="eph70463-fig-0001" ref-type="fig">1</xref>.</p></sec></sec><sec id="eph70463-sec-0090"><label>4</label><title>THE ACUTE RECOVERY SIDE OF THE PARADOX: EVIDENCE AND MECHANISMS</title><sec id="eph70463-sec-0100"><label>4.1</label><title>Parasympathetic reactivation and HRV</title><p>HRV is the most widely used non‐invasive marker of autonomic recovery status in elite sport, and the evidence linking post‐exercise CWI to parasympathetic reactivation is the most methodologically robust in the CWI literature. The dominant time‐domain metric in CWI studies is RMSSD – the root mean square of successive R–R interval differences – which specifically reflects beat‐to‐beat vagal (parasympathetic) modulation of the sinoatrial node and is now the standard metric in HRV‐guided training studies (Galvez‐Rodriguez et al., <xref rid="eph70463-bib-0027" ref-type="bibr">2025</xref>; Kiviniemi et al., <xref rid="eph70463-bib-0040" ref-type="bibr">2007</xref>).</p><p>The Galvez‐Rodriguez et al. (<xref rid="eph70463-bib-0027" ref-type="bibr">2025</xref>) systematic review and meta‐analysis, encompassing 12 randomised trials in athletic and recreationally active populations, is the most comprehensive synthesis to date. All 12 included studies reported at least directional parasympathetic reactivation following post‐exercise CWI relative to passive recovery or to pre‐exercise baseline. Six trials reported statistically significant differences (<italic toggle="yes">P</italic> &lt; 0.05) between CWI and passive recovery on RMSSD, high‐frequency power or LF/HF ratio, and eight reported moderate‐to‐large, standardised effect sizes. Protocol heterogeneity across trials – in water temperature (8–20°C), immersion duration (5–20 min), body coverage, exercise type and HRV measurement timing – limited definitive pooling, but the directional consistency across 12 trials and multiple methodological implementations is a strong signal of a genuine and generalisable effect (Galvez‐Rodriguez et al., <xref rid="eph70463-bib-0027" ref-type="bibr">2025</xref>).</p><p>Because the Galvez‐Rodriguez et al. (<xref rid="eph70463-bib-0027" ref-type="bibr">2025</xref>) systematic review is largely descriptive – aggregating the primary authors' conclusion statements with limited independent critical appraisal beyond risk‐of‐bias scoring – it is worth engaging the strongest primary evidence directly. The foundational controlled study by Buchheit et al. (<xref rid="eph70463-bib-0009" ref-type="bibr">2009</xref>) showed that brief immersion (5 min at ∼14°C) after high‐intensity exercise accelerated parasympathetic reactivation, with significantly faster recovery of vagally mediated HRV in the first 5–10 min post‐exercise than control. Stanley et al. (<xref rid="eph70463-bib-0066" ref-type="bibr">2012</xref>) extended this to the frequency domain, reporting that CWI hastened the return of high‐frequency (HF) spectral power and the normalisation of the LF/HF ratio toward resting values after endurance exercise, with carry‐over to next‐day submaximal performance. Across these trials the time‐domain index RMSSD and its frequency‐domain counterpart (HF power) move concordantly, as expected given that both quantify respiratory‐linked vagal modulation of the sinoatrial node, whereas the LF/HF ratio behaves less consistently owing to its recognised interpretive limitations. The principal caveats of this primary literature are small samples (typically <italic toggle="yes">n</italic> = 7–12), heterogeneous immersion and HRV‐recording protocols, and the impossibility of participant blinding, all of which temper the strength of the pooled signal even though its direction is reproducible (Buchheit et al., <xref rid="eph70463-bib-0009" ref-type="bibr">2009</xref>; Stanley et al., <xref rid="eph70463-bib-0066" ref-type="bibr">2012</xref>).</p><p>The clinical relevance of accelerated parasympathetic reactivation extends beyond subjective comfort. HRV‐guided training periodisation studies – in which training intensity on a given day is determined by the athlete's morning RMSSD relative to their personal rolling baseline – consistently demonstrate that HRV‐guided approaches produce equal or superior physiological adaptations compared with predefined load prescription, while reducing training stress markers and perceived fatigue (Kiviniemi et al., <xref rid="eph70463-bib-0040" ref-type="bibr">2007</xref>). If CWI accelerates the return of RMSSD to personal‐baseline levels after a heavy training session, it may create additional windows for high‐quality training that would not exist under passive recovery – a genuine competitive performance advantage (Moore et al., <xref rid="eph70463-bib-0049" ref-type="bibr">2022</xref>; Stanley et al., <xref rid="eph70463-bib-0066" ref-type="bibr">2012</xref>). The caveat is that this perceptual–autonomic readiness may be partially decoupled from actual tissue repair state: an athlete with restored RMSSD may begin training before the satellite‐cell and mTORC1‐dependent repair and remodelling processes have reached the stage required for maximal quality contraction (Fyfe et al., <xref rid="eph70463-bib-0026" ref-type="bibr">2019</xref>; Roberts et al., <xref rid="eph70463-bib-0061" ref-type="bibr">2015</xref>). In a hypertrophy‐prioritised context, this temporal decoupling is itself an argument for limiting CWI, since it risks compressing the anabolic window of reduced‐load recovery that optimises molecular adaptation. Finally, the autonomic potency of cold exposure carries a safety corollary: in an observational study of recreational outdoor cold‐water swimmers, Faivre‐Rampant et al. (<xref rid="eph70463-bib-0023" ref-type="bibr">2024</xref>) documented post‐immersion QT‐interval lengthening of approximately 20 ms, exceeding 500 ms in 5 of 20 participants, underscoring that the same sympatho‐vagal perturbation that benefits recovery can transiently destabilise cardiac repolarisation in susceptible individuals; CWI should therefore be screened and supervised accordingly.</p></sec><sec id="eph70463-sec-0110"><label>4.2</label><title>DOMS and perceived recovery</title><p>DOMS is mechanistically distinct from acute exercise pain: it peaks at 24–72 h post‐exercise, corresponds to the inflammatory phase of muscle fibre remodelling, and involves sensitisation of muscle mechanoreceptors and nociceptors by prostaglandins, bradykinin and substance P released from damaged fibres and infiltrating immune cells (Cheung et al., <xref rid="eph70463-bib-0016" ref-type="bibr">2003</xref>; Peake et al., <xref rid="eph70463-bib-0053" ref-type="bibr">2017</xref>). The 2024 network meta‐analysis by Chen et al. (<xref rid="eph70463-bib-0015" ref-type="bibr">2024</xref>) constitutes the most comprehensive ranking of recovery modalities for DOMS‐related outcomes. Pooling 57 RCTs and 1220 participants and using a Bayesian surface under the cumulative ranking curve (SUCRA) approach, the analysis ranked cryotherapy modalities first for relief of perceived muscle soreness (SUCRA 88.3%) and for neuromuscular performance recovery as assessed by countermovement jump height (SUCRA 83.7%). Contrast water therapy ranked highest for normalisation of circulating creatine kinase activity, a biochemical marker of sarcolemmal disruption. The Wang et al. (<xref rid="eph70463-bib-0074" ref-type="bibr">2022</xref>) network meta‐analysis of cold and heat therapies identified more nuanced temporal patterns: hot‐pack application ranked highest at 24 h post‐exercise, while contrast water therapy and CWI were comparably effective at 48 h, and a controlled‐gas whole‐body cryotherapy modality emerged as superior beyond 48 h. Consistent with these pooled findings, the recent randomised trial by Pereira et al. (<xref rid="eph70463-bib-0054" ref-type="bibr">2025</xref>) reported an absence of perceived pain at 48 h following ∼12°C, 10‐min CWI after a demanding CrossFit® ‘Murph’ workout, compared with massage, although the non‐blinded design and reliance on a single perceptual endpoint limit the strength of the inference.</p><p>The mechanism underlying the analgesic effect of cold modalities is multi‐factorial. Vasoconstriction‐mediated reduction of interstitial oedema reduces the mechanical activation of muscle mechanoreceptors (Schaser et al., <xref rid="eph70463-bib-0064" ref-type="bibr">2007</xref>; Wilcock et al., <xref rid="eph70463-bib-0076" ref-type="bibr">2006</xref>). Cooling slows sensory and motor nerve conduction in a temperature‐dependent manner, prolonging latency and contributing to cold‐induced analgesia (Lithfous et al., <xref rid="eph70463-bib-0045" ref-type="bibr">2022</xref>; Machado et al., <xref rid="eph70463-bib-0046" ref-type="bibr">2016</xref>). Suppression of COX‐2 and PGE2 production in cooled tissue attenuates the chemical sensitisation of peripheral nociceptors (Gleeson et al., <xref rid="eph70463-bib-0029" ref-type="bibr">2011</xref>; Rousse et al., <xref rid="eph70463-bib-0062" ref-type="bibr">2025</xref>). Together, these mechanisms produce an analgesic effect that is rapid in onset (within minutes of immersion), peaks at 24–48 h post‐exercise and is of moderate magnitude relative to pharmaceutical analgesia but with a superior safety profile for healthy athletic populations (Batista et al., <xref rid="eph70463-bib-0005" ref-type="bibr">2023</xref>; Bleakley et al., <xref rid="eph70463-bib-0006" ref-type="bibr">2012</xref>; Missau et al., <xref rid="eph70463-bib-0048" ref-type="bibr">2018</xref>).</p></sec><sec id="eph70463-sec-0120"><label>4.3</label><title>Modality differentiation: CWI versus contrast therapy versus whole‐body cryotherapy</title><p>A persistent source of confusion in the practitioner literature is the implicit treatment of CWI, contrast water therapy (CWT; alternating hot and cold immersion) and dry whole‐body cryotherapy chambers as pharmacologically interchangeable. The Chen et al. (<xref rid="eph70463-bib-0015" ref-type="bibr">2024</xref>) network meta‐analysis makes the disaggregation explicit: CWI and CWT differ in their ranking profiles across outcomes. CWT achieves higher mean SUCRA for creatine kinase normalisation (consistent with its promotion of hyperaemic flushing through hot–cold alternation, which may accelerate clearance of inflammatory mediators and metabolic by‐products from the interstitial space) but lower than cryotherapy for soreness and jump performance (Chen et al., <xref rid="eph70463-bib-0015" ref-type="bibr">2024</xref>; Costello et al., <xref rid="eph70463-bib-0019" ref-type="bibr">2016</xref>; Wang et al., <xref rid="eph70463-bib-0074" ref-type="bibr">2022</xref>; Wu et al., <xref rid="eph70463-bib-0078" ref-type="bibr">2026</xref>). Whole‐body cryotherapy chambers (−100°C to −140°C, 2–4 min) achieve substantially less intramuscular cooling than water immersion (approximately 1–2°C versus 3–5°C reduction in vastus lateralis temperature at depth) due to the low thermal capacity of cold air relative to cold water, and their anti‐anabolic potential is correspondingly lower (Wang et al., <xref rid="eph70463-bib-0073" ref-type="bibr">2025</xref>). The dose–displacement implication is important: practitioners seeking analgesic benefit with minimal anabolic cost may achieve a reasonable trade‐off through CWT or abbreviated whole‐body cryotherapy, rather than the sustained whole‐body CWI that produces the deepest and most prolonged intramuscular cooling. The key findings regarding acute benefits for recovery and neuromuscular considerations are summarised in Table <xref rid="eph70463-tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="eph70463-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Principal human evidence for the acute recovery benefits and post‐CWI neuromuscular considerations.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Study</th><th align="left" rowspan="1" colspan="1">Design</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th><th align="left" rowspan="1" colspan="1">CWI protocol</th><th align="left" rowspan="1" colspan="1">Primary outcome</th><th align="left" rowspan="1" colspan="1">Key finding</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Galvez‐Rodriguez et al. (<xref rid="eph70463-bib-0027" ref-type="bibr">2025</xref>)</td><td align="left" rowspan="1" colspan="1">Systematic review (12 RCTs)</td><td align="left" rowspan="1" colspan="1">Mixed</td><td align="left" rowspan="1" colspan="1">∼10–15°C, 10–15 min</td><td align="left" rowspan="1" colspan="1">RMSSD, HRV indices</td><td align="left" rowspan="1" colspan="1">All 12 studies: parasympathetic reactivation; 6 with <italic toggle="yes">P </italic>&lt; 0.05 vs. passive; moderate‐to‐large ES</td></tr><tr><td align="left" rowspan="1" colspan="1">Chen et al. (<xref rid="eph70463-bib-0015" ref-type="bibr">2024</xref>)</td><td align="left" rowspan="1" colspan="1">Network meta‐analysis (57 RCTs, <italic toggle="yes">n</italic> = 1220)</td><td align="left" rowspan="1" colspan="1">1220</td><td align="left" rowspan="1" colspan="1">Various cryotherapy modalities</td><td align="left" rowspan="1" colspan="1">DOMS, CK, jump performance</td><td align="left" rowspan="1" colspan="1">CWI/cryotherapy SUCRA 88.3% for soreness; 83.7% for jump recovery; CWT best for CK</td></tr><tr><td align="left" rowspan="1" colspan="1">Wang et al. (<xref rid="eph70463-bib-0074" ref-type="bibr">2022</xref>)</td><td align="left" rowspan="1" colspan="1">Network meta‐analysis (cold/heat)</td><td align="left" rowspan="1" colspan="1">N/R</td><td align="left" rowspan="1" colspan="1">Various cold and heat modalities</td><td align="left" rowspan="1" colspan="1">Perceived DOMS at 24, 48, 72 h</td><td align="left" rowspan="1" colspan="1">Hot pack superior at 24 h; CWI/CWT comparable at 48 h; WBC superior &gt;48 h</td></tr><tr><td align="left" rowspan="1" colspan="1">Cain et al. (<xref rid="eph70463-bib-0011" ref-type="bibr">2025</xref>)</td><td align="left" rowspan="1" colspan="1">Systematic review and meta‐analysis (11 RCTs)</td><td align="left" rowspan="1" colspan="1">Healthy adults</td><td align="left" rowspan="1" colspan="1">Various CWI protocols</td><td align="left" rowspan="1" colspan="1">Inflammation, stress, immunity, sleep</td><td align="left" rowspan="1" colspan="1">Significant ↑ inflammatory markers immediately and 1 h post‐CWI; relative ↓ at 12 h</td></tr><tr><td align="left" rowspan="1" colspan="1">Pereira et al. (<xref rid="eph70463-bib-0054" ref-type="bibr">2025</xref>)</td><td align="left" rowspan="1" colspan="1">RCT 2‐arm</td><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">∼12°C, 10 min post‐CrossFit® Murph</td><td align="left" rowspan="1" colspan="1">Perceived pain at 48 h</td><td align="left" rowspan="1" colspan="1">Absence of pain reports 48 h post‐CWI vs. massage; non‐blinded design</td></tr><tr><td align="left" rowspan="1" colspan="1">Heinke et al. (<xref rid="eph70463-bib-0033" ref-type="bibr">2024</xref>)</td><td align="left" rowspan="1" colspan="1">RCT 3‐arm</td><td align="left" rowspan="1" colspan="1">N/R</td><td align="left" rowspan="1" colspan="1">CWI vs. percussive massage vs. passive</td><td align="left" rowspan="1" colspan="1">CMJ height, neuromuscular performance</td><td align="left" rowspan="1" colspan="1">Acute CMJ decrement immediately after CWI; plausible motor nerve conduction slowing</td></tr><tr><td align="left" rowspan="1" colspan="1">Rousse et al. (<xref rid="eph70463-bib-0062" ref-type="bibr">2025</xref>)</td><td align="left" rowspan="1" colspan="1">Systematic review (combined therapies)</td><td align="left" rowspan="1" colspan="1">N/R</td><td align="left" rowspan="1" colspan="1">Cold, heat, hypoxia combinations</td><td align="left" rowspan="1" colspan="1">Muscle recovery biomarkers</td><td align="left" rowspan="1" colspan="1">CWI in combination with other stressors modulates inflammatory and remodelling cascades</td></tr><tr><td align="left" rowspan="1" colspan="1">Faivre‐Rampant et al. (<xref rid="eph70463-bib-0023" ref-type="bibr">2024</xref>)</td><td align="left" rowspan="1" colspan="1">Observational (<italic toggle="yes">n</italic> = 20)</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">Outdoor cold‐water swimming</td><td align="left" rowspan="1" colspan="1">QT interval, cardiac function</td><td align="left" rowspan="1" colspan="1">Post‐exposure QT lengthening ∼20 ms; 5/20 participants &gt;500 ms; no overt cardiac events</td></tr></tbody></table><table-wrap-foot><fn id="eph70463-tbl1-note-0001"><p>Abbreviations: CK, creatine kinase; CMJ, countermovement jump; CWI, cold‐water immersion; CWT, contrast water therapy; DOMS, delayed onset muscle soreness; ES, effect size; HRV, heart rate variability; N/R, not reported; RCT, randomised controlled trial; RMSSD, root mean square of successive differences; SUCRA, surface under the cumulative ranking curve; WBC, whole‐body cryotherapy.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec></sec><sec id="eph70463-sec-0130"><label>5</label><title>THE ADAPTATION SIDE OF THE PARADOX: MOLECULAR AND PHENOTYPIC EVIDENCE</title><sec id="eph70463-sec-0140"><label>5.1</label><title>mTORC1 as the central molecular target</title><p>mTORC1 is the master regulator of muscle protein synthesis in the post‐exercise anabolic cascade (Bodine, <xref rid="eph70463-bib-0008" ref-type="bibr">2022</xref>). It integrates mechanical loading, transmitted through insulin receptor substrate 1 (IRS‐1)/phosphoinositide 3‐kinase (PI3K)/Akt (Glass, <xref rid="eph70463-bib-0028" ref-type="bibr">2010</xref>) and the Piezo1 mechanosensitive channel (Greyvenstein et al., <xref rid="eph70463-bib-0030" ref-type="bibr">2025</xref>); amino acid availability, sensed through Rag GTPases (Lama‐Sherpa et al., <xref rid="eph70463-bib-0042" ref-type="bibr">2023</xref>); and endocrine signals including insulin‐like growth factor 1 (IGF‐1) via PI3K–Akt (Figueiredo &amp; McCarthy, <xref rid="eph70463-bib-0024" ref-type="bibr">2019</xref>; White, <xref rid="eph70463-bib-0075" ref-type="bibr">2021</xref>). Activated mTORC1 phosphorylates p70S6K1 at Thr389 and 4E‐BP1 at Thr37/46, releasing the cap‐binding complex eukaryotic initiation factor 4F (eIF4F) and enabling cap‐dependent translation of contractile proteins including myosin heavy chain (Kimball &amp; Jefferson, <xref rid="eph70463-bib-0039" ref-type="bibr">2006</xref>). These targets set the rate at which the anabolic signal becomes new contractile protein and, ultimately, measurable fibre hypertrophy (Lim et al., <xref rid="eph70463-bib-0043" ref-type="bibr">2022</xref>; Churchward‐Venne et al., <xref rid="eph70463-bib-0018" ref-type="bibr">2012</xref>).</p><p>Cooling muscle by 2–5°C – the reduction achieved by 10–15 min of 10°C CWI – is sufficient to impair mTORC1 activation kinetics and downstream signalling (Roberts et al., <xref rid="eph70463-bib-0061" ref-type="bibr">2015</xref>). The pivotal human in vivo evidence is the Fyfe et al. (<xref rid="eph70463-bib-0026" ref-type="bibr">2019</xref>) 7‐week resistance‐training RCT, in which 16 men performed 15 min of 10°C CWI or passive recovery after each of three weekly whole‐body sessions. Vastus lateralis biopsies at 1 and 48 h after the final session showed significantly lower p70S6K1 Thr389 phosphorylation in the CWI group (effect sizes −0.69 and −1.33), indicating sustained mTORC1 suppression. Protein‐degradation markers (FOX‐O1 and the E3 ubiquitin ligases MuRF‐1 and atrogin‐1) were elevated, and temperature‐dependent heat shock proteins (HSP27, HSP72) attenuated, consistent with a net shift toward catabolism (Fyfe et al., <xref rid="eph70463-bib-0026" ref-type="bibr">2019</xref>).</p></sec><sec id="eph70463-sec-0150"><label>5.2</label><title>Ribosomal biogenesis and translational capacity</title><p>At a level deeper than mTORC1 phosphorylation lies ribosomal biogenesis – the synthesis of new translational machinery needed to sustain the elevated protein synthesis of a growing muscle. Hypertrophy depends on chronic expansion of translational capacity (total ribosomal RNA per unit muscle), which sets the ceiling of synthetic output across weeks of training (Figueiredo &amp; McCarthy, <xref rid="eph70463-bib-0024" ref-type="bibr">2019</xref>; Lim et al., <xref rid="eph70463-bib-0043" ref-type="bibr">2022</xref>). Rantala &amp; Chaillou (<xref rid="eph70463-bib-0059" ref-type="bibr">2019</xref>) provide the most direct data: human primary myotubes held at 32°C versus 37°C for 48 h showed reduced protein synthesis, significantly lower 45S pre‐ribosomal RNA (a marker of rDNA transcription rate) and reduced MYC content; glutamine‐induced hypertrophic responses were also blunted, implicating impaired nutrient‐sensing alongside mTORC1 suppression (Rantala &amp; Chaillou, <xref rid="eph70463-bib-0059" ref-type="bibr">2019</xref>; Churchward‐Venne et al., <xref rid="eph70463-bib-0018" ref-type="bibr">2012</xref>). These in vitro data await human in vivo replication and must be extrapolated with caution.</p></sec><sec id="eph70463-sec-0160"><label>5.3</label><title>Satellite cell signalling and myonuclear domain expansion</title><p>Satellite cells – muscle‐resident progenitors occupying the sub‐basal‐lamina space of myofibres – supply the new myonuclei that support growing fibres. Mechanically damaged fibres release hepatocyte growth factor (HGF), fibroblast growth factor and NO, driving quiescent Pax7<sup>+</sup> satellite cells into proliferation, differentiation and fusion into the host fibre (Chargé &amp; Rudnicki, <xref rid="eph70463-bib-0014" ref-type="bibr">2004</xref>). This expands the myonuclear domain and becomes rate‐limiting for hypertrophy beyond early training. The inflammatory cascade – IL‐6, HGF and IGF‐1 signalling, all modulated by CWI – is an essential upstream activator of satellite‐cell mobilisation (Chargé &amp; Rudnicki, <xref rid="eph70463-bib-0014" ref-type="bibr">2004</xref>; Serrano et al., <xref rid="eph70463-bib-0065" ref-type="bibr">2008</xref>).</p><p>Although direct satellite‐cell counts across a full post‐CWI training cycle are not yet published, indirect evidence from Fyfe et al. (<xref rid="eph70463-bib-0026" ref-type="bibr">2019</xref>) is consistent with attenuated myonuclear addition: type II fibre cross‐sectional area increased significantly less with CWI than passive recovery after 7 weeks of matched training (effect size −1.37), despite comparable workload. Preserved stimulus with reduced hypertrophy is the canonical signature of constrained myonuclear‐domain expansion (Lim et al., <xref rid="eph70463-bib-0043" ref-type="bibr">2022</xref>; Chargé &amp; Rudnicki, <xref rid="eph70463-bib-0014" ref-type="bibr">2004</xref>). Satellite‐cell activation is itself temperature‐sensitive, depending on enzyme kinetics and on the very prostaglandin and cytokine signals attenuated by CWI‐mediated cooling (Roberts et al., <xref rid="eph70463-bib-0061" ref-type="bibr">2015</xref>).</p></sec><sec id="eph70463-sec-0170"><label>5.4</label><title>Longitudinal strength and hypertrophy outcomes: The meta‐analytic picture</title><p>The translation from molecular signalling to longitudinal phenotype is the question that most directly concerns applied practitioners. Grgic's (<xref rid="eph70463-bib-0031" ref-type="bibr">2023</xref>) meta‐analysis of 10 trials and 11 comparisons in primarily male resistance‐trained populations remains the most comprehensive synthesis of longitudinal CWI effects on strength and hypertrophy outcomes. Post‐exercise CWI significantly attenuated muscular strength gains relative to passive recovery (effect size −0.23; 95% CI: −0.45 to −0.01; <italic toggle="yes">P</italic> = 0.041). The effect was concentrated in and substantially larger for trials using limb‐specific CWI (effect size −0.31; 95% CI: −0.61 to −0.01; <italic toggle="yes">P</italic> = 0.041), whereas whole‐body CWI produced a non‐significant trend. This was complemented by the Piñero et al. (<xref rid="eph70463-bib-0056" ref-type="bibr">2024</xref>) systematic review and meta‐analysis specifically focusing on hypertrophy: pooling eight studies, they found strong evidence for greater relative hypertrophic adaptations with resistance training (RT) alone compared to CWI + RT (effect size = −0.22; 95% CI: −0.47 to 0.04), concluding that post‐exercise CWI may attenuate hypertrophic changes (Piñero et al., <xref rid="eph70463-bib-0056" ref-type="bibr">2024</xref>). This specificity pattern – limb CWI more anti‐anabolic than whole‐body CWI – is consistent with a model in which the relevant parameter is the local muscle‐temperature reduction achieved in the trained muscles, rather than systemic cold exposure or generalised autonomic/inflammatory effects. The Fyfe et al. (<xref rid="eph70463-bib-0026" ref-type="bibr">2019</xref>) trial contributed the most mechanistically detailed data point: whole‐body CWI did not significantly reduce one‐repetition maximum leg‐press strength over 7 weeks, but substantially reduced type II fibre cross‐sectional area (CSA) – a dissociation consistent with the multi‐determined nature of maximal strength (which includes neural drive, motor unit synchronisation and rate of force development components independent of fibre CSA) versus hypertrophy (which is primarily determined by cumulative net protein balance).</p></sec><sec id="eph70463-sec-0180"><label>5.5</label><title>Acute neuromuscular performance impairment</title><p>CWI can acutely impair neuromuscular performance in the 1–2 h window after exposure, a concern for same‐day multi‐session or tournament contexts. The RCT by Heinke et al. (<xref rid="eph70463-bib-0033" ref-type="bibr">2024</xref>) compared CWI, percussive massage and passive rest after exhausting eccentric exercise and reported acute decrements in countermovement‐jump (CMJ) height with CWI relative to percussive massage (Heinke et al., <xref rid="eph70463-bib-0033" ref-type="bibr">2024</xref>). The plausible mechanism is reduced motor‐nerve conduction velocity (∼1.5–2.0 m s<sup>−</sup>
+<sup>1</sup> per °C of nerve cooling) and slowed cross‐bridge kinetics (Bleakley et al., <xref rid="eph70463-bib-0006" ref-type="bibr">2012</xref>; Lithfous et al., <xref rid="eph70463-bib-0045" ref-type="bibr">2022</xref>). CWI applied to lower‐limb musculature immediately before explosive tasks (sprinting, jumping, change of direction) may therefore impair rather than enhance performance in the first 60–90 min (Parouty et al., <xref rid="eph70463-bib-0052" ref-type="bibr">2010</xref>; Richards et al., <xref rid="eph70463-bib-0060" ref-type="bibr">2025</xref>).</p></sec><sec id="eph70463-sec-0190"><label>5.6</label><title>The NSAID parallel: A conceptual framework</title><p>The CWI picture maps onto the established literature on non‐steroidal anti‐inflammatory drugs (NSAIDs) and resistance‐training adaptation, a useful practitioner analogy. Both provide acute analgesic and anti‐inflammatory benefit by suppressing the prostaglandin and cytokine cascade, and both, applied across the post‐exercise anabolic window, attenuate satellite‐cell activation and protein synthesis – reducing hypertrophic adaptation more consistently than maximal strength while remaining context‐specific rather than uniformly harmful (Fyfe et al., <xref rid="eph70463-bib-0026" ref-type="bibr">2019</xref>; Gleeson et al., <xref rid="eph70463-bib-0029" ref-type="bibr">2011</xref>; Trappe et al., <xref rid="eph70463-bib-0068" ref-type="bibr">2011</xref>; Grgic, <xref rid="eph70463-bib-0031" ref-type="bibr">2023</xref>; Piñero et al., <xref rid="eph70463-bib-0056" ref-type="bibr">2024</xref>).</p></sec></sec><sec id="eph70463-sec-0200"><label>6</label><title>ENDURANCE ADAPTATIONS: WHERE THE PARADOX IS MORE SUBTLE</title><p>The endurance literature suggests a qualitatively different and more favourable picture for CWI. This difference is consistent with the mechanistic divergence between the two adaptive programmes. Anabolic protein‐synthetic pathways are driven by mechanical loading, are mTORC1‐dependent and are temperature‐sensitive; oxidative‐mitochondrial pathways are driven by metabolic perturbation and by calcium/AMP‐activated protein kinase (AMPK) signalling, and they appear to be partially cold‐activated rather than cold‐suppressed (Ihsan et al., <xref rid="eph70463-bib-0037" ref-type="bibr">2016</xref>; Puigserver &amp; Spiegelman, <xref rid="eph70463-bib-0057" ref-type="bibr">2003</xref>).</p><p>The direct evidence is anchored by the Ihsan et al. (<xref rid="eph70463-bib-0038" ref-type="bibr">2020</xref>) within‐subject trial, in which nine men performed 3‐weekly endurance sessions for 4 weeks with one leg receiving 15 min of 10°C CWI after each session and the contralateral leg passive recovery. The CWI‐treated leg exhibited significantly higher microvascular reperfusion (near‐infrared spectroscopy and contrast‐enhanced ultrasound), consistent with enhanced vascular remodelling exceeding the untreated leg (Ihsan et al., <xref rid="eph70463-bib-0038" ref-type="bibr">2020</xref>). This contradicts a simplistic ‘CWI suppresses adaptation’ narrative. The most plausible account is hormetic: repeated vasoconstriction during CWI followed by reactive hyperaemia forms a vascular training stimulus that may amplify angiogenesis, possibly through vascular endothelial growth factor and NO release during the post‐immersion hyperaemic phase (Ihsan et al., <xref rid="eph70463-bib-0038" ref-type="bibr">2020</xref>; Rowell, <xref rid="eph70463-bib-0063" ref-type="bibr">1974</xref>).</p><p>At the molecular level, cold exposure activates PGC‐1α – the master regulator of mitochondrial biogenesis – through β3‐adrenergic signalling, AMPK and sirtuin 1 (SIRT1) in animal models (Cannon &amp; Nedergaard, <xref rid="eph70463-bib-0012" ref-type="bibr">2004</xref>; Puigserver &amp; Spiegelman, <xref rid="eph70463-bib-0057" ref-type="bibr">2003</xref>). If cold engages signals overlapping with endurance exercise through a parallel pathway, it may enhance mitochondrial adaptation after endurance bouts; this is directionally supported by Ihsan et al. (<xref rid="eph70463-bib-0038" ref-type="bibr">2020</xref>) but not yet confirmed by human biopsy studies (Ihsan et al., <xref rid="eph70463-bib-0038" ref-type="bibr">2020</xref>; Hornberger, <xref rid="eph70463-bib-0036" ref-type="bibr">2011</xref>).</p><p>An important boundary condition applies. This favourable picture concerns low‐to‐moderate‐intensity continuous endurance training, where mitochondrial biogenesis and capillary density dominate and are driven by AMPK, Ca<sup>2+</sup>/calmodulin‐dependent protein kinase II (CAMKII) and SIRT1 signalling that may be cold‐compatible or cold‐enhanced. In high‐intensity interval training (HIIT), muscle damage, inflammatory signalling and satellite‐cell mobilisation play a larger role in the secondary remodelling that contributes to aerobic gains (Konopka et al., <xref rid="eph70463-bib-0041" ref-type="bibr">2011</xref>; Lira et al., <xref rid="eph70463-bib-0044" ref-type="bibr">2017</xref>). CWI after HIIT may suppress this component as it does in resistance training, introducing a partial adaptation cost even in endurance contexts (Rousse et al., <xref rid="eph70463-bib-0062" ref-type="bibr">2025</xref>; Richards et al., <xref rid="eph70463-bib-0060" ref-type="bibr">2025</xref>). The endurance literature is therefore not monolithic, and the decision framework stratifies endurance–CWI decisions by training‐intensity domain.</p><p>A further consideration for endurance athletes concerns the thermoregulatory application of CWI – its use primarily to manage heat strain in warm‐environment training and competition, facilitate sleep onset on competition nights and manage perceived recovery during multi‐day events (Cain et al., <xref rid="eph70463-bib-0011" ref-type="bibr">2025</xref>; Ihsan et al., <xref rid="eph70463-bib-0037" ref-type="bibr">2016</xref>; Versey et al., <xref rid="eph70463-bib-0070" ref-type="bibr">2013</xref>). This thermoregulatory deployment falls outside the recovery–adaptation paradox in its strict form because the primary physiological target is heat dissipation rather than anabolic signalling. The longitudinal adaptation cost of CWI in a thermoregulatory context – where CWI is used selectively and in response to heat stress rather than systematically after every training session – is presumed to be small relative to the performance gains from mitigating heat fatigue, but this presumption has not been formally tested in dedicated longitudinal trials.</p></sec><sec id="eph70463-sec-0210"><label>7</label><title>CONCURRENT TRAINING, SEX DIFFERENCES AND TRAINING‐STATUS MODULATION</title><sec id="eph70463-sec-0220"><label>7.1</label><title>Concurrent training</title><p>Concurrent training – the simultaneous pursuit of strength/hypertrophy and endurance adaptations – is the modal structure for team‐sport athletes, military personnel and recreational trainees, and the most complex CWI application because its two adaptive targets (mTORC1‐driven hypertrophy and AMPK/PGC‐1α‐driven mitochondrial biogenesis) have opposing sensitivities to post‐exercise cooling (Fyfe et al., <xref rid="eph70463-bib-0026" ref-type="bibr">2019</xref>; Ihsan et al., <xref rid="eph70463-bib-0037" ref-type="bibr">2016</xref>; Puigserver &amp; Spiegelman, <xref rid="eph70463-bib-0057" ref-type="bibr">2003</xref>). Prescription therefore requires explicit goal prioritisation rather than a single blanket recommendation.</p><p>When hypertrophy and strength are primary adaptive goals in a concurrent training programme, CWI should be withheld after resistance‐training sessions and may be used selectively after endurance sessions. This goal‐specific deployment exploits the differential mechanistic sensitivity of anabolic versus oxidative pathways: the anabolic pathway (mTORC1/p70S6K1) is substantially more temperature‐sensitive than the mitochondrial biogenesis pathway (AMPK/PGC‐1α) (Fyfe et al., <xref rid="eph70463-bib-0026" ref-type="bibr">2019</xref>; Roberts et al., <xref rid="eph70463-bib-0061" ref-type="bibr">2015</xref>). Withholding CWI after resistance sessions preserves the full mTORC1 signalling window, while allowing CWI after endurance sessions may be neutral‐to‐beneficial for microvascular adaptation and acceptable for mitochondrial targets (Ihsan et al., <xref rid="eph70463-bib-0038" ref-type="bibr">2020</xref>; Rousse et al., <xref rid="eph70463-bib-0062" ref-type="bibr">2025</xref>). When endurance capacity is primary in a concurrent programme – as in team‐sport pre‐season blocks or military operational fitness training – CWI may be used after endurance sessions with less concern for adaptive cost, though the caveat about HIIT‐induced secondary remodelling applies (Elias et al., <xref rid="eph70463-bib-0022" ref-type="bibr">2013</xref>; Malta et al., <xref rid="eph70463-bib-0047" ref-type="bibr">2021</xref>; Richards et al., <xref rid="eph70463-bib-0060" ref-type="bibr">2025</xref>).</p></sec><sec id="eph70463-sec-0230"><label>7.2</label><title>Sex differences in CWI response</title><p>The CWI literature is dominated by young men, limiting generalisability to women, for whom several non‐speculative physiological differences exist (Haizlip et al., <xref rid="eph70463-bib-0032" ref-type="bibr">2015</xref>; O'Bryan et al., <xref rid="eph70463-bib-0051" ref-type="bibr">2022</xref>). Women show lower baseline muscle protein synthesis under equivalent loading, reflecting differences in anabolic hormones, lean mass and myosin heavy‐chain isoform distribution that may alter both the mTORC1 response and its CWI‐mediated attenuation (Churchward‐Venne et al., <xref rid="eph70463-bib-0018" ref-type="bibr">2012</xref>; Witard et al., <xref rid="eph70463-bib-0077" ref-type="bibr">2014</xref>). Thermoregulatory vasoconstriction is more extensive in women owing to lower lean mass and surface‐area‐to‐mass ratio, potentially amplifying CWI's peripheral vascular and cooling effects (Burse, <xref rid="eph70463-bib-0010" ref-type="bibr">1979</xref>; Castellani &amp; Young, <xref rid="eph70463-bib-0013" ref-type="bibr">2016</xref>; Hohenauer et al., <xref rid="eph70463-bib-0034" ref-type="bibr">2022</xref>; Straat et al., <xref rid="eph70463-bib-0067" ref-type="bibr">2022</xref>). Menstrual cycle phase also modulates inflammatory and immune responses, adding an uncharacterised interaction with the CWI inflammatory axis (Notbohm et al., <xref rid="eph70463-bib-0050" ref-type="bibr">2023</xref>). The framework should be applied to women as a reasonable default, aware that magnitudes of benefit and cost may differ systematically from male‐derived estimates.</p></sec><sec id="eph70463-sec-0240"><label>7.3</label><title>Training status and adaptation ceiling</title><p>Training status is a second modulator. In untrained individuals the mTORC1 response to a given resistance stimulus is substantially larger (two‐ to five‐fold in some biopsy studies), as are GLUT4 and mitochondrial responses to endurance training (Dreyer et al., <xref rid="eph70463-bib-0020" ref-type="bibr">2010</xref>; Holloszy, <xref rid="eph70463-bib-0035" ref-type="bibr">2011</xref>; Dungan, <xref rid="eph70463-bib-0021" ref-type="bibr">2017</xref>; Ato et al., <xref rid="eph70463-bib-0004" ref-type="bibr">2019</xref>). The anti‐anabolic cost of CWI – attenuating part of this signal – may therefore exert a proportionally smaller phenotypic effect in novices with abundant adaptive reserve than in well‐trained athletes near their adaptation ceiling (Figueiredo &amp; McCarthy, <xref rid="eph70463-bib-0024" ref-type="bibr">2019</xref>; Lim et al., <xref rid="eph70463-bib-0043" ref-type="bibr">2022</xref>). Piñero et al. (<xref rid="eph70463-bib-0056" ref-type="bibr">2024</xref>) found no significant moderation of the CWI hypertrophy effect by training status (β = −0.10; 95% CI: −0.65 to 0.43; <italic toggle="yes">P</italic> = 0.653), though power was limited. Conversely, in elite athletes maximising hypertrophy late in a mesocycle, the same mTORC1 attenuation may represent a meaningful fraction of residual adaptive capacity; Grgic (<xref rid="eph70463-bib-0031" ref-type="bibr">2023</xref>) reported larger, more consistent effects in longer interventions (&gt;8 weeks) and more trained populations, consistent with a ceiling‐effect model.</p></sec></sec><sec id="eph70463-sec-0250"><label>8</label><title>INTEGRATIVE SYNTHESIS: A PROTOCOL‐BY‐GOAL DECISION FRAMEWORK</title><p>The mechanistic and longitudinal evidence reviewed in sections <xref rid="eph70463-sec-0050" ref-type="sec">3.2</xref>, <xref rid="eph70463-sec-0110" ref-type="sec">4.2</xref>, <xref rid="eph70463-sec-0150" ref-type="sec">5.2</xref>, <xref rid="eph70463-sec-0220" ref-type="sec">7.1</xref>, <xref rid="eph70463-sec-0230" ref-type="sec">7.2</xref> supports a decision framework in which the appropriate use of CWI depends on three interacting variables: (i) the primary adaptive goal of the training cycle or session, (ii) the protocol parameters of CWI exposure (temperature, duration, body coverage, timing), and (iii) the temporal placement of CWI relative to the anabolic training stimulus. Table <xref rid="eph70463-tbl-0002" ref-type="table">2</xref> operationalises this framework across seven training contexts. Four principles, summarised in a single paragraph below, integrate the evidence.</p><table-wrap position="float" id="eph70463-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Protocol‐by‐goal decision framework for post‐exercise cold‐water immersion in trained adult populations.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Training context/goal</th><th align="left" rowspan="1" colspan="1">CWI recommendation</th><th align="left" rowspan="1" colspan="1">Suggested parameters</th><th align="left" rowspan="1" colspan="1">Mechanistic rationale</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Acute inter‐session recovery (multi‐session day, tournament)</td><td align="left" rowspan="1" colspan="1">Recommended</td><td align="left" rowspan="1" colspan="1">10–15°C; 10–15 min; whole/partial body; within 30 min post‐session</td><td align="left" rowspan="1" colspan="1">Maximises parasympathetic reactivation and analgesic effect; anabolic cost minimal over single day</td></tr><tr><td align="left" rowspan="1" colspan="1">Primary hypertrophy mesocycle</td><td align="left" rowspan="1" colspan="1">Avoid (systematic use)</td><td align="left" rowspan="1" colspan="1">Omit or delay &gt;8 h; limit to occasional use if essential</td><td align="left" rowspan="1" colspan="1">Repeated mTORC1 suppression + reduced ribosomal biogenesis + attenuated type II CSA gains</td></tr><tr><td align="left" rowspan="1" colspan="1">Strength‐focused block (off‐season)</td><td align="left" rowspan="1" colspan="1">Limit to non‐training days</td><td align="left" rowspan="1" colspan="1">Use only on rest days or &gt;8 h after RT session</td><td align="left" rowspan="1" colspan="1">Limb‐specific cooling immediately post‐RT is the primary mediator of anti‐anabolic effect</td></tr><tr><td align="left" rowspan="1" colspan="1">In‐season competition (strength‐hypertrophy)</td><td align="left" rowspan="1" colspan="1">Selective use on competition days</td><td align="left" rowspan="1" colspan="1">Apply CWI post‐competition only; avoid post‐RT in developmental sessions</td><td align="left" rowspan="1" colspan="1">Decouples analgesic benefit from anabolic cost by restricting CWI to non‐developmental windows</td></tr><tr><td align="left" rowspan="1" colspan="1">Endurance base/specific phase</td><td align="left" rowspan="1" colspan="1">Cautious use</td><td align="left" rowspan="1" colspan="1">10–15°C; 10–15 min; post key sessions; preserve 1–2 non‐CWI sessions/week</td><td align="left" rowspan="1" colspan="1">Microvascular and mitochondrial adaptations appear preserved or enhanced; longitudinal evidence limited</td></tr><tr><td align="left" rowspan="1" colspan="1">Concurrent training (hypertrophy primary)</td><td align="left" rowspan="1" colspan="1">Withhold post‐RT sessions</td><td align="left" rowspan="1" colspan="1">Omit CWI after resistance sessions; permissible after endurance bouts</td><td align="left" rowspan="1" colspan="1">Differential mechanistic sensitivity of anabolic vs. oxidative‐mitochondrial pathways</td></tr><tr><td align="left" rowspan="1" colspan="1">Concurrent training (endurance primary)</td><td align="left" rowspan="1" colspan="1">Permissible post‐endurance</td><td align="left" rowspan="1" colspan="1">Standard parameters after endurance; avoid immediately post‐RT</td><td align="left" rowspan="1" colspan="1">Endurance pathways (AMPK, PGC‐1α) less affected than mTORC1 anabolic pathway</td></tr></tbody></table><table-wrap-foot><fn id="eph70463-tbl2-note-0001"><p>Abbreviations: AMPK, AMP‐activated protein kinase; CWI, cold‐water immersion; ES, effect size; HIIT, high‐intensity interval training; MPS, muscle protein synthesis; mTORC1, mechanistic target of rapamycin complex 1; PGC‐1α, peroxisome proliferator‐activated receptor γ coactivator 1‐α; RT, resistance training.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>First, the paradox is not a contradiction but a predictable mechanistic divergence: the acute neural–vascular benefit (first 1–4 h) and the chronic anti‐anabolic cost (accumulating over weeks) act on different time scales and coexist (Cain et al., <xref rid="eph70463-bib-0011" ref-type="bibr">2025</xref>; Fyfe et al., <xref rid="eph70463-bib-0026" ref-type="bibr">2019</xref>; Galvez‐Rodriguez et al., <xref rid="eph70463-bib-0027" ref-type="bibr">2025</xref>; Piñero et al., <xref rid="eph70463-bib-0056" ref-type="bibr">2024</xref>; Roberts et al., <xref rid="eph70463-bib-0061" ref-type="bibr">2015</xref>). Second, the anti‐anabolic cost is dose‐dependent – greatest for limb‐specific CWI applied immediately after resistance training, smaller for whole‐body or delayed exposure, and smallest for brief, warmer or partial‐body protocols (Grgic, <xref rid="eph70463-bib-0031" ref-type="bibr">2023</xref>; Roberts et al., <xref rid="eph70463-bib-0061" ref-type="bibr">2015</xref>). Third, the cost is pathway‐specific: anabolic, mTORC1‐dependent targets are highly cold‐sensitive, whereas mitochondrial, microvascular and neural targets are largely spared or even enhanced (Cannon &amp; Nedergaard, <xref rid="eph70463-bib-0012" ref-type="bibr">2004</xref>; Ihsan et al., <xref rid="eph70463-bib-0038" ref-type="bibr">2020</xref>; Puigserver &amp; Spiegelman, <xref rid="eph70463-bib-0057" ref-type="bibr">2003</xref>; Rantala &amp; Chaillou, <xref rid="eph70463-bib-0059" ref-type="bibr">2019</xref>). Fourth, the conventional 10–15°C, 10–15 min protocol was optimised for perceived recovery rather than for the analgesia‐versus‐adaptation trade‐off, so warmer water (15–18°C), shorter duration (5–8 min) or shallower immersion are reasonable strategies to preserve hypertrophy while retaining some analgesic benefit (Grgic, <xref rid="eph70463-bib-0031" ref-type="bibr">2023</xref>; Machado et al., <xref rid="eph70463-bib-0046" ref-type="bibr">2016</xref>; Vieira et al., <xref rid="eph70463-bib-0071" ref-type="bibr">2016</xref>).</p><p>The framework translates these principles into context‐specific guidance, which Table <xref rid="eph70463-tbl-0002" ref-type="table">2</xref> summarises. For acute inter‐session recovery (multi‐session days, tournaments, congested fixtures), CWI is recommended at 10–15°C for 10–15 min within ∼30 min of the session, because the autonomic and analgesic benefits dominate and a single day's anabolic cost is trivial. During a primary hypertrophy mesocycle, systematic post‐resistance CWI should be avoided or delayed beyond ∼8 h, because repeated mTORC1 suppression accumulates into measurable losses of type II fibre cross‐sectional area. In strength‐focused blocks the cost is smaller, because maximal strength is multiply determined, so CWI can be restricted to rest days or to sessions well separated from resistance training. In endurance phases, CWI may be used after key sessions while preserving one to two CWI‐free sessions per week, given that microvascular and mitochondrial adaptations appear preserved or enhanced. In concurrent training, the decision follows the prioritised goal: withhold CWI after resistance sessions when hypertrophy is primary but allow it after endurance sessions.</p><p>The framework rests on a final observation: the acute markers practitioners use to judge CWI (RMSSD, perceived soreness, perceived freshness) do not track the chronic adaptive cost (fibre CSA, muscle protein synthesis rates, ribosomal biogenesis) (Fyfe et al., <xref rid="eph70463-bib-0026" ref-type="bibr">2019</xref>; Piñero et al., <xref rid="eph70463-bib-0056" ref-type="bibr">2024</xref>; Roberts et al., <xref rid="eph70463-bib-0061" ref-type="bibr">2015</xref>). A practitioner who judges CWI by next‐session readiness will miss the mesocycle‐level cost until it manifests as a hypertrophy plateau relative to a matched non‐CWI group. Monitoring body composition (dual‐energy X‐ray absorptiometry or ultrasound‐derived muscle thickness) across the mesocycle is the most practical way to integrate this evidence into applied monitoring (Lim et al., <xref rid="eph70463-bib-0043" ref-type="bibr">2022</xref>).</p></sec><sec id="eph70463-sec-0260"><label>9</label><title>RESEARCH GAPS AND FUTURE DIRECTIONS</title><p>Several priorities would most rapidly close the evidence gaps. First, sex‐stratified longitudinal RCTs: the available trials are dominated by young men, yet sex differences in baseline protein synthesis, menstrual‐cycle‐modulated inflammation, cold‐shock vasoconstriction and anabolic hormones may alter both the anti‐anabolic cost and the analgesic benefit in women, so dedicated RCTs in resistance‐trained females – with menstrual‐cycle phase controlled – are needed (Notbohm et al., <xref rid="eph70463-bib-0050" ref-type="bibr">2023</xref>). Second, older and sarcopenic populations: anabolic resistance defines ageing muscle, so repeated post‐exercise CWI could impose a proportionally larger, clinically consequential anti‐anabolic cost, yet no RCT has tested CWI and resistance‐training adaptation in adults over 60 (Anagnostou et al., <xref rid="eph70463-bib-0003" ref-type="bibr">2025</xref>; Witard et al., <xref rid="eph70463-bib-0077" ref-type="bibr">2014</xref>). Third, dose–response optimisation: the surface relating water temperature, duration, depth and timing to the analgesia‐versus‐adaptation ratio has not been mapped, and one‐parameter‐at‐a‐time trials with both molecular and longitudinal outcomes would enable individualised prescription (Machado et al., <xref rid="eph70463-bib-0046" ref-type="bibr">2016</xref>; Vieira et al., <xref rid="eph70463-bib-0071" ref-type="bibr">2016</xref>). Fourth, endurance‐specific performance endpoints: the endurance evidence rests on indirect microvascular biomarkers without long‐term <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-2" display="inline"><mml:mrow><mml:msub><mml:mover accent="true"><mml:mi>V</mml:mi><mml:mo>˙</mml:mo></mml:mover><mml:mrow><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>max</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math> or performance outcomes, requiring 10–16‐week trials to confirm whether microvascular enhancement translates into performance and to characterise HIIT‐related costs (Ihsan et al., <xref rid="eph70463-bib-0038" ref-type="bibr">2020</xref>; Ihsan et al., <xref rid="eph70463-bib-0037" ref-type="bibr">2016</xref>). Fifth, mechanistic individual‐response characterisation: population means conceal heterogeneity in cold‐shock responsiveness, sympathetic reactivity, BAT activity, mTORC1 responsiveness and satellite‐cell pool, and phenotype‐stratified studies would advance personalised prescription (Cannon &amp; Nedergaard, <xref rid="eph70463-bib-0012" ref-type="bibr">2004</xref>; Figueiredo &amp; McCarthy, <xref rid="eph70463-bib-0024" ref-type="bibr">2019</xref>; Lim et al., <xref rid="eph70463-bib-0043" ref-type="bibr">2022</xref>). Finally, concurrent‐training and real‐world contexts remain under‐studied in elite athletes under ecologically realistic loads; season‐long studies integrating objective training‐load, recovery and performance monitoring would improve applicability (Elias et al., <xref rid="eph70463-bib-0022" ref-type="bibr">2013</xref>; Moore et al., <xref rid="eph70463-bib-0049" ref-type="bibr">2022</xref>; Rousse et al., <xref rid="eph70463-bib-0062" ref-type="bibr">2025</xref>; Stanley et al., <xref rid="eph70463-bib-0066" ref-type="bibr">2012</xref>).</p></sec><sec id="eph70463-sec-0270"><label>10</label><title>CONCLUSIONS</title><p>CWI is neither uniformly helpful nor uniformly harmful. It is a powerful, dose‐dependent cold stressor whose effect on training adaptation depends on the goal, the protocol and the timing relative to training. The central paradox of this review is not a contradiction: through the same molecular pathways, CWI speeds the autonomic and vascular recovery that matters most in the first 24–72 h after exercise, while blunting the mTORC1‐driven muscle‐building processes that accumulate over weeks of resistance training.</p><p>Both sides of the paradox are now supported. On the acute side, the evidence is unusually consistent: CWI reliably speeds parasympathetic reactivation, reduces perceived soreness and swelling at 24–72 h, and shifts the inflammatory time course in a direction favourable for next‐session readiness. On the adaptation side, the molecular evidence is specific and the longitudinal evidence, although still limited in scale, is internally consistent: repeated post‐resistance CWI lowers p70S6K1 phosphorylation and ribosomal‐biogenesis markers, reduces type II fibre hypertrophy, and produces a small but significant attenuation of strength gains (effect size ≈ −0.23). This cost is greatest with limb‐specific CWI applied immediately after resistance training – the configuration that cools the trained muscle most deeply during peak mTORC1 activation.</p><p>The protocol‐by‐goal framework presented in Table <xref rid="eph70463-tbl-0002" ref-type="table">2</xref> operationalises these conclusions into actionable decisions across seven clinically relevant training contexts. It rests on the principle that the appropriate use of CWI should be determined by adaptive goal, not by habit, social norm, or the acute perceptual attractiveness of the modality. Where acute inter‐session recovery is the dominant requirement, CWI should be used at its conventional, well‐validated dose; where hypertrophic adaptation is the dominant requirement, it should be withheld, delayed, or attenuated in dose; and where both goals are pursued concurrently, the framework directs CWI toward the endurance or competition‐day component of training and away from the resistance‐training component.</p><p>The priorities that will most rapidly close the remaining gaps are longitudinal RCTs in female and older‐adult populations: systematic dose–response trials varying CWI parameters against molecular and phenotypic outcomes; endurance‐performance trials long enough to detect <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-3" display="inline"><mml:mrow><mml:msub><mml:mover accent="true"><mml:mi>V</mml:mi><mml:mo>˙</mml:mo></mml:mover><mml:mrow><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>max</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math> change; and mechanistic stratification studies linking individual biological phenotypes to differential CWI response. Until those gaps are filled, CWI should be treated as what the evidence demonstrates – an active intervention with a definable cost–benefit profile, to be prescribed by goal and protocol rather than adopted as a reflexive post‐exercise default.</p></sec><sec id="eph70463-sec-0280"><title>AUTHOR CONTRIBUTIONS</title><p>Jose Francisco Tornero‐Aguilera: conceptualisation, data curation, formal analysis, investigation, methodology, project administration, validation, writing – original draft, writing – review &amp; editing. Jose Lozano‐Meca: data curation, formal analysis, investigation, software, validation, writing – review &amp; editing. Miguel López‐Moreno: data curation, investigation, software, writing – original draft. Edgar Simón Sancho‐Haro: data curation, investigation, visualisation, writing – original draft. Mario Muñoz‐López: formal analysis, investigation, software, validation, writing – review &amp; editing. Eneko Baz‐Valle: formal analysis, investigation, software, validation, visualisation, writing – review &amp; editing. José Francisco López‐Gil: investigation, methodology, validation, visualisation, writing – review &amp; editing. Rodrigo Yáñez‐Sepúlveda: formal analysis, investigation, methodology, validation, visualisation, writing – review &amp; editing. Vicente Javier Clemente‐Suárez: conceptualisation, funding acquisition, methodology, resources, supervision, validation, writing – review &amp; editing. All authors have read and approved the final version of the manuscript. All authors have read and approved the final version of this manuscript and agree to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. All persons designated as authors qualify for authorship, and all those who qualify for authorship are listed.</p></sec><sec sec-type="COI-statement" id="eph70463-sec-0300"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="eph70463-sec-0330"><title>FUNDING INFORMATION</title><p>None.</p></sec><sec id="eph70463-sec-0340"><title>GENERATIVE AI STATEMENT</title><p>The authors used generative AI tools only for limited copy‐editing support (grammar, syntax and style refinement). No content, interpretation, mechanistic synthesis or reference generation was produced by AI tools. The authors take full responsibility for the scientific content of the manuscript.</p></sec></body><back><ack id="eph70463-sec-0290"><title>ACKNOWLEDGEMENTS</title><p>The authors thank the Fit Generation Research Institute (Andorra la Vella) for institutional support during manuscript preparation.</p><p>Open Access funding provided by the Universitat de les Illes Balears.</p></ack><sec sec-type="data-availability" id="eph70463-sec-0320"><title>DATA AVAILABILITY STATEMENT</title><p>Data sharing is not applicable to this article, as no datasets were generated or analysed during this narrative review. All cited sources are publicly indexed in PubMed and accessible via their digital object identifiers.</p></sec><ref-list id="eph70463-bibl-0001"><title>REFERENCES</title><ref id="eph70463-bib-0001"><mixed-citation publication-type="journal" id="eph70463-cite-0002">
+<string-name name-style="western">
+<surname>Allan</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akin</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sinclair</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hurst</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alexander</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malone</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naylor</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mawhinney</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gregson</surname>, <given-names>W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Ihsan</surname>, <given-names>M.</given-names>
+</string-name> (<year>2022</year>). <article-title>Athlete, coach and practitioner knowledge and perceptions of post‐exercise cold‐water immersion for recovery: A qualitative and quantitative exploration</article-title>. <source>Sport Sciences for Health</source>, <volume>18</volume>(<issue>3</issue>), <fpage>699</fpage>–<lpage>713</lpage>.</mixed-citation></ref><ref id="eph70463-bib-0002"><mixed-citation publication-type="journal" id="eph70463-cite-0003">
+<string-name name-style="western">
+<surname>Almahayni</surname>, <given-names>O.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Hammond</surname>, <given-names>L.</given-names>
+</string-name> (<year>2024</year>). <article-title>Does the Wim Hof method have a beneficial impact on physiological and psychological outcomes in healthy and non‐healthy participants? A systematic review</article-title>. <source>PLOS ONE</source>, <volume>19</volume>(<issue>3</issue>), <elocation-id>e0286933</elocation-id>.<pub-id pub-id-type="pmid">38478473</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0286933</pub-id><pub-id pub-id-type="pmcid">PMC10936795</pub-id></mixed-citation></ref><ref id="eph70463-bib-0003"><mixed-citation publication-type="journal" id="eph70463-cite-0004">
+<string-name name-style="western">
+<surname>Anagnostou</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Theodorakis</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hitas</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kreouzi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pantos</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vamvakou</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Nikolaou</surname>, <given-names>M.</given-names>
+</string-name> (<year>2025</year>). <article-title>Sarcopenia and cardiogeriatrics: The links between skeletal muscle decline and cardiovascular aging</article-title>. <source>Nutrients</source>, <volume>17</volume>(<issue>2</issue>), <fpage>282</fpage>.<pub-id pub-id-type="pmid">39861412</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/nu17020282</pub-id><pub-id pub-id-type="pmcid">PMC11767851</pub-id></mixed-citation></ref><ref id="eph70463-bib-0004"><mixed-citation publication-type="journal" id="eph70463-cite-0005">
+<string-name name-style="western">
+<surname>Ato</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsushima</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Isono</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suginohara</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maruyama</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakazato</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Ogasawara</surname>, <given-names>R.</given-names>
+</string-name> (<year>2019</year>). <article-title>The effect of changing the contraction mode during resistance training on mTORC1 signaling and muscle protein synthesis</article-title>. <source>Frontiers in Physiology</source>, <volume>10</volume>, <fpage>406</fpage>.<pub-id pub-id-type="pmid">31057416</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphys.2019.00406</pub-id><pub-id pub-id-type="pmcid">PMC6482468</pub-id></mixed-citation></ref><ref id="eph70463-bib-0005"><mixed-citation publication-type="journal" id="eph70463-cite-0006">
+<string-name name-style="western">
+<surname>Batista</surname>, <given-names>N. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Carvalho</surname>, <given-names>F. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Machado</surname>, <given-names>A. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Micheletti</surname>, <given-names>J. K.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Pastre</surname>, <given-names>C. M.</given-names>
+</string-name> (<year>2023</year>). <article-title>What parameters influence the effect of cold‐water immersion on muscle soreness? An updated systematic review and meta‐analysis</article-title>. <source>Clinical Journal of Sport Medicine</source>, <volume>33</volume>(<issue>1</issue>), <fpage>13</fpage>–<lpage>25</lpage>.<pub-id pub-id-type="pmid">36399666</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/JSM.0000000000001081</pub-id></mixed-citation></ref><ref id="eph70463-bib-0006"><mixed-citation publication-type="journal" id="eph70463-cite-0007">
+<string-name name-style="western">
+<surname>Bleakley</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDonough</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gardner</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baxter</surname>, <given-names>G. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hopkins</surname>, <given-names>J. T.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Davison</surname>, <given-names>G. W.</given-names>
+</string-name> (<year>2012</year>). <article-title>Cold‐water immersion (cryotherapy) for preventing and treating muscle soreness after exercise</article-title>. <source>Cochrane Database of Systematic Reviews</source>, <volume>2012</volume>(<issue>2</issue>), <elocation-id>CD008262</elocation-id>.<pub-id pub-id-type="pmid">22336838</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/14651858.CD008262.pub2</pub-id><pub-id pub-id-type="pmcid">PMC6492480</pub-id></mixed-citation></ref><ref id="eph70463-bib-0007"><mixed-citation publication-type="journal" id="eph70463-cite-0008">
+<string-name name-style="western">
+<surname>Bleakley</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDonough</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>MacAuley</surname>, <given-names>D.</given-names>
+</string-name> (<year>2004</year>). <article-title>The use of ice in the treatment of acute soft‐tissue injury: A systematic review of randomized controlled trials</article-title>. <source>American Journal of Sports Medicine</source>, <volume>32</volume>(<issue>1</issue>), <fpage>251</fpage>–<lpage>261</lpage>.<pub-id pub-id-type="pmid">14754753</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0363546503260757</pub-id></mixed-citation></ref><ref id="eph70463-bib-0008"><mixed-citation publication-type="journal" id="eph70463-cite-0009">
+<string-name name-style="western">
+<surname>Bodine</surname>, <given-names>S. C.</given-names>
+</string-name> (<year>2022</year>). <article-title>The role of mTORC1 in the regulation of skeletal muscle mass</article-title>. <source>Faculty Reviews</source>, <volume>11</volume>, <fpage>32</fpage>.<pub-id pub-id-type="pmid">36532707</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.12703/r/11-32</pub-id><pub-id pub-id-type="pmcid">PMC9720898</pub-id></mixed-citation></ref><ref id="eph70463-bib-0009"><mixed-citation publication-type="journal" id="eph70463-cite-0010">
+<string-name name-style="western">
+<surname>Buchheit</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peiffer</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abbiss</surname>, <given-names>C. R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Laursen</surname>, <given-names>P. B.</given-names>
+</string-name> (<year>2009</year>). <article-title>Effect of cold water immersion on postexercise parasympathetic reactivation</article-title>. <source>American Journal of Physiology‐Heart and Circulatory Physiology</source>, <volume>296</volume>(<issue>2</issue>), <fpage>H421</fpage>–<lpage>H427</lpage>.<pub-id pub-id-type="pmid">19074671</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/ajpheart.01017.2008</pub-id></mixed-citation></ref><ref id="eph70463-bib-0010"><mixed-citation publication-type="journal" id="eph70463-cite-0011">
+<string-name name-style="western">
+<surname>Burse</surname>, <given-names>R. L.</given-names>
+</string-name> (<year>1979</year>). <article-title>Sex differences in human thermoregulatory response to heat and cold stress</article-title>. <source>Human Factors</source>, <volume>21</volume>(<issue>6</issue>), <fpage>687</fpage>–<lpage>699</lpage>.<pub-id pub-id-type="pmid">393617</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/001872087912210606</pub-id></mixed-citation></ref><ref id="eph70463-bib-0011"><mixed-citation publication-type="journal" id="eph70463-cite-0012">
+<string-name name-style="western">
+<surname>Cain</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brinsley</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bennett</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nelson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maher</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Singh</surname>, <given-names>B.</given-names>
+</string-name> (<year>2025</year>). <article-title>Effects of cold‐water immersion on health and wellbeing: A systematic review and meta‐analysis</article-title>. <source>PLOS ONE</source>, <volume>20</volume>(<issue>1</issue>), <elocation-id>e0317615</elocation-id>.<pub-id pub-id-type="pmid">39879231</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0317615</pub-id><pub-id pub-id-type="pmcid">PMC11778651</pub-id></mixed-citation></ref><ref id="eph70463-bib-0012"><mixed-citation publication-type="journal" id="eph70463-cite-0013">
+<string-name name-style="western">
+<surname>Cannon</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Nedergaard</surname>, <given-names>J.</given-names>
+</string-name> (<year>2004</year>). <article-title>Brown adipose tissue: Function and physiological significance</article-title>. <source>Physiological Reviews</source>, <volume>84</volume>(<issue>1</issue>), <fpage>277</fpage>–<lpage>359</lpage>.<pub-id pub-id-type="pmid">14715917</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/physrev.00015.2003</pub-id></mixed-citation></ref><ref id="eph70463-bib-0013"><mixed-citation publication-type="journal" id="eph70463-cite-0014">
+<string-name name-style="western">
+<surname>Castellani</surname>, <given-names>J. W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Young</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Human physiological responses to cold exposure: Acute responses and acclimatization to prolonged exposure</article-title>. <source>Autonomic Neuroscience</source>, <volume>196</volume>, <fpage>63</fpage>–<lpage>74</lpage>.<pub-id pub-id-type="pmid">26924539</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.autneu.2016.02.009</pub-id></mixed-citation></ref><ref id="eph70463-bib-0014"><mixed-citation publication-type="journal" id="eph70463-cite-0015">
+<string-name name-style="western">
+<surname>Chargé</surname>, <given-names>S. B. P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Rudnicki</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2004</year>). <article-title>Cellular and molecular regulation of muscle regeneration</article-title>. <source>Physiological Reviews</source>, <volume>84</volume>(<issue>1</issue>), <fpage>209</fpage>–<lpage>238</lpage>.<pub-id pub-id-type="pmid">14715915</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/physrev.00019.2003</pub-id></mixed-citation></ref><ref id="eph70463-bib-0015"><mixed-citation publication-type="journal" id="eph70463-cite-0016">
+<string-name name-style="western">
+<surname>Chen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>, <given-names>X.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Cui</surname>, <given-names>C.</given-names>
+</string-name> (<year>2024</year>). <article-title>The effects of hydrotherapy and cryotherapy on recovery from acute post‐exercise induced muscle damage—a network meta‐analysis</article-title>. <source>BMC Musculoskeletal Disorders</source>, <volume>25</volume>(<issue>1</issue>), <fpage>749</fpage>.<pub-id pub-id-type="pmid">39294614</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12891-024-07315-2</pub-id><pub-id pub-id-type="pmcid">PMC11409518</pub-id></mixed-citation></ref><ref id="eph70463-bib-0016"><mixed-citation publication-type="journal" id="eph70463-cite-0017">
+<string-name name-style="western">
+<surname>Cheung</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hume</surname>, <given-names>P. A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Maxwell</surname>, <given-names>L.</given-names>
+</string-name> (<year>2003</year>). <article-title>Delayed onset muscle soreness: Treatment strategies and performance factors</article-title>. <source>Sports Medicine</source>, <volume>33</volume>(<issue>2</issue>), <fpage>145</fpage>–<lpage>164</lpage>.<pub-id pub-id-type="pmid">12617692</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2165/00007256-200333020-00005</pub-id></mixed-citation></ref><ref id="eph70463-bib-0017"><mixed-citation publication-type="journal" id="eph70463-cite-0018">
+<string-name name-style="western">
+<surname>Choo</surname>, <given-names>H. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yeo</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poon</surname>, <given-names>W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Ihsan</surname>, <given-names>M.</given-names>
+</string-name> (<year>2022</year>). <article-title>The effect of cold water immersion on the recovery of physical performance revisited: A systematic review with meta‐analysis</article-title>. <source>Journal of Sports Sciences</source>, <volume>40</volume>(<issue>23</issue>), <fpage>2608</fpage>–<lpage>2638</lpage>.<pub-id pub-id-type="pmid">36862831</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/02640414.2023.2178872</pub-id></mixed-citation></ref><ref id="eph70463-bib-0018"><mixed-citation publication-type="journal" id="eph70463-cite-0019">
+<string-name name-style="western">
+<surname>Churchward‐Venne</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burd</surname>, <given-names>N. A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Phillips</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>2012</year>). <article-title>Nutritional regulation of muscle protein synthesis with resistance exercise: Strategies to enhance anabolism</article-title>. <source>Nutrition &amp; Metabolism</source>, <volume>9</volume>(<issue>1</issue>), <fpage>40</fpage>.<pub-id pub-id-type="pmid">22594765</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1743-7075-9-40</pub-id><pub-id pub-id-type="pmcid">PMC3464665</pub-id></mixed-citation></ref><ref id="eph70463-bib-0019"><mixed-citation publication-type="journal" id="eph70463-cite-0020">
+<string-name name-style="western">
+<surname>Costello</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baker</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Minett</surname>, <given-names>G. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bieuzen</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stewart</surname>, <given-names>I. B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Bleakley</surname>, <given-names>C.</given-names>
+</string-name> (<year>2016</year>). <article-title>Cochrane review: Whole‐body cryotherapy (extreme cold air exposure) for preventing and treating muscle soreness after exercise in adults</article-title>. <source>Journal of Evidence‐Based Medicine</source>, <volume>9</volume>(<issue>1</issue>), <fpage>43</fpage>–<lpage>44</lpage>.<pub-id pub-id-type="pmid">26779801</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jebm.12187</pub-id></mixed-citation></ref><ref id="eph70463-bib-0020"><mixed-citation publication-type="journal" id="eph70463-cite-0021">
+<string-name name-style="western">
+<surname>Dreyer</surname>, <given-names>H. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fujita</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glynn</surname>, <given-names>E. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drummond</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Volpi</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Rasmussen</surname>, <given-names>B. B.</given-names>
+</string-name> (<year>2010</year>). <article-title>Resistance exercise increases leg muscle protein synthesis and mTOR signalling independent of sex</article-title>. <source>Acta Physiologica</source>, <volume>199</volume>(<issue>1</issue>), <fpage>71</fpage>–<lpage>81</lpage>.<pub-id pub-id-type="pmid">20070283</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1748-1716.2010.02074.x</pub-id><pub-id pub-id-type="pmcid">PMC2881180</pub-id></mixed-citation></ref><ref id="eph70463-bib-0021"><mixed-citation publication-type="journal" id="eph70463-cite-0022">
+<string-name name-style="western">
+<surname>Dungan</surname>, <given-names>C. M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Less is more: The role of mTORC1 activation in the progression of ageing‐mediated anabolic resistance</article-title>. <source>The Journal of Physiology</source>, <volume>595</volume>(<issue>9</issue>), <fpage>2781</fpage>–<lpage>2782</lpage>.<pub-id pub-id-type="pmid">28233314</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1113/JP274154</pub-id><pub-id pub-id-type="pmcid">PMC5407973</pub-id></mixed-citation></ref><ref id="eph70463-bib-0022"><mixed-citation publication-type="journal" id="eph70463-cite-0023">
+<string-name name-style="western">
+<surname>Elias</surname>, <given-names>G. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wyckelsma</surname>, <given-names>V. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Varley</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McKenna</surname>, <given-names>M. J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Aughey</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2013</year>). <article-title>Effectiveness of water immersion on postmatch recovery in elite professional footballers</article-title>. <source>International Journal of Sports Physiology and Performance</source>, <volume>8</volume>(<issue>3</issue>), <fpage>243</fpage>–<lpage>253</lpage>.<pub-id pub-id-type="pmid">22954483</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1123/ijspp.8.3.243</pub-id></mixed-citation></ref><ref id="eph70463-bib-0023"><mixed-citation publication-type="journal" id="eph70463-cite-0024">
+<string-name name-style="western">
+<surname>Faivre‐Rampant</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hingrand</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mezanger</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saloux</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ollitrault</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alvado</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Normand</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mekjavic</surname>, <given-names>I. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Collet</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mauvieux</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drigny</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Hodzic</surname>, <given-names>A.</given-names>
+</string-name> (<year>2024</year>). <article-title>Cardiac electrical and functional activity following an outdoor cold‐water swimming event</article-title>. <source>Journal of Thermal Biology</source>, <volume>125</volume>, <elocation-id>103996</elocation-id>.<pub-id pub-id-type="pmid">39461093</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jtherbio.2024.103996</pub-id></mixed-citation></ref><ref id="eph70463-bib-0024"><mixed-citation publication-type="journal" id="eph70463-cite-0025">
+<string-name name-style="western">
+<surname>Figueiredo</surname>, <given-names>V. C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>McCarthy</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2019</year>). <article-title>Regulation of ribosome biogenesis in skeletal muscle hypertrophy</article-title>. <source>Physiology</source>, <volume>34</volume>(<issue>1</issue>), <fpage>30</fpage>–<lpage>42</lpage>.<pub-id pub-id-type="pmid">30540235</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/physiol.00034.2018</pub-id><pub-id pub-id-type="pmcid">PMC6383632</pub-id></mixed-citation></ref><ref id="eph70463-bib-0025"><mixed-citation publication-type="journal" id="eph70463-cite-0026">
+<string-name name-style="western">
+<surname>Flouris</surname>, <given-names>A. D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Schlader</surname>, <given-names>Z. J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Human behavioral thermoregulation during exercise in the heat</article-title>. <source>Scandinavian Journal of Medicine &amp; Science in Sports</source>, <volume>25</volume>(<issue>1</issue>), <fpage>52</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">25943656</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/sms.12349</pub-id></mixed-citation></ref><ref id="eph70463-bib-0026"><mixed-citation publication-type="journal" id="eph70463-cite-0027">
+<string-name name-style="western">
+<surname>Fyfe</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Broatch</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trewin</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanson</surname>, <given-names>E. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Argus</surname>, <given-names>C. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garnham</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Halson</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Polman</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bishop</surname>, <given-names>D. J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Petersen</surname>, <given-names>A. C.</given-names>
+</string-name> (<year>2019</year>). <article-title>Cold water immersion attenuates anabolic signaling and skeletal muscle fiber hypertrophy, but not strength gain, following whole‐body resistance training</article-title>. <source>Journal of Applied Physiology</source>, <volume>127</volume>(<issue>5</issue>), <fpage>1403</fpage>–<lpage>1418</lpage>.<pub-id pub-id-type="pmid">31513450</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/japplphysiol.00127.2019</pub-id></mixed-citation></ref><ref id="eph70463-bib-0027"><mixed-citation publication-type="journal" id="eph70463-cite-0028">
+<string-name name-style="western">
+<surname>Galvez‐Rodriguez</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Valenzuela‐Reyes</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fuentealba‐Sepúlveda</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farias‐Valenzuela</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Salinas</surname>, <given-names>A. E.</given-names>
+</string-name> (<year>2025</year>). <article-title>Cold water immersion, heart rate variability and post‐exercise recovery: A systematic review</article-title>. <source>Physiotherapy Research International</source>, <volume>30</volume>(<issue>2</issue>), <elocation-id>e70033</elocation-id>.<pub-id pub-id-type="pmid">39918163</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pri.70033</pub-id></mixed-citation></ref><ref id="eph70463-bib-0028"><mixed-citation publication-type="journal" id="eph70463-cite-0029">
+<string-name name-style="western">
+<surname>Glass</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>PI3 kinase regulation of skeletal muscle hypertrophy and atrophy</article-title>. <source>Current Topics in Microbiology and Immunology</source>, <volume>346</volume>, <fpage>267</fpage>–<lpage>278</lpage>.<pub-id pub-id-type="pmid">20593312</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/82_2010_78</pub-id></mixed-citation></ref><ref id="eph70463-bib-0029"><mixed-citation publication-type="journal" id="eph70463-cite-0030">
+<string-name name-style="western">
+<surname>Gleeson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bishop</surname>, <given-names>N. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stensel</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindley</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mastana</surname>, <given-names>S. S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Nimmo</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2011</year>). <article-title>The anti‐inflammatory effects of exercise: Mechanisms and implications for the prevention and treatment of disease</article-title>. <source>Nature Reviews Immunology</source>, <volume>11</volume>(<issue>9</issue>), <fpage>607</fpage>–<lpage>615</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nri3041</pub-id><pub-id pub-id-type="pmid">21818123</pub-id></mixed-citation></ref><ref id="eph70463-bib-0030"><mixed-citation publication-type="journal" id="eph70463-cite-0031">
+<string-name name-style="western">
+<surname>Greyvenstein</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Newbold</surname>, <given-names>J. P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Phillips</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>2025</year>). <article-title>Tension to translation: External to internal processes in muscle hypertrophy</article-title>. <source>Physiology</source>, <volume>41</volume>(<issue>4</issue>), <fpage>325</fpage>–<lpage>343</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/physiol.00034.2025</pub-id><pub-id pub-id-type="pmid">41324917</pub-id></mixed-citation></ref><ref id="eph70463-bib-0031"><mixed-citation publication-type="journal" id="eph70463-cite-0032">
+<string-name name-style="western">
+<surname>Grgic</surname>, <given-names>J.</given-names>
+</string-name> (<year>2023</year>). <article-title>Effects of post‐exercise cold‐water immersion on resistance training‐induced gains in muscular strength: A meta‐analysis</article-title>. <source>European Journal of Sport Science</source>, <volume>23</volume>(<issue>3</issue>), <fpage>372</fpage>–<lpage>380</lpage>.<pub-id pub-id-type="pmid">35068365</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/17461391.2022.2033851</pub-id></mixed-citation></ref><ref id="eph70463-bib-0032"><mixed-citation publication-type="journal" id="eph70463-cite-0033">
+<string-name name-style="western">
+<surname>Haizlip</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harrison</surname>, <given-names>B. C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Leinwand</surname>, <given-names>L. A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Sex‐based differences in skeletal muscle kinetics and fiber‐type composition</article-title>. <source>Physiology</source>, <volume>30</volume>(<issue>1</issue>), <fpage>30</fpage>–<lpage>39</lpage>.<pub-id pub-id-type="pmid">25559153</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/physiol.00024.2014</pub-id><pub-id pub-id-type="pmcid">PMC4285578</pub-id></mixed-citation></ref><ref id="eph70463-bib-0033"><mixed-citation publication-type="journal" id="eph70463-cite-0034">
+<string-name name-style="western">
+<surname>Heinke</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Javanmardi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rappelt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Konrad</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schleip</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knicker</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Freiwald</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Baumgart</surname>, <given-names>C.</given-names>
+</string-name> (<year>2024</year>). <article-title>Comparison of the effects of cold water immersion and percussive massage on the recovery after exhausting eccentric exercise: A three‐armed randomized controlled trial</article-title>. <source>Frontiers in Physiology</source>, <volume>15</volume>, <elocation-id>1432009</elocation-id>.<pub-id pub-id-type="pmid">39376896</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphys.2024.1432009</pub-id><pub-id pub-id-type="pmcid">PMC11456464</pub-id></mixed-citation></ref><ref id="eph70463-bib-0034"><mixed-citation publication-type="journal" id="eph70463-cite-0035">
+<string-name name-style="western">
+<surname>Hohenauer</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taube</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Freitag</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Clijsen</surname>, <given-names>R.</given-names>
+</string-name> (<year>2022</year>). <article-title>Sex differences during a cold‐stress test in normobaric and hypobaric hypoxia: A randomized controlled crossover study</article-title>. <source>Frontiers in Physiology</source>, <volume>13</volume>, <elocation-id>998665</elocation-id>.<pub-id pub-id-type="pmid">36225301</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphys.2022.998665</pub-id><pub-id pub-id-type="pmcid">PMC9549379</pub-id></mixed-citation></ref><ref id="eph70463-bib-0035"><mixed-citation publication-type="journal" id="eph70463-cite-0036">
+<string-name name-style="western">
+<surname>Holloszy</surname>, <given-names>J. O.</given-names>
+</string-name> (<year>2011</year>). <article-title>Regulation of mitochondrial biogenesis and GLUT4 expression by exercise</article-title>. <source>Comprehensive Physiology</source>, <volume>1</volume>(<issue>2</issue>), <fpage>921</fpage>–<lpage>940</lpage>.<pub-id pub-id-type="pmid">23737207</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cphy.c100052</pub-id></mixed-citation></ref><ref id="eph70463-bib-0036"><mixed-citation publication-type="journal" id="eph70463-cite-0037">
+<string-name name-style="western">
+<surname>Hornberger</surname>, <given-names>T. A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Mechanotransduction and the regulation of mTORC1 signaling in skeletal muscle</article-title>. <source>International Journal of Biochemistry &amp; Cell Biology</source>, <volume>43</volume>(<issue>9</issue>), <fpage>1267</fpage>–<lpage>1276</lpage>.<pub-id pub-id-type="pmid">21621634</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biocel.2011.05.007</pub-id><pub-id pub-id-type="pmcid">PMC3146557</pub-id></mixed-citation></ref><ref id="eph70463-bib-0037"><mixed-citation publication-type="journal" id="eph70463-cite-0038">
+<string-name name-style="western">
+<surname>Ihsan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Watson</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Abbiss</surname>, <given-names>C. R.</given-names>
+</string-name> (<year>2016</year>). <article-title>What are the physiological mechanisms for post‐exercise cold water immersion in the recovery from prolonged endurance and intermittent exercise?</article-title>
+<source>Sports Medicine</source>, <volume>46</volume>(<issue>8</issue>), <fpage>1095</fpage>–<lpage>1109</lpage>.<pub-id pub-id-type="pmid">26888646</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40279-016-0483-3</pub-id></mixed-citation></ref><ref id="eph70463-bib-0038"><mixed-citation publication-type="journal" id="eph70463-cite-0039">
+<string-name name-style="western">
+<surname>Ihsan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Watson</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choo</surname>, <given-names>H. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Govus</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cocking</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stanley</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Abbiss</surname>, <given-names>C. R.</given-names>
+</string-name> (<year>2020</year>). <article-title>Skeletal muscle microvascular adaptations following regular cold water immersion</article-title>. <source>International Journal of Sports Medicine</source>, <volume>41</volume>(<issue>2</issue>), <fpage>98</fpage>–<lpage>105</lpage>.<pub-id pub-id-type="pmid">31842246</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1055/a-1044-2397</pub-id></mixed-citation></ref><ref id="eph70463-bib-0039"><mixed-citation publication-type="journal" id="eph70463-cite-0040">
+<string-name name-style="western">
+<surname>Kimball</surname>, <given-names>S. R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Jefferson</surname>, <given-names>L. S.</given-names>
+</string-name> (<year>2006</year>). <article-title>Signaling pathways and molecular mechanisms through which branched‐chain amino acids mediate translational control of protein synthesis</article-title>. <source>Journal of Nutrition</source>, <volume>136</volume>(<issue>1</issue>), <fpage>227S</fpage>–<lpage>231S</lpage>.<pub-id pub-id-type="pmid">16365087</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jn/136.1.227S</pub-id></mixed-citation></ref><ref id="eph70463-bib-0040"><mixed-citation publication-type="journal" id="eph70463-cite-0041">
+<string-name name-style="western">
+<surname>Kiviniemi</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hautala</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kinnunen</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Tulppo</surname>, <given-names>M. P.</given-names>
+</string-name> (<year>2007</year>). <article-title>Endurance training guided individually by daily heart rate variability measurements</article-title>. <source>European Journal of Applied Physiology</source>, <volume>101</volume>(<issue>6</issue>), <fpage>743</fpage>–<lpage>751</lpage>.<pub-id pub-id-type="pmid">17849143</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00421-007-0552-2</pub-id></mixed-citation></ref><ref id="eph70463-bib-0041"><mixed-citation publication-type="journal" id="eph70463-cite-0042">
+<string-name name-style="western">
+<surname>Konopka</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trappe</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jemiolo</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trappe</surname>, <given-names>S. W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Harber</surname>, <given-names>M. P.</given-names>
+</string-name> (<year>2011</year>). <article-title>Myosin heavy chain plasticity in aging skeletal muscle with aerobic exercise training</article-title>. <source>Journals of Gerontology: Series A, Biological Sciences and Medical Sciences</source>, <volume>66</volume>(<issue>8</issue>), <fpage>835</fpage>–<lpage>841</lpage>.<pub-id pub-id-type="pmid">21659340</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/gerona/glr088</pub-id><pub-id pub-id-type="pmcid">PMC3202903</pub-id></mixed-citation></ref><ref id="eph70463-bib-0042"><mixed-citation publication-type="journal" id="eph70463-cite-0043">
+<string-name name-style="western">
+<surname>Lama‐Sherpa</surname>, <given-names>T. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jeong</surname>, <given-names>M. H.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Jewell</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2023</year>). <article-title>Regulation of mTORC1 by the Rag GTPases</article-title>. <source>Biochemical Society Transactions</source>, <volume>51</volume>(<issue>2</issue>), <fpage>655</fpage>–<lpage>664</lpage>.<pub-id pub-id-type="pmid">36929165</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/BST20210038</pub-id><pub-id pub-id-type="pmcid">PMC10212514</pub-id></mixed-citation></ref><ref id="eph70463-bib-0043"><mixed-citation publication-type="journal" id="eph70463-cite-0044">
+<string-name name-style="western">
+<surname>Lim</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nunes</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Currier</surname>, <given-names>B. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McLeod</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomas</surname>, <given-names>A. C. Q.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Phillips</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>2022</year>). <article-title>An evidence‐based narrative review of mechanisms of resistance exercise‐induced human skeletal muscle hypertrophy</article-title>. <source>Medicine and Science in Sports and Exercise</source>, <volume>54</volume>(<issue>9</issue>), <fpage>1546</fpage>–<lpage>1559</lpage>.<pub-id pub-id-type="pmid">35389932</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1249/MSS.0000000000002929</pub-id><pub-id pub-id-type="pmcid">PMC9390238</pub-id></mixed-citation></ref><ref id="eph70463-bib-0044"><mixed-citation publication-type="journal" id="eph70463-cite-0045">
+<string-name name-style="western">
+<surname>Lira</surname>, <given-names>F. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>dos Santos</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caldeira</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Inoue</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Panissa</surname>, <given-names>V. L. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cabral‐Santos</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Campos</surname>, <given-names>E. Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodrigues</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Monteiro</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Short‐term high‐ and moderate‐intensity training modifies inflammatory and metabolic factors in response to acute exercise</article-title>. <source>Frontiers in Physiology</source>, <volume>8</volume>, <fpage>856</fpage>.<pub-id pub-id-type="pmid">29163201</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphys.2017.00856</pub-id><pub-id pub-id-type="pmcid">PMC5671556</pub-id></mixed-citation></ref><ref id="eph70463-bib-0045"><mixed-citation publication-type="journal" id="eph70463-cite-0046">
+<string-name name-style="western">
+<surname>Lithfous</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trocmet</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pebayle</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Després</surname>, <given-names>O.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Dufour</surname>, <given-names>A.</given-names>
+</string-name> (<year>2022</year>). <article-title>Investigating cold Aδ fibers in the 0–40°C temperature range: A quantitative sensory testing and evoked potentials study</article-title>. <source>Clinical Neurophysiology</source>, <volume>134</volume>, <fpage>81</fpage>–<lpage>87</lpage>.<pub-id pub-id-type="pmid">34991016</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.clinph.2021.11.076</pub-id></mixed-citation></ref><ref id="eph70463-bib-0046"><mixed-citation publication-type="journal" id="eph70463-cite-0047">
+<string-name name-style="western">
+<surname>Machado</surname>, <given-names>A. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira</surname>, <given-names>P. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Micheletti</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Almeida</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lemes</surname>, <given-names>Í. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vanderlei</surname>, <given-names>F. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Netto Junior</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Pastre</surname>, <given-names>C. M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Can water temperature and immersion time influence the effect of cold water immersion on muscle soreness? A systematic review and meta‐analysis</article-title>. <source>Sports Medicine</source>, <volume>46</volume>(<issue>4</issue>), <fpage>503</fpage>–<lpage>514</lpage>.<pub-id pub-id-type="pmid">26581833</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40279-015-0431-7</pub-id><pub-id pub-id-type="pmcid">PMC4802003</pub-id></mixed-citation></ref><ref id="eph70463-bib-0047"><mixed-citation publication-type="journal" id="eph70463-cite-0048">
+<string-name name-style="western">
+<surname>Malta</surname>, <given-names>E. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dutra</surname>, <given-names>Y. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Broatch</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bishop</surname>, <given-names>D. J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Zagatto</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2021</year>). <article-title>The effects of regular cold‐water immersion use on training‐induced changes in strength and endurance performance: A systematic review with meta‐analysis</article-title>. <source>Sports Medicine</source>, <volume>51</volume>(<issue>1</issue>), <fpage>161</fpage>–<lpage>174</lpage>.<pub-id pub-id-type="pmid">33146851</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40279-020-01362-0</pub-id></mixed-citation></ref><ref id="eph70463-bib-0048"><mixed-citation publication-type="journal" id="eph70463-cite-0049">
+<string-name name-style="western">
+<surname>Missau</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Teixeira</surname>, <given-names>A. D. O.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franco</surname>, <given-names>O. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martins</surname>, <given-names>C. N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paulitsch</surname>, <given-names>F. D. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peres</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silva</surname>, <given-names>A. M. V. D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Signori</surname>, <given-names>L. U.</given-names>
+</string-name> (<year>2018</year>). <article-title>Cold water immersion and inflammatory response after resistance exercises</article-title>. <source>The Brazilian Journal of Sports Medicine</source>, <volume>24</volume>(<issue>5</issue>), <fpage>372</fpage>–<lpage>376</lpage>.</mixed-citation></ref><ref id="eph70463-bib-0049"><mixed-citation publication-type="journal" id="eph70463-cite-0050">
+<string-name name-style="western">
+<surname>Moore</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fuller</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buckley</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saunders</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Halson</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Broatch</surname>, <given-names>J. R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Bellenger</surname>, <given-names>C. R.</given-names>
+</string-name> (<year>2022</year>). <article-title>Impact of cold‐water immersion compared with passive recovery following a single bout of strenuous exercise on athletic performance in physically active participants: A systematic review with meta‐analysis and meta‐regression</article-title>. <source>Sports Medicine</source>, <volume>52</volume>(<issue>7</issue>), <fpage>1667</fpage>–<lpage>1688</lpage>.<pub-id pub-id-type="pmid">35157264</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40279-022-01644-9</pub-id><pub-id pub-id-type="pmcid">PMC9213381</pub-id></mixed-citation></ref><ref id="eph70463-bib-0050"><mixed-citation publication-type="journal" id="eph70463-cite-0051">
+<string-name name-style="western">
+<surname>Notbohm</surname>, <given-names>H. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moser</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goh</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feuerbacher</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bloch</surname>, <given-names>W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Schumann</surname>, <given-names>M.</given-names>
+</string-name> (<year>2023</year>). <article-title>The effects of menstrual cycle phases on immune function and inflammation at rest and after acute exercise: A systematic review and meta‐analysis</article-title>. <source>Acta Physiologica</source>, <volume>238</volume>(<issue>4</issue>), <elocation-id>e14013</elocation-id>.<pub-id pub-id-type="pmid">37309068</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/apha.14013</pub-id></mixed-citation></ref><ref id="eph70463-bib-0051"><mixed-citation publication-type="journal" id="eph70463-cite-0052">
+<string-name name-style="western">
+<surname>O'Bryan</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Connor</surname>, <given-names>K. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drummer</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lavin</surname>, <given-names>K. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Bamman</surname>, <given-names>M. M.</given-names>
+</string-name> (<year>2022</year>). <article-title>Considerations for sex‐cognizant research in exercise biology and medicine</article-title>. <source>Front Sports Act Living</source>, <volume>4</volume>, <elocation-id>903992</elocation-id>.<pub-id pub-id-type="pmid">35721874</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fspor.2022.903992</pub-id><pub-id pub-id-type="pmcid">PMC9204149</pub-id></mixed-citation></ref><ref id="eph70463-bib-0052"><mixed-citation publication-type="journal" id="eph70463-cite-0053">
+<string-name name-style="western">
+<surname>Parouty</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al Haddad</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quod</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leprêtre</surname>, <given-names>P. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahmaidi</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Buchheit</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Effect of cold water immersion on 100‐m sprint performance in well‐trained swimmers</article-title>. <source>European Journal of Applied Physiology</source>, <volume>109</volume>(<issue>3</issue>), <fpage>483</fpage>–<lpage>490</lpage>.<pub-id pub-id-type="pmid">20162301</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00421-010-1381-2</pub-id></mixed-citation></ref><ref id="eph70463-bib-0053"><mixed-citation publication-type="journal" id="eph70463-cite-0054">
+<string-name name-style="western">
+<surname>Peake</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roberts</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Figueiredo</surname>, <given-names>V. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Egner</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krog</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aas</surname>, <given-names>S. N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suzuki</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Markworth</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coombes</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cameron‐Smith</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Raastad</surname>, <given-names>T.</given-names>
+</string-name> (<year>2017</year>). <article-title>The effects of cold water immersion and active recovery on inflammation and cell stress responses in human skeletal muscle after resistance exercise</article-title>. <source>The Journal of Physiology</source>, <volume>595</volume>(<issue>3</issue>), <fpage>695</fpage>–<lpage>711</lpage>.<pub-id pub-id-type="pmid">27704555</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1113/JP272881</pub-id><pub-id pub-id-type="pmcid">PMC5285720</pub-id></mixed-citation></ref><ref id="eph70463-bib-0054"><mixed-citation publication-type="journal" id="eph70463-cite-0055">
+<string-name name-style="western">
+<surname>Pereira</surname>, <given-names>G. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paulino</surname>, <given-names>G. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Almeida</surname>, <given-names>T. H. M. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siqueira</surname>, <given-names>C. M. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torres da Silva</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>da Silva</surname>, <given-names>M. L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Alves Ferrera</surname>, <given-names>L. M.</given-names>
+</string-name> (<year>2025</year>). <article-title>Effectiveness of cold‐water immersion vs. massage in reducing delayed‐onset muscle soreness and enhancing recovery following CrossFit Murph Workout: Randomized trial</article-title>. <source>PLOS ONE</source>, <volume>20</volume>(<issue>8</issue>), <elocation-id>e0329892</elocation-id>.<pub-id pub-id-type="pmid">40802667</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0329892</pub-id><pub-id pub-id-type="pmcid">PMC12349088</pub-id></mixed-citation></ref><ref id="eph70463-bib-0055"><mixed-citation publication-type="journal" id="eph70463-cite-0056">
+<string-name name-style="western">
+<surname>Petersen</surname>, <given-names>A. C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Fyfe</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2021</year>). <article-title>Post‐exercise cold water immersion effects on physiological adaptations to resistance training and the underlying mechanisms in skeletal muscle: A narrative review</article-title>. <source>Front Sports Act Living</source>, <volume>3</volume>, <elocation-id>660291</elocation-id>.<pub-id pub-id-type="pmid">33898988</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fspor.2021.660291</pub-id><pub-id pub-id-type="pmcid">PMC8060572</pub-id></mixed-citation></ref><ref id="eph70463-bib-0056"><mixed-citation publication-type="journal" id="eph70463-cite-0057">
+<string-name name-style="western">
+<surname>Piñero</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burke</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Augustin</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohan</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeJesus</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sapuppo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weisenthal</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coleman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Androulakis‐Korakakis</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grgic</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swinton</surname>, <given-names>P. A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Schoenfeld</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2024</year>). <article-title>Throwing cold water on muscle growth: A systematic review with meta‐analysis of the effects of post‐exercise cold water immersion on resistance training‐induced hypertrophy</article-title>. <source>European Journal of Sport Science</source>, <volume>24</volume>(<issue>2</issue>), <fpage>177</fpage>–<lpage>189</lpage>.</mixed-citation></ref><ref id="eph70463-bib-0057"><mixed-citation publication-type="journal" id="eph70463-cite-0058">
+<string-name name-style="western">
+<surname>Puigserver</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Spiegelman</surname>, <given-names>B. M.</given-names>
+</string-name> (<year>2003</year>). <article-title>Peroxisome proliferator‐activated receptor‐gamma coactivator 1 alpha (PGC‐1 alpha): Transcriptional coactivator and metabolic regulator</article-title>. <source>Endocrine Reviews</source>, <volume>24</volume>(<issue>1</issue>), <fpage>78</fpage>–<lpage>90</lpage>.<pub-id pub-id-type="pmid">12588810</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/er.2002-0012</pub-id></mixed-citation></ref><ref id="eph70463-bib-0058"><mixed-citation publication-type="journal" id="eph70463-cite-0059">
+<string-name name-style="western">
+<surname>Racinais</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dablainville</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rousse</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ihsan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grant</surname>, <given-names>M.‐E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schobersberger</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Budgett</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Engebretsen</surname>, <given-names>L.</given-names>
+</string-name> (<year>2024</year>). <article-title>Cryotherapy for treating soft tissue injuries in sport medicine: A critical review</article-title>. <source>British Journal of Sports Medicine</source>, <volume>58</volume>(<issue>20</issue>), <fpage>1215</fpage>–<lpage>1223</lpage>.<pub-id pub-id-type="pmid">39237265</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bjsports-2024-108304</pub-id></mixed-citation></ref><ref id="eph70463-bib-0059"><mixed-citation publication-type="journal" id="eph70463-cite-0060">
+<string-name name-style="western">
+<surname>Rantala</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Chaillou</surname>, <given-names>T.</given-names>
+</string-name> (<year>2019</year>). <article-title>Mild hypothermia affects the morphology and impairs glutamine‐induced anabolic response in human primary myotubes</article-title>. <source>American Journal of Physiology‐Cell Physiology</source>, <volume>317</volume>(<issue>1</issue>), <fpage>C101</fpage>–<lpage>C110</lpage>.<pub-id pub-id-type="pmid">30917033</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/ajpcell.00008.2019</pub-id></mixed-citation></ref><ref id="eph70463-bib-0060"><mixed-citation publication-type="journal" id="eph70463-cite-0061">
+<string-name name-style="western">
+<surname>Richards</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malekzadeh</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elghobashy</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laham</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Power</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paris</surname>, <given-names>M. T.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Cheng</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2025</year>). <article-title>Cold water immersion does not enhance recovery and performance after high‐intensity interval dorsiflexion exercise</article-title>. <source>Scandinavian Journal of Medicine &amp; Science in Sports</source>, <volume>35</volume>(<issue>5</issue>), <elocation-id>e70061</elocation-id>.<pub-id pub-id-type="pmid">40318171</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/sms.70061</pub-id><pub-id pub-id-type="pmcid">PMC12046540</pub-id></mixed-citation></ref><ref id="eph70463-bib-0061"><mixed-citation publication-type="journal" id="eph70463-cite-0062">
+<string-name name-style="western">
+<surname>Roberts</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raastad</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Markworth</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Figueiredo</surname>, <given-names>V. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Egner</surname>, <given-names>I. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shield</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cameron‐Smith</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coombes</surname>, <given-names>J. S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Peake</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2015</year>). <article-title>Post‐exercise cold water immersion attenuates acute anabolic signalling and long‐term adaptations in muscle to strength training</article-title>. <source>The Journal of Physiology</source>, <volume>593</volume>(<issue>18</issue>), <fpage>4285</fpage>–<lpage>4301</lpage>.<pub-id pub-id-type="pmid">26174323</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1113/JP270570</pub-id><pub-id pub-id-type="pmcid">PMC4594298</pub-id></mixed-citation></ref><ref id="eph70463-bib-0062"><mixed-citation publication-type="journal" id="eph70463-cite-0063">
+<string-name name-style="western">
+<surname>Rousse</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sautillet</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Costalat</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brocherie</surname>, <given-names>F.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Millet</surname>, <given-names>G. P.</given-names>
+</string-name> (<year>2025</year>). <article-title>Isolated and combined effects of cold, heat and hypoxia therapies on muscle recovery following exercise‐induced muscle damage</article-title>. <source>Sports Medicine</source>, <volume>55</volume>(<issue>11</issue>), <fpage>2721</fpage>–<lpage>2751</lpage>.<pub-id pub-id-type="pmid">40983804</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40279-025-02300-8</pub-id><pub-id pub-id-type="pmcid">PMC12559053</pub-id></mixed-citation></ref><ref id="eph70463-bib-0063"><mixed-citation publication-type="journal" id="eph70463-cite-0064">
+<string-name name-style="western">
+<surname>Rowell</surname>, <given-names>L. B.</given-names>
+</string-name> (<year>1974</year>). <article-title>Human cardiovascular adjustments to exercise and thermal stress</article-title>. <source>Physiological Reviews</source>, <volume>54</volume>(<issue>1</issue>), <fpage>75</fpage>–<lpage>159</lpage>.<pub-id pub-id-type="pmid">4587247</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/physrev.1974.54.1.75</pub-id></mixed-citation></ref><ref id="eph70463-bib-0064"><mixed-citation publication-type="journal" id="eph70463-cite-0065">
+<string-name name-style="western">
+<surname>Schaser</surname>, <given-names>K. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Disch</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stover</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lauffer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bail</surname>, <given-names>H. J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Mittlmeier</surname>, <given-names>T.</given-names>
+</string-name> (<year>2007</year>). <article-title>Prolonged superficial local cryotherapy attenuates microcirculatory impairment, regional inflammation, and muscle necrosis after closed soft tissue injury in rats</article-title>. <source>American Journal of Sports Medicine</source>, <volume>35</volume>(<issue>1</issue>), <fpage>93</fpage>–<lpage>102</lpage>.<pub-id pub-id-type="pmid">17197574</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0363546506294569</pub-id></mixed-citation></ref><ref id="eph70463-bib-0065"><mixed-citation publication-type="journal" id="eph70463-cite-0066">
+<string-name name-style="western">
+<surname>Serrano</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baeza‐Raja</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perdiguero</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jardí</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Muñoz‐Cánoves</surname>, <given-names>P.</given-names>
+</string-name> (<year>2008</year>). <article-title>Interleukin‐6 is an essential regulator of satellite cell‐mediated skeletal muscle hypertrophy</article-title>. <source>Cell metabolism</source>, <volume>7</volume>(<issue>1</issue>), <fpage>33</fpage>–<lpage>44</lpage>.<pub-id pub-id-type="pmid">18177723</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cmet.2007.11.011</pub-id></mixed-citation></ref><ref id="eph70463-bib-0066"><mixed-citation publication-type="journal" id="eph70463-cite-0067">
+<string-name name-style="western">
+<surname>Stanley</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buchheit</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Peake</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2012</year>). <article-title>The effect of post‐exercise hydrotherapy on subsequent exercise performance and heart rate variability</article-title>. <source>European Journal of Applied Physiology</source>, <volume>112</volume>(<issue>3</issue>), <fpage>951</fpage>–<lpage>961</lpage>.<pub-id pub-id-type="pmid">21710292</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00421-011-2052-7</pub-id></mixed-citation></ref><ref id="eph70463-bib-0067"><mixed-citation publication-type="journal" id="eph70463-cite-0068">
+<string-name name-style="western">
+<surname>Straat</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinez‐Tellez</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sardjoe Mishre</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verkleij</surname>, <given-names>M. M. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kemmeren</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pelsma</surname>, <given-names>I. C. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alcantara</surname>, <given-names>J. M. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mendez‐Gutierrez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kooijman</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boon</surname>, <given-names>M. R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Rensen</surname>, <given-names>P. C. N.</given-names>
+</string-name> (<year>2022</year>). <article-title>Cold‐induced thermogenesis shows a diurnal variation that unfolds differently in males and females</article-title>. <source>Journal of Clinical Endocrinology and Metabolism</source>, <volume>107</volume>(<issue>6</issue>), <fpage>1626</fpage>–<lpage>1635</lpage>.<pub-id pub-id-type="pmid">35176767</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/clinem/dgac094</pub-id><pub-id pub-id-type="pmcid">PMC9113803</pub-id></mixed-citation></ref><ref id="eph70463-bib-0068"><mixed-citation publication-type="journal" id="eph70463-cite-0069">
+<string-name name-style="western">
+<surname>Trappe</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carroll</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickinson</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>LeMoine</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haus</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sullivan</surname>, <given-names>B. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jemiolo</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weinheimer</surname>, <given-names>E. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Hollon</surname>, <given-names>C. J.</given-names>
+</string-name> (<year>2011</year>). <article-title>Influence of acetaminophen and ibuprofen on skeletal muscle adaptations to resistance exercise in older adults</article-title>. <source>American Journal of Physiology. Regulatory, Integrative and Comparative Physiology</source>, <volume>300</volume>(<issue>3</issue>), <fpage>R655</fpage>–<lpage>R662</lpage>.<pub-id pub-id-type="pmid">21160058</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/ajpregu.00611.2010</pub-id><pub-id pub-id-type="pmcid">PMC3064281</pub-id></mixed-citation></ref><ref id="eph70463-bib-0069"><mixed-citation publication-type="journal" id="eph70463-cite-0070">
+<string-name name-style="western">
+<surname>Veen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bergh</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Randers</surname>, <given-names>M. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krustrup</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Edholm</surname>, <given-names>P.</given-names>
+</string-name> (<year>2026</year>). <article-title>The impact of cold‐water immersion on post‐match recovery in trained soccer players: A systematic review and meta‐analysis</article-title>. <source>Scandinavian Journal of Medicine &amp; Science in Sports</source>, <volume>36</volume>(<issue>1</issue>), <elocation-id>e70202</elocation-id>.<pub-id pub-id-type="pmid">41490103</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/sms.70202</pub-id><pub-id pub-id-type="pmcid">PMC12767754</pub-id></mixed-citation></ref><ref id="eph70463-bib-0070"><mixed-citation publication-type="journal" id="eph70463-cite-0071">
+<string-name name-style="western">
+<surname>Versey</surname>, <given-names>N. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Halson</surname>, <given-names>S. L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Dawson</surname>, <given-names>B. T.</given-names>
+</string-name> (<year>2013</year>). <article-title>Water immersion recovery for athletes: Effect on exercise performance and practical recommendations</article-title>. <source>Sports Medicine</source>, <volume>43</volume>(<issue>11</issue>), <fpage>1101</fpage>–<lpage>1130</lpage>.<pub-id pub-id-type="pmid">23743793</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40279-013-0063-8</pub-id></mixed-citation></ref><ref id="eph70463-bib-0071"><mixed-citation publication-type="journal" id="eph70463-cite-0072">
+<string-name name-style="western">
+<surname>Vieira</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siqueira</surname>, <given-names>A. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira‐Junior</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>do Carmo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Durigan</surname>, <given-names>J. L. Q.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blazevich</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Bottaro</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>). <article-title>The effect of water temperature during cold‐water immersion on recovery from exercise‐induced muscle damage</article-title>. <source>International Journal of Sports Medicine</source>, <volume>37</volume>(<issue>12</issue>), <fpage>937</fpage>–<lpage>943</lpage>.<pub-id pub-id-type="pmid">27557407</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1055/s-0042-111438</pub-id></mixed-citation></ref><ref id="eph70463-bib-0072"><mixed-citation publication-type="journal" id="eph70463-cite-0073">
+<string-name name-style="western">
+<surname>Wakabayashi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sakaue</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Nishimura</surname>, <given-names>T.</given-names>
+</string-name> (<year>2025</year>). <article-title>Recent updates on cold adaptation in population and laboratory studies, including cross‐adaptation with nonthermal factors</article-title>. <source>Journal of Physiological Anthropology</source>, <volume>44</volume>(<issue>1</issue>), <fpage>7</fpage>.<pub-id pub-id-type="pmid">39972479</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40101-025-00387-6</pub-id><pub-id pub-id-type="pmcid">PMC11837704</pub-id></mixed-citation></ref><ref id="eph70463-bib-0073"><mixed-citation publication-type="journal" id="eph70463-cite-0074">
+<string-name name-style="western">
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Pan</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2025</year>). <article-title>Impact of different doses of cold water immersion (duration and temperature variations) on recovery from acute exercise‐induced muscle damage: A network meta‐analysis</article-title>. <source>Frontiers in Physiology</source>, <volume>16</volume>, <elocation-id>1525726</elocation-id>.<pub-id pub-id-type="pmid">40078372</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphys.2025.1525726</pub-id><pub-id pub-id-type="pmcid">PMC11897523</pub-id></mixed-citation></ref><ref id="eph70463-bib-0074"><mixed-citation publication-type="journal" id="eph70463-cite-0075">
+<string-name name-style="western">
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yan</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Ma</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2022</year>). <article-title>Effect of cold and heat therapies on pain relief in patients with delayed onset muscle soreness: A network meta‐analysis</article-title>. <source>Journal of Rehabilitation Medicine</source>, <volume>54</volume>, <elocation-id>jrm00258</elocation-id>.<pub-id pub-id-type="pmid">34636405</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2340/jrm.v53.331</pub-id><pub-id pub-id-type="pmcid">PMC8862647</pub-id></mixed-citation></ref><ref id="eph70463-bib-0075"><mixed-citation publication-type="journal" id="eph70463-cite-0076">
+<string-name name-style="western">
+<surname>White</surname>, <given-names>J. P.</given-names>
+</string-name> (<year>2021</year>). <article-title>Amino acid trafficking and skeletal muscle protein synthesis: A case of supply and demand</article-title>. <source>Frontiers in Cell and Developmental Biology</source>, <volume>9</volume>, <elocation-id>656604</elocation-id>.<pub-id pub-id-type="pmid">34136478</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fcell.2021.656604</pub-id><pub-id pub-id-type="pmcid">PMC8201612</pub-id></mixed-citation></ref><ref id="eph70463-bib-0076"><mixed-citation publication-type="journal" id="eph70463-cite-0077">
+<string-name name-style="western">
+<surname>Wilcock</surname>, <given-names>I. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cronin</surname>, <given-names>J. B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Hing</surname>, <given-names>W. A.</given-names>
+</string-name> (<year>2006</year>). <article-title>Physiological response to water immersion: A method for sport recovery?</article-title>
+<source>Sports Medicine</source>, <volume>36</volume>(<issue>9</issue>), <fpage>747</fpage>–<lpage>765</lpage>.<pub-id pub-id-type="pmid">16937951</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2165/00007256-200636090-00003</pub-id></mixed-citation></ref><ref id="eph70463-bib-0077"><mixed-citation publication-type="journal" id="eph70463-cite-0078">
+<string-name name-style="western">
+<surname>Witard</surname>, <given-names>O. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jackman</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Breen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Selby</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Tipton</surname>, <given-names>K. D.</given-names>
+</string-name> (<year>2014</year>). <article-title>Myofibrillar muscle protein synthesis rates subsequent to a meal in response to increasing doses of whey protein at rest and after resistance exercise</article-title>. <source>American Journal of Clinical Nutrition</source>, <volume>99</volume>(<issue>1</issue>), <fpage>86</fpage>–<lpage>95</lpage>.<pub-id pub-id-type="pmid">24257722</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3945/ajcn.112.055517</pub-id></mixed-citation></ref><ref id="eph70463-bib-0078"><mixed-citation publication-type="journal" id="eph70463-cite-0079">
+<string-name name-style="western">
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name> (<year>2026</year>). <article-title>Impact of different cryotherapy interventions on post‐exercise acute delayed‐onset muscle soreness, athletic performance, and inflammatory biomarkers: A systematic review and network meta‐analysis</article-title>. <source>Frontiers in Sports and Active Living</source>, <volume>8</volume>, <elocation-id>1819396</elocation-id>.<pub-id pub-id-type="pmid">42088589</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fspor.2026.1819396</pub-id><pub-id pub-id-type="pmcid">PMC13137059</pub-id></mixed-citation></ref><ref id="eph70463-bib-0079"><mixed-citation publication-type="journal" id="eph70463-cite-0080">
+<string-name name-style="western">
+<surname>Yamane</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ohnishi</surname>, <given-names>N.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Matsumoto</surname>, <given-names>T.</given-names>
+</string-name> (<year>2015</year>). <article-title>Does regular post‐exercise cold application attenuate trained muscle adaptation?</article-title>
+<source>International Journal of Sports Medicine</source>, <volume>36</volume>(<issue>8</issue>), <fpage>647</fpage>–<lpage>653</lpage>.<pub-id pub-id-type="pmid">25760154</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1055/s-0034-1398652</pub-id></mixed-citation></ref></ref-list></back></article>

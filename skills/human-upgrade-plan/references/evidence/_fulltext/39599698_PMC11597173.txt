@@ -1,0 +1,895 @@
+Introduction
+
+Vitamin D is a fat-soluble secosteroid hormone primarily obtained by exposure to ultraviolet B rays and secondarily by nutrition. UVB radiation may produce around 80% of this vitamin by converting 7-dehydrocholesterol to previtamin D. Ergocalciferol or cholecalciferol can be obtained by food. These levels might vary based on season, sun exposure duration, and ethnicity, among other things [
+1
+]. In addition to effects linked to calcium homeostasis and bone metabolism, vitamin D has been linked to other pleiotropic effects. It is widely believed that the interaction between 1–25 dihydroxy cholecalciferol (1,25(OH)2D3) and a nuclear vitamin D receptor (VDRn), which when liganded forms a heterodimeric complex with the retinoid-X receptor (RXR), mediates the actions of 1,25(OH)2D3. By attaching to target gene promoter sequences known as the vitamin D response element, this complex has the ability to either up- or down-regulate the transcription of many target genes [
+2
+]. Alongside the genomic pathway, a non-genomic pathway has also been proposed. These activities, which may include both VDRn and a membrane VDR, show up as the activation of signaling cascades or pathways that cause cells to react right away. They may also have an influence on general physiological processes by influencing epigenetic regulation [
+3
+]. Although some of the proposed mechanisms for non-genomic actions have only been described in vitro, and the actual role in vivo has yet to be demonstrated, they could help elucidate the potential of vitamin D as a regulator.
+
+Vitamin D is essential for the immune system, cardiovascular health, and musculoskeletal health [
+4
+,
+5
+]. Furthermore, endothelial dysfunction, dyslipidemia, type 2 diabetes, and cardiovascular illnesses have all been linked to its lack [
+6
+]. Poor diet reduced cutaneous vitamin D synthesis (e.g., decreased sun exposure), altered expression of vitamin D metabolic enzymes, and decreased expression of the VDR in skeletal muscle are associated with an increased risk of insufficiency and abnormal vitamin D activity [
+7
+]. The degree to which VDR is expressed varies among tissues, determining the vitamin D’s degree of effect [
+8
+].
+
+Vitamin D plays a crucial role in the formation and upkeep of robust bone structure, with the underlying mechanisms governing its effects well elucidated. Specifically, the active form of vitamin D, 1,25(OH)2D3, facilitates the absorption of calcium and phosphate through diverse pathways, thereby enhancing bone mineralization and serving as a protective measure against bone deterioration and fractures. VDR was also found in skeletal muscle tissue [
+9
+], indicating that vitamin D may affect muscle in both physiological and pathological conditions [
+10
+,
+11
+]. Skeletal muscle oxidative stress, which impacts mitochondrial activity and contributes to the development of skeletal muscular atrophy, is linked to vitamin D deficiency (low serum of 25-Hydroxyvitamin D: 25(OH)D), and the activation of VDR may be associated with these detrimental effects. Furthermore, vitamin D deficiency may exacerbate muscular atrophy [
+12
+], and it is also associated with a lower level of muscle function, as well as an increased risk of sarcopenia and other illnesses [
+13
+].
+
+Conditions involving VDR knockout and vitamin D deficiency appear to imply detrimental effects on the homeostasis of skeletal muscle. In C2C12, until the cells fully mature into myotubes, VDR expression is gradually lower
+
+----
+
+Methods: Both groups had their serum 25-Hydroxyvitamin D (ng/mL) levels, blood and performance parameters, and dietary habits measured. Results: Serum 25-Hydroxyvitamin D levels were significantly lower in non-runners (runners: males 30.0 ± 5.6, females 31.2 ± 5.2 vs. non-runners: males, 22.8 ± 6.5, females 24.7 ± 6.5 ng/mL, 
+p
+ < 0.001). White blood cells, monocyte, and neutrophil levels were higher in non-runners for both males and females. Among the subjects, 23 had optimal vitamin D levels (>29 ng/mL), while 22 had insufficient/deficient levels (<29 ng/mL), with a higher prevalence of insufficiency in non-runners compared to runners (63.6% vs. 34.8%; 
+p
+ = 0.053). Maximal isometric force and jump height were equal in both groups, but VO
+2
+max was higher in runners. Linear regression analysis identified monocyte count as the only predictor of vitamin D levels for both males (y = −24.452 x + 40.520; R
+2
+ = 0.200; 
+p
+ = 0.015) and females (y = −33.409 x + 45.240; R
+2
+ = 0.368; 
+p
+ = 0.003). Conclusions: This study highlights significant differences in vitamin D status between runners and non-runners, with runners exhibiting higher serum 25-Hydroxyvitamin D levels, although this finding is likely due to the increased sun exposure that runners receive. It also provides valuable insights into the vitamin D status of healthy young sedentary individuals and runners, enhancing the understanding of how physical activity influences vitamin D levels.
+
+vitamin D
+
+leucocyte
+
+endurance
+
+runners
+
+healthy people
+
+vo
+2
+max
+
+maximal isometric force
+
+monocyte
+
+This research received no external funding.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+1. Introduction
+
+Vitamin D is a fat-soluble secosteroid hormone primarily obtained by exposure to ultraviolet B rays and secondarily by nutrition. UVB radiation may produce around 80% of this vitamin by converting 7-dehydrocholesterol to previtamin D. Ergocalciferol or cholecalciferol can be obtained by food. These levels might vary based on season, sun exposure duration, and ethnicity, among other things [
+1
+]. In addition to effects linked to calcium homeostasis and bone metabolism, vitamin D has been linked to other pleiotropic effects. It is widely believed that the interaction between 1–25 dihydroxy cholecalciferol (1,25(OH)2D3) and a nuclear vitamin D receptor (VDRn), which when liganded forms a heterodimeric complex with the retinoid-X receptor (RXR), mediates the actions of 1,25(OH)2D3. By attaching to target gene promoter sequences known as the vitamin D response element, this complex has the ability to either up- or down-regulate the transcription of many target genes [
+2
+]. Alongside the genomic pathway, a non-genomic pathway has also been proposed. These activities, which may include both VDRn and a membrane VDR, show up as the activation of signaling cascades or pathways that cause cells to react right away. They may also have an influence on general physiological processes by influencing epigenetic regulation [
+3
+]. Although some of the proposed mechanisms for non-genomic actions have only been described in
+
+----
+
+
+Methodology
+
+Formal analysis
+
+Data curation
+
+Writing – original draft
+
+2
+
+https://orcid.org/0000-0001-7112-1780
+
+Gervasi
+
+Marco
+
+Conceptualization
+
+Software
+
+Formal analysis
+
+Investigation
+
+Data curation
+
+Writing – original draft
+
+Writing – review & editing
+
+Supervision
+
+2
+
+*
+
+https://orcid.org/0000-0002-4407-5376
+
+Fernández-Peña
+
+Eneko
+
+Formal analysis
+
+Writing – original draft
+
+Writing – review & editing
+
+3
+
+https://orcid.org/0000-0002-6914-4905
+
+Annibalini
+
+Giosuè
+
+Methodology
+
+Data curation
+
+Writing – review & editing
+
+2
+
+https://orcid.org/0000-0002-9028-7740
+
+Bartolacci
+
+Alessia
+
+Formal analysis
+
+Investigation
+
+2
+
+https://orcid.org/0009-0009-9257-7539
+
+Formiglio
+
+Eugenio
+
+Formal analysis
+
+Investigation
+
+2
+
+https://orcid.org/0000-0003-0225-666X
+
+Agostini
+
+Deborah
+
+Data curation
+
+Writing – review & editing
+
+2
+
+https://orcid.org/0000-0002-8311-6660
+
+Barbato
+
+Claudia
+
+Methodology
+
+Formal analysis
+
+2
+
+https://orcid.org/0000-0001-9412-1660
+
+Sestili
+
+Piero
+
+Validation
+
+Writing – original draft
+
+Project administration
+
+2
+
+https://orcid.org/0000-0003-3753-5191
+
+Patti
+
+Antonino
+
+Methodology
+
+Investigation
+
+4
+
+Stocchi
+
+Vilberto
+
+Supervision
+
+5
+
+Bellomo
+
+Rosa Grazia
+
+Conceptualization
+
+Methodology
+
+Data curation
+
+Writing – review & editing
+
+2
+
+Ahmetov
+
+Ildus
+
+Academic Editor
+
+1
+Department of Medicine and Surgery, School of Medicine and Surgery, “Kore” University of Enna, 94100 Enna, Italy; 
+francesco.pegreffi@unikore.it
+
+2
+Department of Biomolecular Sciences, University of Urbino Carlo Bo, 61029 Urbino, Italy; 
+sabrina.zeppa@uniurb.it
+ (S.D.Z.); 
+giosue.annibalini@uniurb.it
+ (G.A.); 
+a.bartolacci2@campus.uniurb.it
+ (A.B.); 
+e.formiglio@campus.uniurb.it
+ (E.F.); 
+deborah.agostini@uniurb.it
+ (D.A.); 
+c.barbato2@campus.uniurb.it
+ (C.B.); 
+piero.sestili@uniurb.it
+ (P.S.); 
+rosa.bellomo@uniurb.it
+ (R.G.B.)
+
+3
+Department of Physical Education and Sport, University of the Basque Country UPV/EHU, 01007 Vitoria-Gasteiz, Spain; 
+eneko.fernandezp@ehu.eus
+
+4
+Department of Psychology, Educational Science and Human Movement, University of Palermo, 90144 Palermo, Italy; 
+antonino.patti01@unipa.it
+
+5
+Department of Human Sciences for the Promotion of Quality of Life, University San Raffaele, 20132 Roma, Italy; 
+vilberto.stocchi@uniroma5.it
+
+*
+Correspondence: 
+marco.gervasi@uniurb.it
+; Tel.: +39-0722-303413
+
+15
+
+11
+
+2024
+
+11
+
+2024
+
+16
+
+22
+
+474678
+
+3912
+
+08
+
+10
+
+2024
+
+12
+
+11
+
+2024
+
+13
+
+11
+
+2024
+
+15
+
+11
+
+2024
+
+26
+
+11
+
+2024
+
+28
+
+11
+
+2024
+
+© 2024 by the authors.
+
+2024
+
+https://creativecommons.org/licenses/by/4.0/
+
+Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (
+https://creativecommons.org/licenses/by/4.0/
+).
+
+Background: Vitamin D can influence athletic performance and infection risk. This study aimed to investigate vitamin D status, hematochemical factors, anthropometric and performance parameters, and dietary habits in runners (n = 23) and sedentary healthy individuals (non-runners, n = 22) during the autumn season. Methods: Both groups had their serum 25-Hydroxyvitamin D (ng/mL) levels, blood and performance parameters, and dietary habits measured. Results: Serum 25-Hydroxyvitamin D levels were significantly lower in non-runners (runners: males 30.0 ± 5.6, females 31.2 ± 5.2 vs. non-runners: males, 22.8 ± 6.5, females 24.7 ± 6.5 ng/mL, 
+p
+ < 0.001). White blood cells, monocyte, and neutrophil levels were higher in non-runners for both males
+
+----
+
+Results: Serum 25-Hydroxyvitamin D levels were significantly lower in non-runners (runners: males 30.0 ± 5.6, females 31.2 ± 5.2 vs. non-runners: males, 22.8 ± 6.5, females 24.7 ± 6.5 ng/mL, 
+p
+ < 0.001). White blood cells, monocyte, and neutrophil levels were higher in non-runners for both males and females. Among the subjects, 23 had optimal vitamin D levels (>29 ng/mL), while 22 had insufficient/deficient levels (<29 ng/mL), with a higher prevalence of insufficiency in non-runners compared to runners (63.6% vs. 34.8%; 
+p
+ = 0.053). Maximal isometric force and jump height were equal in both groups, but VO
+2
+max was higher in runners. Linear regression analysis identified monocyte count as the only predictor of vitamin D levels for both males (y = −24.452 x + 40.520; R
+2
+ = 0.200; 
+p
+ = 0.015) and females (y = −33.409 x + 45.240; R
+2
+ = 0.368; 
+p
+ = 0.003). Conclusions: This study highlights significant differences in vitamin D status between runners and non-runners, with runners exhibiting higher serum 25-Hydroxyvitamin D levels, although this finding is likely due to the increased sun exposure that runners receive. It also provides valuable insights into the vitamin D status of healthy young sedentary individuals and runners, enhancing the understanding of how physical activity influences vitamin D levels.
+
+vitamin D
+
+leucocyte
+
+endurance
+
+runners
+
+healthy people
+
+vo
+2
+max
+
+maximal isometric force
+
+monocyte
+
+This research received no external funding.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+1. Introduction
+
+Vitamin D is a fat-soluble secosteroid hormone primarily obtained by exposure to ultraviolet B rays and secondarily by nutrition. UVB radiation may produce around 80% of this vitamin by converting 7-dehydrocholesterol to previtamin D. Ergocalciferol or cholecalciferol can be obtained by food. These levels might vary based on season, sun exposure duration, and ethnicity, among other things [
+1
+]. In addition to effects linked to calcium homeostasis and bone metabolism, vitamin D has been linked to other pleiotropic effects. It is widely believed that the interaction between 1–25 dihydroxy cholecalciferol (1,25(OH)2D3) and a nuclear vitamin D receptor (VDRn), which when liganded forms a heterodimeric complex with the retinoid-X receptor (RXR), mediates the actions of 1,25(OH)2D3. By attaching to target gene promoter sequences known as the vitamin D response element, this complex has the ability to either up- or down-regulate the transcription of many target genes [
+2
+]. Alongside the genomic pathway, a non-genomic pathway has also been proposed. These activities, which may include both VDRn and a membrane VDR, show up as the activation of signaling cascades or pathways that cause cells to react right away. They may also have an influence on general physiological processes by influencing epigenetic regulation [
+3
+]. Although some of the proposed mechanisms for non-genomic actions have only been described in vitro, and the actual role in vivo has yet to be demonstrated, they could help elucidate the potential of vitamin D as a regulator.
+
+Vi
+
+----
+
+Discussion
+
+A growing body of evidence suggests that vitamin D could play a valuable role in athletic performance. Vitamin D interacts with extra-skeletal tissues, modulating injury, inflammation, and infection risk. Poor vitamin D status is well-known to be widespread throughout Europe, and, notably, it has also been observed in the professional sports world [
+4
+]. This exploratory study aimed to investigate the vitamin D status in Italian runners (n= 23) and sedentary healthy individuals (non-runners, n = 22) in the autumn period. An insufficient vitamin D status has been observed in 34.8% of runners and 63.6% of non-runners.
+
+The findings revealed that blood calcium levels did not differ between runners and non-runners, gender, or their interaction. In contrast, serum vitamin D levels were considerably lower in the non-runners group compared to runners. No significant differences were found between genders or in their interaction. Similar findings were reported by Çetin Daglı et al. (2023), who analyzed vitamin D levels in sedentary people and athletes who competed in both indoor and outdoor sports and found that outdoor activities had a greater beneficial impact on blood lipid profiles and vitamin D3-25-OH levels than indoor sports [
+33
+]. A weak positive but significant correlation was found between vitamin D and VO
+2
+max for males only (r = 0.406, 
+p
+ = 0.049), which is in agreement with the results obtained by Ardestani et al [
+16
+]. However, this correlation is likely attributed to the increased sun exposure runners receive, as they engage in three to six outdoor running sessions per week. Notably, the vitamin D intake was similar in both groups, reinforcing the idea that outdoor activities significantly contribute to higher vitamin D levels. Furthermore, the maximal isometric force test and jump height showed no difference between runners and non-runners, nor any interaction with gender or correlation with vitamin D levels. This suggests that the serum vitamin D levels reported in this study are unlikely to have an ergogenic effect on either endurance or strength performance, as has been reported by other authors for different supplements [
+34
+].
+
+Reduced serum levels of vitamin D are associated with an increased susceptibility to a range of conditions, including cancer, cardiovascular disorders, and neurological ailments. These diseases are typified by the presence of underlying chronic inflammation, which potentially contributes to the onset and progression of the respective pathologies. In this regard, Bellia et al. (2013) [
+35
+] identified an inverse association between vitamin D levels and serum inflammatory markers, including C-reactive protein, interleukin-6, and Tumor Necrosis Factor α [
+35
+,
+36
+]. In accordance with this evidence, we found that hs-CRP is inversely related to vitamin D level, but only in males. However, there is no significant difference in hs-CRP levels between runners and non-runners, nor between genders or their interaction, likely due to the large variability in hs-CRP values. Therefore, further research is needed to assess whether outdoor exercise can prevent the development of inflammatory diseases.
+
+Vitamin D regulates the inflammation response and immune system through VDR and enzymes that activate vitamin D and respond to vitamin D, lowering the levels of pro-inflammatory cytokines [
+23
+,
+24
+,
+37
+,
+38
+]. A powerful regulator of the transcriptome of hundreds of genes and the epigenome of genomic
+
+----
+
+Conclusions: This study highlights significant differences in vitamin D status between runners and non-runners, with runners exhibiting higher serum 25-Hydroxyvitamin D levels, although this finding is likely due to the increased sun exposure that runners receive. It also provides valuable insights into the vitamin D status of healthy young sedentary individuals and runners, enhancing the understanding of how physical activity influences vitamin D levels.
+
+vitamin D
+
+leucocyte
+
+endurance
+
+runners
+
+healthy people
+
+vo
+2
+max
+
+maximal isometric force
+
+monocyte
+
+This research received no external funding.
+
+pmc-status-qastatus
+
+0
+
+pmc-status-live
+
+yes
+
+pmc-status-embargo
+
+no
+
+pmc-status-released
+
+yes
+
+pmc-prop-open-access
+
+yes
+
+pmc-prop-olf
+
+no
+
+pmc-prop-manuscript
+
+no
+
+pmc-prop-legally-suppressed
+
+no
+
+pmc-prop-has-pdf
+
+yes
+
+pmc-prop-has-supplement
+
+no
+
+pmc-prop-pdf-only
+
+no
+
+pmc-prop-suppress-copyright
+
+no
+
+pmc-prop-is-real-version
+
+no
+
+pmc-prop-is-scanned-article
+
+no
+
+pmc-prop-preprint
+
+no
+
+pmc-prop-in-epmc
+
+yes
+
+pmc-license-ref
+
+CC BY
+
+1. Introduction
+
+Vitamin D is a fat-soluble secosteroid hormone primarily obtained by exposure to ultraviolet B rays and secondarily by nutrition. UVB radiation may produce around 80% of this vitamin by converting 7-dehydrocholesterol to previtamin D. Ergocalciferol or cholecalciferol can be obtained by food. These levels might vary based on season, sun exposure duration, and ethnicity, among other things [
+1
+]. In addition to effects linked to calcium homeostasis and bone metabolism, vitamin D has been linked to other pleiotropic effects. It is widely believed that the interaction between 1–25 dihydroxy cholecalciferol (1,25(OH)2D3) and a nuclear vitamin D receptor (VDRn), which when liganded forms a heterodimeric complex with the retinoid-X receptor (RXR), mediates the actions of 1,25(OH)2D3. By attaching to target gene promoter sequences known as the vitamin D response element, this complex has the ability to either up- or down-regulate the transcription of many target genes [
+2
+]. Alongside the genomic pathway, a non-genomic pathway has also been proposed. These activities, which may include both VDRn and a membrane VDR, show up as the activation of signaling cascades or pathways that cause cells to react right away. They may also have an influence on general physiological processes by influencing epigenetic regulation [
+3
+]. Although some of the proposed mechanisms for non-genomic actions have only been described in vitro, and the actual role in vivo has yet to be demonstrated, they could help elucidate the potential of vitamin D as a regulator.
+
+Vitamin D is essential for the immune system, cardiovascular health, and musculoskeletal health [
+4
+,
+5
+]. Furthermore, endothelial dysfunction, dyslipidemia, type 2 diabetes, and cardiovascular illnesses have all been linked to its lack [
+6
+]. Poor diet reduced cutaneous vitamin D synthesis (e.g., decreased sun exposure), altered expression of vitamin D metabolic enzymes, and decreased expression of the VDR in skeletal muscle are associated with an increased risk of insufficiency and abnormal vitamin D activity [
+7
+]. The degree to which VDR is expressed varies among tissues, determining the vitamin D’s degree of effect [
+8
+].
+
+Vitamin D plays a crucial role in the formation and upkeep of robust bone structure, with the underlying mechanisms governing its effects well elucidated. Specifically, the active form of vitamin D, 1,25(OH)2D3, facilitates the absorpti
+
+----
+
+limitations and strengths. Direct measurement of solar radiation exposure for participants was not conducted, which prevents accurate quantification and individualization of the effect of outdoor physical activity on vitamin D status. However, since the runners exercised in good weather during daylight hours, it is likely that the observed differences were due to outdoor exercise. The sample size was relatively small. However, despite these constraints, this study was adequately powered (0.81) to detect significant differences in key outcomes, including a significant difference in vitamin D levels between the two groups. Despite these limitations, this study provides a unique comparison of vitamin D status, immune markers, and performance metrics between runners and sedentary individuals during the autumn season, offering insight into seasonal effects on these parameters.
+
+This study provides valuable insights into the vitamin D status of healthy young sedentary individuals and runners, enhancing the understanding of how physical activity influences vitamin D levels. All participants generally found inadequate vitamin D levels, but runners had higher vitamin D levels than reported in the literature for athletes. Furthermore, most subjects with an insufficient/deficient vitamin D level were not runners.
+
+A novel finding of this work is the identification of monocyte count as a significant predictor of vitamin D levels in both male and female participants, suggesting a potential biomarker for understanding vitamin D’s role in immune modulation across different activity levels. In conclusion, the data indicate that both runners and non-runners face a potential risk of vitamin D insufficiency or deficiency during the autumn season. This underscores the need for additional research to explore the complex interplay between low vitamin D levels, immune function, inflammatory responses, and physical performance. Although direct clinical guidelines are not yet established, our findings suggest that physical activity may significantly influence immune profiles. To fully understand these implications for athletic health and performance, future longitudinal studies with larger sample sizes will be essential, providing deeper insight into how vitamin D status and activity levels collectively shape immune function and overall health.
+
+Acknowledgments
+
+We thank the support of the technical staff in the person of Eugenio Grassi, and we also thank the BioLab Analysis laboratory of Pesaro for the blood analyses.
+
+Disclaimer/Publisher’s Note:
+ The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+Author Contributions
+
+F.P.: Conceptualization, Investigation, Methodology, Project administration, Supervision, Writing—original draft, Writing—review and editing. S.D.Z.: Data curation, Methodology, Supervision, Writing—original draft, Writing—review and editing. M.G.: Conceptualization, Data curation, Formal Analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing—original draft, Writing—review and editing. E.F.-P.: Conceptualization, Data curation, Formal Analysis, Investigation, Methodology, Resources, S
+
+----
+
+
+Acknowledgments
+
+We thank the support of the technical staff in the person of Eugenio Grassi, and we also thank the BioLab Analysis laboratory of Pesaro for the blood analyses.
+
+Disclaimer/Publisher’s Note:
+ The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+Author Contributions
+
+F.P.: Conceptualization, Investigation, Methodology, Project administration, Supervision, Writing—original draft, Writing—review and editing. S.D.Z.: Data curation, Methodology, Supervision, Writing—original draft, Writing—review and editing. M.G.: Conceptualization, Data curation, Formal Analysis, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing—original draft, Writing—review and editing. E.F.-P.: Conceptualization, Data curation, Formal Analysis, Investigation, Methodology, Resources, Software, Supervision, Writing—original draft, Writing—review and editing. G.A.: Data curation, Investigation, Methodology, Supervision, Writing—original draft, Writing—review and editing. A.B.: Data curation, Investigation, Methodology, Writing—review and editing. E.F.: Data curation, Investigation, Methodology, Writing—review and editing. D.A.: Conceptualization, Methodology, Supervision, Writing—original draft, Writing—review and editing. C.B.: Formal Analysis, Investigation, Writing—review and editing. P.S.: Formal Analysis, Project administration, Writing—review and editing. A.P.: Data curation, Software, Writing—review and editing. V.S.: Supervision, Writing—review and editing. R.G.B.: Conceptualization, Formal Analysis, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing—review and editing. All authors have read and agreed to the published version of the manuscript.
+
+Institutional Review Board Statement
+
+The study was conducted in accordance with the Declaration of Helsinki, and approved by the The Ethics Committee for Human Experimentation (CESU) of the University of Urbino Carlo Bo (54_24gennaio2023_running D+, approval date 3 April 2023).
+
+Informed Consent Statement
+
+Informed consent was obtained from all subjects involved in this study.
+
+Data Availability Statement
+
+The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+References
+
+1.
+
+Agostini
+
+D.
+
+Donati Zeppa
+
+S.
+
+Vitamin D, Diet and Musculoskeletal Health
+
+Nutrients
+
+2023
+
+15
+
+2902
+
+10.3390/nu15132902
+
+37447228
+
+PMC10346490
+
+2.
+
+Holick
+
+M.F.
+
+Mazzei
+
+L.
+
+García Menéndez
+
+S.
+
+Martín Giménez
+
+V.M.
+
+Al Anouti
+
+F.
+
+Manucha
+
+W.
+
+Genomic or Non-Genomic? A Question about the Pleiotropic Roles of Vitamin D in Inflammatory-Based Diseases
+
+Nutrients
+
+2023
+
+15
+
+767
+
+10.3390/nu15030767
+
+36771473
+
+PMC9920355
+
+3.
+
+Hii
+
+C.
+
+Ferrante
+
+A.
+
+The Non-Genomic Actions of Vitamin D
+
+Nutrients
+
+2016
+
+8
+
+135
+
+10.3390/nu8030135
+
+26950144
+
+PMC4808864
+
+4.
+
+Owens
+
+D.J.
+
+Allison
+
+R.
+
+Close
+
+G.L.
+
+Vitamin D and the Athlete: Current Perspectives and New Challenges
+
+Sports Med.
+
+2018
+
+48
+
+3
+
+16
+
+10.1007/s40279-017-0841-9
+
+29368183
+
+PMC5790847
+
+5.
+
+Agostini
+
+D.
+
+Gervasi
+
+M.
+
+Ferrini
+
+F.
+
+Bartolacci
+
+A.

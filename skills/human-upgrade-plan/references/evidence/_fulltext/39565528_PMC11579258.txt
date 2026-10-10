@@ -1,0 +1,898 @@
+
+Abstract
+
+Background
+
+Most sex comparisons in endurance sports have been derived from performance-matched groups of female and male athletes competing over similar distances within summer sports. Corresponding analyses of sex differences in winter endurance sports have not previously been conducted. In the Olympic Winter Games (OWG), the endurance sports include cross-country skiing (XCS), biathlon (BIA), Nordic combined (NC), ski mountaineering (SkiMo) and long-track speed skating (SpSk). The aim of this narrative review is to provide a comprehensive analysis of the sex differences in performance and performance-determining factors in the OWG endurance sports.
+
+Main Body
+
+Sex differences in competition speeds are ~ 7–16% in XCS, 12–16% in BIA and 7–11% in SpSk, with race distances often shorter for women compared to men. No comparable data have been published for NC or SkiMo. Slower skiing speeds among women are associated with greater use of the diagonal and gear 2 sub-techniques in classic and skate skiing, respectively. In SpSk, slower skating speeds among women may be related to a less effective push-off being maintained throughout races. Laboratory data have revealed absolute and relative peak aerobic capacity to be 30–63% and 10–27% greater, respectively, in male versus female XCS, BIA, NC, SkiMo and SpSk athletes. There is limited evidence of sex differences in training characteristics, although women currently tend to complete more strength training than men in XCS and BIA. Of note, most data have been derived from studies performed in XCS, with almost no studies investigating sex differences in NC or SkiMo.
+
+Conclusions
+
+This review provides a comprehensive overview of sex differences in performance and performance-determining factors within and between OWG endurance sports, which provides a scientific basis for designing training programs and future studies. Due to the lack of research investigating sex differences in NC and SkiMo, these sports, in particular, would be worthy of further attention.
+
+Key Points
+
+This narrative review provides a novel and comprehensive analysis of sex differences in performance and performance-determining factors in the Olympic winter endurance sports.
+
+Sex differences in competition speeds are ~ 7–16% in cross-country skiing, biathlon and speed skating, while no comparable data were available for Nordic combined or ski mountaineering.
+
+Since men have historically skied and skated over greater distances than women in cross-country skiing, biathlon and speed skating competitions, the “true” sex differences in performance are likely larger than the differences reported in the literature, therefore exceeding the differences typically reported for summer endurance sports.
+
+Most information about sex differences in Olympic winter endurance sports is based on studies performed in cross-country skiing. The conspicuous lack of information on Nordic combined and ski mountaineering warrants further research in these sports.
+
+Supplementary Information
+
+The online version contains supplementary material available at 10.1186/s40798-024-00792-8.
+
+Keywords:
+ Gender, Cross-country skiing, Biathlon, Ski mountaineering, Speed skating, Nordic combined
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2024 Feb 8; Accepted 2024 Oct 31; Collection date 2024 Dec.
+
+Background
+
+Only 4% of the competitors at the first Ol
+
+----
+
+
+Methods
+
+Article databases including ScienceDirect, the US National Library of Medicine (PubMed) and SPORTDiscus were searched until 22nd December 2023 using the terms: gender OR sex differences AND cross-country skiing OR biathlon OR ski mountaineering OR speed skating OR Nordic combined. Additional relevant literature was then obtained from the reference lists of the published articles. Seven expert researchers with published studies involving at least one of the five included sports also suggested additional articles that could be considered for inclusion. The inclusion criteria were peer-reviewed scientific articles that contained: (1) information about sex differences in performance, performance-determining factors and/or training characteristics in one or more of the five included sports; (2) highly trained/national level (or higher) senior athletes (> 19 years old), which corresponds to tier 3 or higher using the participant classification framework of McKay et al. [
+12
+] and/or competitive junior athletes aged 15–19 years old. In total, 62 studies were included in this review and of these, 34 (55%) included information about athletes from XCS, 15 (24%) from BIA, 2 (3%; men only) from NC, 3 (5%) from SkiMo and 16 (26%) from SpSk (Fig. 
+1
+). Details of the screened papers are provided in Supplementary Table 1.
+
+Fig. 1
+
+The distribution of winter Olympic endurance sports featured in the 62 studies included in this narrative review
+
+Competition Formats of the Olympic Winter Endurance Sports
+
+The five OWG endurance sports discussed in this review will account for 43 (37%) of the 116 gold medals (including 19 events for women, 22 events for men, and 2 mixed-sex events) at the Milano Cortina 2026 OWG. Nordic skiing as a form of locomotion features as a key component in XCS, BIA and NC and will play a role in 26 (60%) of the 43 OWG endurance events. The skating technique is used in XCS, BIA and NC events, while classic skiing is only performed in XCS. Differences in maturity of the various OWG endurance events, and fewer years of inclusion for women compared with men, may influence the current standards achieved by the two sexes. Although women are now included in four of the five OWG endurance sports (i.e., all except NC), women have typically competed in fewer events and over shorter distances and durations than men. The separate events within each sport for women and men are presented in Table 
+1
+, including information about the year they first featured in the OWG, the distances covered in each event and the typical event durations. In the following sub-sections, we explain the competitive formats and demands for female and male athletes in each of these sports.
+
+Cross-Country Skiing
+
+The competition formats in XCS include sprint (involving a time-trial qualification followed by head-to-head knockout heats and a final), individual time trials, mass-start races, team sprints and relays (Table 
+1
+), all performed over undulating terrain, with ~ 50% of the race time spent skiing uphill. Until the 2022/23 season women competed over substantially shorter distances than men in the International Ski Federation (FIS) World Cup and as a result, distance-race durations were shorter and covered a narrower range for women (~ 25–75 min) compared to men (~ 35–120 min) [
+13
+]. FIS recently decided that women and men will compete over equal distances in the World Cup from the start of the 2022/23 season, making recent competition durations 10–15% 
+
+----
+
+
+Methods
+
+Article databases including ScienceDirect, the US National Library of Medicine (PubMed) and SPORTDiscus were searched until 22nd December 2023 using the terms: gender OR sex differences AND cross-country skiing OR biathlon OR ski mountaineering OR speed skating OR Nordic combined. Additional relevant literature was then obtained from the reference lists of the published articles. Seven expert researchers with published studies involving at least one of the five included sports also suggested additional articles that could be considered for inclusion. The inclusion criteria were peer-reviewed scientific articles that contained: (1) information about sex differences in performance, performance-determining factors and/or training characteristics in one or more of the five included sports; (2) highly trained/national level (or higher) senior athletes (> 19 years old), which corresponds to tier 3 or higher using the participant classification framework of McKay et al. [
+12
+] and/or competitive junior athletes aged 15–19 years old. In total, 62 studies were included in this review and of these, 34 (55%) included information about athletes from XCS, 15 (24%) from BIA, 2 (3%; men only) from NC, 3 (5%) from SkiMo and 16 (26%) from SpSk (Fig. 
+1
+). Details of the screened papers are provided in Supplementary Table 1.
+
+Fig. 1
+
+The distribution of winter Olympic endurance sports featured in the 62 studies included in this narrative review
+
+Competition Formats of the Olympic Winter Endurance Sports
+
+The five OWG endurance sports discussed in this review will account for 43 (37%) of the 116 gold medals (including 19 events for women, 22 events for men, and 2 mixed-sex events) at the Milano Cortina 2026 OWG. Nordic skiing as a form of locomotion features as a key component in XCS, BIA and NC and will play a role in 26 (60%) of the 43 OWG endurance events. The skating technique is used in XCS, BIA and NC events, while classic skiing is only performed in XCS. Differences in maturity of the various OWG endurance events, and fewer years of inclusion for women compared with men, may influence the current standards achieved by the two sexes. Although women are now included in four of the five OWG endurance sports (i.e., all except NC), women have typically competed in fewer events and over shorter distances and durations than men. The separate events within each sport for women and men are presented in Table 
+1
+, including information about the year they first featured in the OWG, the distances covered in each event and the typical event durations. In the following sub-sections, we explain the competitive formats and demands for female and male athletes in each of these sports.
+
+Cross-Country Skiing
+
+The competition formats in XCS include sprint (involving a time-trial qualification followed by head-to-head knockout heats and a final), individual time trials, mass-start races, team sprints and relays (Table 
+1
+), all performed over undulating terrain, with ~ 50% of the race time spent skiing uphill. Until the 2022/23 season women competed over substantially shorter distances than men in the International Ski Federation (FIS) World Cup and as a result, distance-race durations were shorter and covered a narrower range for women (~ 25–75 min) compared to men (~ 35–120 min) [
+13
+]. FIS recently decided that women and men will compete over equal distances in the World Cup from the start of the 2022/23 season, making recent competition durations 10–15% 
+
+----
+
+results, shooting two prone then two standing
+
+Individual
+
+1992
+
+1960
+
+15 (5 × 3)
+
+20 (5 × 4)
+
+41.5–43
+
+44.5–48
+
+Individual start, shooting two prone then two standing
+
+Mass start
+
+2006
+
+2006
+
+12.5 (5 × 2.5)
+
+15 (5 × 3)
+
+34–37.5
+
+36–38.5
+
+Mass start, shooting two prone then two standing
+
+Relay
+
+1992
+
+1968
+
+4 × 6 (3 × 2)
+
+4 × 7.5 (3 × 2.5)
+
+4 × (17.5–19)
+
+4 × (18.5–20.5)
+
+Mass start, four same-sex biathletes each shooting prone then standing
+
+Mixed relay
+
+2014
+
+2014
+
+2 × 6 (3 × 2)
+
+2 × 7.5 (3 × 2.5)
+
+2 × (16–18.5)
+
+2 × (18–19.5)
+
+Mass start, two women and two men, each shooting prone then standing
+
+NC
+c
+
+Individual large hill
+
+NI
+
+2002
+
+–
+
+10
+
+–
+
+23–25
+
+Two jumps (hill size 110–184 m) followed by XC skiing
+
+Individual normal hill
+
+NI
+
+1924
+
+–
+
+7.5
+
+–
+
+17–19
+
+One jump (hill size 85–109 m) followed by XC skiing
+
+Team relay
+
+NI
+
+1988
+
+–
+
+4 × 5
+
+–
+
+4 × 12–14
+
+One jump for each athlete (hill size 110–184 m) followed by a skiing relay
+
+SkiMo
+d
+
+Sprint
+
+2026
+
+2026
+
+–
+
+–
+
+3–4
+
+3–4
+
+Knockout heats, each with six skiers
+
+Mixed relay
+
+2026
+
+2026
+
+–
+
+–
+
+–
+
+–
+
+Mass start, two women and two men
+
+SpSk
+b
+
+500 m
+
+1960
+
+1924
+
+0.5
+
+0.5
+
+0.6–0.7
+
+0.5–0.6
+
+Starting in pairs (two runs, one race starting in the outer lane and one in the inner)
+
+1000 m
+
+1960
+
+1976
+
+1
+
+1
+
+1.2–1.3
+
+1.1–1.2
+
+Starting in pairs (one run)
+
+1500 m
+
+1960
+
+1924
+
+1.5
+
+1.5
+
+1.6–1.7
+
+1.9–2.0
+
+Starting in pairs (one run)
+
+3000/5000 m
+
+1960
+
+1924
+
+3
+
+5
+
+3.9–4.2
+
+6.0–6.3
+
+Starting in pairs (one run)
+
+5000/10000 m
+
+1988
+
+1924
+
+5
+
+10
+
+6.7–7.0
+
+12.5–13.0
+
+Starting in pairs (one run)
+
+Mass start
+
+2018
+
+2018
+
+6.4
+
+6.4
+
+8.5–9.0
+
+7.8–8.5
+
+Mass start with 12–16 skaters starting at the same time with sprint points every 4th lap
+
+Team pursuit
+
+2006
+
+2006
+
+2.4
+
+3.2
+
+3.6–3.9
+
+2.9–3.2
+
+Two teams of three same-sex skaters starting on each side of the track
+
+XCS
+ cross-country skiing; 
+BIA
+ biathlon; 
+NC
+ Nordic combined; 
+SkiMo
+ ski mountaineering; 
+SpSk
+ long-track speed skating; 
+NI
+: not included
+
+a
+Some of the event distances have been modified since their original inclusion in the Olympic Winter Games
+
+b
+Based on distances and durations in World Cup races during the 2022/23 season
+
+c
+Based on distances and durations at the 2022 Olympic Winter Games in Beijing
+
+d
+Based on data from the World Championships in 2021
+
+Methods
+
+Article databases including ScienceDirect, the US National Library of Medicine (PubMed) and SPORTDiscus were searched until 22nd December 2023 using the terms: gender OR sex differences AND cross-country skiing OR biathlon OR ski mountaineering OR speed skating OR Nordic combined. Additional relevant literature was then obtained from the reference lists of the published articles. Seven expert researchers with published studies involving at least one of the five included sports also suggested additional articles that could be considered for inclusion. The inclusion criteria were peer-reviewed scientific articles that contained: (1) information about sex differences in performance, performance-determining factors and/or training characteristics in one or more of the five included sports; (2) highly trained/national level (or higher) senior athletes (> 19 years old), which corresponds to tier 3 or higher using the participant classification framework of McKay et al. [
+12
+] and/or competitive junior athletes aged 15–19 years old. In total, 62 studies were included in this review and of these, 34 (55%) included information about athletes from XCS, 15 (24%) from BIA, 2 (3%; men only) from 
+
+----
+
+discussion. Measurements are typically reported in absolute terms (L·min
+−1
+) and/or relative to body mass (mL·kg
+−1
+·min
+−1
+) and, due to lower average body masses in women compared to men, sex differences are considerably smaller for relative versus absolute measurements of VO
+2peak
+.
+
+When running or treadmill roller skiing using different sub-techniques (DIA, DP, G2 or G3), sex differences in VO
+2peak
+ in junior and tier 3–5 senior XCS athletes have been reported to be 30–63% and 10–27% for absolute and relative measures, respectively (Fig. 
+2
+). Compared to XCS, fewer studies have compared the VO
+2peak
+ values of women and men in BIA. However, existing data demonstrate a similar pattern across the two sports, with significantly larger absolute and relative VO
+2peak
+ values recorded in men versus women by magnitudes of ∼ 36–56% and ∼ 18–27%, respectively, during treadmill running [
+72
+, 
+73
+] and treadmill roller skiing using the G3 skate technique [
+74
+, 
+75
+]. Tønnessen et al. [
+72
+] also reported data for male NC athletes, who demonstrated significantly lower absolute VO
+2peak
+ values compared to male XCS and BIA athletes. However, we are not aware of any sex comparisons of VO
+2peak
+ for NC. In SkiMo, one recent study of tier 3–4 athletes showed sex differences of 31% and 13% in absolute and relative VO
+2peak
+, respectively [
+76
+]. Comparable data were also reported for XCS and BIA athletes in that study, revealing sex differences in absolute and relative VO
+2peak
+ of 39% and 13–22%, respectively. A series of early studies in SpSk showed similar sex differences in absolute (39–48%) and relative (12–25%) VO
+2peak
+ values obtained during cycle ergometry [
+60
+, 
+62
+, 
+63
+, 
+77
+, 
+78
+]. The large range in sex differences reported for absolute VO
+2peak
+ values is related to the large differences (∼ 10–40%) in body masses across studies. The smallest sex differences in body mass and relative VO
+2peak
+ were typically observed in junior XCS athletes, while the largest sex differences in absolute values were observed in senior XCS sprinters.
+
+Fig. 2
+
+Overview of sex differences in relative and absolute peak oxygen uptake (VO
+2peak
+) values derived from 24 studies of cross-country skiing (XCS) [
+23
+, 
+39
+, 
+48
+, 
+49
+, 
+58
+, 
+59
+, 
+66
+–
+69
+, 
+72
+, 
+73
+, 
+76
+, 
+80
+–
+90
+], six studies of biathlon (BIA) [
+67
+, 
+72
+–
+76
+], two studies of Nordic combined (NC) [
+72
+, 
+82
+], one study of ski mountaineering (SkiMo) [
+76
+] and five studies of long-track speed skating (SpSk) [
+60
+–
+63
+, 
+77
+]. Studies are organized by sport, athlete tier level, athlete specialization (dis: distance; sp: sprint), exercise mode (run: running; cy: cycling; DIA: diagonal stride; G2: gear 2; G3: gear 3; DP: double poling; upDP: upper-body double poling; NR: no rifle; WR: with rifle) and test protocol (INC: incremental protocol; TT: time trial)
+
+Due to the greater use of DP in modern XCS racing, VO
+2peak
+ measured during DP has received increased attention in recent years. Sandbakk et al. [
+48
+] reported that male XCS sprint athletes obtained a higher VO
+2peak
+ in DP relative to their running VO
+2peak
+ compared to their female counterparts (89% and 86% for men and women, respectively). Similar findings were reported by Hegge et al. [
+68
+], where male XCS athletes utilized a higher proportion of their treadmill running VO
+2peak
+ during a 3-min upper-body DP performance test (76 and 67% for men and women, respectively). Furthermore, Hegge et al. [
+69
+] reported that the sex 
+
+----
+
+
+Conclusions
+
+This review provides a comprehensive overview of sex differences in performance and performance-determining factors within and between OWG endurance sports, which provides a scientific basis for designing training programs and future studies. Due to the lack of research investigating sex differences in NC and SkiMo, these sports, in particular, would be worthy of further attention.
+
+Key Points
+
+This narrative review provides a novel and comprehensive analysis of sex differences in performance and performance-determining factors in the Olympic winter endurance sports.
+
+Sex differences in competition speeds are ~ 7–16% in cross-country skiing, biathlon and speed skating, while no comparable data were available for Nordic combined or ski mountaineering.
+
+Since men have historically skied and skated over greater distances than women in cross-country skiing, biathlon and speed skating competitions, the “true” sex differences in performance are likely larger than the differences reported in the literature, therefore exceeding the differences typically reported for summer endurance sports.
+
+Most information about sex differences in Olympic winter endurance sports is based on studies performed in cross-country skiing. The conspicuous lack of information on Nordic combined and ski mountaineering warrants further research in these sports.
+
+Supplementary Information
+
+The online version contains supplementary material available at 10.1186/s40798-024-00792-8.
+
+Keywords:
+ Gender, Cross-country skiing, Biathlon, Ski mountaineering, Speed skating, Nordic combined
+
+status
+
+released
+
+display-pdf
+
+yes
+
+is-olf
+
+no
+
+is-manuscript
+
+no
+
+is-preprint
+
+no
+
+is-journal-matter
+
+no
+
+is-scanned
+
+no
+
+is-retracted
+
+no
+
+Received 2024 Feb 8; Accepted 2024 Oct 31; Collection date 2024 Dec.
+
+Background
+
+Only 4% of the competitors at the first Olympic Winter Games (OWG) held in 1924 in Chamonix were women. At the Beijing 2022 OWG, female participation had risen to 45% and at the Milano Cortina 2026 OWG this proportion is expected to be 47%, with women competing for 43% of the 116 gold medals on offer [
+1
+]. Increases in female representation have been accompanied by a development in the professionalization of women’s sports and a reduction in sex differences in performance. In Olympic running events, for example, the sex gap in world record performances decreased from ~ 30% in the early 1920s to ~ 11% in the mid-1980s [
+2
+]. More recently, performance differences of 8–12% have been demonstrated between women and men in summer endurance sports [
+3
+, 
+4
+]. Physically, sex differences in endurance performance are primarily driven by high levels of testosterone produced by the testes during male puberty, which leads to differences in body size and body composition and higher hemoglobin concentrations in men versus women [
+3
+, 
+5
+, 
+6
+]. These factors are associated with differences in energy delivery capacity, with higher peak (VO
+2peak
+) and maximal (VO
+2max
+) oxygen uptake values and more skeletal muscle mass for generating metabolic energy in men [
+7
+–
+9
+]. However, sex differences in other performance-determining factors, such as markers of fractional utilization of VO
+2max
+ and work economy/efficiency, are less clear [
+6
+, 
+10
+]. In addition, our understanding of sex differences in biomechanical variables and training characteristics is currently limited.
+
+Most sex comparisons in elite athlete populations have been conducted in performance-matched groups of w
+
+----
+
+practical difference between the sexes. In a more recent study of adolescent, junior and senior XCS athletes, Sollie et al. [
+58
+] reported AOD during a similar 3-min maximal treadmill TT using the G2 sub-technique. Again, no significant sex differences were observed, but moderate to large effect sizes indicated a potentially higher AOD in the male versus female athletes in all three age groups. In BIA, Laaksonen et al. [
+74
+] used the GE method to calculate AOD and found similar results during a 900-m (for women)/1000-m (for men) maximal treadmill TT using the G3 technique, whereby the sex differences were not significant (49.2 ± 9.9 and 57.7 ± 15.5 mL/kg for the female and male athletes, respectively) but the effect size was moderate.
+
+In summary, a tendency for a higher AOD in male XCS and BIA athletes is evident, and this is likely related to the greater muscle mass relative to fat mass in men compared to women, which facilitates greater anaerobic energy turnover. However, the three original studies presented in this sub-section have all highlighted large standard deviations around the means, despite the homogeneous participant groups, which reflects the potential for measurement error when estimating AOD. No studies of sex differences in AOD are available for NC, SkiMo or SpSk.
+
+Efficiency of Movement
+
+In tier 3–5 XCS and BIA athletes, GE increases at steeper inclines and has been shown to differentiate performance levels within both sexes [
+58
+, 
+83
+, 
+87
+, 
+95
+, 
+96
+]. Other studies have not related GE to athletic performance [
+24
+, 
+35
+]. Female and male XCS and BIA athletes matched for performance level (using FIS and IBU points) are normally not significantly different across different exercise modes, at least when corrected for differences in work rate between the sexes [
+39
+, 
+58
+, 
+69
+, 
+74
+, 
+87
+]. One study showed a 27% greater delta efficiency for female compared to male skiers during treadmill roller skiing using the DP sub-technique [
+88
+]. However, besides fundamental issues with interpreting delta efficiency [
+97
+], this study was performed on only four women and four men and performance levels were not matched between the sexes. Similar efficiency between sexes in XCS and BIA is consistent with data previously reported for summer endurance sports [
+3
+]. Of note, no efficiency data comparing sexes have been reported for the other OWG endurance sports.
+
+Sex Differences in Training
+
+Training Characteristics
+
+Many studies have retrospectively reported training characteristics in endurance athletes, yet very few have compared women and men or provided material that can be used for valid sex comparisons of performance-matched athletes in OWG endurance sports. In a study of tier 4–5 biathletes, higher annual training volumes (821 vs. 728 h) were reported in women compared to men [
+93
+]. The women were reported to complete more strength and speed training, but a lower proportion of high-intensity training (HIT) and specific training (i.e., roller skiing and on-snow skiing). Similar findings were reported in a follow-up study with a larger sample of tier 4–5 XCS and BIA athletes, with a higher number of annual training days and significantly more training volume (864 vs. 843 h/year) in women compared to men [
+73
+]. In this study no sex differences were observed in gym strength training volume, but the women performed more upper body endurance training and speed training, and the men performed more moderate-intensity training
+
+----
+
+
+Acknowledgements
+
+The authors sincerely thank our expert panel (Dr. Erik Andersson, Dr. Glenn Björklund, Prof. Florentina Hettinga, Dr. Malin Jonsson Kårström, Prof. Marko Laaksonen, Prof. Thomas Losnegard, Dr. Jos de Koning, and Dr. Dionne Noordhof) for helping with the screening of papers and feedback on parts of the manuscript.
+
+Abbreviations
+
+AOD
+
+Accumulated oxygen deficit
+
+BIA
+
+Biathlon
+
+[BLa]
+
+Blood lactate concentration
+
+CL
+
+Cycle length
+
+CR
+
+Cycle rate
+
+DIA
+
+Diagonal stride
+
+DK
+
+Double poling with kick
+
+DP
+
+Double poling
+
+FIS
+
+International Skiing Federation
+
+G2-5
+
+Sub-technique gears 2 to 5
+
+GE
+
+Gross efficiency
+
+HIT
+
+High-intensity training
+
+HR
+
+Heart rate
+
+HR
+max
+
+Maximal heart rate
+
+IBU
+
+International Biathlon Union
+
+INC
+
+Incremental test protocol
+
+ISMF
+
+International Ski Mountaineering Federation
+
+ISU
+
+International Skating Union
+
+LBM
+
+Lean body mass
+
+LIT
+
+Low-intensity training
+
+MAOD
+
+Maximal accumulated oxygen deficit
+
+MIT
+
+Moderate-intensity training
+
+NC
+
+Nordic combined
+
+OWG
+
+Olympic Winter Games
+
+REDs
+
+Relative energy deficiency in sports
+
+SkiMo
+
+Ski mountaineering
+
+SpSk
+
+Long-track speed skating
+
+TT
+
+Time trial
+
+VO
+2max
+
+Maximal oxygen uptake
+
+VO
+2peak
+
+Peak oxygen uptake
+
+XCS
+
+Cross-country skiing
+
+Author Contributions
+
+GSS, ØS and KM designed the study; GSS performed the screening of papers; GSS, ØS and KM contributed to interpretation of the results; GSS, ØS and KM wrote the draft manuscript; GSS, ØS and KM contributed to the final manuscript.
+
+Funding
+
+Open access funding provided by Nord University. No external funding was received for conducting this study.
+
+Availability of Data and Material
+
+All original data are freely available in the electronic supplementary material 1.
+
+Declarations
+
+Ethics Approval and Consent to Participate
+
+As this is a narrative review, we did not directly interact with human subjects for this study.
+
+Consent for Publication
+
+As this is a narrative review, we did not directly interact with human subjects for this study.
+
+Competing Interests
+
+The authors declare that this research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Footnotes
+
+Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Change history
+
+12/16/2024
+
+A Correction to this paper has been published: 10.1186/s40798-024-00805-6
+
+References
+
+1.
+
+IOC. Milano Cortina 2026 set to become the most gender-balanced Olympic Winter Games in history. IOC 2023 [Accessed 24.10.2023]; Available from: 
+https://olympics.com/ioc/news/milano-cortina-2026-set-to-become-the-most-gender-balanced-olympic-winter-games-in-history
+
+2.
+
+Thibault V, Guillaume M, Berthelot G, Helou NE, Schaal K, Quinquis L, et al. Women and men in sport performance: The gender gap has not evolved since 1983. J Sports Sci Med. 2010;9(2):214–23.
+
+3.
+
+Sandbakk Ø, Solli GS, Holmberg HC. Sex differences in world-record performance: The influence of sport discipline and competition duration. Int J Sports Physiol Perform. 2018;13(1):2–8.
+
+4.
+
+Hallam LC, Amorim FT. Expanding the gap: An updated look into sex differences in running performance. Front Physiol. 2021;12:804149.
+
+5.
+
+Joyner MJ. Physiological limits to endurance exercise performance: influence of sex. J Physiol. 2017;595(9):2949–54.
+
+6.
+
+Hunter SK, Siddhartha SA, Bhargava A, Harper J, Hirschberg AL, Bermon DL, et al. The biological basis of sex
