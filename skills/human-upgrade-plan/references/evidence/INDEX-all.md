@@ -16,7 +16,8 @@
 | 自行车 / 椭圆交叉训练 | **11 条** | 伤停保摄氧、替换而非叠加、骑不长骨、椭圆肌电低于跑、精英健身房椭圆个案（禁止抄小时） |
 | 开课闸门：生病 / 空气 / 跑台 | **9 条** | 发烧停质量、neck check 无效、PM2.5 而非中国/美国混用 AQI、室内跑台不抄公路配速 |
 | 跑步穿搭 / IREQ 热平衡 | **11 条** | ACSM 冷环境、ISO IREQ（跑/停分段算）、Castellani & Tipton 2016 专章、湿+低强度掉核心、Havenith 有效 clo、Campbell 2018 否定 open window、Kenny 练后体温调节 |
-| **合计** | **184 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| 胸带 / 臂带 / 跑步豆 | **6 条** | 间歇优先胸带、臂带主段约 ±9 bpm、10°C 气候箱光学未崩、腕式短窗口误差大、豆不当阈值 |
+| **合计** | **190 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -116,6 +117,7 @@
 | 热 / 高原 | 专项卡 | [heat-acclimation-2024](heat-acclimation-2024.md) · [altitude-2023](altitude-2023.md) |
 | 感冒发烧、雾霾、室内跑台 | 闸门手册 + 9 条 | [session-gate-framework](../session-gate-framework.md) · [env-illness-core](env-illness-core.md) EI01–EI09 |
 | 穿搭、冬天衣服、换季着凉、IREQ | 穿搭手册 + 11 条 | [run-clothing-framework](../run-clothing-framework.md) · [clothing-core](clothing-core.md) CL01–CL11 |
+| 胸带 臂带 跑步豆 光学心率 | 配件手册 + 6 条 | [hardware-kit-framework](../hardware-kit-framework.md) · [hardware-kit-core](hardware-kit-core.md) HW01–HW06 |
 | 女性耐力 | 专项 + 冬季包 12 | [female-endurance-2024](female-endurance-2024.md) |
 
 ---
@@ -144,6 +146,7 @@
 | 跑步机 室内跑 1%坡 | env-illness EI09 · 热身手册室内档 |
 | 穿什么 围脖 手套 换季 湿衣服 着凉 IREQ | [run-clothing-framework](../run-clothing-framework.md) · clothing-core CL01–CL11 |
 | 手表 功率 Stryd HRV | wearable-models-2025 · wearables-devices-core |
+| 胸带 臂带 心率带 跑步豆 佩戴 | [hardware-kit-framework](../hardware-kit-framework.md) · hardware-kit-core HW01–HW06 |
 | 膝 跟腱 防伤 能不能跑 | [injury-load-framework](../injury-load-framework.md) · iwr-core · 回归树 |
 | 健身房椭圆机 自行车 交叉训练 伤停 Ingebrigtsen Wodak | [cross-train-framework](../cross-train-framework.md) · [xt-core](xt-core.md) XT11 |
 | 热身 静态拉伸 动态 100米 800 马拉松 气温 | [warmup-recovery-framework](../warmup-recovery-framework.md) 地点天气×人群 · IWR04/16–34 |
