@@ -1,7 +1,7 @@
 # 赛事预测与赛日策略
 
 核验日期：2026-10-10。  
-证据：[race-prep-core](evidence/race-prep-core.md) RP24–RP28；热身见 [warmup-recovery-framework](warmup-recovery-framework.md)；热习服见 [heat-acclimation-2024](evidence/heat-acclimation-2024.md)。  
+证据：[race-prep-core](evidence/race-prep-core.md) RP24–RP28；热身见 [warmup-recovery-framework](warmup-recovery-framework.md)；热习服见 [heat-acclimation-2024](evidence/heat-acclimation-2024.md)；饮水与咖啡因见 [hydrate-caffeine-framework](hydrate-caffeine-framework.md)。  
 不是天气预报、不是医疗许可、不许诺成绩。
 
 有比赛日期时：备赛阶段仍走 [race-prep-framework](race-prep-framework.md)。**赛前 14 天内、赛晨、用户问「能跑进多少」**，加载本文件。
@@ -87,7 +87,9 @@ WBGT/湿球黑球温度最贴近研究；用户通常只有气温+湿度。操�
 | 全马 | 前半 **慢于** 目标配速；勿用半马配速开 | 吃得下、步频稳 | 30 km 后只允许保守→中位，不允许突然加速搏 PB |
 | 越野 | 前几爬走路合法 | 按心率/RPE 不按平路配速 | 大下坡留神经，不要用配速表往下砸 |
 
-补给：只执行长课彩排过的方案。赛晨不试新胶、新糖、新抗炎药。
+补给：只执行长课彩排过的方案。赛晨不试新胶、新糖、新抗炎药。  
+**饮水**抄 [补水与咖啡因](hydrate-caffeine-framework.md)：大众口渴喝；体重涨了就是喝多了；手肿头痛停，不要再灌。  
+**咖啡因**：仅用训练里成功过的 3–6 mg/kg、开跑前约 60 min；赛晨不新试；未满 18 不给片剂方案。
 
 ---
 

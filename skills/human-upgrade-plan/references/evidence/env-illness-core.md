@@ -1,6 +1,6 @@
 # 证据包：急性生病回归 × 空气质量 × 跑台
 
-核验日期：2026-10-11。操作：[session-gate-framework](../session-gate-framework.md)。  
+核验日期：2026-10-11。操作：[session-gate-framework](../session-gate-framework.md)（含 1.1 病假接训）。  
 不是诊断。应用按大众 / 伤后气道敏感 / 进阶分开。
 
 ---
@@ -134,3 +134,55 @@ Jones 1996：n=9 男，约 10.5–18 km/h 时 1% 近似室外能耗——**不�
 
 **今天这堂课** 只写 PM2.5 μg。用户只给 AQI：按手册 2.2 换成 μg 再改课；说不清来源就当国内口径。  
 **阅读深度**：标准表全文断点。小时报与 24h 断点不完全同一套，仍禁止混用两国指数。
+
+---
+
+### EI11 短停训（<4 周）：有氧先掉，力量掉得慢
+
+**Mujika I, Padilla S. Detraining: loss of training-induced physiological and performance adaptations. Part I: short term insufficient training stimulus.** Sports Med. 2000;30(2):79-87. PMID [10966148](https://pubmed.ncbi.nlm.nih.gov/10966148/) DOI [10.2165/00007256-200030020-00002](https://doi.org/10.2165/00007256-200030020-00002)  
+证据类型：叙述综述
+
+**一句话精华**  
+短停（不足 4 周）在**高度训练者**身上：摄氧大约掉 **4–14%**，血容量和每搏量先掉，运动心率补不上，耐力表现一起差；刚练不久的人掉得更轻（文中约 **3.6–6% / 2–4 周**）。肌糖、氧化酶、乳酸阈也会退。肌纤维围度会往回走，但**力量表现下降有限**。
+
+**今天这堂课** 病假 2–4 周回来：不要接病前配速；周次数和轻松时间先回来；力量可留轻量。百分比是训练者综述区间，不是给某位大学生的处方。  
+**阅读深度**：综述全文关键章节。对象偏训练者，不是发烧并发症研究。
+
+---
+
+### EI12 长停训（>4 周）：别从停的地方接着狠
+
+**Mujika I, Padilla S. Detraining: … Part II: long term insufficient training stimulus.** Sports Med. 2000;30(3):145-154. PMID [10999420](https://pubmed.ncbi.nlm.nih.gov/10999420/)  
+证据类型：叙述综述
+
+**一句话精华**  
+停超过约 4 周，高度训练者摄氧还可再掉（文中约 **6–20%** 量级），有氧酶和表现继续退；从未系统练过的人，停久了训练获得的摄氧增益可以退光。长停后应按重建，不按「中断前那一堂」。
+
+**今天这堂课** >4 周空窗 → 套金样入门/基础，禁止旧间歇表。  
+**阅读深度**：综述口径。
+
+---
+
+### EI13 时间曲线：大约 3 周摄氧可掉约 7%，酶半寿期约 12 天
+
+**Coyle EF, Martin WH 3rd, Sinacore DR, Joyner MJ, Hagberg JM, Holloszy JO. Time course of loss of adaptations after stopping prolonged intense endurance training.** J Appl Physiol. 1984;57(6):1857-1864. PMID [6511559](https://pubmed.ncbi.nlm.nih.gov/6511559/)  
+证据类型：小样本实验（n=7 耐力训练者）
+
+**一句话精华**  
+完全停练：前 **21 天** 最大摄氧大约 **−7%**（早期主要是每搏量）；到 **56 天** 大约稳定在训练值以下 **16%**。氧化酶（柠檬酸合酶、SDH）半寿期大约 **12 天**。84 天后仍高于从未练过的对照，因为毛细血管等退得慢。
+
+**今天这堂课** 停约 2–3 周：质量课减量减配速；不要用「毛细血管还在」当许可去间歇。n=7 高度训练者，外推大众只取方向。  
+**阅读深度**：摘要 + 经典结果数字。
+
+---
+
+### EI14 运动员停训 Meta：短停已显著，长停更大；部分保持训练能缓冲
+
+**Zheng J, Pan T, Jiang Y, Shen Y. Effects of Short- and Long-Term Detraining on Maximal Oxygen Uptake in Athletes: A Systematic Review and Meta-Analysis.** Biomed Res Int. 2022. PMC [9398774](https://pmc.ncbi.nlm.nih.gov/articles/PMC9398774/)  
+证据类型：系统综述 / Meta（21 项）
+
+**一句话精华**  
+短停（≤约 30 天）摄氧效应量约 **ES −0.62**；长停（>30 天）约 **ES −1.42**，显著更大。停 30–90 天与 >90 天之间，这项分析里没有再拉开。年轻（<20）和原来摄氧更高的人，长停掉得更多。完全停比「还保留一点练」伤得更重；长停时部分保持训练能缓冲。
+
+**今天这堂课** 清单已清：能走、能轻松就不要改成沙发全休来「养病后的有氧」。质量课仍要等闸门。大学生长假/病假 2–4 周按重建，不按旧 PB。  
+**阅读深度**：摘要/Meta 口径。异质性高，尤其长停。不是感冒专项。

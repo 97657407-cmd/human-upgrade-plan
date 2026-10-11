@@ -14,11 +14,12 @@
 | 长期备赛 | **28 条** | 减量、成绩分层、天气与全马预测、配速、热环境比赛、波士顿气温；操作另见赛日策略手册 |
 | 伤病负荷 / 热身 / 练后 | **34 条** | 分项目热身 + 人群长短 + 地点天气 + 肌温/热天囤热 + 防伤证据不足 |
 | 自行车 / 椭圆交叉训练 | **11 条** | 伤停保摄氧、替换而非叠加、骑不长骨、椭圆肌电低于跑、精英健身房椭圆个案（禁止抄小时） |
-| 开课闸门：生病 / 空气 / 跑台 | **10 条** | 发烧停质量、neck check 无效、PM2.5、中美 AQI 断点对照（EI10）、室内跑台不抄公路配速 |
+| 开课闸门：生病 / 空气 / 跑台 / 病假接训 | **14 条** | 发烧停质量、neck check 无效、PM2.5、中美 AQI、跑台不抄公路配速、2–4 周停训接回（EI11–EI14） |
+| 热天补水 / 低钠 / 咖啡因 | **12 条** | 口渴喝、EAH 灌过头、NATA/ISSN、3–6 mg/kg、晚上不用、赛晨不新试 |
 | 短跑 50/100/200/400 | **31 条** | 目的定课、起跑、弯道、腘绳肌力学、Smith/Tellez/Huntington/Botha、Hart/土江/Mills |
 | 跑步穿搭 / IREQ 热平衡 | **11 条** | ACSM 冷环境、ISO IREQ（跑/停分段算）、Castellani & Tipton 2016 专章、湿+低强度掉核心、Havenith 有效 clo、Campbell 2018 否定 open window、Kenny 练后体温调节 |
 | 胸带 / 臂带 / 跑步豆 | **6 条** | 间歇优先胸带、臂带主段约 ±9 bpm、10°C 气候箱光学未崩、腕式短窗口误差大、豆不当阈值 |
-| **合计** | **222 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| **合计** | **238 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -119,7 +120,8 @@
 | 手表、功率、HRV、厂商模型 | 专项 + 主题包 11 篇 | [wearable-models-2025](wearable-models-2025.md) · [wearables-devices-core](wearables-devices-core-2023-2026.md) |
 | 力量、同期、弹性、超组、伤变式 | 专项 + 力量包 10 条 | [strength-modes-core](strength-modes-core-2023-2026.md) · [midlong-strength-2024](midlong-strength-2024.md) |
 | 热 / 高原 | 专项卡 | [heat-acclimation-2024](heat-acclimation-2024.md) · [altitude-2023](altitude-2023.md) |
-| 感冒发烧、雾霾、室内跑台 | 闸门手册 + 10 条 | [session-gate-framework](../session-gate-framework.md) · [env-illness-core](env-illness-core.md) EI01–EI10 |
+| 感冒发烧、雾霾、室内跑台、病假接训 | 闸门手册 + 14 条 | [session-gate-framework](../session-gate-framework.md) · [env-illness-core](env-illness-core.md) EI01–EI14 |
+| 热天喝水、低钠、咖啡因 | 手册 + 12 条 | [hydrate-caffeine-framework](../hydrate-caffeine-framework.md) · [hydrate-caffeine-core](hydrate-caffeine-core.md) HC01–HC12 |
 | 穿搭、冬天衣服、换季着凉、IREQ | 穿搭手册 + 11 条 | [run-clothing-framework](../run-clothing-framework.md) · [clothing-core](clothing-core.md) CL01–CL11 |
 | 胸带 臂带 跑步豆 光学心率 | 配件手册 + 6 条 | [hardware-kit-framework](../hardware-kit-framework.md) · [hardware-kit-core](hardware-kit-core.md) HW01–HW06 |
 | 女性耐力 | 专项 + 冬季包 12 | [female-endurance-2024](female-endurance-2024.md) |
@@ -146,6 +148,9 @@
 | 冷 哮喘 冰浴 | cold-air-eib-winter · winter-cold-core |
 | 热 高原 | heat-acclimation-2024 · altitude-2023 |
 | 感冒 发烧 今天能不能练 脖子以上 | [session-gate-framework](../session-gate-framework.md) · env-illness EI01–EI04 |
+| 病假 停训 接回来 有氧掉了 | session-gate-framework 1.1 · env-illness EI11–EI14 |
+| 补水 喝水 低钠 越喝越肿 热天 | [hydrate-caffeine-framework](../hydrate-caffeine-framework.md) · HC01–HC06、HC12 |
+| 咖啡因 咖啡 比赛补剂 | hydrate-caffeine-framework · HC07–HC11 |
 | 雾霾 灰霾 PM2.5 空气质量 AQI | session-gate-framework · env-illness EI05–EI08、EI10 |
 | 跑步机 室内跑 1%坡 | env-illness EI09 · 热身手册室内档 |
 | 穿什么 围脖 手套 换季 湿衣服 着凉 IREQ | [run-clothing-framework](../run-clothing-framework.md) · clothing-core CL01–CL11 |

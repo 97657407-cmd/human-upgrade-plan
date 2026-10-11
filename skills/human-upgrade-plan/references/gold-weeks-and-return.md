@@ -97,7 +97,7 @@
 - 胸痛、晕厥、明显气短、不明心悸  
 - 局灶骨痛夜间加重、单侧小腿肿热  
 - 放射麻木、进行性无力、发热伴随关节红肿  
-- **发热、发冷、静息气短/心悸**（急性生病走 [开课闸门](session-gate-framework.md)，不要用本树的走跑试）  
+- **发热、发冷、静息气短/心悸**（急性生病走 [开课闸门](session-gate-framework.md)，不要用本树的走跑试）。热退后的几天到 4 周空窗接训也走该手册 **1.1**，不是本树的 S0–S6（本树管痛和伤，不管「有氧掉了」）  
 - 跟腱断裂感/枪响、膝关节锁死不稳  
 
 ### 1. 今天能不能动：三个问题
@@ -151,4 +151,6 @@
 - 决策总则：[decision-protocol](decision-protocol.md)  
 - 下班疲劳：[recovery-working-athletes](recovery-working-athletes.md)  
 - 部位负荷与转介（非诊断）：[injury-load-framework](injury-load-framework.md)  
-- 热身/练后：[warmup-recovery-framework](warmup-recovery-framework.md)
+- 热身/练后：[warmup-recovery-framework](warmup-recovery-framework.md)  
+- 病假空窗接训（非伤）：[开课闸门 1.1](session-gate-framework.md)  
+- 热天饮水 / 比赛咖啡因：[补水与咖啡因](hydrate-caffeine-framework.md)
