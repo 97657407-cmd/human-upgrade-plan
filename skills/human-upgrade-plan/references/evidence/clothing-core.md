@@ -1,105 +1,125 @@
-# 证据包：跑步穿搭、湿衣散热、冷天与「着凉」
+# 证据包：热平衡 × 所需隔热（IREQ）× 练后体温调节
 
 核验日期：2026-10-11。操作：[run-clothing-framework](../run-clothing-framework.md)。  
-不能保证不感冒。病毒仍要接触；穿对衣服管的是体温、气道和练后那几分钟。
+主轴是环境生理学和 ACSM 冷环境共识，不是「穿对就不病毒感染」。气温分档表是把 IREQ/ACSM 图落到中文课表的**教练合成**，禁止写成 RCT 剂量。
 
 ---
 
-### CL01 冷天三层；不要用休息时那套开跑
+### CL01 ACSM：冷天运动的服装是风险管理，不是时尚
 
 **Castellani JW 等. ACSM Expert Consensus Statement: Injury Prevention and Exercise Performance during Cold-Weather Exercise.** Curr Sports Med Rep. 2021;20(11):594-607. PMID [34752434](https://pubmed.ncbi.nlm.nih.gov/34752434/)  
-**Castellani JW 等. Prevention of Cold Injuries during Exercise.** Med Sci Sports Exerc. 2006;38(11):2012-2029.（旧版立场，服装机制仍用）  
-证据类型：专业组织共识
+**Castellani JW 等. Prevention of Cold Injuries during Exercise.** Med Sci Sports Exerc. 2006;38(11):2012-2029.  
+证据类型：专业组织立场 / 专家共识（证据分级写入原文）
 
 **一句话精华**  
-贴身排汗、中间留空气保暖、外层挡风挡雨。外层无雨无大风时，**跑步中常常不穿**，留给之后休息。禁止给全组发同一套衣服：有人会热出汗。最常见错误是穿着「站着刚好」的层数开始跑。
+「冷环境里的人，不等于冷的人」（Bass）。低体温、冻伤风险由环境 × 产热 × 隔热共同决定。服装：**贴身不吸水、中间留空气、外层挡风挡雨**。外层无雨无大风时，跑步中常常不穿，留给之后休息。禁止全组同一套。最常见错误：穿着休息时刚好的层数开跑。Evidence statement：隔热需求是代谢率和气温的函数；分层最灵活（原文 Category C）。
 
-**大众** 出门可多一件，开跑脱掉。  
-**阅读深度**：共识关键章节。防冻伤/低体温，不是防病毒 RCT。
+**阅读深度**：共识关键章节。防冷伤，不是防感冒 RCT。
 
 ---
 
-### CL02 跑得越狠，维持体温需要的衣服越少
+### CL02 热平衡 / IREQ：产热一高，所需衣服隔热就下降
 
-同上 ACSM 2006/2021：隔热需求随环境温度和运动强度变；慢跑、间歇、站着不是同一套。
+**ISO 11079:2007. Ergonomics of the thermal environment — Required clothing insulation (IREQ) and local cooling effects.**  
+**Holmér I, Gavhed D. Limits of and possibilities to improve the IREQ cold stress model.** Int J Circumpolar Health. 2000;59(2):118-123. PMID [10975669](https://pubmed.ncbi.nlm.nih.gov/10975669/)  
+证据类型：国际标准热平衡模型 + 现场验证
 
 **一句话精华**  
-同一气温，质量课产热更多，衣服要更少；一停下来强度掉了，又变回「需要外套」。所以间歇：**跑时少一层，组间把那一层穿回来。**
+IREQ 用热平衡方程，把气温、辐射、湿度、风速和**代谢率**合成「维持热中性需要多少隔热（clo）」。同一气温，慢跑/间歇的 IREQ 低于站着。验证：模型在高且剧烈波动的负荷（≥165 W/m²，接近跑步间歇）上不够好——短时措施就是**避免产热忽高忽低却不换衣服**，即组间把层加回来。
 
-**换季质量课** 按此条，不要整晚短袖吹风。  
-**阅读深度**：共识口径。个体出汗差很大。
+**先进训练含义**  
+质量课不是「少穿到冻」，而是：**跑时 IREQ 低 → 少层；恢复段代谢掉下去 → IREQ 升高 → 外套回来。** 气温表是这套理论的落地，不是实验室给出的「8°C 必须短袖」。
+
+**阅读深度**：标准 + 摘要。ISO 不处理降水；下雨另用湿衣条款。
 
 ---
 
-### CL03 衣服湿了，隔热会塌
+### CL03 湿 + 风 + 低强度：核心温度可以掉；高强度时往往还能撑住
 
-**Wang F 等. Effects of moisture content and clothing fit on clothing apparent ‘wet’ thermal insulation.** Textile Research Journal. 2015.（暖体假人）  
-ACSM 冷环境：湿（汗或雨）会削弱隔热、加快蒸发散热。  
-证据类型：暖体假人 + 共识
+ACSM 2006 立场（Category A 条）：空气 5°C、衣服全湿、风速 5 m/s 时，**>60% VO2max** 仍可把核心维持在 ≥37°C；**<30% VO2max** 则散热大于产热，核心下降。5°C 时湿衣散热可约达干衣两倍。  
+**Wang F 等.** Textile Res J. 2015. 暖体假人：含湿量升，表观湿隔热下降。
 
 **一句话精华**  
-水分占掉纤维里的空气，表观隔热下降。冷环境里，湿衣是低体温风险，不是「出汗才叫练到」。纯棉湿了尤其差。
+间歇**主段**湿着跑，核心往往还在；**组间走、拉伸、聊天**强度掉到轻松以下，湿衣+风就开始掏体温。这是换季质量课「跑完就不舒服」的热物理，不是病毒潜伏 10 分钟爆发。
 
-**大众** 贴身速干；练后换干衣优先于场边拉伸。  
-**阅读深度**：实验/共识。假人不是跑者流行病学。
+**阅读深度**：共识引用的实验线 + 假人。个体 VO2max% 不同，课表用 RPE/能说话当代理。
 
 ---
 
-### CL04 跑起来 + 有风，衣服没标称那么暖
+### CL04 跑动和风降低实际 clo（标称隔热不是你跑起来的隔热）
 
-**Havenith G, Heus R, Lotens WA. Resultant clothing insulation: a function of body movement, posture, wind, clothing fit and ensemble thickness.** Ergonomics. 1990;33(1):67-84.  
-证据类型：人体着装隔热测量
+**Havenith G, Heus R, Lotens WA.** Ergonomics. 1990;33(1):67-84.  
+证据类型：着装隔热实测
 
 **一句话精华**  
-走动和风都会降低实际隔热：动作搅乱衣内空气层，风主要刮走体表气层。紧身比宽松少隔热约 6–31%（该样本）。有风按更冷一档穿。
+姿势、走动、风、合身都会改**有效隔热**。动作主要搅乱衣内空气层，风主要刮走体表气层。紧身比宽松少约 6–31%（该样本）。有风按更冷处理。
 
-**阅读深度**：摘要口径。防护服/连体衣数据，原理可外推到跑步套装。
+**阅读深度**：摘要。防护服数据，机制外推到跑装。
 
 ---
 
-### CL05 鼻腔更凉时，局部抗病毒反应较弱（不是「冷空气制造感冒」）
+### CL05 鼻腔更凉 → 局部先天抗病毒较弱（机制边界，不是训练处方）
 
-**Foxman EF 等. Temperature-dependent innate defense against the common cold virus limits viral replication at warm temperature in mouse airway cells.** Proc Natl Acad Sci USA. 2015;112(3):827-832. PMID [25561542](https://pubmed.ncbi.nlm.nih.gov/25561542/)  
-证据类型：小鼠气道细胞实验
+**Foxman EF 等.** Proc Natl Acad Sci USA. 2015;112(3):827-832. PMID [25561542](https://pubmed.ncbi.nlm.nih.gov/25561542/)  
+证据类型：小鼠气道细胞
 
 **一句话精华**  
-多数鼻病毒在鼻腔温度（约 33–35°C）比核心体温更好复制。该实验：更凉时细胞先天抗病毒反应较弱。这给「冷天捂口鼻」一点机制，**不能**写成「没戴围脖所以感冒了」。仍需要接触病毒。
+鼻病毒在鼻腔温度（约 33–35°C）比 37°C 更好复制，部分因为更凉时细胞干扰素反应较弱。给干冷围脖/面罩一个黏膜温度机制。**不能**写成没戴围脖所以感冒。仍需接触病毒。
 
-**干冷、大风、张嘴间歇** 围脖/面罩加温加湿，兼 EIB。  
-**阅读深度**：摘要。小鼠细胞 ≠ 操场人群 RCT。
+**阅读深度**：摘要。小鼠 ≠ 操场 RCT。与 EIB 卡分开：围脖同时加温加湿吸入空气。
 
 ---
 
-### CL06 冷干空气 + 高通气 → EIB，常被当成「着凉咳嗽」
+### CL06 冷干高通气 → EIB，常被误当成着凉咳嗽
 
-见已有 [cold-air-eib-winter](cold-air-eib-winter.md) 与冬季包。Kennedy / ACAAI 口径：鼻呼吸、围脖、充分热身；极寒把质量课改室内。
-
-**一句话精华**  
-冬天一加速就咳，经常是气道收缩，不是立刻病毒性感冒。反复发作要临床评估，本 skill 不诊断、不开药。
-
-**阅读深度**：已有卡。与 CL05 一起用：围脖同时服务 EIB 和黏膜温度。
-
----
-
-### CL07 大强度后几小时免疫有争议窗口；别叠加湿衣吹风
-
-**Nieman DC. Exercise, upper respiratory tract infection, and the immune system.** Med Sci Sports Exerc. 1994;26(2):128-139. PMID [8164529](https://pubmed.ncbi.nlm.nih.gov/8164529/)  
-**Campbell JP, Turner JE 等对 J 曲线 / open window 的质疑**（运动免疫近年综述，症状多为自报）。  
-证据类型：流行病学假说 + 后续争议
-
-**一句话精华**  
-中等规律运动可能少生病；马拉松级狠课之后自报上呼吸道症状更多。实验室「open window」有争议，不能当确定机制。实践上：质量课后那一小时不要湿着吹风、挤人群、熬夜——这是风险叠加，不是特效药反面。
-
-**大众** 间歇后先换衣吃饭睡觉，不追加夜跑或通宵。  
-**阅读深度**：旧综述 + 争议。禁止承诺「换衣就不发烧」。
-
----
-
-### CL08 热完空等要穿衣，否则肌温掉、功率掉
-
-交叉 [iwr-core IWR28/IWR30](iwr-core.md)。Faulkner 2013：热身后空等肌温掉，保暖能保住短时功率。
-
-**一句话精华**  
-穿搭不只为了「别感冒」：冷天热完脱光等第一枪，成绩也会掉。外套是热身的一部分。
+见 [cold-air-eib-winter](cold-air-eib-winter.md)。Kennedy / ACAAI：鼻呼吸、热交换面罩、充分热身；极寒质量改室内。
 
 **阅读深度**：已有卡。
+
+---
+
+### CL07 现行运动免疫：不要用 1994「open window」解释换衣服
+
+**Campbell JP, Turner JE. Debunking the Myth of Exercise-Induced Immune Suppression.** Front Immunol. 2018;9:648. PMID [29713319](https://pubmed.ncbi.nlm.nih.gov/29713319/)  
+历史对照：Nieman 1994 J 曲线 / open window（PMID 8164529）——自报症状、赛后拥挤旅行混杂。  
+证据类型：叙述综述（对旧假说的系统反驳）
+
+**一句话精华**  
+现行理论：急性运动后淋巴细胞从血液里「消失」，更像再分布到外周组织做监视，**不是**免疫被关掉。把间歇后换衣服建立在「open window 会感染」上，已经过时。换衣服的理由是 **CL03 热平衡**，不是免疫窗口。
+
+**阅读深度**：综述。规律中等运动仍与更少感染相关；马拉松后自报症状 ≠ 衣服没换。
+
+---
+
+### CL08 热身后空等：肌温掉则短时功率掉（表现理论，兼保暖）
+
+交叉 [iwr-core IWR28/IWR30](iwr-core.md)。**Faulkner SH 等.** Med Sci Sports Exerc. 2013;45(2):359-365. PMID [22935735](https://pubmed.ncbi.nlm.nih.gov/22935735/)
+
+**一句话精华**  
+热完脱光等第一枪，肌温指数下降，短时功率变差。外套是热身结构的一部分（RAMP 后的保温），不是心理安慰。
+
+**阅读深度**：交叉实验，场地自行车 30 s ≠ 100 m，机制可外推。
+
+---
+
+### CL09 练后体温调节会乱：核心还高，散热效应器已经往回掉；湿衣继续蒸发
+
+**Kenny GP, McGinn R. Restoration of thermoregulation after exercise.** J Appl Physiol. 2017;122(4):933-944. PMID [27881668](https://pubmed.ncbi.nlm.nih.gov/27881668/)  
+**Kenny GP, Jay O. Postexercise hypotension causes a prolonged perturbation in esophageal and active muscle temperature recovery.** Am J Physiol Regul Integr Comp Physiol. 2006;291:R580-R588. PMID [16731578](https://pubmed.ncbi.nlm.nih.gov/16731578/)  
+动态湿衣：Woodcock 线（汗停了，衣内水分仍蒸发，造成「不需要的冷却」）见服装热质传递综述。
+
+**一句话精华**  
+运动一停，出汗和皮温调节并不按你的主观「我还很热」线性回落；可同时存在核心仍高、外周散热模式已变。湿衣继续蒸发，等于主动给自己降温。冷天练后：**立刻换成干层 + 挡风**，优先于场边拉伸。
+
+**阅读深度**：综述 + 实验。实验室恢复环境 ≠ 操场夜风。
+
+---
+
+### CL10 低体温高峰往往在「没想到会冷」的换季雨天
+
+ACSM 2006：低体温最大发生在人们没准备的时候——春/夏/秋的雨、热天冷水。湿冷 + 走（强度下降）风险高于「干冷里持续跑」。
+
+**一句话精华**  
+换季质量课按**开跑那一小时的预报**，不按中午体感。下雨、组间要走、没有干外套 → 改室内或缩短，不要用夏天那套短袖硬顶。
+
+**阅读深度**：共识叙述。无专门「换季 RCT」。
