@@ -11,7 +11,7 @@
 - **伤病负荷（非诊断）**：[injury-load-framework](injury-load-framework.md) + 回归树 + 力量第9节。证据 [iwr-core](evidence/iwr-core.md)。
 - **自行车 / 椭圆交叉训练**：[cross-train-framework](cross-train-framework.md) + [xt-core](evidence/xt-core.md)（11 条，含精英个案 XT11）。
 - **开课闸门（生病 / PM2.5 / 跑台）**：[session-gate-framework](session-gate-framework.md) + [env-illness-core](evidence/env-illness-core.md)（9 条）。室外质量课前必过。
-- **跑步穿搭（IREQ / ACSM 热平衡）**：[run-clothing-framework](run-clothing-framework.md) + [clothing-core](evidence/clothing-core.md)（10 条）。气温表是教练落地。现行免疫理论不用 open window 解释换衣服。
+- **跑步穿搭（IREQ / ACSM 热平衡）**：[run-clothing-framework](run-clothing-framework.md) + [clothing-core](evidence/clothing-core.md)（11 条）。气温表是教练落地。现行免疫理论不用 open window 解释换衣服。
 - **热身与练后**：[warmup-recovery-framework](warmup-recovery-framework.md)（每堂必写；检索地点预报；大众 vs 专业；热身反馈改下一堂；IWR16–34）。
 - **文献检索（全库）**：[evidence/INDEX-all](evidence/INDEX-all.md)。按项目/中文关键词调用。
 - 项目与通用理论：[event-frameworks](event-frameworks.md)。
