@@ -1,6 +1,6 @@
 ---
 name: human-upgrade-plan
-version: 1.10.8-cursor
+version: 1.10.9-cursor
 description: Evidence-informed running and strength planning from 100m to trail. Ask where they train and look up that city's forecast each session. Every session has a warmup scaled to recreational vs trained athletes; adjust from warmup feedback. Read last COROS workout. Race-day pacing from weather and readiness. Not medical diagnosis.
 ---
 

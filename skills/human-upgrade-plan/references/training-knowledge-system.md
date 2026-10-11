@@ -9,7 +9,7 @@
 - **长期备赛**：[race-prep-framework](race-prep-framework.md) + [race-prep-core](evidence/race-prep-core.md)（28 条）+ [race-day-strategy](race-day-strategy.md)。
 - **赛事预测 / 赛日天气配速**：[race-day-strategy](race-day-strategy.md)。
 - **伤病负荷（非诊断）**：[injury-load-framework](injury-load-framework.md) + 回归树 + 力量第9节。证据 [iwr-core](evidence/iwr-core.md)。
-- **自行车 / 椭圆交叉训练**：[cross-train-framework](cross-train-framework.md) + [xt-core](evidence/xt-core.md)（10 条）。
+- **自行车 / 椭圆交叉训练**：[cross-train-framework](cross-train-framework.md) + [xt-core](evidence/xt-core.md)（11 条，含精英个案 XT11）。
 - **热身与练后**：[warmup-recovery-framework](warmup-recovery-framework.md)（每堂必写；检索地点预报；大众 vs 专业；热身反馈改下一堂；IWR16–34）。
 - **文献检索（全库）**：[evidence/INDEX-all](evidence/INDEX-all.md)。按项目/中文关键词调用。
 - 项目与通用理论：[event-frameworks](event-frameworks.md)。

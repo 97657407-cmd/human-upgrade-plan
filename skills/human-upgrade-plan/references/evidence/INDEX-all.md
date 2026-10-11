@@ -13,8 +13,8 @@
 | 力量专题 | **10 条** | ACSM 处方、同期、弹性、超组、防伤、伤变式（含交叉索引） |
 | 长期备赛 | **28 条** | 减量、成绩分层、天气与全马预测、配速、热环境比赛、波士顿气温；操作另见赛日策略手册 |
 | 伤病负荷 / 热身 / 练后 | **34 条** | 分项目热身 + 人群长短 + 地点天气 + 肌温/热天囤热 + 防伤证据不足 |
-| 自行车 / 椭圆交叉训练 | **10 条** | 伤停保摄氧、替换而非叠加、骑不长骨、椭圆肌电低于跑 |
-| **合计** | **164 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| 自行车 / 椭圆交叉训练 | **11 条** | 伤停保摄氧、替换而非叠加、骑不长骨、椭圆肌电低于跑、精英 Arc/椭圆个案（禁止抄小时） |
+| **合计** | **165 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -137,7 +137,7 @@
 | 热 高原 | heat-acclimation-2024 · altitude-2023 |
 | 手表 功率 Stryd HRV | wearable-models-2025 · wearables-devices-core |
 | 膝 跟腱 防伤 能不能跑 | [injury-load-framework](../injury-load-framework.md) · iwr-core · 回归树 |
-| 椭圆机 自行车 交叉训练 伤停 | [cross-train-framework](../cross-train-framework.md) · [xt-core](xt-core.md) |
+| 椭圆机 自行车 交叉训练 伤停 Arc Valby | [cross-train-framework](../cross-train-framework.md) · [xt-core](xt-core.md) XT11 |
 | 热身 静态拉伸 动态 100米 800 马拉松 气温 | [warmup-recovery-framework](../warmup-recovery-framework.md) 地点天气×人群 · IWR04/16–34 |
 | 练后 拉伸 冰浴 按摩 | warmup-recovery-framework · IWR06–08 · 冬季冰浴悖论 |
 | 精神疲劳 RPE 脑子累 | mental-fatigue-rpe-2024 · workday 21–22 |
