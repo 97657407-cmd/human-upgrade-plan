@@ -134,7 +134,7 @@
 1. 建档缺口 ≤3 个问完。  
 2. **读上次课**（COROS 或口述）、睡眠、**上次热身反馈**。确认今天在哪练，更新气温湿度。  
 3. 用本文件 §0–4 做出判断（类型、砍什么、主刺激是什么）。  
-4. 用 [框架手册](framework-handbook.md) 写成七天；**每堂写热身**（人群×天气）。有比赛加 [赛日策略](race-day-strategy.md)。  
+4. 用 [框架手册](framework-handbook.md) 写成七天；**每堂写热身**（人群×天气）。有比赛加 [赛日策略](race-day-strategy.md)。跑着痛、走路可以：有氧改骑/椭圆，套 [交叉训练手册](cross-train-framework.md)，仍算负荷。  
 5. 用 [INDEX-all](evidence/INDEX-all.md) 钉 **1–2 张**最相关卡。  
 6. 按 [输出格式](output-patterns.md) 交；下次必问热身刚好/已喘/仍冷。
 

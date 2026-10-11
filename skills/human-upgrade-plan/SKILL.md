@@ -1,6 +1,6 @@
 ---
 name: human-upgrade-plan
-version: 1.10.7-cursor
+version: 1.10.8-cursor
 description: Evidence-informed running and strength planning from 100m to trail. Ask where they train and look up that city's forecast each session. Every session has a warmup scaled to recreational vs trained athletes; adjust from warmup feedback. Read last COROS workout. Race-day pacing from weather and readiness. Not medical diagnosis.
 ---
 
@@ -38,6 +38,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
 | 今日/明日/周计划 | **先读上次课** + **今天在哪练/气温湿度**；每堂热身按人群×天气（[热身手册](references/warmup-recovery-framework.md)）；有比赛加[备赛框架](references/race-prep-framework.md)；再[框架手册](references/framework-handbook.md) |
 | 完成反馈、疲劳、排班变动 | [近期记录](references/recent-training.md)、[决策协议](references/decision-protocol.md)、[工作与恢复](references/recovery-working-athletes.md)；COROS 用户加读[设备数据](references/device-data.md) |
 | 伤后回归、疼痛还能不能跑 | [伤病负荷手册](references/injury-load-framework.md)、[回归树](references/gold-weeks-and-return.md)、[力量第9节](references/strength-training-modes.md)；证据[iwr-core](references/evidence/iwr-core.md) |
+| 伤停骑车/椭圆、交叉训练保有氧 | [交叉训练手册](references/cross-train-framework.md)、[xt-core](references/evidence/xt-core.md)；阶段门仍走回归树 |
 | 热身、练后拉伸/冰浴/放松 | [热身与练后手册](references/warmup-recovery-framework.md)、[iwr-core](references/evidence/iwr-core.md)；睡眠饮食仍走恢复包 |
 | 手表/COROS/同步计划到日历 | [设备数据与 COROS MCP](references/device-data.md) |
 | 备赛、赛前减量、到比赛还有N周 | [备赛框架](references/race-prep-framework.md)、[备赛证据包](references/evidence/race-prep-core.md)；本周仍走金样 |

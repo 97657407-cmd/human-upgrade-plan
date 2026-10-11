@@ -16,6 +16,7 @@ ALLOWED_RELATIVE = {
     "skills/human-upgrade-plan/assets/profile-template.md",
     "skills/human-upgrade-plan/assets/training-log-template.md",
     "skills/human-upgrade-plan/references/athlete-profile.md",
+    "skills/human-upgrade-plan/references/cross-train-framework.md",
     "skills/human-upgrade-plan/references/decision-protocol.md",
     "skills/human-upgrade-plan/references/device-data.md",
     "skills/human-upgrade-plan/references/event-frameworks.md",
