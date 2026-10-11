@@ -13,8 +13,9 @@
 | 力量专题 | **10 条** | ACSM 处方、同期、弹性、超组、防伤、伤变式（含交叉索引） |
 | 长期备赛 | **28 条** | 减量、成绩分层、天气与全马预测、配速、热环境比赛、波士顿气温；操作另见赛日策略手册 |
 | 伤病负荷 / 热身 / 练后 | **34 条** | 分项目热身 + 人群长短 + 地点天气 + 肌温/热天囤热 + 防伤证据不足 |
-| 自行车 / 椭圆交叉训练 | **11 条** | 伤停保摄氧、替换而非叠加、骑不长骨、椭圆肌电低于跑、精英 Arc/椭圆个案（禁止抄小时） |
-| **合计** | **165 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| 自行车 / 椭圆交叉训练 | **11 条** | 伤停保摄氧、替换而非叠加、骑不长骨、椭圆肌电低于跑、精英健身房椭圆个案（禁止抄小时） |
+| 开课闸门：生病 / 空气 / 跑台 | **9 条** | 发烧停质量、neck check 无效、PM2.5 而非中国/美国混用 AQI、室内跑台不抄公路配速 |
+| **合计** | **174 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -112,6 +113,7 @@
 | 手表、功率、HRV、厂商模型 | 专项 + 主题包 11 篇 | [wearable-models-2025](wearable-models-2025.md) · [wearables-devices-core](wearables-devices-core-2023-2026.md) |
 | 力量、同期、弹性、超组、伤变式 | 专项 + 力量包 10 条 | [strength-modes-core](strength-modes-core-2023-2026.md) · [midlong-strength-2024](midlong-strength-2024.md) |
 | 热 / 高原 | 专项卡 | [heat-acclimation-2024](heat-acclimation-2024.md) · [altitude-2023](altitude-2023.md) |
+| 感冒发烧、雾霾、室内跑台 | 闸门手册 + 9 条 | [session-gate-framework](../session-gate-framework.md) · [env-illness-core](env-illness-core.md) EI01–EI09 |
 | 女性耐力 | 专项 + 冬季包 12 | [female-endurance-2024](female-endurance-2024.md) |
 
 ---
@@ -135,6 +137,9 @@
 | 铁 女选手 月经 | iron-female-2024 · female-endurance-2024 · 营养包 32 |
 | 冷 哮喘 冰浴 | cold-air-eib-winter · winter-cold-core |
 | 热 高原 | heat-acclimation-2024 · altitude-2023 |
+| 感冒 发烧 今天能不能练 脖子以上 | [session-gate-framework](../session-gate-framework.md) · env-illness EI01–EI04 |
+| 雾霾 灰霾 PM2.5 空气质量 AQI | session-gate-framework · env-illness EI05–EI08 |
+| 跑步机 室内跑 1%坡 | env-illness EI09 · 热身手册室内档 |
 | 手表 功率 Stryd HRV | wearable-models-2025 · wearables-devices-core |
 | 膝 跟腱 防伤 能不能跑 | [injury-load-framework](../injury-load-framework.md) · iwr-core · 回归树 |
 | 健身房椭圆机 自行车 交叉训练 伤停 Ingebrigtsen Wodak | [cross-train-framework](../cross-train-framework.md) · [xt-core](xt-core.md) XT11 |

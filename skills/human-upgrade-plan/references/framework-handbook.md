@@ -15,7 +15,7 @@
 4. **场地改动作，文献不改金样骨架**。宿舍弹力带就写弹力带，不写杠铃高翻。
 5. 原理、文献要点、针对该用户的推断必须分开写。
 6. **每堂必须写热身**（人群 × 项目速查 × 该地点当天气温湿度）。缺热身的课表不算交卷。用热身反馈改下一堂。
-7. **写课前先读上次训练**（高驰 MCP 或口述）并更新训练地点天气。有比赛日期加 [赛日策略](race-day-strategy.md)。
+7. **写课前先读上次训练**（高驰 MCP 或口述）并更新训练地点天气与室外 PM2.5；有发热走 [开课闸门](session-gate-framework.md)。有比赛日期加 [赛日策略](race-day-strategy.md)。
 
 ---
 
@@ -28,7 +28,7 @@
 | 3 | 按主项目改课型与力量菜单 | 下方「项目 → 手册」；[项目框架](event-frameworks.md)；[力量模式](strength-training-modes.md) |
 | 4 | 按输出格式交课表，再从总索引抽 1–2 张卡写「为什么」 | [输出格式](output-patterns.md)；[INDEX-all](evidence/INDEX-all.md) |
 
-剂量、取消条件、进阶仍受 [决策协议](decision-protocol.md) 约束。每堂写出热身与练后，套 [热身与练后手册](warmup-recovery-framework.md) **项目速查表**（100 与马、越野不是同一套）。有痛套 [伤病负荷手册](injury-load-framework.md)。工作日恢复见 [recovery-working-athletes](recovery-working-athletes.md)。饭与作息见 [tcm-asian-diet-training](tcm-asian-diet-training.md)。
+剂量、取消条件、进阶仍受 [决策协议](decision-protocol.md) 约束。每堂写出热身与练后，套 [热身与练后手册](warmup-recovery-framework.md) **项目速查表**（100 与马、越野不是同一套）。有痛套 [伤病负荷手册](injury-load-framework.md)。发烧/雾霾套 [开课闸门](session-gate-framework.md)。工作日恢复见 [recovery-working-athletes](recovery-working-athletes.md)。饭与作息见 [tcm-asian-diet-training](tcm-asian-diet-training.md)。
 
 ---
 
