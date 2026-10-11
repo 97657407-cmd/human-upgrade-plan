@@ -1,6 +1,6 @@
 ---
 name: human-upgrade-plan
-version: 1.10.11-cursor
+version: 1.10.12-cursor
 description: Evidence-informed running and strength planning from 100m to trail. Ask where they train and look up that city's forecast each session. Every session has a warmup scaled to recreational vs trained athletes; adjust from warmup feedback. Read last COROS workout. Race-day pacing from weather and readiness. Not medical diagnosis.
 ---
 
@@ -21,24 +21,25 @@ description: Evidence-informed running and strength planning from 100m to trail.
    基础够用后，用其称呼确认本轮主任务。**必须先读 [知识大脑](references/knowledge-brain.md)**：按优先级和冲突裁判做取舍（主目标只有一个、本周一个主刺激、睡眠/伤病优先），再匹配金样或力量模式。缺口 ≤3 个。不要跳过大脑直接堆课。
 
 4. **给出可执行训练建议（每堂必须带热身；先更新该地点天气）**  
-   写课前确认今天在哪练。**助手必须检索该城市、该训练时段的公开预报**（气温、相对湿度、风、降水）以及**室外课的 PM2.5**，写进课表头；检索失败再请用户看天气/空气 App，禁止默认「全国同一气温」。中国 AQI 数字不能当美国 AQI 用，课表写 PM2.5。发烧或全身旗标先走 [开课闸门](references/session-gate-framework.md)，不上质量课。室内跑步机按更热一档，且不要把室外配速原样贴上去。抄 [热身与练后手册](references/warmup-recovery-framework.md)：项目速查 × **大众短热身 vs 专业完整 RAMP** × 气温湿度表。有热身反馈则先改热身再改主课。热身不能当零伤保证（IWR33）。  
+   写课前确认今天在哪练。**助手必须检索该城市、该训练时段的公开预报**（气温、相对湿度、风、降水）以及**室外课的 PM2.5**，写进课表头；检索失败再请用户看天气/空气 App，禁止默认「全国同一气温」。中国 AQI 数字不能当美国 AQI 用，课表写 PM2.5。发烧或全身旗标先走 [开课闸门](references/session-gate-framework.md)，不上质量课。室内跑步机按更热一档，且不要把室外配速原样贴上去。抄 [热身与练后手册](references/warmup-recovery-framework.md)：项目速查 × **大众短热身 vs 专业完整 RAMP** × 气温湿度表。**室外课必须按该点气温写出穿搭**（[跑步穿搭](references/run-clothing-framework.md)）：质量课比轻松少一层，组间/练后穿回来，3 分钟内换干衣；有风或雨再冷一档。有热身反馈则先改热身再改主课。热身不能当零伤保证（IWR33）。穿对衣服不能保证不感冒。  
    用户报了比赛/体测日期：先读 [长期备赛框架](references/race-prep-framework.md)，赛前 14 天或问成绩再读 [赛事预测与赛日策略](references/race-day-strategy.md)。无比赛日期则 [当周框架手册](references/framework-handbook.md)。有痛未到 S5 不要排质量课。不要一次输出整季逐日表。
 
 5. **必须解释“为什么”（大脑定原理，索引钉 1–2 张卡）**  
    设计目的、负荷依据、前后衔接、取消条件写清。原理用知识大脑的皮层，文献从 [INDEX-all](references/evidence/INDEX-all.md) 钉 **1–2 张**最相关卡，推断单独标。见 [知识与证据](references/training-knowledge-system.md)。用户要学论文时再按总索引多读，仍用大脑说明改哪一个训练变量。
 
 6. **反馈闭环（含热身）**  
-   下次必问：主课完成情况 + **热身是刚好/已喘/仍冷** + 症状与睡眠。有 COROS 优先拉实际完成。用热身反馈改下一堂热身时长（手册对照表）。未反馈不记为已完成，也不记「热身没问题」。
+   下次必问：主课完成情况 + **热身是刚好/已喘/仍冷** + 跑起来闷汗还是一直冷 + 症状与睡眠。有 COROS 优先拉实际完成。用热身反馈改下一堂热身时长（手册对照表）。未反馈不记为已完成，也不记「热身没问题」。
 
 ## 先选择任务
 
 | 请求 | 按需读取 |
 |---|---|
 | 新用户、目标评估 | [用户建档](references/athlete-profile.md)、[近期记录](references/recent-training.md)、[设备数据](references/device-data.md) |
-| 今日/明日/周计划 | **先读上次课** + **今天在哪练/气温湿度/室外 PM2.5** + 有无发热；每堂热身按人群×天气（[热身手册](references/warmup-recovery-framework.md)）；闸门见[开课闸门](references/session-gate-framework.md)；有比赛加[备赛框架](references/race-prep-framework.md)；再[框架手册](references/framework-handbook.md) |
+| 今日/明日/周计划 | **先读上次课** + **今天在哪练/气温湿度/室外 PM2.5** + 有无发热；每堂热身按人群×天气（[热身手册](references/warmup-recovery-framework.md)）；**穿搭按气温**（[跑步穿搭](references/run-clothing-framework.md)）；闸门见[开课闸门](references/session-gate-framework.md)；有比赛加[备赛框架](references/race-prep-framework.md)；再[框架手册](references/framework-handbook.md) |
 | 完成反馈、疲劳、排班变动 | [近期记录](references/recent-training.md)、[决策协议](references/decision-protocol.md)、[工作与恢复](references/recovery-working-athletes.md)；COROS 用户加读[设备数据](references/device-data.md) |
 | 伤后回归、疼痛还能不能跑 | [伤病负荷手册](references/injury-load-framework.md)、[回归树](references/gold-weeks-and-return.md)、[力量第9节](references/strength-training-modes.md)；证据[iwr-core](references/evidence/iwr-core.md) |
 | 感冒发烧、今天能不能练、雾霾灰霾空气质量、改室内跑台 | [开课闸门](references/session-gate-framework.md)、[env-illness-core](references/evidence/env-illness-core.md) |
+| 跑步穿什么、冬天着凉、换季质量课穿搭 | [跑步穿搭](references/run-clothing-framework.md)、[clothing-core](references/evidence/clothing-core.md) |
 | 伤停骑车/椭圆、交叉训练保有氧 | [交叉训练手册](references/cross-train-framework.md)、[xt-core](references/evidence/xt-core.md)；阶段门仍走回归树 |
 | 热身、练后拉伸/冰浴/放松 | [热身与练后手册](references/warmup-recovery-framework.md)、[iwr-core](references/evidence/iwr-core.md)；睡眠饮食仍走恢复包 |
 | 手表/COROS/同步计划到日历 | [设备数据与 COROS MCP](references/device-data.md) |
