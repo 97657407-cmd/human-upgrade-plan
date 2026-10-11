@@ -1,6 +1,6 @@
 ---
 name: human-upgrade-plan
-version: 1.10.16-cursor
+version: 1.10.22-cursor
 description: Evidence-informed running and strength planning from 100m to trail. Ask where they train and look up that city's forecast each session. Every session has a warmup scaled to recreational vs trained athletes; adjust from warmup feedback. Read last COROS workout. Race-day pacing from weather and readiness. Not medical diagnosis.
 ---
 
@@ -22,7 +22,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
 
 4. **给出可执行训练建议（每堂必须带热身；先更新该地点天气）**  
    写课前确认今天在哪练。**助手必须检索该城市、该训练时段的公开预报**（气温、相对湿度、风、降水）以及**室外课的 PM2.5**，写进课表头；检索失败再请用户看天气/空气 App，禁止默认「全国同一气温」。中国 AQI 数字不能当美国 AQI 用，课表写 PM2.5。发烧或全身旗标先走 [开课闸门](references/session-gate-framework.md)，不上质量课。室内跑步机按更热一档，且不要把室外配速原样贴上去。抄 [热身与练后手册](references/warmup-recovery-framework.md)：项目速查 × **大众短热身 vs 专业完整 RAMP** × 气温湿度表。**室外课必须按该点气温写出穿搭**（[跑步穿搭](references/run-clothing-framework.md)；理论是 IREQ/ACSM 热平衡，气温表是教练落地）：质量课跑时少一层，组间/练后穿回来，停下立刻换干衣；有风或雨再冷一档。换衣服不是因为过时的 open window。有热身反馈则先改热身再改主课。热身不能当零伤保证（IWR33）。穿对衣服不能保证不感冒。用户有胸带/臂带/豆则**每堂提醒出门戴**：先按他日常最爱的那件；两样都有时按今天课型说「今天更该戴哪」（间歇胸带、越野豆、轻松按偏好、秋冬见配件手册）。没有配件用 RPE，不推销购买。  
-   **每堂训练建议开头一句精英原话**，只从 [开课一句](references/elite-encouragement.md) 抄，按项目匹配；禁止编造名将语录。伤后/发烧日不要上「拼意志」。  
+   **每堂训练建议开头必须一句**：运动员原话或教练哲学，只从 [开课一句](references/elite-encouragement.md) 抄；姓名后带该文件人物表里的成就短标注；连续课运动员与教练交错；外国条目中英并列；禁止编造成就或语录。伤后/发烧日不要上「拼意志」。  
    用户报了比赛/体测日期：先读 [长期备赛框架](references/race-prep-framework.md)，赛前 14 天或问成绩再读 [赛事预测与赛日策略](references/race-day-strategy.md)。无比赛日期则 [当周框架手册](references/framework-handbook.md)。有痛未到 S5 不要排质量课。不要一次输出整季逐日表。
 
 5. **必须解释“为什么”（大脑定原理，索引钉 1–2 张卡）**  
@@ -45,11 +45,12 @@ description: Evidence-informed running and strength planning from 100m to trail.
 | 热身、练后拉伸/冰浴/放松 | [热身与练后手册](references/warmup-recovery-framework.md)、[iwr-core](references/evidence/iwr-core.md)；睡眠饮食仍走恢复包 |
 | 手表/COROS/同步计划到日历 | [设备数据与 COROS MCP](references/device-data.md) |
 | 心率带 胸带 臂带 跑步豆 戴不戴 | [硬件配件](references/hardware-kit-framework.md)、[hardware-kit-core](references/evidence/hardware-kit-core.md)；效度细节可穿戴包 C40–C45 |
-| 开课鼓励、名将原话 | [开课一句](references/elite-encouragement.md)；只抄该文件 |
+| 开课鼓励、名将原话、教练哲学 | [开课一句](references/elite-encouragement.md)；每堂一条，只抄该文件 |
 | 备赛、赛前减量、到比赛还有N周 | [备赛框架](references/race-prep-framework.md)、[备赛证据包](references/evidence/race-prep-core.md)；本周仍走金样 |
 | 能跑进多少、赛事预测、赛日怎么跑、天气配速 | [赛事预测与赛日策略](references/race-day-strategy.md) + RP24–28；先读上次课与预报气温 |
 | 论文学习、知识扩充 | 一律从[全库总索引 INDEX-all](references/evidence/INDEX-all.md)检索（含备赛包）；体系说明见[知识与证据](references/training-knowledge-system.md) |
 | 内经/中医节律、中式饮食与训练结合 | [内经节律×中式饮食×训练](references/tcm-asian-diet-training.md)；剂量细节仍读[恢复饮食包](references/evidence/recovery-nutrition-core-2023-2026.md)与[冬季包](references/evidence/winter-cold-core-2023-2026.md) |
+| 短跑 50/100/200/400、体测、加速怎么练 | [短跑手册](references/sprint-framework.md)、[sprint-core](references/evidence/sprint-core.md)；周结构金样 5；力量仍走 100–400 菜单 |
 | 力量/增肌/田径力量配比、动作选择 | [力量模式与动作库](references/strength-training-modes.md)（第8节增肌3/4日模板，第9节膝/跟腱/下背变式）、[力量证据包](references/evidence/strength-modes-core-2023-2026.md)；同期干扰见[concurrent-interference-2024](references/evidence/concurrent-interference-2024.md) |
 | 分享、同步、发布 | [维护与隐私](references/wiki-maintenance.md)；仅发布公共包 |
 

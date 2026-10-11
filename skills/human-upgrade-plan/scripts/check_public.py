@@ -31,6 +31,7 @@ ALLOWED_RELATIVE = {
     "skills/human-upgrade-plan/references/race-prep-framework.md",
     "skills/human-upgrade-plan/references/run-clothing-framework.md",
     "skills/human-upgrade-plan/references/session-gate-framework.md",
+    "skills/human-upgrade-plan/references/sprint-framework.md",
     "skills/human-upgrade-plan/references/recent-training.md",
     "skills/human-upgrade-plan/references/recovery-working-athletes.md",
     "skills/human-upgrade-plan/references/strength-training-modes.md",

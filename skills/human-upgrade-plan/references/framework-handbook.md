@@ -14,7 +14,7 @@
 3. **有痛先走回归树**，未到 S5 不排质量课；无伤再套金样。跑着痛、走路可以：有氧套 [交叉训练手册](cross-train-framework.md)。
 4. **场地改动作，文献不改金样骨架**。宿舍弹力带就写弹力带，不写杠铃高翻。
 5. 原理、文献要点、针对该用户的推断必须分开写。
-6. **每堂必须写热身**（人群 × 项目速查 × 该地点当天气温湿度）。缺热身的课表不算交卷。用热身反馈改下一堂。室外课必须写穿搭（[跑步穿搭](run-clothing-framework.md)）。档案里有胸带/臂带/豆则写佩戴（[硬件配件](hardware-kit-framework.md)）。课表最上面一句精英原话（[开课一句](elite-encouragement.md)）。
+6. **每堂必须写热身**（人群 × 项目速查 × 该地点当天气温湿度）。缺热身的课表不算交卷。用热身反馈改下一堂。室外课必须写穿搭（[跑步穿搭](run-clothing-framework.md)）。档案里有胸带/臂带/豆则写佩戴（[硬件配件](hardware-kit-framework.md)）。课表最上面一句运动员原话或教练哲学（[开课一句](elite-encouragement.md)）。
 7. **写课前先读上次训练**（高驰 MCP 或口述）并更新训练地点天气与室外 PM2.5；有发热走 [开课闸门](session-gate-framework.md)。有比赛日期加 [赛日策略](race-day-strategy.md)。
 
 ---
@@ -38,7 +38,7 @@
 
 | 项目 | 手册骨架 | 优先检索标签 |
 |---|---|---|
-| 100m / 200m / 400m | 金样 2 的速度日思路（短加速干净）+ 力量「100–400 菜单」；不排长乳酸堆 | `短跑` `弹性` `同期` `力量处方` |
+| 100m / 200m / 400m / 体测 50 | 金样 5（体测）或金样 2 速度日；抄 [短跑手册](sprint-framework.md)；力量「100–400 菜单」；不排长乳酸堆 | `短跑` `加速` `雪橇` `腘绳肌` |
 | 800m / 1500m | 金样 2 + 力量「800 菜单」；[800/1500 框架卡](evidence/middle-distance-framework.md) | `中短跑` `4x4` `乳酸阈` `极化` `挪威` |
 | 3000m / 5000m | 金样 1 或 4（看周次数）+ 力量「5K–半马菜单」 | `5K` `工作日` `HIIT` `弹性` `冬季打底` |
 | 10000m / 半马 | 金样 4 + 力量维持；长课按时间 | `半马` `长跑剂量` `阈值` `减量` |
@@ -55,7 +55,7 @@
 ## 手册章节（正文在各文件，这里只做目录）
 
 1. 建档与类型匹配 — [athlete-profile](athlete-profile.md)
-2. 金样 1 上班 5K / 2 中短跑 / 3 增肌 / 4 半马基础 — [gold-weeks-and-return](gold-weeks-and-return.md) 甲
+2. 金样 1 上班 5K / 2 中短跑 / 3 增肌 / 4 半马基础 / 5 体测短跑 — [gold-weeks-and-return](gold-weeks-and-return.md) 甲
 3. 伤后决策树 S0–S6 — 同上 乙
 4. 十一项能力与课型 — [event-frameworks](event-frameworks.md)
 5. 力量模式 A–E、项目菜单、增肌周、伤病变式 — [strength-training-modes](strength-training-modes.md)
