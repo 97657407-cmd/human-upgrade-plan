@@ -137,7 +137,7 @@
 | 热 高原 | heat-acclimation-2024 · altitude-2023 |
 | 手表 功率 Stryd HRV | wearable-models-2025 · wearables-devices-core |
 | 膝 跟腱 防伤 能不能跑 | [injury-load-framework](../injury-load-framework.md) · iwr-core · 回归树 |
-| 椭圆机 自行车 交叉训练 伤停 Arc Valby | [cross-train-framework](../cross-train-framework.md) · [xt-core](xt-core.md) XT11 |
+| 健身房椭圆机 自行车 交叉训练 伤停 Ingebrigtsen Wodak | [cross-train-framework](../cross-train-framework.md) · [xt-core](xt-core.md) XT11 |
 | 热身 静态拉伸 动态 100米 800 马拉松 气温 | [warmup-recovery-framework](../warmup-recovery-framework.md) 地点天气×人群 · IWR04/16–34 |
 | 练后 拉伸 冰浴 按摩 | warmup-recovery-framework · IWR06–08 · 冬季冰浴悖论 |
 | 精神疲劳 RPE 脑子累 | mental-fatigue-rpe-2024 · workday 21–22 |
