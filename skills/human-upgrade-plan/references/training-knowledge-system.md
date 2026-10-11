@@ -12,7 +12,8 @@
 - **自行车 / 椭圆交叉训练**：[cross-train-framework](cross-train-framework.md) + [xt-core](evidence/xt-core.md)（11 条，含精英个案 XT11）。
 - **开课闸门（生病 / PM2.5 / 跑台）**：[session-gate-framework](session-gate-framework.md) + [env-illness-core](evidence/env-illness-core.md)（9 条）。室外质量课前必过。
 - **跑步穿搭（IREQ / ACSM 热平衡）**：[run-clothing-framework](run-clothing-framework.md) + [clothing-core](evidence/clothing-core.md)（11 条）。气温表是教练落地。现行免疫理论不用 open window 解释换衣服。
-- **胸带 / 臂带 / 跑步豆**：[hardware-kit-framework](hardware-kit-framework.md) + [hardware-kit-core](evidence/hardware-kit-core.md)（6 条）。建档就问；每堂提醒戴；间歇优先胸带。
+- **胸带 / 臂带 / 跑步豆**：[hardware-kit-framework](hardware-kit-framework.md) + [hardware-kit-core](evidence/hardware-kit-core.md)（6 条）。建档问有什么和日常最爱戴哪件；每堂提醒；两样都有按课型选今天更该戴哪。
+- **开课一句精英原话**：[elite-encouragement](elite-encouragement.md)。只抄该文件，禁止编造。
 - **热身与练后**：[warmup-recovery-framework](warmup-recovery-framework.md)（每堂必写；检索地点预报；大众 vs 专业；热身反馈改下一堂；IWR16–34）。
 - **文献检索（全库）**：[evidence/INDEX-all](evidence/INDEX-all.md)。按项目/中文关键词调用。
 - 项目与通用理论：[event-frameworks](event-frameworks.md)。

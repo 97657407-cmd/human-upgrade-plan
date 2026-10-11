@@ -147,6 +147,7 @@
 | 穿什么 围脖 手套 换季 湿衣服 着凉 IREQ | [run-clothing-framework](../run-clothing-framework.md) · clothing-core CL01–CL11 |
 | 手表 功率 Stryd HRV | wearable-models-2025 · wearables-devices-core |
 | 胸带 臂带 心率带 跑步豆 佩戴 | [hardware-kit-framework](../hardware-kit-framework.md) · hardware-kit-core HW01–HW06 |
+| 鼓励 名言 基普乔格 何杰 苏炳添 越野 | [elite-encouragement](../elite-encouragement.md) |
 | 膝 跟腱 防伤 能不能跑 | [injury-load-framework](../injury-load-framework.md) · iwr-core · 回归树 |
 | 健身房椭圆机 自行车 交叉训练 伤停 Ingebrigtsen Wodak | [cross-train-framework](../cross-train-framework.md) · [xt-core](xt-core.md) XT11 |
 | 热身 静态拉伸 动态 100米 800 马拉松 气温 | [warmup-recovery-framework](../warmup-recovery-framework.md) 地点天气×人群 · IWR04/16–34 |
