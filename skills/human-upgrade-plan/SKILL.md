@@ -1,6 +1,6 @@
 ---
 name: human-upgrade-plan
-version: 1.10.23-cursor
+version: 1.10.27-cursor
 description: Evidence-informed running and strength planning from 100m to trail. Ask where they train and look up that city's forecast each session. Every session has a warmup scaled to recreational vs trained athletes; adjust from warmup feedback. Read last COROS workout. Race-day pacing from weather and readiness. Illness return, heat hydration, and caffeine for quality sessions and races. Not medical diagnosis.
 ---
 
@@ -11,7 +11,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
 ## 对话主流程（必须遵守）
 
 1. **基础建档（先称呼，再分项问）**  
-   面向不特定公众用户。先问怎么称呼，再按块收集：身份（学生/上班等）、运动史与中断、目标、近几周真实训练、伤病、**在哪训练（城市/区 + 室内外 + 操场/马路/跑步机/越野）**、力量器械、可用时间与时段、睡眠压力、手表、**胸带/臂带/跑步豆有没有**。详见 [用户建档](references/athlete-profile.md)。不要精确住址。不要改成让用户自己组织长段自述。
+   面向不特定公众用户。先问怎么称呼，**再问性别**（用户可见问法抄建档：`boy / girl，或其他选项？`）。`boy`→男子表，`girl`→女子表（铁营养、同期口径），其他/不答→通用课、等级给两行。不要猜。再按块收集：身份（学生/上班等）、运动史与中断、目标、近几周真实训练、伤病、**在哪训练（城市/区 + 室内外 + 操场/马路/跑步机/越野）**、力量器械、可用时间与时段、睡眠压力、手表、**胸带/臂带/跑步豆有没有**。详见 [用户建档](references/athlete-profile.md)。不要精确住址。不要改成让用户自己组织长段自述。
 
 2. **设备与数据源（排今日/本周课之前必须读上次训练）**  
    明确询问手表品牌，并问 **胸带、上臂光学臂带、跑步豆** 有没有；两样都有再问**日常最爱戴哪件**（[硬件配件](references/hardware-kit-framework.md)）。若是**高驰 COROS**，先问用户用的是哪种 AI：能直接填链接的云端（ChatGPT 等）走方式一 `https://mcpcn.coros.com/mcp`；**国内本机客户端默认走方式二**（`npm install -g coros-mcp` 本地安装再授权）。不要只丢一条 URL。  
@@ -35,7 +35,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
 
 | 请求 | 按需读取 |
 |---|---|
-| 新用户、目标评估 | [用户建档](references/athlete-profile.md)、[近期记录](references/recent-training.md)、[设备数据](references/device-data.md) |
+| 新用户、目标评估 | [用户建档](references/athlete-profile.md)（先称呼再性别）、[近期记录](references/recent-training.md)、[设备数据](references/device-data.md) |
 | 今日/明日/周计划 | **先读上次课** + **今天在哪练/气温湿度/室外 PM2.5** + 有无发热或病假空窗；每堂热身按人群×天气（[热身手册](references/warmup-recovery-framework.md)）；**穿搭按气温**（[跑步穿搭](references/run-clothing-framework.md)）；**有配件则写佩戴**（[硬件配件](references/hardware-kit-framework.md)）；闸门见[开课闸门](references/session-gate-framework.md)；热天/比赛饮水与咖啡因见[补水与咖啡因](references/hydrate-caffeine-framework.md)；有比赛加[备赛框架](references/race-prep-framework.md)；再[框架手册](references/framework-handbook.md) |
 | 完成反馈、疲劳、排班变动 | [近期记录](references/recent-training.md)、[决策协议](references/decision-protocol.md)、[工作与恢复](references/recovery-working-athletes.md)；COROS 用户加读[设备数据](references/device-data.md) |
 | 伤后回归、疼痛还能不能跑 | [伤病负荷手册](references/injury-load-framework.md)、[回归树](references/gold-weeks-and-return.md)、[力量第9节](references/strength-training-modes.md)；证据[iwr-core](references/evidence/iwr-core.md) |
@@ -52,6 +52,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
 | 论文学习、知识扩充 | 一律从[全库总索引 INDEX-all](references/evidence/INDEX-all.md)检索（含备赛包）；体系说明见[知识与证据](references/training-knowledge-system.md) |
 | 内经/中医节律、中式饮食与训练结合 | [内经节律×中式饮食×训练](references/tcm-asian-diet-training.md)；剂量细节仍读[恢复饮食包](references/evidence/recovery-nutrition-core-2023-2026.md)与[冬季包](references/evidence/winter-cold-core-2023-2026.md) |
 | 短跑 50/100/200/400、体测、加速怎么练 | [短跑手册](references/sprint-framework.md)、[sprint-core](references/evidence/sprint-core.md)；周结构金样 5；力量仍走 100–400 菜单 |
+| 二级一级健将、田径等级成绩、路跑算几级 | [中国田径等级成绩](references/cn-athletics-grades.md)、[CG01](references/evidence/cn-athletics-grades-core.md)；课仍走金样，校园体测不要用这张表 |
 | 力量/增肌/田径力量配比、动作选择 | [力量模式与动作库](references/strength-training-modes.md)（第8节增肌3/4日模板，第9节膝/跟腱/下背变式）、[力量证据包](references/evidence/strength-modes-core-2023-2026.md)；同期干扰见[concurrent-interference-2024](references/evidence/concurrent-interference-2024.md) |
 | 分享、同步、发布 | [维护与隐私](references/wiki-maintenance.md)；仅发布公共包 |
 
