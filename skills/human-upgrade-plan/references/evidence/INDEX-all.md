@@ -20,7 +20,9 @@
 | 跑步穿搭 / IREQ 热平衡 | **11 条** | ACSM 冷环境、ISO IREQ（跑/停分段算）、Castellani & Tipton 2016 专章、湿+低强度掉核心、Havenith 有效 clo、Campbell 2018 否定 open window、Kenny 练后体温调节 |
 | 胸带 / 臂带 / 跑步豆 | **6 条** | 间歇优先胸带、臂带主段约 ±9 bpm、10°C 气候箱光学未崩、腕式短窗口误差大、豆不当阈值 |
 | 中国田径运动员技术等级 | **1 条** | 体竞字〔2024〕121 号，2025 年起；男女跑跳投 + 竞走；对照用，不授证 |
-| **合计** | **239 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| 北京中小学体育考核 | **3 条** | 2021 方案 70 分骨架；2026 学考 50 分 FAQ；现场良好即满分（1000 米 4:05 / 800 米 3:55） |
+| 磨脚 / 水泡 / 越野脚 | **6 条** | 超马纸胶 RCT、定点贴 vs 整脚贴、摩擦机制、留泡皮、黑趾甲、擦伤 |
+| **合计** | **248 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -127,6 +129,8 @@
 | 胸带 臂带 跑步豆 光学心率 | 配件手册 + 6 条 | [hardware-kit-framework](../hardware-kit-framework.md) · [hardware-kit-core](hardware-kit-core.md) HW01–HW06 |
 | 女性耐力 | 专项 + 冬季包 12 | [female-endurance-2024](female-endurance-2024.md) |
 | 二级 一级 健将 田径等级 | 手册 + 1 条 | [cn-athletics-grades](../cn-athletics-grades.md) · [CG01](cn-athletics-grades-core.md) |
+| 北京中考 小学体测 800 1000 | 手册 + 3 条 | [beijing-pe-exam](../beijing-pe-exam.md) · BJ01–BJ03 |
+| 水泡 磨脚 血泡 黑趾甲 越野脚 | 手册 + 6 条 | [skin-hotspot-framework](../skin-hotspot-framework.md) · SH01–SH06 |
 
 ---
 
@@ -136,6 +140,9 @@
 |---|---|
 | 100米 200 400 短跑 加速 体测50 起跑 弯道 | [sprint-framework](../sprint-framework.md) · sprint-core SP01–SP31 · 力量 100–400 菜单 |
 | 二级 一级 健将 三级 等级运动员 田径达标 | [cn-athletics-grades](../cn-athletics-grades.md) · CG01 |
+| 北京中考 体考 800米 1000米 四年级统测 | [beijing-pe-exam](../beijing-pe-exam.md) · BJ01–BJ03 |
+| 水泡 血泡 磨破 黑趾甲 擦伤 | [skin-hotspot-framework](../skin-hotspot-framework.md) · SH01–SH06 |
+| 经期 女选手头晕 漏饭 | [female-session-gate](../female-session-gate.md) |
 | 800 1500 中跑 乳酸 | middle-distance-framework · lactate-threshold · norwegian-double-threshold |
 | 4x4 VO2max 有氧功率 | vo2max-4x4-2024 · recovery-work R03 |
 | 极化 金字塔 TID | tid-polarized-2024 · tid-scoping-2025 · recovery-work R04 |

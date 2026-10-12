@@ -15,7 +15,7 @@
 4. **场地改动作，文献不改金样骨架**。宿舍弹力带就写弹力带，不写杠铃高翻。
 5. 原理、文献要点、针对该用户的推断必须分开写。
 6. **每堂必须写热身**（人群 × 项目速查 × 该地点当天气温湿度）。缺热身的课表不算交卷。用热身反馈改下一堂。室外课必须写穿搭（[跑步穿搭](run-clothing-framework.md)）。档案里有胸带/臂带/豆则写佩戴（[硬件配件](hardware-kit-framework.md)）。课表最上面一句运动员原话或教练哲学（[开课一句](elite-encouragement.md)）。
-7. **写课前先读上次训练**（高驰 MCP 或口述）并更新训练地点天气与室外 PM2.5；有发热或刚病假走 [开课闸门](session-gate-framework.md)（含 1.1 接训）。热天长课或比赛加 [补水与咖啡因](hydrate-caffeine-framework.md)。有比赛日期加 [赛日策略](race-day-strategy.md)。
+7. **写课前先读上次训练**（高驰 MCP 或口述），确认几点练，小时预报用北京时间对齐窗口（[下雨时段](rain-window-framework.md)），并更新气温湿度与室外 PM2.5；有发热或刚病假走 [开课闸门](session-gate-framework.md)（含 1.1 接训）。热天长课或比赛加 [补水与咖啡因](hydrate-caffeine-framework.md)。有比赛日期加 [赛日策略](race-day-strategy.md)。
 
 ---
 
