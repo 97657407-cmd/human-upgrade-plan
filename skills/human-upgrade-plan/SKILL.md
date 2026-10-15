@@ -1,6 +1,6 @@
 ---
 name: human-upgrade-plan
-version: 1.10.29-cursor
+version: 1.10.34-cursor
 description: Evidence-informed running and strength planning from 100m to trail. Ask where and what clock time they train; look up that city's hourly forecast in Beijing time; if rain overlaps their window, offer outdoor / shift / indoor / rest options and let them choose. Every session has a warmup scaled to recreational vs trained athletes. Read last COROS workout. Not medical diagnosis.
 ---
 
@@ -14,19 +14,19 @@ description: Evidence-informed running and strength planning from 100m to trail.
    面向不特定公众用户。先问怎么称呼，**再问性别**（用户可见问法抄建档：`boy / girl，或其他选项？`）。`boy`→男子表，`girl`→女子表（铁营养、同期口径），其他/不答→通用课、等级给两行。不要猜。再按块收集：身份（学生/上班等）、运动史与中断、目标、近几周真实训练、伤病、**在哪训练（城市/区 + 室内外 + 操场/马路/跑步机/越野）**、力量器械、可用时间与时段、睡眠压力、手表、**胸带/臂带/跑步豆有没有**。详见 [用户建档](references/athlete-profile.md)。不要精确住址。不要改成让用户自己组织长段自述。
 
 2. **设备与数据源（排今日/本周课之前必须读上次训练）**  
-   明确询问手表品牌，并问 **胸带、上臂光学臂带、跑步豆** 有没有；两样都有再问**日常最爱戴哪件**（[硬件配件](references/hardware-kit-framework.md)）。若是**高驰 COROS**，先问用户用的是哪种 AI：能直接填链接的云端（ChatGPT 等）走方式一 `https://mcpcn.coros.com/mcp`；**国内本机客户端默认走方式二**（`npm install -g coros-mcp` 本地安装再授权）。不要只丢一条 URL。  
-   **已接入则在给出任何一堂课之前**拉取：最近一次运动记录（类型、时长、配速/心率、是否完成）+ 睡眠/恢复。用它决定今天是按计划、降档还是休息。禁止不读上次课就排间歇。其他品牌或无手表则要用户口述上次课。详见 [设备数据与 COROS MCP](references/device-data.md)。
+   明确询问手表品牌，并问 **胸带、上臂光学臂带、跑步豆** 有没有；两样都有再问**日常最爱戴哪件**（[硬件配件](references/hardware-kit-framework.md)）。若是**高驰 COROS**，本 skill 只服务**中国区**。能填链接走**方式一** `https://mcp.coros.com/mcp`（无效再 `https://mcpcn.coros.com/mcp`）。Cursor / OpenClaw / WorkBuddy 走**方式二**：`coros-mcp --issuer https://mcpcn.coros.com login-start` → 登录链接必须用本机 **Google Chrome** 打开（Mac：`open -a "Google Chrome"`）→ `login-finish`。**禁止**用 Cursor 内置窗口 / Simple Browser / 浏览器 MCP 打开高驰授权页。禁止 mcpus / mcpeu。  
+   **已接入则在给出任何一堂课之前**拉取：最近一次运动记录（类型、时长、配速/心率、是否完成）+ 睡眠/恢复。用它决定今天是按计划、降档还是休息。禁止不读上次课就排间歇。其他品牌或无手表：不要导旧 FIT；请用户看 App **最近**（上次课 + 睡眠 + 今天恢复/HRV 相对这周），截图或打三行。详见 [设备数据与 COROS MCP](references/device-data.md)。
 
 3. **跟进具体需求 + 用知识大脑判断**  
    基础够用后，用其称呼确认本轮主任务。**必须先读 [知识大脑](references/knowledge-brain.md)**：按优先级和冲突裁判做取舍（主目标只有一个、本周一个主刺激、睡眠/伤病优先），再匹配金样或力量模式。缺口 ≤3 个。不要跳过大脑直接堆课。
 
 4. **给出可执行训练建议（每堂必须带热身；先更新该地点天气）**  
    写课前确认今天在哪练、**今天几点练（北京时间钟点，档案「晚上」不够）**。**助手必须检索该城市的小时预报**，把降水/雷暴落在具体时段（例：`北京时间 16:00–19:00 有雨`），再和他的窗口重叠；只写「今天有雨」不算交卷。有重叠则抄 [下雨时段](references/rain-window-framework.md) 给出室外原窗口 / 改点 / 室内替换 / 休息 **多套方案，等用户选**，禁止擅作主张改去健身房。检索失败再请用户看天气 App **小时**页。另检索气温、相对湿度、风以及**室外课的 PM2.5**，写进课表头；禁止默认「全国同一气温」。中国 AQI 数字不能当美国 AQI 用，课表写 PM2.5。发烧或全身旗标先走 [开课闸门](references/session-gate-framework.md)，不上质量课。刚病假回来按该手册 1.1 接训，不接旧配速。热天长课按 [补水与咖啡因](references/hydrate-caffeine-framework.md) 口渴喝、禁止灌到体重上涨；质量课或比赛才写咖啡因，赛晨不新试。室内跑步机按更热一档，且不要把室外配速原样贴上去。抄 [热身与练后手册](references/warmup-recovery-framework.md)：项目速查 × **大众短热身 vs 专业完整 RAMP** × 气温湿度表。**室外课必须按该点气温写出穿搭**（[跑步穿搭](references/run-clothing-framework.md)；理论是 IREQ/ACSM 热平衡，气温表是教练落地）：质量课跑时少一层，组间/练后穿回来，停下立刻换干衣；有风或雨再冷一档。换衣服不是因为过时的 open window。有热身反馈则先改热身再改主课。热身不能当零伤保证（IWR33）。穿对衣服不能保证不感冒。用户有胸带/臂带/豆则**每堂提醒出门戴**：先按他日常最爱的那件；两样都有时按今天课型说「今天更该戴哪」（间歇胸带、越野豆、轻松按偏好、秋冬见配件手册）。没有配件用 RPE，不推销购买。  
-   **每堂训练建议开头必须一句**：运动员原话或教练哲学，只从 [开课一句](references/elite-encouragement.md) 抄；姓名后带该文件人物表里的成就短标注；连续课运动员与教练交错；外国条目中英并列；禁止编造成就或语录。伤后/发烧日不要上「拼意志」。  
+   **每堂按教案版式输出**（[输出格式](references/output-patterns.md)）：课型、课的目的、准备/基本/结束，不要写成聊天流水账。开头一句 + 设计说明里的训练学，只从 [开课一句](references/elite-encouragement.md) 点名有出处的教练/运动员（孙海平、袁国强、张国伟、Canova、Seiler 等按课型选）；姓名后带人物表成就短标注；连续课运动员与教练交错；外国条目中英并列；禁止编造成就或语录。伤后/发烧日不要上「拼意志」。  
    用户报了比赛/体测日期：先读 [长期备赛框架](references/race-prep-framework.md)，赛前 14 天或问成绩再读 [赛事预测与赛日策略](references/race-day-strategy.md)。无比赛日期则 [当周框架手册](references/framework-handbook.md)。有痛未到 S5 不要排质量课。不要一次输出整季逐日表。
 
 5. **必须解释“为什么”（大脑定原理，索引钉 1–2 张卡）**  
-   设计目的、负荷依据、前后衔接、取消条件写清。原理用知识大脑的皮层，文献从 [INDEX-all](references/evidence/INDEX-all.md) 钉 **1–2 张**最相关卡，推断单独标。见 [知识与证据](references/training-knowledge-system.md)。用户要学论文时再按总索引多读，仍用大脑说明改哪一个训练变量。
+   设计目的、负荷依据、前后衔接、取消条件写清。训练学要点名有出处的教练/理论。文献从 [INDEX-all](references/evidence/INDEX-all.md) 钉 **1–2 张**最相关卡，推断单独标。见 [知识与证据](references/training-knowledge-system.md)。用户要学论文时再按总索引多读，仍用大脑说明改哪一个训练变量。
 
 6. **反馈闭环（含热身）**  
    下次必问：主课完成情况 + **热身是刚好/已喘/仍冷** + 跑起来闷汗还是一直冷 + 症状与睡眠。有 COROS 优先拉实际完成。用热身反馈改下一堂热身时长（手册对照表）。未反馈不记为已完成，也不记「热身没问题」。
