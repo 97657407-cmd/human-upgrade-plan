@@ -1,6 +1,6 @@
 # 全库文献总索引（专项卡 + 主题包 + 力量/恢复，均可检索调用）
 
-更新日期：2026-10-11。  
+更新日期：2026-10-19。  
 **排课不要用本文件当课表。** 先加载 [知识大脑](../knowledge-brain.md) 做判断，周结构走 [框架手册](../framework-handbook.md)；这里只负责按项目/主题找到卡。
 
 ## 库存规模
@@ -23,7 +23,8 @@
 | 北京中小学体育考核 | **3 条** | 2021 方案 70 分骨架；2026 学考 50 分 FAQ；现场良好即满分（1000 米 4:05 / 800 米 3:55） |
 | 磨脚 / 水泡 / 越野脚 | **6 条** | 超马纸胶 RCT、定点贴 vs 整脚贴、摩擦机制、留泡皮、黑趾甲、擦伤 |
 | 静态等长 / 练筋骨 / 腱适应 | **13 条** | 高强度/高应变才改腱、收缩类型不关键、BJSM 5×45 s、跟腱 90% 循环、爆发意图 vs 维持 |
-| **合计** | **261 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| 赛日策略 / 赛道胶与盐丸 | **12 条** | 按时长给碳水、练胃、全马现场约 35 g/h、匀速不抄锦标赛、盐丸防不住低钠/抽筋 |
+| **合计** | **273 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -82,6 +83,7 @@
 | 上班族时间碎、零食式运动 | 工作日包 13–16、19（见 [INDEX-core50](INDEX-core50-2023-2026.md)） |
 | 防伤力量值不值 | 工作日包 18 PMID 38261240 · [strength 08](strength-modes-core-2023-2026.md) |
 | 膝伤风险 | 工作日包 23 PMID 42221209 · [strength 10](strength-modes-core-2023-2026.md) |
+| 半马赛道胶/水 | [race-fuel-framework](../race-fuel-framework.md) RF01–RF03；5K/10K 通常不吃胶 |
 
 手册骨架：金样 1（周次少）或金样 4（已能周跑多次）。
 
@@ -92,6 +94,7 @@
 | 补给与鞋科技综述线 | [marathon-fueling-shoes-2025](marathon-fueling-shoes-2025.md) |
 | 碳板代谢 / 生物力学 | [carbon-shoes-metabolic-2025](carbon-shoes-metabolic-2025.md) · [carbon-shoes-biomech-2026](carbon-shoes-biomech-2026.md) |
 | 碳水策略 | [carbs-90g-2024](carbs-90g-2024.md) · 营养包 29–31 |
+| 赛道几公里吃胶、要不要盐丸、补给站 | [race-fuel-framework](../race-fuel-framework.md) · [race-fuel-core](race-fuel-core.md) RF01–RF12；水/低钠仍走 HC |
 | 蛋白与恢复 | 营养包 28 |
 | 相对能量不足 / 饥饿跑者 | 营养包 26、33、34 |
 | 肌酸与耐力 | 营养包 38 |
@@ -132,6 +135,7 @@
 | 二级 一级 健将 田径等级 | 手册 + 1 条 | [cn-athletics-grades](../cn-athletics-grades.md) · [CG01](cn-athletics-grades-core.md) |
 | 北京中考 小学体测 800 1000 | 手册 + 3 条 | [beijing-pe-exam](../beijing-pe-exam.md) · BJ01–BJ03 |
 | 水泡 磨脚 血泡 黑趾甲 越野脚 | 手册 + 6 条 | [skin-hotspot-framework](../skin-hotspot-framework.md) · SH01–SH06 |
+| 赛道补给 能量胶 盐丸 几公里吃 补给站 | 手册 + 12 条 | [race-fuel-framework](../race-fuel-framework.md) · [race-fuel-core](race-fuel-core.md) RF01–RF12 |
 
 ---
 
@@ -148,7 +152,9 @@
 | 4x4 VO2max 有氧功率 | vo2max-4x4-2024 · recovery-work R03 |
 | 极化 金字塔 TID | tid-polarized-2024 · tid-scoping-2025 · recovery-work R04 |
 | 5K 10K 半马 打底 | winter-base-5k-hm-2025 · longrun-dose-2024 · 金样 1/4 |
-| 马拉松 胶 碳板 90克糖 | marathon-fueling-shoes · carbon-shoes-* · carbs-90g · 营养包 · race-prep RP04/RP22 |
+| 马拉松 胶 碳板 90克糖 | marathon-fueling-shoes · carbon-shoes-* · carbs-90g · 营养包 · race-prep RP04/RP22 · [race-fuel RF01–RF07](race-fuel-core.md) |
+| 赛道补给 能量胶 盐丸 补给站 几公里吃 | [race-fuel-framework](../race-fuel-framework.md) · RF01–RF12 |
+| 全马掉速 匀速 正分割 锦标赛战术 | race-fuel RF08–RF09 · [race-day-strategy](../race-day-strategy.md) |
 | 越野 爬升 下坡 | trail-specific-2025 · winter 11 |
 | 减量 taper 备赛 赛前还有几周 | [race-prep-framework](../race-prep-framework.md) · [race-prep-core](race-prep-core.md) |
 | 能跑进多少 赛日 气温 配速策略 | [race-day-strategy](../race-day-strategy.md) · RP24–28 |
@@ -246,6 +252,25 @@
 - 工作日 C13–C25 → [workday-time-core-2023-2026](workday-time-core-2023-2026.md)
 - 恢复饮食睡眠 C26–C39 → [recovery-nutrition-core-2023-2026](recovery-nutrition-core-2023-2026.md)
 - 可穿戴 C40–C50 → [wearables-devices-core-2023-2026](wearables-devices-core-2023-2026.md)
+
+## 赛日策略 / 赛道补给（12）
+
+操作：[race-fuel-framework](../race-fuel-framework.md)。正文：[race-fuel-core](race-fuel-core.md)。
+
+| ID | 条 |
+|---|---|
+| RF01 | 碳水按时长不按体重（Jeukendrup 2014） |
+| RF02 | 训练日与比赛日碳水（Burke 2011） |
+| RF03 | ACSM/Academy 立场 30–60 / 90 g/h |
+| RF04 | 葡萄糖+果糖实验室计时 |
+| RF05 | 练胃 |
+| RF06 | 现场摄入与胃肠；全马均值约 35 g/h |
+| RF07 | 2022 综述；120 g/h 不是大众课表 |
+| RF08 | 全马后半掉速（Deaner） |
+| RF09 | 精英配速综述；大众不抄锦标赛 |
+| RF10 | 盐片防不住低钠 |
+| RF11 | 热超马总钠预测不了抽筋/低钠 |
+| RF12 | 抽筋更像神经肌肉疲劳 |
 
 ---
 

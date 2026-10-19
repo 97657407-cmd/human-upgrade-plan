@@ -8,6 +8,7 @@
 - **排课产出**：[框架手册](framework-handbook.md)（金样、伤后树、项目、力量菜单）。课表不从论文堆出来。
 - **长期备赛**：[race-prep-framework](race-prep-framework.md) + [race-prep-core](evidence/race-prep-core.md)（28 条）+ [race-day-strategy](race-day-strategy.md)。
 - **赛事预测 / 赛日天气配速**：[race-day-strategy](race-day-strategy.md)。
+- **赛道策略 × 胶 / 水 / 盐丸**：[race-fuel-framework](race-fuel-framework.md) + [race-fuel-core](evidence/race-fuel-core.md)（12 条）。碳水按时长；未练胃不上 90 g/h；盐丸默认不用。口渴喝仍走补水手册。
 - **伤病负荷（非诊断）**：[injury-load-framework](injury-load-framework.md) + 回归树 + 力量第9节。证据 [iwr-core](evidence/iwr-core.md)。
 - **自行车 / 椭圆交叉训练**：[cross-train-framework](cross-train-framework.md) + [xt-core](evidence/xt-core.md)（11 条，含精英个案 XT11）。
 - **开课闸门（生病 / PM2.5 / 跑台）**：[session-gate-framework](session-gate-framework.md) + [env-illness-core](evidence/env-illness-core.md)（10 条）。室外质量课前必过；中国 AQI ≠ 美国 AQI。

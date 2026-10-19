@@ -1,5 +1,7 @@
 # 人类耐力变强计划
 
+版本 **1.2.0**（`skills/human-upgrade-plan/SKILL.md` 的 `version` 字段）。
+
 面向不同训练基础的跑步、力量与恢复辅助 skill，支持 100m 至马拉松及越野、工作日训练、反馈分析、教练学习，以及（可选）高驰 COROS 官方 MCP 数据接入。
 
 ## 使用
@@ -50,7 +52,8 @@ COROS MCP 本身免费；AI 平台的 MCP/开发者模式常要付费套餐。�
 - 训练产出：[框架手册](skills/human-upgrade-plan/references/framework-handbook.md)（金样课表、伤后树、项目、力量菜单）。课表不从论文堆出来。
 - 项目框架：11 个项目（100m 至越野）的能力需求、课型选择与评估重点。
 - 恢复与工作：睡眠、精神疲劳、坐站工作、组间休息、力量与耐力组合。
-- 文献全库：[INDEX-all](skills/human-upgrade-plan/references/evidence/INDEX-all.md) — 约 165 条可检索入口（含骑/椭圆交叉训练 11 条，含精英 Arc/椭圆个案）。主题包细目见 [INDEX-core50](skills/human-upgrade-plan/references/evidence/INDEX-core50-2023-2026.md)。
+- 文献全库：[INDEX-all](skills/human-upgrade-plan/references/evidence/INDEX-all.md) — 约 273 条可检索入口。主题包细目见 [INDEX-core50](skills/human-upgrade-plan/references/evidence/INDEX-core50-2023-2026.md)。
+- 赛道策略与补给：[race-fuel-framework](skills/human-upgrade-plan/references/race-fuel-framework.md) — 分段配速、补给站、能量胶、盐丸边界；证据 RF01–RF12。
 - 伤停交叉训练：[自行车与椭圆机手册](skills/human-upgrade-plan/references/cross-train-framework.md)。
 - 赛日：[赛事预测与赛日策略](skills/human-upgrade-plan/references/race-day-strategy.md)（气温、身体、三档预测）。
 - 设备：COROS MCP 接入与读写边界；其他品牌走手动反馈。

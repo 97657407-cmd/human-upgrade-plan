@@ -33,6 +33,7 @@ ALLOWED_RELATIVE = {
     "skills/human-upgrade-plan/references/knowledge-brain.md",
     "skills/human-upgrade-plan/references/output-patterns.md",
     "skills/human-upgrade-plan/references/race-day-strategy.md",
+    "skills/human-upgrade-plan/references/race-fuel-framework.md",
     "skills/human-upgrade-plan/references/race-prep-framework.md",
     "skills/human-upgrade-plan/references/rain-window-framework.md",
     "skills/human-upgrade-plan/references/run-clothing-framework.md",
@@ -70,13 +71,16 @@ DEFAULT_DENY_PATTERNS = [
 
 
 def iter_files(root: Path) -> list[Path]:
-    skip_dir_names = {".git", "__pycache__"}
+    skip_dir_names = {".git", "__pycache__", "_fulltext"}
     files: list[Path] = []
     for path in root.rglob("*"):
         if any(part in skip_dir_names for part in path.parts):
             continue
-        if path.is_file() and path.name != ".DS_Store":
-            files.append(path)
+        if not path.is_file() or path.name == ".DS_Store":
+            continue
+        if path.name.startswith("_") and path.suffix.lower() in {".json", ".xml", ".txt"}:
+            continue
+        files.append(path)
     return sorted(files)
 
 
