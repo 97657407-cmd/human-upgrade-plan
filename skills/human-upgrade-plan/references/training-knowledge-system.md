@@ -11,6 +11,7 @@
 - **伤病负荷（非诊断）**：[injury-load-framework](injury-load-framework.md) + 回归树 + 力量第9节。证据 [iwr-core](evidence/iwr-core.md)。
 - **自行车 / 椭圆交叉训练**：[cross-train-framework](cross-train-framework.md) + [xt-core](evidence/xt-core.md)（11 条，含精英个案 XT11）。
 - **开课闸门（生病 / PM2.5 / 跑台）**：[session-gate-framework](session-gate-framework.md) + [env-illness-core](evidence/env-illness-core.md)（10 条）。室外质量课前必过；中国 AQI ≠ 美国 AQI。
+- **静态等长 / 练筋骨**：[isometric-tendon-framework](isometric-tendon-framework.md) + [isometric-core](evidence/isometric-core.md)（13 条）。高强度/高应变才改腱；不是壮骨；慢性腱病不神化等长。
 - **下雨时段（几点雨 × 几点练）**：[rain-window-framework](rain-window-framework.md)。小时预报写北京时间；问用户练窗；室外/改点/室内/休息多方案，不代做决定。
 - **短跑 50/100/200/400**：[sprint-framework](sprint-framework.md) + [sprint-core](evidence/sprint-core.md)（31 条）。体测走金样 5；课的目的决定距离和休息；各国教练只迁理念。
 - **跑步穿搭（IREQ / ACSM 热平衡）**：[run-clothing-framework](run-clothing-framework.md) + [clothing-core](evidence/clothing-core.md)（11 条）。气温表是教练落地。现行免疫理论不用 open window 解释换衣服。

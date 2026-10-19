@@ -22,7 +22,8 @@
 | 中国田径运动员技术等级 | **1 条** | 体竞字〔2024〕121 号，2025 年起；男女跑跳投 + 竞走；对照用，不授证 |
 | 北京中小学体育考核 | **3 条** | 2021 方案 70 分骨架；2026 学考 50 分 FAQ；现场良好即满分（1000 米 4:05 / 800 米 3:55） |
 | 磨脚 / 水泡 / 越野脚 | **6 条** | 超马纸胶 RCT、定点贴 vs 整脚贴、摩擦机制、留泡皮、黑趾甲、擦伤 |
-| **合计** | **248 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| 静态等长 / 练筋骨 / 腱适应 | **13 条** | 高强度/高应变才改腱、收缩类型不关键、BJSM 5×45 s、跟腱 90% 循环、爆发意图 vs 维持 |
+| **合计** | **261 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -168,6 +169,7 @@
 | 胸带 臂带 心率带 跑步豆 佩戴 | [hardware-kit-framework](../hardware-kit-framework.md) · hardware-kit-core HW01–HW06 |
 | 鼓励 名言 教练 利迪亚德 丹尼尔斯 塞勒 卡诺瓦 桑 孙海平 达米拉诺 | [elite-encouragement](../elite-encouragement.md) |
 | 膝 跟腱 防伤 能不能跑 | [injury-load-framework](../injury-load-framework.md) · iwr-core · 回归树 |
+| 等长 练筋骨 静态 墙坐 肌腱 髌腱 | [isometric-tendon-framework](../isometric-tendon-framework.md) · isometric-core IS01–IS13 |
 | 健身房椭圆机 自行车 交叉训练 伤停 Ingebrigtsen Wodak | [cross-train-framework](../cross-train-framework.md) · [xt-core](xt-core.md) XT11 |
 | 热身 静态拉伸 动态 100米 800 马拉松 气温 | [warmup-recovery-framework](../warmup-recovery-framework.md) 地点天气×人群 · IWR04/16–34 |
 | 练后 拉伸 冰浴 按摩 | warmup-recovery-framework · IWR06–08 · 冬季冰浴悖论 |

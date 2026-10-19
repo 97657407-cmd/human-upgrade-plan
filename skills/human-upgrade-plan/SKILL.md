@@ -1,6 +1,6 @@
 ---
 name: human-upgrade-plan
-version: 1.10.34-cursor
+version: 1.10.36-cursor
 description: Evidence-informed running and strength planning from 100m to trail. Ask where and what clock time they train; look up that city's hourly forecast in Beijing time; if rain overlaps their window, offer outdoor / shift / indoor / rest options and let them choose. Every session has a warmup scaled to recreational vs trained athletes. Read last COROS workout. Not medical diagnosis.
 ---
 
@@ -56,6 +56,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
 | 北京中考体育、小学四六年级统测、800/1000 体考 | [北京中小学体育考核](references/beijing-pe-exam.md)、BJ01–BJ03；**不要用运动员等级表** |
 | 二级一级健将、田径等级成绩、路跑算几级 | [中国田径等级成绩](references/cn-athletics-grades.md)、[CG01](references/evidence/cn-athletics-grades-core.md) |
 | 力量/增肌、今天力量课抄哪张 | 力量日抄 [力量 A–F](references/strength-session-framework.md)；模式与伤变式仍走 [力量模式](references/strength-training-modes.md) |
+| 等长、练筋骨、静态收缩、墙坐、腱刚度、髌腱跟腱入口 | [等长/筋骨](references/isometric-tendon-framework.md)、IS01–IS13；**不是壮骨**；高强度才改腱；腱病不优于等张长期 |
 | 磨脚、水泡、血泡、黑趾甲、越野脚 | [皮肤热点闸门](references/skin-hotspot-framework.md)、SH01–SH06 |
 | 经期不适、女选手头晕漏饭 | [女选手闸门](references/female-session-gate.md)；`girl` 建档后默认过 |
 | 分享、同步、发布 | [维护与隐私](references/wiki-maintenance.md)；仅发布公共包 |
