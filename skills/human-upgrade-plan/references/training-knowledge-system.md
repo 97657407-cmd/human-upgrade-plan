@@ -28,7 +28,7 @@
   - 工作日/时间效率：[workday-time-core-2023-2026](evidence/workday-time-core-2023-2026.md)（13）
   - 恢复·睡眠·饮食：[recovery-nutrition-core-2023-2026](evidence/recovery-nutrition-core-2023-2026.md)（14）
   - 手表/心率带/跑步豆：[wearables-devices-core-2023-2026](evidence/wearables-devices-core-2023-2026.md)（11）
-- 设备与 COROS MCP：[device-data](device-data.md)。
+- 设备与手表 MCP：[device-data](device-data.md)、[garmin-mcp](garmin-mcp.md)。
 - **内经节律 × 中式饮食 × 训练（亚洲/中国情境）**：[tcm-asian-diet-training](tcm-asian-diet-training.md)  
   - 分层：经典框架（非RCT）／传统中式膳食模式综述／运动营养落地／周计划合成。  
   - 引用时必须分层说明，禁止把体质标签当诊断或成绩保证。
