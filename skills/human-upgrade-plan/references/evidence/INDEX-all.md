@@ -1,0 +1,391 @@
+# 全库文献总索引（专项卡 + 主题包 + 力量/恢复，均可检索调用）
+
+更新日期：2026-10-22。  
+**排课不要用本文件当课表。** 先加载 [知识大脑](../knowledge-brain.md) 做判断，周结构走 [框架手册](../framework-handbook.md)；这里只负责按项目/主题找到卡。
+
+## 库存规模
+
+| 层 | 可检索入口 | 内容 |
+|---|---|---|
+| 专项蒸馏（100m→越野） | **26 张卡** | 中短跑、长距离、越野、同期、环境、补给、手表模型 |
+| 恢复与工作专题 | **6 张卡** | 睡眠、超量、HIIT 休息、强度分布、久坐、同期 |
+| 近三年主题包 | **50 篇** | 冬季 12 + 工作日 13 + 恢复饮食睡眠 14 + 可穿戴 11 |
+| 力量专题 | **10 条** | ACSM 处方、同期、弹性、超组、防伤、伤变式（含交叉索引） |
+| 长期备赛 | **28 条** | 减量、成绩分层、天气与全马预测、配速、热环境比赛、波士顿气温；操作另见赛日策略手册 |
+| 伤病负荷 / 热身 / 练后 | **34 条** | 分项目热身 + 人群长短 + 地点天气 + 肌温/热天囤热 + 防伤证据不足 |
+| 自行车 / 椭圆交叉训练 | **11 条** | 伤停保摄氧、替换而非叠加、骑不长骨、椭圆肌电低于跑、精英健身房椭圆个案（禁止抄小时） |
+| 开课闸门：生病 / 空气 / 跑台 / 病假接训 | **14 条** | 发烧停质量、neck check 无效、PM2.5、中美 AQI、跑台不抄公路配速、2–4 周停训接回（EI11–EI14） |
+| 热天补水 / 低钠 / 咖啡因 | **12 条** | 口渴喝、EAH 灌过头、NATA/ISSN、3–6 mg/kg、晚上不用、赛晨不新试 |
+| 短跑 50/100/200/400 | **31 条** | 目的定课、起跑、弯道、腘绳肌力学、Smith/Tellez/Huntington/Botha、Hart/土江/Mills |
+| 跑步穿搭 / IREQ 热平衡 | **11 条** | ACSM 冷环境、ISO IREQ（跑/停分段算）、Castellani & Tipton 2016 专章、湿+低强度掉核心、Havenith 有效 clo、Campbell 2018 否定 open window、Kenny 练后体温调节 |
+| 胸带 / 臂带 / 跑步豆 | **6 条** | 间歇优先胸带、臂带主段约 ±9 bpm、10°C 气候箱光学未崩、腕式短窗口误差大、豆不当阈值 |
+| 中国田径运动员技术等级 | **1 条** | 体竞字〔2024〕121 号，2025 年起；男女跑跳投 + 竞走；对照用，不授证 |
+| 北京中小学体育考核 | **3 条** | 2021 方案 70 分骨架；2026 学考 50 分 FAQ；现场良好即满分（1000 米 4:05 / 800 米 3:55） |
+| 磨脚 / 水泡 / 越野脚 | **6 条** | 超马纸胶 RCT、定点贴 vs 整脚贴、摩擦机制、留泡皮、黑趾甲、擦伤 |
+| 静态等长 / 练筋骨 / 腱适应 | **13 条** | 高强度/高应变才改腱、收缩类型不关键、BJSM 5×45 s、跟腱 90% 循环、爆发意图 vs 维持 |
+| 赛日策略 / 赛道胶与盐丸 | **12 条** | 按时长给碳水、练胃、全马现场约 35 g/h、匀速不抄锦标赛、盐丸防不住低钠/抽筋 |
+| 碳板 / 厚底比赛鞋 | **5 条** | 实验室约 4%、meta 约 2–3%、泡沫+杠杆非弹簧、舟骨病例要慢换、关节功率无大改组 |
+| 热习服 / 赛前降温 | **5 条** | 1–2 周最重要、更长更有效、约 2.5%/天掉、赛前 4–5 天再诱导、冰浆是预冷不是习服 |
+| 越野落地（爬升/下坡/杖） | **5 条** | 坡度改力学与能耗、下坡离心、次日仍疲、名称不能混、陡爬杖省能很少但 RPE 可降 |
+| 女选手周剂量 | **5 条** | REDs 先加能、周期公式无效、铁要医嘱、LEA≠热量收支、三联征复训是医疗 |
+| 大众跑痛闸门 | **5 条** | 骨应力连续谱、不是都叫骨折、胫骨内侧治疗无高质证据、ITB 冲突、髌前髋+膝力量 |
+| 高原比赛 / 住高练低 | **5 条** | VO2max 从很低就掉、2500–3000 m 先等 2 天、AMS 1–5 天、LHTL 是营地、有人无应答 |
+| HRV / 晨脉改课 | **5 条** | 精英双向、看趋势和误差、正负适应都会抬部分 HRV、引导算法不能抄周结构、课后迷走会拖 |
+| 越野赛事 / 检查点补给 | **5 条** | 超马 30–50 g/h、现场难吃 90、恶心是常见退出、山赛正分割、胃肠和皮肤伤会让你吃更少 |
+| **合计** | **313 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+
+主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
+
+**调用规则**：匹配用户当前问题，打开对应文件；一次训练计划最多引用 1–2 张。学习模式可按本索引逐条展开，并标明阅读深度（专项卡多为综述/摘要口径；主题包每张卡自带头）。
+
+---
+
+## 怎么检索
+
+1. 看用户项目或问题 → 先查下方 **按项目** 或 **中文关键词**。
+2. 打开列出的文件，只用与本次决策相关的结论。
+3. 写进计划时：研究对象 + 主结论 + 外推边界；专项卡若无 PMID，写「综述线/框架口径」，不假装全文精读。
+
+---
+
+## 按项目调用（100m → 越野）
+
+### 短跑 100 / 200 / 400
+
+| 调用场景 | 打开 |
+|---|---|
+| 今天怎么练、体测 50/100 | [sprint-framework](../sprint-framework.md) · sprint-core SP01–SP31 |
+| 起跑 / 弯道 / 腘绳肌 | SP21–SP23 |
+| 各国教练手段 | 手册第 3 节 · SP07–08、SP16–19、SP25–SP28 |
+| 速度日能不能脏、弹性怎么加 | [plyo-economy-2024](plyo-economy-2024.md) · [strength 05 plyo RCT meta](strength-modes-core-2023-2026.md) |
+| 跑+力量会不会咬下肢 | [concurrent-interference-2024](concurrent-interference-2024.md) · [strength 02 Huiberts](strength-modes-core-2023-2026.md) · [R06](recovery-work.md) |
+| 先力量还是先跑 | [concurrent-sequence-2025](concurrent-sequence-2025.md) |
+| 力量处方口径 | [strength 01 ACSM 2026](strength-modes-core-2023-2026.md) |
+| 上肢/核心怎么配 | [strength 09 上肢合成](strength-modes-core-2023-2026.md) |
+| 热身、组间休息、跳深 PAP | [warmup-recovery 项目速查](../warmup-recovery-framework.md) · IWR04/19/22 |
+
+手册骨架：框架手册「100–400」行。
+
+### 中短跑 800 / 1500
+
+| 调用场景 | 打开 |
+|---|---|
+| 世界级框架怎么拆、大众怎么降级 | [middle-distance-framework](middle-distance-framework.md) |
+| 有氧功率间歇 | [vo2max-4x4-2024](vo2max-4x4-2024.md) · [R03 HIIT 高摄氧时间](recovery-work.md) |
+| 阈值怎么理解 | [lactate-threshold-2023](lactate-threshold-2023.md) |
+| 极化 vs 其他 TID | [tid-polarized-2024](tid-polarized-2024.md) · [tid-scoping-2025](tid-scoping-2025.md) · [R04 Rosenblat](recovery-work.md) |
+| 挪威双阈值 | [norwegian-double-threshold-2024](norwegian-double-threshold-2024.md) |
+| 中长跑该练哪种力量 | [midlong-strength-2024](midlong-strength-2024.md) · [strength 04 plyo vs RT 5K](strength-modes-core-2023-2026.md) |
+| 乳酸引导阈值课（冬季包） | [winter 09 36900796](winter-cold-core-2023-2026.md) |
+| 800 热身容量 / priming | [warmup-recovery 项目速查](../warmup-recovery-framework.md) · IWR18/21 |
+
+手册骨架：金样 2。
+
+### 5K / 10K / 半马
+
+| 调用场景 | 打开 |
+|---|---|
+| 冬季打底 | [winter-base-5k-hm-2025](winter-base-5k-hm-2025.md) |
+| 长跑剂量 | [longrun-dose-2024](longrun-dose-2024.md) |
+| 减量 | [taper-meta-2023](taper-meta-2023.md) |
+| 上班族时间碎、零食式运动 | 工作日包 13–16、19（见 [INDEX-core50](INDEX-core50-2023-2026.md)） |
+| 防伤力量值不值 | 工作日包 18 PMID 38261240 · [strength 08](strength-modes-core-2023-2026.md) |
+| 膝伤风险 | 工作日包 23 PMID 42221209 · [strength 10](strength-modes-core-2023-2026.md) |
+| 半马赛道胶/水 | [race-fuel-framework](../race-fuel-framework.md) RF01–RF03；5K/10K 通常不吃胶 |
+
+手册骨架：金样 1（周次少）或金样 4（已能周跑多次）。
+
+### 马拉松
+
+| 调用场景 | 打开 |
+|---|---|
+| 补给与鞋科技综述线 | [marathon-fueling-shoes-2025](marathon-fueling-shoes-2025.md) |
+| 碳板代谢 / 生物力学 | [carbon-shoe-framework](../carbon-shoe-framework.md) · CS01–CS05；薄卡 [carbon-shoes-metabolic-2025](carbon-shoes-metabolic-2025.md) · [carbon-shoes-biomech-2026](carbon-shoes-biomech-2026.md) |
+| 碳水策略 | [carbs-90g-2024](carbs-90g-2024.md) · 营养包 29–31 |
+| 赛道几公里吃胶、要不要盐丸、补给站 | [race-fuel-framework](../race-fuel-framework.md) · [race-fuel-core](race-fuel-core.md) RF01–RF12；水/低钠仍走 HC |
+| 蛋白与恢复 | 营养包 28 |
+| 相对能量不足 / 饥饿跑者 | 营养包 26、33、34 |
+| 肌酸与耐力 | 营养包 38 |
+| 不同成绩水平怎么备马、周量/轻松区 | [race-prep RP22](race-prep-core.md) · [备赛框架·马拉松](../race-prep-framework.md) |
+| 公开 12 周计划长什么样 | [race-prep RP04](race-prep-core.md) |
+
+手册骨架：金样 4 拉长有氧，不把专项配速当日常。有比赛日期先备赛图。
+
+### 越野
+
+| 调用场景 | 打开 |
+|---|---|
+| 路跑强≠越野强 | [trail-specific-2025](trail-specific-2025.md) |
+| 今天怎么爬/下、杖、次日能不能质量 | [trail-session-framework](../trail-session-framework.md) · TR01–TR05 |
+| 越野赛道、检查点吃喝 | [trail-race-framework](../trail-race-framework.md) · TF01–TF05 |
+| 越野肌损伤与心脏负荷 | 冬季包 11 PMID 41718076 |
+| 下坡/离心与力量变式 | [strength 10](strength-modes-core-2023-2026.md) · 力量菜单「越野」 · [RP16/RP19](race-prep-core.md) |
+| 精英越野四年怎么练（禁止抄小时） | [RP23](race-prep-core.md) |
+| 热身与下坡预适应 | [warmup-recovery 项目速查](../warmup-recovery-framework.md) · IWR23 · RP16 |
+
+手册骨架：长课按时间与爬升，下坡单排不满量。
+
+---
+
+## 按主题调用
+
+| 主题 | 入口 | 文件 |
+|---|---|---|
+| 冬季、寒冷、冰浴、热暴露、EIB | 专项 + 主题包 12 篇 | [cold-air-eib-winter](cold-air-eib-winter.md) · [winter-cold-core](winter-cold-core-2023-2026.md) |
+| 工作日、久坐、零食式运动、精神疲劳 | 专项 + 主题包 13 篇 | [mental-fatigue-rpe-2024](mental-fatigue-rpe-2024.md) · [workday-time-core](workday-time-core-2023-2026.md) · [R05](recovery-work.md) |
+| 睡眠、饮食、铁、ω-3、恢复 | 专项 + 主题包 14 篇 + R01/R02 | [sleep-performance-2024](sleep-performance-2024.md) · [iron-female-2024](iron-female-2024.md) · [recovery-nutrition-core](recovery-nutrition-core-2023-2026.md) · [recovery-work](recovery-work.md) |
+| 手表、功率、HRV、厂商模型 | 专项 + 主题包 11 篇 + 改课 5 条 | [wearable-models-2025](wearable-models-2025.md) · [wearables-devices-core](wearables-devices-core-2023-2026.md) · [hrv-session-framework](../hrv-session-framework.md) HV01–HV05 |
+| 力量、同期、弹性、超组、伤变式 | 专项 + 力量包 10 条 | [strength-modes-core](strength-modes-core-2023-2026.md) · [midlong-strength-2024](midlong-strength-2024.md) |
+| 热 / 高原 | 热习服 5 + 高原赛 5 | [heat-acclimation-framework](../heat-acclimation-framework.md) HA01–HA05 · [altitude-race-framework](../altitude-race-framework.md) AL01–AL05 · 薄卡 [altitude-2023](altitude-2023.md) |
+| 感冒发烧、雾霾、室内跑台、病假接训 | 闸门手册 + 14 条 | [session-gate-framework](../session-gate-framework.md) · [env-illness-core](env-illness-core.md) EI01–EI14 |
+| 热天喝水、低钠、咖啡因 | 手册 + 12 条 | [hydrate-caffeine-framework](../hydrate-caffeine-framework.md) · [hydrate-caffeine-core](hydrate-caffeine-core.md) HC01–HC12 |
+| 穿搭、冬天衣服、换季着凉、IREQ | 穿搭手册 + 11 条 | [run-clothing-framework](../run-clothing-framework.md) · [clothing-core](clothing-core.md) CL01–CL11 |
+| 胸带 臂带 跑步豆 光学心率 | 配件手册 + 6 条 | [hardware-kit-framework](../hardware-kit-framework.md) · [hardware-kit-core](hardware-kit-core.md) HW01–HW06 |
+| 女性耐力 | 专项 + 冬季包 12 | [female-endurance-2024](female-endurance-2024.md) |
+| 二级 一级 健将 田径等级 | 手册 + 1 条 | [cn-athletics-grades](../cn-athletics-grades.md) · [CG01](cn-athletics-grades-core.md) |
+| 北京中考 小学体测 800 1000 | 手册 + 3 条 | [beijing-pe-exam](../beijing-pe-exam.md) · BJ01–BJ03 |
+| 水泡 磨脚 血泡 黑趾甲 越野脚 | 手册 + 6 条 | [skin-hotspot-framework](../skin-hotspot-framework.md) · SH01–SH06 |
+| 膝外侧 胫骨内侧 髌前 夜间骨痛 | 手册 + 5 条 | [runner-pain-framework](../runner-pain-framework.md) · RI01–RI05 |
+| 越野 爬升 下坡 杖 首野 | 手册 + 5 条 | [trail-session-framework](../trail-session-framework.md) · TR01–TR05 |
+| 女选手周剂量 漏饭 REDs 黄体期配速 铁 | 手册 + 5 条 | [female-week-framework](../female-week-framework.md) · FW01–FW05 |
+| 赛道补给 能量胶 盐丸 几公里吃 补给站 | 手册 + 12 条 | [race-fuel-framework](../race-fuel-framework.md) · [race-fuel-core](race-fuel-core.md) RF01–RF12 |
+
+---
+
+## 中文关键词 → 文件
+
+| 用户可能说的词 | 打开 |
+|---|---|
+| 100米 200 400 短跑 加速 体测50 起跑 弯道 | [sprint-framework](../sprint-framework.md) · sprint-core SP01–SP31 · 力量 100–400 菜单 |
+| 二级 一级 健将 三级 等级运动员 田径达标 | [cn-athletics-grades](../cn-athletics-grades.md) · CG01 |
+| 北京中考 体考 800米 1000米 四年级统测 | [beijing-pe-exam](../beijing-pe-exam.md) · BJ01–BJ03 |
+| 水泡 血泡 磨破 黑趾甲 擦伤 | [skin-hotspot-framework](../skin-hotspot-framework.md) · SH01–SH06 |
+| 经期 女选手头晕 漏饭 | [female-session-gate](../female-session-gate.md) |
+| 女选手周剂量 漏饭 相对能量不足 黄体期配速 补铁 | [female-week-framework](../female-week-framework.md) · FW01–FW05 |
+| 800 1500 中跑 乳酸 | middle-distance-framework · lactate-threshold · norwegian-double-threshold |
+| 4x4 VO2max 有氧功率 | vo2max-4x4-2024 · recovery-work R03 |
+| 极化 金字塔 TID | tid-polarized-2024 · tid-scoping-2025 · recovery-work R04 |
+| 5K 10K 半马 打底 | winter-base-5k-hm-2025 · longrun-dose-2024 · 金样 1/4 |
+| 马拉松 胶 碳板 90克糖 | marathon-fueling-shoes · [carbon-shoe-framework](../carbon-shoe-framework.md) CS01–CS05 · carbs-90g · 营养包 · race-prep RP04/RP22 · [race-fuel RF01–RF07](race-fuel-core.md) |
+| 碳板 厚底 比赛鞋 新鞋上马 舟骨 | [carbon-shoe-framework](../carbon-shoe-framework.md) · CS01–CS05 |
+| 热习服 桑拿 冰浆 热适应 | [heat-acclimation-framework](../heat-acclimation-framework.md) · HA01–HA05 |
+| 赛道补给 能量胶 盐丸 补给站 几公里吃 | [race-fuel-framework](../race-fuel-framework.md) · RF01–RF12 |
+| 全马掉速 匀速 正分割 锦标赛战术 | race-fuel RF08–RF09 · [race-day-strategy](../race-day-strategy.md) |
+| 越野 爬升 下坡 杖 首野 | [trail-session-framework](../trail-session-framework.md) TR01–TR05 · trail-specific-2025 · winter 11 |
+| 越野赛 山赛 超马 检查点 赛道分析 | [trail-race-framework](../trail-race-framework.md) TF01–TF05 |
+| 减量 taper 备赛 赛前还有几周 | [race-prep-framework](../race-prep-framework.md) · [race-prep-core](race-prep-core.md) |
+| 能跑进多少 赛日 气温 配速策略 | [race-day-strategy](../race-day-strategy.md) · RP24–28 |
+| 力量 增肌 干扰 先练哪 | concurrent-* · strength-modes-core · recovery-work R06 |
+| 上班 没时间 零食式 久坐 | workday-time-core · recovery-work R05 |
+| 困 睡眠 夜班 | sleep-performance-2024 · recovery-work R01/R02 · 营养包 35–37 |
+| 铁 女选手 月经 | iron-female-2024 · female-endurance-2024 · 营养包 32 · [female-week-framework](../female-week-framework.md) FW01–FW05 |
+| 膝外侧 髂胫束 胫骨内侧 髌前 夜间骨痛 应力骨折 | [runner-pain-framework](../runner-pain-framework.md) · RI01–RI05 |
+| 冷 哮喘 冰浴 | cold-air-eib-winter · winter-cold-core |
+| 热 高原 昆明 西宁 丽江 拉萨 住高练低 | [heat-acclimation-framework](../heat-acclimation-framework.md) HA01–HA05 · [altitude-race-framework](../altitude-race-framework.md) AL01–AL05 |
+| 感冒 发烧 今天能不能练 脖子以上 | [session-gate-framework](../session-gate-framework.md) · env-illness EI01–EI04 |
+| 病假 停训 接回来 有氧掉了 | session-gate-framework 1.1 · env-illness EI11–EI14 |
+| 补水 喝水 低钠 越喝越肿 热天 | [hydrate-caffeine-framework](../hydrate-caffeine-framework.md) · HC01–HC06、HC12 |
+| 咖啡因 咖啡 比赛补剂 | hydrate-caffeine-framework · HC07–HC11 |
+| 雾霾 灰霾 PM2.5 空气质量 AQI | session-gate-framework · env-illness EI05–EI08、EI10 |
+| 跑步机 室内跑 1%坡 | env-illness EI09 · 热身手册室内档 |
+| 穿什么 围脖 手套 换季 湿衣服 着凉 IREQ | [run-clothing-framework](../run-clothing-framework.md) · clothing-core CL01–CL11 |
+| 手表 功率 Stryd HRV 准备度 Body Battery | wearable-models-2025 · wearables-devices-core · [hrv-session-framework](../hrv-session-framework.md) HV01–HV05 |
+| 胸带 臂带 心率带 跑步豆 佩戴 | [hardware-kit-framework](../hardware-kit-framework.md) · hardware-kit-core HW01–HW06 |
+| 鼓励 名言 教练 利迪亚德 丹尼尔斯 塞勒 卡诺瓦 桑 孙海平 达米拉诺 | [elite-encouragement](../elite-encouragement.md) |
+| 膝 跟腱 防伤 能不能跑 | [injury-load-framework](../injury-load-framework.md) · iwr-core · 回归树 |
+| 等长 练筋骨 静态 墙坐 肌腱 髌腱 | [isometric-tendon-framework](../isometric-tendon-framework.md) · isometric-core IS01–IS13 |
+| 健身房椭圆机 自行车 交叉训练 伤停 Ingebrigtsen Wodak | [cross-train-framework](../cross-train-framework.md) · [xt-core](xt-core.md) XT11 |
+| 热身 静态拉伸 动态 100米 800 马拉松 气温 | [warmup-recovery-framework](../warmup-recovery-framework.md) 地点天气×人群 · IWR04/16–34 |
+| 练后 拉伸 冰浴 按摩 | warmup-recovery-framework · IWR06–08 · 冬季冰浴悖论 |
+| 精神疲劳 RPE 脑子累 | mental-fatigue-rpe-2024 · workday 21–22 |
+
+---
+
+## 专项卡清单（26）
+
+早期「100m 到越野」蒸馏入口，多为顶刊/综述线，阅读深度以各卡标注为准（常见：摘要或综述口径）。
+
+| ID | 卡 | 覆盖 |
+|---|---|---|
+| S01 | [middle-distance-framework](middle-distance-framework.md) | 精英 800/1500 框架 |
+| S02 | [vo2max-4x4-2024](vo2max-4x4-2024.md) | 4×4 / VO2max 间歇 |
+| S03 | [lactate-threshold-2023](lactate-threshold-2023.md) | 乳酸阈概念边界 |
+| S04 | [norwegian-double-threshold-2024](norwegian-double-threshold-2024.md) | 挪威双阈值 |
+| S05 | [tid-polarized-2024](tid-polarized-2024.md) | 极化 vs 其他 TID |
+| S06 | [tid-scoping-2025](tid-scoping-2025.md) | 极化长期效应范围 |
+| S07 | [plyo-economy-2024](plyo-economy-2024.md) | 弹性与跑步经济性 |
+| S08 | [midlong-strength-2024](midlong-strength-2024.md) | 中长跑力量方法 |
+| S09 | [winter-base-5k-hm-2025](winter-base-5k-hm-2025.md) | 冬季 5K–半马打底 |
+| S10 | [longrun-dose-2024](longrun-dose-2024.md) | 长跑剂量 |
+| S11 | [taper-meta-2023](taper-meta-2023.md) | 减量 Meta |
+| S12 | [marathon-fueling-shoes-2025](marathon-fueling-shoes-2025.md) | 马拉松补给与鞋 |
+| S13 | [carbon-shoes-metabolic-2025](carbon-shoes-metabolic-2025.md) | 碳板代谢 |
+| S14 | [carbon-shoes-biomech-2026](carbon-shoes-biomech-2026.md) | 碳板生物力学 |
+| S15 | [carbs-90g-2024](carbs-90g-2024.md) | 高碳水补给 |
+| S16 | [trail-specific-2025](trail-specific-2025.md) | 越野专项 |
+| S17 | [altitude-2023](altitude-2023.md) | 高原薄卡；操作走 altitude-race AL01–AL05 |
+| S18 | [heat-acclimation-2024](heat-acclimation-2024.md) | 热习服 |
+| S19 | [cold-air-eib-winter](cold-air-eib-winter.md) | 冷空气 EIB |
+| S20 | [iron-female-2024](iron-female-2024.md) | 女性铁 |
+| S21 | [female-endurance-2024](female-endurance-2024.md) | 女性耐力适应 |
+| S22 | [sleep-performance-2024](sleep-performance-2024.md) | 睡眠与表现 |
+| S23 | [concurrent-interference-2024](concurrent-interference-2024.md) | 同期干扰 |
+| S24 | [concurrent-sequence-2025](concurrent-sequence-2025.md) | 同期排序 |
+| S25 | [mental-fatigue-rpe-2024](mental-fatigue-rpe-2024.md) | 精神疲劳与 RPE |
+| S26 | [wearable-models-2025](wearable-models-2025.md) | 手表功率/VO2max/阈值模型边界 |
+
+## 恢复专题（6）
+
+| ID | 打开 [recovery-work](recovery-work.md) |
+|---|---|
+| R01 | 睡眠干预（Cunha，PMID 37462808） |
+| R02 | 超量与睡眠（Murphy，PMID 38809828） |
+| R03 | HIIT 组间恢复与高摄氧时间（Schoenmakers，PMID 42237396） |
+| R04 | 强度分布网状 Meta（Rosenblat，PMID 39888556） |
+| R05 | 办公室久坐（Wang，PMID 38503064） |
+| R06 | 力量与耐力并行（Huiberts，PMID 37847373） |
+
+## 力量专题（10）
+
+正文均在 [strength-modes-core-2023-2026](strength-modes-core-2023-2026.md)。
+
+| ID | 条 |
+|---|---|
+| P01 | ACSM 2026 力量处方（PMID 41843416） |
+| P02 | Huiberts 同期×性别×训练水平（PMID 37847373，与 R06 同篇） |
+| P03 | Lundberg 纤维肥大与同期（PMID 35476184） |
+| P04 | 娱乐跑者 plyo vs 力量与 5K（PMID 39523854） |
+| P05 | 田径 plyo RCT Meta（PMID 42387592） |
+| P06 | 超组省时（PMID 39903375，与工作日包 24 同篇） |
+| P07 | 冰浴×肥大悖论（交叉冬季包 PMID 42667675） |
+| P08 | 跑者防伤力量（交叉工作日包 PMID 38261240） |
+| P09 | 上肢在同期中的位置（教练合成） |
+| P10 | 膝/跟腱/下背动作替换（教练合成） |
+
+## 近三年主题包（50）
+
+完整题名、类型、PMID：[INDEX-core50-2023-2026](INDEX-core50-2023-2026.md)
+
+- 冬季 C01–C12 → [winter-cold-core-2023-2026](winter-cold-core-2023-2026.md)
+- 工作日 C13–C25 → [workday-time-core-2023-2026](workday-time-core-2023-2026.md)
+- 恢复饮食睡眠 C26–C39 → [recovery-nutrition-core-2023-2026](recovery-nutrition-core-2023-2026.md)
+- 可穿戴 C40–C50 → [wearables-devices-core-2023-2026](wearables-devices-core-2023-2026.md)
+
+## 赛日策略 / 赛道补给（12）
+
+操作：[race-fuel-framework](../race-fuel-framework.md)。正文：[race-fuel-core](race-fuel-core.md)。
+
+| ID | 条 |
+|---|---|
+| RF01 | 碳水按时长不按体重（Jeukendrup 2014） |
+| RF02 | 训练日与比赛日碳水（Burke 2011） |
+| RF03 | ACSM/Academy 立场 30–60 / 90 g/h |
+| RF04 | 葡萄糖+果糖实验室计时 |
+| RF05 | 练胃 |
+| RF06 | 现场摄入与胃肠；全马均值约 35 g/h |
+| RF07 | 2022 综述；120 g/h 不是大众课表 |
+| RF08 | 全马后半掉速（Deaner） |
+| RF09 | 精英配速综述；大众不抄锦标赛 |
+| RF10 | 盐片防不住低钠 |
+| RF11 | 热超马总钠预测不了抽筋/低钠 |
+| RF12 | 抽筋更像神经肌肉疲劳 |
+
+## 碳板 / 比赛鞋（5）
+
+操作：[carbon-shoe-framework](../carbon-shoe-framework.md)。正文：[carbon-shoe-core](carbon-shoe-core.md)。
+
+| ID | 条 |
+|---|---|
+| CS01 | 实验室高水平约 4%（Hoogkamer 2018） |
+| CS02 | meta 约 2–3%，板不能单独归因 |
+| CS03 | 泡沫储能+板杠杆，板不是弹簧 |
+| CS04 | 舟骨应力病例；慢慢换 |
+| CS05 | 关节功率无系统性大改组 |
+
+## 热习服 / 赛前降温（5）
+
+操作：[heat-acclimation-framework](../heat-acclimation-framework.md)。正文：[heat-acclimation-core](heat-acclimation-core.md)。
+
+| ID | 条 |
+|---|---|
+| HA01 | 热共识：1–2 周习服最重要 |
+| HA02 | 机制综述（Périard） |
+| HA03 | 热适应 meta；更长更有效 |
+| HA04 | 约 2.5%/天掉；4–5 天再诱导 |
+| HA05 | 冰浆是预冷不是习服 |
+
+## 越野落地（5）
+
+操作：[trail-session-framework](../trail-session-framework.md)。正文：[trail-core](trail-core.md)。
+
+| ID | 条 |
+|---|---|
+| TR01 | 上坡/下坡力学与能耗（Vernillo 2017） |
+| TR02 | 下坡离心损伤；事先暴露最有效 |
+| TR03 | 习惯者下坡后次日仍疲 |
+| TR04 | 越野名称不能和平路公里互换 |
+| TR05 | 陡爬杖：能耗省很少，RPE 可降（走） |
+
+## 女选手周剂量（5）
+
+操作：[female-week-framework](../female-week-framework.md)。正文：[female-week-core](female-week-core.md)。
+
+| ID | 条 |
+|---|---|
+| FW01 | IOC REDs 2023：先加能减负荷 |
+| FW02 | 周期对成绩平均效应很小 |
+| FW03 | 铁常见缺，补铁医嘱 |
+| FW04 | LEA 不是热量收支表 |
+| FW05 | 三联征复训是医疗许可 |
+
+## 大众跑痛闸门（5）
+
+操作：[runner-pain-framework](../runner-pain-framework.md)。正文：[runner-pain-core](runner-pain-core.md)。
+
+| ID | 条 |
+|---|---|
+| RI01 | 骨应力连续谱；高复发；先改负荷 |
+| RI02 | 不是都叫应力骨折 |
+| RI03 | 胫骨内侧治疗试验质量差 |
+| RI04 | 膝外侧/ITB 区证据冲突 |
+| RI05 | 髌前痛指南：减加载，髋+膝力量 |
+
+## 高原比赛 / 住高练低（5）
+
+操作：[altitude-race-framework](../altitude-race-framework.md)。正文：[altitude-core](altitude-core.md)。
+
+| ID | 条 |
+|---|---|
+| AL01 | VO2max 从很低海拔就掉；待久也不自动回来 |
+| AL02 | 习服约 1000 m 起；2500–3000 m 先等 2 天 |
+| AL03 | ≥2500 m 后 1–5 天 AMS；不开药 |
+| AL04 | 住高练低 4 周营地，不是周末作业 |
+| AL05 | 有人无应答，不许诺红细胞都涨 |
+
+## HRV / 晨脉改课（5）
+
+操作：[hrv-session-framework](../hrv-session-framework.md)。正文：[hrv-session-core](hrv-session-core.md)。
+
+| ID | 条 |
+|---|---|
+| HV01 | 精英 HRV 升或降都不能单独定罪（Plews） |
+| HV02 | 几乎每天短静息 + 和误差比（Buchheit） |
+| HV03 | 正适应和过度到达都能抬部分 HRV（Bellenger） |
+| HV04 | 晨间 HRV 引导：小样本男性 4 周（Kiviniemi） |
+| HV05 | 课后迷走恢复拖尾，高度个体化（Stanley） |
+
+## 越野赛事 / 检查点补给（5）
+
+操作：[trail-race-framework](../trail-race-framework.md)。正文：[trail-race-core](trail-race-core.md)。
+
+| ID | 条 |
+|---|---|
+| TF01 | 单日超马 ISSN：赛中大约 30–50 g 碳水/h |
+| TF02 | 越野超马综述：90 g/h 现场往往吃不下去 |
+| TF03 | 161 km：恶心呕吐是常见退出原因 |
+| TF04 | 山赛速度正分割，停的时间越长越慢 |
+| TF05 | 胃肠和皮肤伤会让你吃得更少 |
+
+---
+
+重复引用同一 DOI/PMID 只算一篇研究，不增加独立文献计数。专项卡与主题包重叠时，优先用主题包里带研究细节的那张；专项卡用于项目场景的快速入口。
