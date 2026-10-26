@@ -195,7 +195,7 @@ App 里可以自建力量课（选力量模式、选动作）。MCP 写接口目
 
 ## 华为（已接通则排课前强制）
 
-细节：[华为 MCP](huawei-mcp.md)。不实现登录；401 请用户自己在 https://health.huawei.com 换新请求头，不要把 Bearer 贴进对话。
+细节：[华为 MCP](huawei-mcp.md)。不实现登录；401 请用户自己在 https://health.cloud.huawei.com/TrainingCamp 换新请求头，不要把 Bearer 贴进对话。不要用 `health.huawei.com`。
 
 1. `health_check`（探通路）  
 2. `get_recent_activities`（最近若干条）  

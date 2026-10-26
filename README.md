@@ -45,7 +45,7 @@ coros-mcp --issuer https://mcpcn.coros.com login-start
 
 **华为运动健康**
 
-本机社区 MCP（不是华为官方），直连大陆华为云。不实现登录：用户自己在电脑浏览器打开 https://health.huawei.com ，F12 → Network → 找成功的 `activityRecord`，把 `Authorization` 和 `x-client-id` 写进本机 `~/.huawei-training-camp/credentials.env`，重载 MCP。不要把完整 Bearer 贴进聊天或 Git。接通后说：「请调用华为 MCP，把最近的训练和睡眠发给我。」细节见 [huawei-mcp.md](skills/human-upgrade-plan/references/huawei-mcp.md)。
+本机社区 MCP（不是华为官方），直连大陆华为云。不实现登录：用 Chrome 打开 **https://health.cloud.huawei.com/TrainingCamp**（华为帐号登录）。不要用 `health.huawei.com`，那个域名现在打不开。能看见训练后 F12 → Network → 找成功的 `activityRecord`，把 `Authorization` 和 `x-client-id` 写进本机 `~/.huawei-training-camp/credentials.env`，重载 MCP。不要把完整 Bearer 贴进聊天或 Git。接通后说：「请调用华为 MCP，把最近的训练和睡眠发给我。」细节见 [huawei-mcp.md](skills/human-upgrade-plan/references/huawei-mcp.md)。
 
 ## 结构
 

@@ -15,10 +15,11 @@
 
 取凭证（用户自己在电脑浏览器做）：
 
-1. 打开 https://health.huawei.com ，能看见自己的训练。
-2. F12 → Network → 刷新。
-3. 找 `activityRecord` 且状态 200，从 Request Headers 复制上面两行到本机 env 文件。
-4. 重载 MCP，**新开对话**再拉数据。
+1. 用 **Google Chrome** 打开训练营网页：https://health.cloud.huawei.com/TrainingCamp （会跳到华为帐号登录，属正常）。**不要用** `https://health.huawei.com`（该域名现已打不开 / 500）。
+2. 登录后能看见自己的训练。
+3. F12 → Network → 刷新。
+4. 找 `activityRecord` 且状态 200（域名常含 `things.dbankcloud.cn`），从 Request Headers 复制上面两行到本机 env 文件。
+5. 重载 MCP，**新开对话**再拉数据。
 
 过期会 401：按同样步骤换新值后重载。不要把 `127.0.0.1` 或完整 token 发到手机或聊天。
 
