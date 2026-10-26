@@ -32,6 +32,7 @@ ALLOWED_RELATIVE = {
     "skills/human-upgrade-plan/references/garmin-recovery.md",
     "skills/human-upgrade-plan/references/gold-weeks-and-return.md",
     "skills/human-upgrade-plan/references/hardware-kit-framework.md",
+    "skills/human-upgrade-plan/references/huawei-mcp.md",
     "skills/human-upgrade-plan/references/hrv-session-framework.md",
     "skills/human-upgrade-plan/references/heat-acclimation-framework.md",
     "skills/human-upgrade-plan/references/hydrate-caffeine-framework.md",
@@ -58,6 +59,7 @@ ALLOWED_RELATIVE = {
     "skills/human-upgrade-plan/references/training-knowledge-system.md",
     "skills/human-upgrade-plan/references/warmup-recovery-framework.md",
     "skills/human-upgrade-plan/references/wiki-maintenance.md",
+    "skills/human-upgrade-plan/references/youth-run-framework.md",
     "skills/human-upgrade-plan/scripts/check_public.py",
 }
 

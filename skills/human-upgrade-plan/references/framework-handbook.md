@@ -15,7 +15,7 @@
 4. **场地改动作，文献不改金样骨架**。宿舍弹力带就写弹力带，不写杠铃高翻。
 5. 原理、文献要点、针对该用户的推断必须分开写。
 6. **每堂必须写热身**（人群 × 项目速查 × 该地点当天气温湿度）。缺热身的课表不算交卷。用热身反馈改下一堂。室外课必须写穿搭（[跑步穿搭](run-clothing-framework.md)）。档案里有胸带/臂带/豆则写佩戴（[硬件配件](hardware-kit-framework.md)）。课表最上面一句运动员原话或教练哲学（[开课一句](elite-encouragement.md)）。
-7. **写课前先读上次训练**（高驰 MCP 或口述），确认几点练，小时预报用北京时间对齐窗口（[下雨时段](rain-window-framework.md)），并更新气温湿度与室外 PM2.5；有发热或刚病假走 [开课闸门](session-gate-framework.md)（含 1.1 接训）。热天长课或比赛加 [补水与咖啡因](hydrate-caffeine-framework.md)。**长课或比赛必须加 [赛道补给](race-fuel-framework.md)**（水/胶/盐丸写进该堂，不要等用户问）。有比赛日期加 [赛日策略](race-day-strategy.md) 并输出赛事安排。问鞋加 [碳板](carbon-shoe-framework.md)；去热的比赛加 [热习服](heat-acclimation-framework.md)。
+7. **写课前先读上次训练**（高驰/佳明/华为 MCP 或口述），确认几点练，小时预报用北京时间对齐窗口（[下雨时段](rain-window-framework.md)），并更新气温湿度与室外 PM2.5；有发热或刚病假走 [开课闸门](session-gate-framework.md)（含 1.1 接训）。热天长课或比赛加 [补水与咖啡因](hydrate-caffeine-framework.md)。**长课或比赛必须加 [赛道补给](race-fuel-framework.md)**（水/胶/盐丸写进该堂，不要等用户问）。有比赛日期加 [赛日策略](race-day-strategy.md) 并输出赛事安排。问鞋加 [碳板](carbon-shoe-framework.md)；去热的比赛加 [热习服](heat-acclimation-framework.md)。
 
 ---
 
@@ -47,6 +47,7 @@
 | 健康跑 / 上班 5K | 金样 1 / 第一周样例 A | `工作日` `久坐` `零食式运动` `睡眠` |
 | 增肌主业 | 金样 3 + 力量第 8 节；有氧上限写死 | `增肌` `ACSM` `同期干扰` `超组` `冰浴悖论` |
 | 伤后 / 痛 | 回归树 S0–S6 + 力量第 9 节变式 | `防伤` `膝` `跟腱` `下背` |
+| 青少年 / 校队 / U18 | 抄 [青少年跑步](youth-run-framework.md)；不抄成人金样 4 周公里；体考分数仍走北京手册 | `青少年` `专项化` `过劳` |
 
 无明确项目时：按建档表默认金样 1，检索用 `工作日` + `睡眠`。
 

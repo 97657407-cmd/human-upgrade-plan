@@ -1,6 +1,6 @@
 # 全库文献总索引（专项卡 + 主题包 + 力量/恢复，均可检索调用）
 
-更新日期：2026-10-22。  
+更新日期：2026-10-25。  
 **排课不要用本文件当课表。** 先加载 [知识大脑](../knowledge-brain.md) 做判断，周结构走 [框架手册](../framework-handbook.md)；这里只负责按项目/主题找到卡。
 
 ## 库存规模
@@ -32,7 +32,8 @@
 | 高原比赛 / 住高练低 | **5 条** | VO2max 从很低就掉、2500–3000 m 先等 2 天、AMS 1–5 天、LHTL 是营地、有人无应答 |
 | HRV / 晨脉改课 | **5 条** | 精英双向、看趋势和误差、正负适应都会抬部分 HRV、引导算法不能抄周结构、课后迷走会拖 |
 | 越野赛事 / 检查点补给 | **5 条** | 超马 30–50 g/h、现场难吃 90、恶心是常见退出、山赛正分割、胃肠和皮肤伤会让你吃更少 |
-| **合计** | **313 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| 青少年跑步 / 专项化 / U18 超马 | **5 条** | 适跑距离证据弱、IOC 发展观、过劳与倦怠、小时超过年龄抬伤、青少年超马要逐人评估 |
+| **合计** | **318 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -144,6 +145,7 @@
 | 女性耐力 | 专项 + 冬季包 12 | [female-endurance-2024](female-endurance-2024.md) |
 | 二级 一级 健将 田径等级 | 手册 + 1 条 | [cn-athletics-grades](../cn-athletics-grades.md) · [CG01](cn-athletics-grades-core.md) |
 | 北京中考 小学体测 800 1000 | 手册 + 3 条 | [beijing-pe-exam](../beijing-pe-exam.md) · BJ01–BJ03 |
+| 青少年 校队 小孩长跑 U18 越野 | 手册 + 5 条 | [youth-run-framework](../youth-run-framework.md) · YR01–YR05 |
 | 水泡 磨脚 血泡 黑趾甲 越野脚 | 手册 + 6 条 | [skin-hotspot-framework](../skin-hotspot-framework.md) · SH01–SH06 |
 | 膝外侧 胫骨内侧 髌前 夜间骨痛 | 手册 + 5 条 | [runner-pain-framework](../runner-pain-framework.md) · RI01–RI05 |
 | 越野 爬升 下坡 杖 首野 | 手册 + 5 条 | [trail-session-framework](../trail-session-framework.md) · TR01–TR05 |
@@ -159,6 +161,7 @@
 | 100米 200 400 短跑 加速 体测50 起跑 弯道 | [sprint-framework](../sprint-framework.md) · sprint-core SP01–SP31 · 力量 100–400 菜单 |
 | 二级 一级 健将 三级 等级运动员 田径达标 | [cn-athletics-grades](../cn-athletics-grades.md) · CG01 |
 | 北京中考 体考 800米 1000米 四年级统测 | [beijing-pe-exam](../beijing-pe-exam.md) · BJ01–BJ03 |
+| 小孩 初中生 高中生 校队 青少年 专项化 U18超马 | [youth-run-framework](../youth-run-framework.md) YR01–YR05 |
 | 水泡 血泡 磨破 黑趾甲 擦伤 | [skin-hotspot-framework](../skin-hotspot-framework.md) · SH01–SH06 |
 | 经期 女选手头晕 漏饭 | [female-session-gate](../female-session-gate.md) |
 | 女选手周剂量 漏饭 相对能量不足 黄体期配速 补铁 | [female-week-framework](../female-week-framework.md) · FW01–FW05 |
@@ -385,6 +388,18 @@
 | TF03 | 161 km：恶心呕吐是常见退出原因 |
 | TF04 | 山赛速度正分割，停的时间越长越慢 |
 | TF05 | 胃肠和皮肤伤会让你吃得更少 |
+
+## 青少年跑步（5）
+
+操作：[youth-run-framework](../youth-run-framework.md)。正文：[youth-run-core](youth-run-core.md)。
+
+| ID | 条 |
+|---|---|
+| YR01 | 青少年跑步共识：适跑距离多为意见（Krabak） |
+| YR02 | IOC：发展要健康可坚持，不是越早专项 |
+| YR03 | AMSSM：过劳伤和倦怠，要休息 |
+| YR04 | 单一项目强化 + 小时超过年龄抬伤（Jayanthi） |
+| YR05 | 青少年超耐力要逐人评估，不默认开超马（Scheer） |
 
 ---
 

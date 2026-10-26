@@ -17,6 +17,7 @@
 - **大众跑痛闸门**：[runner-pain-framework](runner-pain-framework.md) + [runner-pain-core](evidence/runner-pain-core.md)（5 条）。不命名病；夜痛转介；胫骨/ITB 区治疗证据弱。
 - **高原比赛**：[altitude-race-framework](altitude-race-framework.md) + [altitude-core](evidence/altitude-core.md)（5 条）。耐力改保守；2500–3000 m 先等约 2 天；不开住高练低营地。
 - **HRV / 手表恢复分改课**：[hrv-session-framework](hrv-session-framework.md) + [hrv-session-core](evidence/hrv-session-core.md)（5 条）。一晚低分不自动砍 *；表绿不能放行症状。佳明点选仍走 garmin-recovery。
+- **青少年跑步**：[youth-run-framework](youth-run-framework.md) + [youth-run-core](evidence/youth-run-core.md)（5 条）。不抄成人周公里；专项化抬伤风险；默认不排超马。体考分数仍走北京手册。
 - **伤病负荷（非诊断）**：[injury-load-framework](injury-load-framework.md) + 回归树 + 力量第9节。证据 [iwr-core](evidence/iwr-core.md)。
 - **自行车 / 椭圆交叉训练**：[cross-train-framework](cross-train-framework.md) + [xt-core](evidence/xt-core.md)（11 条，含精英个案 XT11）。
 - **开课闸门（生病 / PM2.5 / 跑台）**：[session-gate-framework](session-gate-framework.md) + [env-illness-core](evidence/env-illness-core.md)（10 条）。室外质量课前必过；中国 AQI ≠ 美国 AQI。
@@ -36,7 +37,7 @@
   - 工作日/时间效率：[workday-time-core-2023-2026](evidence/workday-time-core-2023-2026.md)（13）
   - 恢复·睡眠·饮食：[recovery-nutrition-core-2023-2026](evidence/recovery-nutrition-core-2023-2026.md)（14）
   - 手表/心率带/跑步豆：[wearables-devices-core-2023-2026](evidence/wearables-devices-core-2023-2026.md)（11）
-- 设备与手表 MCP：[device-data](device-data.md)、[garmin-mcp](garmin-mcp.md)。
+- 设备与手表 MCP：[device-data](device-data.md)、[garmin-mcp](garmin-mcp.md)、[huawei-mcp](huawei-mcp.md)。
 - **内经节律 × 中式饮食 × 训练（亚洲/中国情境）**：[tcm-asian-diet-training](tcm-asian-diet-training.md)  
   - 分层：经典框架（非RCT）／传统中式膳食模式综述／运动营养落地／周计划合成。  
   - 引用时必须分层说明，禁止把体质标签当诊断或成绩保证。

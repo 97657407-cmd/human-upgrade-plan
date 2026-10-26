@@ -1,8 +1,8 @@
 # 人类耐力变强计划
 
-版本 **1.2.2**（`skills/human-upgrade-plan/SKILL.md` 的 `version` 字段）。
+版本 **1.3.0**（`skills/human-upgrade-plan/SKILL.md` 的 `version` 字段）。
 
-面向不同训练基础的跑步、力量与恢复辅助 skill，支持 100m 至马拉松及越野、工作日训练、反馈分析、教练学习，以及（可选）高驰 COROS 官方 MCP 数据接入。
+面向不同训练基础的跑步、力量与恢复辅助 skill，支持 100m 至马拉松及越野、工作日训练、反馈分析、教练学习，以及（可选）高驰 COROS、佳明、华为运动健康 MCP 数据接入。
 
 ## 使用
 
@@ -12,7 +12,7 @@
 
 > 使用人类耐力变强计划。先问我怎么称呼，再了解我是学生还是上班、运动史、场地（能不能力量）、目标、伤病和手表，然后给我一周课表。
 
-训练建议应包含：可执行课表、为什么这么设计、科学原理、相关文献及外推边界。更新训练时提供实际完成内容、主观强度、症状、睡眠与可用时间；高驰用户可先接入 COROS MCP 再让助手读取近期数据。
+训练建议应包含：可执行课表、为什么这么设计、科学原理、相关文献及外推边界。更新训练时提供实际完成内容、主观强度、症状、睡眠与可用时间；高驰 / 佳明 / 华为用户可先接入对应 MCP 再让助手读取近期数据。
 
 ### 公共包与私人档案
 
@@ -52,13 +52,14 @@ COROS MCP 本身免费；AI 平台的 MCP/开发者模式常要付费套餐。�
 - 训练产出：[框架手册](skills/human-upgrade-plan/references/framework-handbook.md)（金样课表、伤后树、项目、力量菜单）。课表不从论文堆出来。
 - 项目框架：11 个项目（100m 至越野）的能力需求、课型选择与评估重点。
 - 恢复与工作：睡眠、精神疲劳、坐站工作、组间休息、力量与耐力组合。
-- 文献全库：[INDEX-all](skills/human-upgrade-plan/references/evidence/INDEX-all.md) — 约 283 条可检索入口。主题包细目见 [INDEX-core50](skills/human-upgrade-plan/references/evidence/INDEX-core50-2023-2026.md)。
+- 文献全库：[INDEX-all](skills/human-upgrade-plan/references/evidence/INDEX-all.md) — 约 318 条可检索入口。主题包细目见 [INDEX-core50](skills/human-upgrade-plan/references/evidence/INDEX-core50-2023-2026.md)。
+- 青少年跑步：[youth-run-framework](skills/human-upgrade-plan/references/youth-run-framework.md) YR01–YR05。不抄成人周公里；默认不排超马。
 - 赛道策略与补给：[race-fuel-framework](skills/human-upgrade-plan/references/race-fuel-framework.md) — 分段配速、补给站、能量胶、盐丸边界；证据 RF01–RF12。
 - 碳板/比赛鞋：[carbon-shoe-framework](skills/human-upgrade-plan/references/carbon-shoe-framework.md) CS01–CS05。
 - 热习服：[heat-acclimation-framework](skills/human-upgrade-plan/references/heat-acclimation-framework.md) HA01–HA05。
 - 伤停交叉训练：[自行车与椭圆机手册](skills/human-upgrade-plan/references/cross-train-framework.md)。
 - 赛日：[赛事预测与赛日策略](skills/human-upgrade-plan/references/race-day-strategy.md)（气温、身体、三档预测）。
-- 设备：COROS MCP 接入与读写边界；其他品牌走手动反馈。
+- 设备：COROS / 佳明 / 华为 MCP 接入与读写边界；未接 MCP 走手动三行。
 - 维护：公共文件白名单与隐私检查，个人数据不随包发布。
 
 这是教练决策辅助资料，不保证无伤或必达成绩，也不替代必要的现场教学与医学评估。尚未完成所有项目的逐篇全文审校，不应宣称为世界级完整教材。
