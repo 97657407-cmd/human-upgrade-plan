@@ -48,7 +48,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
 | 跑步穿什么、冬天着凉、换季质量课穿搭 | [跑步穿搭](references/run-clothing-framework.md)、[clothing-core](references/evidence/clothing-core.md) |
 | 伤停骑车/椭圆、交叉训练保有氧 | [交叉训练手册](references/cross-train-framework.md)、[xt-core](references/evidence/xt-core.md)；阶段门仍走回归树 |
 | 热身、练后拉伸/冰浴/放松 | [热身与练后手册](references/warmup-recovery-framework.md)、[iwr-core](references/evidence/iwr-core.md)；睡眠饮食仍走恢复包 |
-| 手表/COROS/佳明/华为/运动健康/同步计划到日历 | [设备数据](references/device-data.md)；佳明见 [garmin-mcp](references/garmin-mcp.md)；华为见 [huawei-mcp](references/huawei-mcp.md) |
+| 手表绑定、COROS、佳明、华为、运动健康、同步计划到日历 | 仓库首页「手表绑定」三块；细节 [设备数据](references/device-data.md)；佳明见 [garmin-mcp](references/garmin-mcp.md)；华为见 [huawei-mcp](references/huawei-mcp.md) |
 | HRV、准备度、Body Battery、恢复%低了还能不能上质量 | [HRV改课](references/hrv-session-framework.md)、HV01–HV05；一晚低分不自动砍；连续偏低且主观差才砍 *；表绿不能放行跛/烧；佳明点选见 [garmin-recovery](references/garmin-recovery.md)；华为 `get_hrv_stats` 见 [huawei-mcp](references/huawei-mcp.md) |
 | 心率带 胸带 臂带 跑步豆 戴不戴 | [硬件配件](references/hardware-kit-framework.md)、[hardware-kit-core](references/evidence/hardware-kit-core.md)；效度细节可穿戴包 C40–C45 |
 | 开课鼓励、名将原话、教练哲学 | [开课一句](references/elite-encouragement.md)；每堂一条，只抄该文件 |

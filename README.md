@@ -20,27 +20,32 @@
 
 给别人使用时只发仓库链接即可。对方可以克隆或下载本仓库，把 `skills/human-upgrade-plan` 放进其 AI 客户端支持的 skill 目录。之后公共包更新时，对方用 `git pull` 或重新下载覆盖即可；私人档案不会随公共包同步。
 
-### 高驰 COROS MCP（可选 · 大陆默认本地接入）
+### 手表绑定（可选 · 高驰 / 佳明 / 华为）
 
-先看你用的是哪种 AI，不要所有人只贴一条网址。
+排课不强制绑表。绑上了，助手会先读**最近一次运动 + 睡眠**再开口。接了几块就读几块；人难受听身体，不听恢复百分比。密码、验证码、华为 `Bearer` 不要发到对话。完整步骤：[设备数据](skills/human-upgrade-plan/references/device-data.md)、[佳明](skills/human-upgrade-plan/references/garmin-mcp.md)、[华为](skills/human-upgrade-plan/references/huawei-mcp.md)。
 
-**方式一 · ChatGPT 等能直接填 MCP 链接的云端平台**
+**高驰 COROS（中国区）**
 
-1. 复制大陆节点：`https://mcpcn.coros.com/mcp`
-2. ChatGPT：头像 → 设置 → 应用 → 高级设置 → 打开开发人员模式 → 创建应用 → MCP 服务器粘贴链接，认证选 OAuth → 登录 COROS。
-3. 在对话里说：「请调用 COROS MCP，把过去两周的跑步和睡眠发给我。」
+先看你用的是哪种 AI，不要所有人只贴一条网址。禁止 `mcpus` / `mcpeu`。
 
-**方式二 · 国内 / 本机 AI（Cursor、OpenClaw、WorkBuddy 等，默认这条）**
+方式一 · ChatGPT 等能直接填 MCP 链接：复制 `https://mcp.coros.com/mcp`（无效再 `https://mcpcn.coros.com/mcp`），认证选 OAuth，登录大陆 COROS。也可在连接器里搜 COROS。然后说：「请调用 COROS MCP，把过去两周的跑步和睡眠发给我。」
 
-多数国内客户端不能只填网址，要在自己电脑上装本地 MCP：
+方式二 · Cursor / OpenClaw / WorkBuddy 本机：
 
 ```bash
 npm install -g coros-mcp
+coros-mcp --issuer https://mcpcn.coros.com login-start
 ```
 
-OpenClaw / WorkBuddy 可把上面这句直接发给 AI，按提示装 Skill 并授权 COROS。Cursor 等：本机先装 Node.js，终端执行同一命令，再到 MCP 设置里添加本地服务器 `coros-mcp`，按提示登录。会话过期则 `npm install -g coros-mcp@latest` 后重授权。
+登录链接必须用 **Google Chrome** 打开（Mac：`open -a "Google Chrome" "链接"`），不要用 Cursor 内置窗口。授权后：`coros-mcp --issuer https://mcpcn.coros.com login-finish`。会话过期则 `npm install -g coros-mcp@latest` 后再走一遍。官方说明：[Connect Your COROS to AI](https://support.coros.com/hc/en-us/articles/50841795180948-Connect-Your-COROS-to-AI)。
 
-COROS MCP 本身免费；AI 平台的 MCP/开发者模式常要付费套餐。完整点选步骤见 [device-data.md](skills/human-upgrade-plan/references/device-data.md) 与 [COROS 官方文档](https://support.coros.com/hc/en-us/articles/50841795180948-Connect-Your-COROS-to-AI)。不默认提供欧/美节点。
+**佳明 Garmin（中国区）**
+
+本机 MCP，不能只贴网址。`GARMIN_REGION=cn`。登录页是电脑 `127.0.0.1`，必须 Chrome，密码只打在佳明表单里。接通后先核账号，再拉活动和睡眠。点选见 [garmin-mcp.md](skills/human-upgrade-plan/references/garmin-mcp.md)。
+
+**华为运动健康**
+
+本机社区 MCP（不是华为官方），直连大陆华为云。不实现登录：用户自己在电脑浏览器打开 https://health.huawei.com ，F12 → Network → 找成功的 `activityRecord`，把 `Authorization` 和 `x-client-id` 写进本机 `~/.huawei-training-camp/credentials.env`，重载 MCP。不要把完整 Bearer 贴进聊天或 Git。接通后说：「请调用华为 MCP，把最近的训练和睡眠发给我。」细节见 [huawei-mcp.md](skills/human-upgrade-plan/references/huawei-mcp.md)。
 
 ## 结构
 
@@ -59,7 +64,7 @@ COROS MCP 本身免费；AI 平台的 MCP/开发者模式常要付费套餐。�
 - 热习服：[heat-acclimation-framework](skills/human-upgrade-plan/references/heat-acclimation-framework.md) HA01–HA05。
 - 伤停交叉训练：[自行车与椭圆机手册](skills/human-upgrade-plan/references/cross-train-framework.md)。
 - 赛日：[赛事预测与赛日策略](skills/human-upgrade-plan/references/race-day-strategy.md)（气温、身体、三档预测）。
-- 设备：COROS / 佳明 / 华为 MCP 接入与读写边界；未接 MCP 走手动三行。
+- 手表绑定：README 本节高驰 / 佳明 / 华为；细节 [device-data](skills/human-upgrade-plan/references/device-data.md)、[garmin-mcp](skills/human-upgrade-plan/references/garmin-mcp.md)、[huawei-mcp](skills/human-upgrade-plan/references/huawei-mcp.md)。未接 MCP 走手动三行。
 - 维护：公共文件白名单与隐私检查，个人数据不随包发布。
 
 这是教练决策辅助资料，不保证无伤或必达成绩，也不替代必要的现场教学与医学评估。尚未完成所有项目的逐篇全文审校，不应宣称为世界级完整教材。
