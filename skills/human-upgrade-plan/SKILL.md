@@ -1,7 +1,7 @@
 ---
 name: human-upgrade-plan
-version: 1.3.0
-description: Evidence-informed running and strength planning from 100m to trail. Ask where and what clock time they train; look up that city's hourly forecast in Beijing time; if rain overlaps their window, offer outdoor / shift / indoor / rest options and let them choose. Every session has a warmup scaled to recreational vs trained athletes. Read last COROS, Garmin, or Huawei workout. Not medical diagnosis.
+version: 1.3.1
+description: Evidence-informed running and strength planning from 100m to trail. Ask where and what clock time they train; look up that city's hourly forecast in Beijing time; if rain overlaps their window, offer outdoor / shift / indoor / rest options and let them choose. Every session has a warmup scaled to recreational vs trained athletes. Read last COROS or Garmin workout. Not medical diagnosis.
 ---
 
 # 人类耐力变强计划
@@ -16,8 +16,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
 2. **设备与数据源（排今日/本周课之前必须读上次训练）**  
    明确询问手表品牌，并问 **胸带、上臂光学臂带、跑步豆** 有没有；两样都有再问**日常最爱戴哪件**（[硬件配件](references/hardware-kit-framework.md)）。若是**高驰 COROS**，本 skill 只服务**中国区**。能填链接走**方式一** `https://mcp.coros.com/mcp`（无效再 `https://mcpcn.coros.com/mcp`）。Cursor / OpenClaw / WorkBuddy 走**方式二**：`coros-mcp --issuer https://mcpcn.coros.com login-start` → 登录链接必须用本机 **Google Chrome** 打开（Mac：`open -a "Google Chrome"`）→ `login-finish`。**禁止**用 Cursor 内置窗口 / Simple Browser / 浏览器 MCP 打开高驰授权页。禁止 mcpus / mcpeu。  
    若是**佳明 Garmin** 且用户要本机拉数据：走 [佳明 MCP](references/garmin-mcp.md)（中国区 `cn`；登录必须 Chrome；不要密码进对话）。  
-   若是**华为**手表/运动健康且用户要本机拉数据：走 [华为 MCP](references/huawei-mcp.md)（网页会话头放到本机 env，不实现登录、不要 Bearer 进对话）。  
-   **已接入则在给出任何一堂课之前**拉取：最近一次运动记录（类型、时长、配速/心率、是否完成）+ 睡眠/恢复。高驰、佳明、华为接了几块就读几块。用它决定今天是按计划、降档还是休息。禁止不读上次课就排间歇。其他品牌或无手表：不要导旧 FIT；请用户看 App **最近**（上次课 + 睡眠 + 今天恢复/HRV 相对这周），截图或打三行。详见 [设备数据](references/device-data.md)。
+   **已接入则在给出任何一堂课之前**拉取：最近一次运动记录（类型、时长、配速/心率、是否完成）+ 睡眠/恢复。高驰、佳明接了几块就读几块。用它决定今天是按计划、降档还是休息。禁止不读上次课就排间歇。其他品牌或无手表：不要导旧 FIT；请用户看 App **最近**（上次课 + 睡眠 + 今天恢复/HRV 相对这周），截图或打三行。详见 [设备数据](references/device-data.md)。
 
 3. **跟进具体需求 + 用知识大脑判断**  
    基础够用后，用其称呼确认本轮主任务。**必须先读 [知识大脑](references/knowledge-brain.md)**：按优先级和冲突裁判做取舍（主目标只有一个、本周一个主刺激、睡眠/伤病优先），再匹配金样或力量模式。缺口 ≤3 个。不要跳过大脑直接堆课。
@@ -31,7 +30,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
    设计目的、负荷依据、前后衔接、取消条件写清。训练学要点名有出处的教练/理论。文献从 [INDEX-all](references/evidence/INDEX-all.md) 钉 **1–2 张**最相关卡，推断单独标。见 [知识与证据](references/training-knowledge-system.md)。用户要学论文时再按总索引多读，仍用大脑说明改哪一个训练变量。
 
 6. **反馈闭环（含热身）**  
-   下次必问：主课完成情况 + **热身是刚好/已喘/仍冷** + 跑起来闷汗还是一直冷 + 症状与睡眠。有高驰、佳明或华为 MCP 优先拉实际完成。用热身反馈改下一堂热身时长（手册对照表）。未反馈不记为已完成，也不记「热身没问题」。
+   下次必问：主课完成情况 + **热身是刚好/已喘/仍冷** + 跑起来闷汗还是一直冷 + 症状与睡眠。有高驰或佳明 MCP 优先拉实际完成。用热身反馈改下一堂热身时长（手册对照表）。未反馈不记为已完成，也不记「热身没问题」。
 
 ## 先选择任务
 
@@ -39,7 +38,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
 |---|---|
 | 新用户、目标评估 | [用户建档](references/athlete-profile.md)（先称呼再性别）、[近期记录](references/recent-training.md)、[设备数据](references/device-data.md) |
 | 今日/明日/周计划 | **先读上次课** + **今天在哪练、几点练（北京时间）** + **小时降水是否碰上窗口** + 气温湿度/室外 PM2.5 + 有无发热或病假空窗；下雨多方案见[下雨时段](references/rain-window-framework.md)；每堂热身按人群×天气（[热身手册](references/warmup-recovery-framework.md)）；**穿搭按气温**（[跑步穿搭](references/run-clothing-framework.md)）；**有配件则写佩戴**（[硬件配件](references/hardware-kit-framework.md)）；闸门见[开课闸门](references/session-gate-framework.md)；热天/比赛饮水与咖啡因见[补水与咖啡因](references/hydrate-caffeine-framework.md)；**长课或比赛必须写补给**见[赛道补给](references/race-fuel-framework.md)；有比赛加[备赛框架](references/race-prep-framework.md)；赛前 14 天/赛晨加[赛日策略](references/race-day-strategy.md)+赛道补给全文；质量课/赛日写鞋见[碳板](references/carbon-shoe-framework.md)；去热的比赛见[热习服](references/heat-acclimation-framework.md)；越野训练见[越野落地](references/trail-session-framework.md)；越野赛见[越野赛事补给](references/trail-race-framework.md)；`girl` 见[女选手周剂量](references/female-week-framework.md)；高原赛见[高原比赛](references/altitude-race-framework.md)；再[框架手册](references/framework-handbook.md) |
-| 完成反馈、疲劳、排班变动 | [近期记录](references/recent-training.md)、[决策协议](references/decision-protocol.md)、[工作与恢复](references/recovery-working-athletes.md)；高驰/佳明/华为用户加读[设备数据](references/device-data.md) |
+| 完成反馈、疲劳、排班变动 | [近期记录](references/recent-training.md)、[决策协议](references/decision-protocol.md)、[工作与恢复](references/recovery-working-athletes.md)；高驰/佳明用户加读[设备数据](references/device-data.md) |
 | 伤后回归、疼痛还能不能跑 | [伤病负荷手册](references/injury-load-framework.md)、[回归树](references/gold-weeks-and-return.md)、[力量第9节](references/strength-training-modes.md)；证据[iwr-core](references/evidence/iwr-core.md) |
 | 膝外侧、胫骨内侧、髌前、夜间骨头一点痛 | [跑痛闸门](references/runner-pain-framework.md)、RI01–RI05；**不命名病**；夜痛不走跑试；跟腱走等长手册 |
 | 感冒发烧、今天能不能练、雾霾灰霾空气质量、改室内跑台、病假几天后怎么接 | [开课闸门](references/session-gate-framework.md)、[env-illness-core](references/evidence/env-illness-core.md) EI01–EI14 |
@@ -48,8 +47,8 @@ description: Evidence-informed running and strength planning from 100m to trail.
 | 跑步穿什么、冬天着凉、换季质量课穿搭 | [跑步穿搭](references/run-clothing-framework.md)、[clothing-core](references/evidence/clothing-core.md) |
 | 伤停骑车/椭圆、交叉训练保有氧 | [交叉训练手册](references/cross-train-framework.md)、[xt-core](references/evidence/xt-core.md)；阶段门仍走回归树 |
 | 热身、练后拉伸/冰浴/放松 | [热身与练后手册](references/warmup-recovery-framework.md)、[iwr-core](references/evidence/iwr-core.md)；睡眠饮食仍走恢复包 |
-| 手表绑定、COROS、佳明、华为、运动健康、同步计划到日历 | 仓库首页「手表绑定」三块；细节 [设备数据](references/device-data.md)；佳明见 [garmin-mcp](references/garmin-mcp.md)；华为见 [huawei-mcp](references/huawei-mcp.md) |
-| HRV、准备度、Body Battery、恢复%低了还能不能上质量 | [HRV改课](references/hrv-session-framework.md)、HV01–HV05；一晚低分不自动砍；连续偏低且主观差才砍 *；表绿不能放行跛/烧；佳明点选见 [garmin-recovery](references/garmin-recovery.md)；华为 `get_hrv_stats` 见 [huawei-mcp](references/huawei-mcp.md) |
+| 手表绑定、COROS、佳明、同步计划到日历 | 仓库首页「手表绑定」高驰/佳明；细节 [设备数据](references/device-data.md)；佳明见 [garmin-mcp](references/garmin-mcp.md) |
+| HRV、准备度、Body Battery、恢复%低了还能不能上质量 | [HRV改课](references/hrv-session-framework.md)、HV01–HV05；一晚低分不自动砍；连续偏低且主观差才砍 *；表绿不能放行跛/烧；佳明点选见 [garmin-recovery](references/garmin-recovery.md) |
 | 心率带 胸带 臂带 跑步豆 戴不戴 | [硬件配件](references/hardware-kit-framework.md)、[hardware-kit-core](references/evidence/hardware-kit-core.md)；效度细节可穿戴包 C40–C45 |
 | 开课鼓励、名将原话、教练哲学 | [开课一句](references/elite-encouragement.md)；每堂一条，只抄该文件 |
 | 备赛、赛前减量、到比赛还有N周 | [备赛框架](references/race-prep-framework.md)、[备赛证据包](references/evidence/race-prep-core.md)；本周仍走金样 |
@@ -81,7 +80,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
 - 根据近期连续性与任务需要判断入门、回归、基础、专项、赛前或恢复阶段；不默认所有人都在伤后重建，也不按固定周数自动升级。
 - 计划至少解释目标、负荷依据、执行方式和调整条件，并给出与本次决策相关的科学理由与文献边界。单次配速或手表评分不足以定课；不混淆心率、摄氧、乳酸与跑步功率指标。
 - 将论文发现、教练推断、用户反馈、厂商手表模型分开。只凭摘要不能称全文精读，重复引用不增加独立文献计数。研究剂量不能直接当个体处方。
-- 高驰 / 佳明 / 华为 MCP 仅在用户授权且连接成功后使用；写回训练计划或日程必须再次确认。无 MCP 时不得伪造手表数据。不在对话要密码、验证码或完整 Bearer。
+- 高驰 / 佳明 MCP 仅在用户授权且连接成功后使用；写回训练计划或日程必须再次确认。无 MCP 时不得伪造手表数据。不在对话要密码或验证码。
 - 医学诊断和清除运动禁忌需合适的临床评估；胸痛、晕厥、明显呼吸困难等正在发生时优先紧急求助。持续不适或步态改变时不继续安排诱发训练。具体伤病遵循专业建议，不设万能疼痛阈值。
 - 尊重用户对训练、体重、外观和成绩的选择，不许诺无伤或必达成绩。训练成绩不作为人格或意志评价。
 

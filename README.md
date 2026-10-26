@@ -1,8 +1,8 @@
 # 人类耐力变强计划
 
-版本 **1.3.0**（`skills/human-upgrade-plan/SKILL.md` 的 `version` 字段）。
+版本 **1.3.1**（`skills/human-upgrade-plan/SKILL.md` 的 `version` 字段）。
 
-面向不同训练基础的跑步、力量与恢复辅助 skill，支持 100m 至马拉松及越野、工作日训练、反馈分析、教练学习，以及（可选）高驰 COROS、佳明、华为运动健康 MCP 数据接入。
+面向不同训练基础的跑步、力量与恢复辅助 skill，支持 100m 至马拉松及越野、工作日训练、反馈分析、教练学习，以及（可选）高驰 COROS、佳明 Garmin MCP 数据接入。
 
 ## 使用
 
@@ -12,7 +12,7 @@
 
 > 使用人类耐力变强计划。先问我怎么称呼，再了解我是学生还是上班、运动史、场地（能不能力量）、目标、伤病和手表，然后给我一周课表。
 
-训练建议应包含：可执行课表、为什么这么设计、科学原理、相关文献及外推边界。更新训练时提供实际完成内容、主观强度、症状、睡眠与可用时间；高驰 / 佳明 / 华为用户可先接入对应 MCP 再让助手读取近期数据。
+训练建议应包含：可执行课表、为什么这么设计、科学原理、相关文献及外推边界。更新训练时提供实际完成内容、主观强度、症状、睡眠与可用时间；高驰 / 佳明用户可先接入对应 MCP 再让助手读取近期数据；其他手表用 App 最近记录截图或口述三行。
 
 ### 公共包与私人档案
 
@@ -20,9 +20,9 @@
 
 给别人使用时只发仓库链接即可。对方可以克隆或下载本仓库，把 `skills/human-upgrade-plan` 放进其 AI 客户端支持的 skill 目录。之后公共包更新时，对方用 `git pull` 或重新下载覆盖即可；私人档案不会随公共包同步。
 
-### 手表绑定（可选 · 高驰 / 佳明 / 华为）
+### 手表绑定（可选 · 高驰 / 佳明）
 
-排课不强制绑表。绑上了，助手会先读**最近一次运动 + 睡眠**再开口。接了几块就读几块；人难受听身体，不听恢复百分比。密码、验证码、华为 `Bearer` 不要发到对话。完整步骤：[设备数据](skills/human-upgrade-plan/references/device-data.md)、[佳明](skills/human-upgrade-plan/references/garmin-mcp.md)、[华为](skills/human-upgrade-plan/references/huawei-mcp.md)。
+排课不强制绑表。绑上了，助手会先读**最近一次运动 + 睡眠**再开口。接了几块就读几块；人难受听身体，不听恢复百分比。密码、验证码不要发到对话。完整步骤：[设备数据](skills/human-upgrade-plan/references/device-data.md)、[佳明](skills/human-upgrade-plan/references/garmin-mcp.md)。
 
 **高驰 COROS（中国区）**
 
@@ -43,10 +43,6 @@ coros-mcp --issuer https://mcpcn.coros.com login-start
 
 本机 MCP，不能只贴网址。`GARMIN_REGION=cn`。登录页是电脑 `127.0.0.1`，必须 Chrome，密码只打在佳明表单里。接通后先核账号，再拉活动和睡眠。点选见 [garmin-mcp.md](skills/human-upgrade-plan/references/garmin-mcp.md)。
 
-**华为运动健康**
-
-本机社区 MCP（不是华为官方），直连大陆华为云。不实现登录：用 Chrome 打开 **https://health.cloud.huawei.com/TrainingCamp**（华为帐号登录）。不要用 `health.huawei.com`，那个域名现在打不开。能看见训练后 F12 → Network → 找成功的 `activityRecord`，把 `Authorization` 和 `x-client-id` 写进本机 `~/.huawei-training-camp/credentials.env`，重载 MCP。不要把完整 Bearer 贴进聊天或 Git。接通后说：「请调用华为 MCP，把最近的训练和睡眠发给我。」细节见 [huawei-mcp.md](skills/human-upgrade-plan/references/huawei-mcp.md)。
-
 ## 结构
 
 - 用户建档与日志：仅提供空白模板，真实数据保存在用户指定的私人目录。
@@ -64,7 +60,7 @@ coros-mcp --issuer https://mcpcn.coros.com login-start
 - 热习服：[heat-acclimation-framework](skills/human-upgrade-plan/references/heat-acclimation-framework.md) HA01–HA05。
 - 伤停交叉训练：[自行车与椭圆机手册](skills/human-upgrade-plan/references/cross-train-framework.md)。
 - 赛日：[赛事预测与赛日策略](skills/human-upgrade-plan/references/race-day-strategy.md)（气温、身体、三档预测）。
-- 手表绑定：README 本节高驰 / 佳明 / 华为；细节 [device-data](skills/human-upgrade-plan/references/device-data.md)、[garmin-mcp](skills/human-upgrade-plan/references/garmin-mcp.md)、[huawei-mcp](skills/human-upgrade-plan/references/huawei-mcp.md)。未接 MCP 走手动三行。
+- 手表绑定：README 本节高驰 / 佳明；细节 [device-data](skills/human-upgrade-plan/references/device-data.md)、[garmin-mcp](skills/human-upgrade-plan/references/garmin-mcp.md)。未接 MCP 走手动三行。
 - 维护：公共文件白名单与隐私检查，个人数据不随包发布。
 
 这是教练决策辅助资料，不保证无伤或必达成绩，也不替代必要的现场教学与医学评估。尚未完成所有项目的逐篇全文审校，不应宣称为世界级完整教材。

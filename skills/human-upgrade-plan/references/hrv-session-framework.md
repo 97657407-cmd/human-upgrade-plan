@@ -1,6 +1,6 @@
 # HRV / 手表恢复分：怎么改今天的课
 
-核验日期：2026-10-22。证据：[hrv-session-core](evidence/hrv-session-core.md) HV01–HV05。佳明点选：[garmin-recovery](garmin-recovery.md)。华为夜间 HRV：[huawei-mcp](huawei-mcp.md) `get_hrv_stats`（原样，不换单位）。  
+核验日期：2026-10-22。证据：[hrv-session-core](evidence/hrv-session-core.md) HV01–HV05。佳明点选：[garmin-recovery](garmin-recovery.md)。  
 **不是过度训练诊断。** 发烧、跛、胸痛仍走开课闸门/回归树；表绿不能放行。
 
 有晨间 HRV、准备度、Body Battery、恢复%、或用户口述「今晚 HRV 偏低」时加载。无表继续用睡眠+主观+上次课，不编恢复分。
@@ -39,7 +39,7 @@
 
 ```text
 **恢复输入**
-来源：口述 / 高驰 / 佳明 / 华为（准备度时刻：起床或运动前）
+来源：口述 / 高驰 / 佳明（准备度时刻：起床或运动前）
 HRV或准备度：相对这周 偏低一晚 / 连续偏低 / 不差 / 未知
 主观与睡眠：
 判定：按计划 / 砍 * / 停

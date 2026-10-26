@@ -198,13 +198,13 @@
 
 题名/作者/年份/DOI或PMID → 研究对象与设计 → 比较组与结局 → 主要结果 → 偏倚及外推边界 → 可改变的训练变量 → 个体应用（标注推断） → 监控与复盘。按用户需求提供阅读量，不强制每次引用固定篇数。
 
-## COROS / 佳明 / 华为 / 设备相关输出
+## COROS / 佳明 / 设备相关输出
 
 - 未接 MCP：排课先问最近三行（上次课 / 睡眠 / 恢复相对这周），**不要让用户导以前的 FIT**。
 - 未接入高驰 MCP：方式一先 `https://mcp.coros.com/mcp`，无效再 `https://mcpcn.coros.com/mcp`。Cursor 中国区方式二：`coros-mcp --issuer https://mcpcn.coros.com login-start`，登录链接用 `open -a "Google Chrome"`，禁止 Cursor 窗口，然后 `login-finish`。禁止 mcpus/mcpeu。未接通前用手动假设排课。
-- 佳明：抄 [garmin-mcp](garmin-mcp.md)。华为：抄 [huawei-mcp](huawei-mcp.md)；不要把 Bearer 贴进对话。
+- 佳明：抄 [garmin-mcp](garmin-mcp.md)。
 - 已接入只读分析：注明数据时间范围与工具来源，再给出计划。
-- 需要写回手表日历：先展示拟写入内容，获得明确同意后再调用写接口。标准确认话术：`拟写入COROS：[日期+课名+剂量]，确认回复“确认写入”我才调写接口，仅给建议不自动保存。` 华为无写回工具。
+- 需要写回手表日历：先展示拟写入内容，获得明确同意后再调用写接口。标准确认话术：`拟写入COROS：[日期+课名+剂量]，确认回复“确认写入”我才调写接口，仅给建议不自动保存。`
 
 ## 手机压缩版（默认三行，不可省略层）
 

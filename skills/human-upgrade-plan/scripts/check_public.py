@@ -32,7 +32,6 @@ ALLOWED_RELATIVE = {
     "skills/human-upgrade-plan/references/garmin-recovery.md",
     "skills/human-upgrade-plan/references/gold-weeks-and-return.md",
     "skills/human-upgrade-plan/references/hardware-kit-framework.md",
-    "skills/human-upgrade-plan/references/huawei-mcp.md",
     "skills/human-upgrade-plan/references/hrv-session-framework.md",
     "skills/human-upgrade-plan/references/heat-acclimation-framework.md",
     "skills/human-upgrade-plan/references/hydrate-caffeine-framework.md",

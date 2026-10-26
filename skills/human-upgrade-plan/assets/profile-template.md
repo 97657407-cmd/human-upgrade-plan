@@ -50,7 +50,6 @@
 - 日常最爱戴：胸带 / 臂带 / 豆 / 都戴 / 未问：
 - COROS MCP 是否已授权（是/否/不适用）：方式一先 `https://mcp.coros.com/mcp`（无效再 `https://mcpcn.coros.com/mcp`）/ 方式二 `npm install -g coros-mcp`
 - 佳明 MCP 是否已授权（是/否/不适用）：中国区见 garmin-mcp
-- 华为 MCP 是否已授权（是/否/不适用）：本机 env，见 huawei-mcp；不要把 Bearer 写进本模板
 - 可选身体信息（仅填写与目标相关项）：
 - 数据保存与分享偏好：
 - 下一次评估问题：
