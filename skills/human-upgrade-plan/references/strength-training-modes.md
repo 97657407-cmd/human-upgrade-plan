@@ -3,7 +3,7 @@
 核验日期：2026-10-10。  
 先选定**主目标模式**，再选动作与周配比。不要把田径专项力量和健美增肌课混成一堂“什么都练一点”。
 
-证据入口：[strength-modes-core-2023-2026](evidence/strength-modes-core-2023-2026.md)。同期干扰细节见 [concurrent-interference-2024](evidence/concurrent-interference-2024.md)。剂量仍按 [决策协议](decision-protocol.md) 个体化。
+证据入口：[strength-modes-core-2023-2026](evidence/strength-modes-core-2023-2026.md)。同期干扰细节见 [concurrent-interference-2024](evidence/concurrent-interference-2024.md)。蛋白与关键课能量见 [同期蛋白与能量](concurrent-fuel-framework.md)。剂量仍按 [决策协议](decision-protocol.md) 个体化。
 
 ## 1. 先选模式（五种常见）
 

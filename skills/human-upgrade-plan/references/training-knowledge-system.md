@@ -4,7 +4,7 @@
 
 ## 内容入口
 
-- **决策（先加载）**：[知识大脑](knowledge-brain.md) — 把全库压成优先级、项目皮层、冲突裁判；给建议时先判断再写课表。
+- **决策（先加载）**：[知识大脑](knowledge-brain.md) — 把全库压成优先级、项目皮层、冲突裁判；然后 [决策流](decision-flow.md) 只选一条树。给建议时先判断再写课表。质量课写强度锚点。
 - **排课产出**：[框架手册](framework-handbook.md)（金样、伤后树、项目、力量菜单）。课表不从论文堆出来。
 - **长期备赛**：[race-prep-framework](race-prep-framework.md) + [race-prep-core](evidence/race-prep-core.md)（28 条）+ [race-day-strategy](race-day-strategy.md)。
 - **赛事预测 / 赛日天气配速**：[race-day-strategy](race-day-strategy.md)。
@@ -32,6 +32,11 @@
 - **双阈值 / LGTIT（挪威线）**：[double-threshold-framework](double-threshold-framework.md) + [double-threshold-core](evidence/double-threshold-core.md)（12 条）。精英观察+急性实验+个案课形；爱好者单阈值起步。
 - **间歇·控时·双阈值知识文**：[interval-training-playbook](interval-training-playbook.md)。
 - **顶级运动员案例（短/中/长）**：[elite-cases-framework](elite-cases-framework.md) + [elite-cases-core](evidence/elite-cases-core.md)（13 条：短跑 Haugen/Pfaff、中跑 Ingebrigtsen、长跑 Kipchoge/Waitz + 三条路径对照）。只借原则不借剂量；语录仍走 elite-encouragement。
+- **临界速度 / 场测定强度**：[critical-speed-framework](critical-speed-framework.md) + [critical-speed-core](evidence/critical-speed-core.md)（CV01–CV08）。与碳板 CS 卡号无关；无场测不编配速。
+- **大师组 / 年龄增长**：[masters-run-framework](masters-run-framework.md) + [masters-run-core](evidence/masters-run-core.md)（MR01–MR06）。维持训练量优先于追旧 PB。
+- **中跑 800/1500 课形**：[middle-distance-framework](middle-distance-framework.md) + [middle-distance-core](evidence/middle-distance-core.md)（MD01–MD06）。只降级 Haugen 表 2 的一行。
+- **上坡跑**：[hill-run-framework](hill-run-framework.md) + [hill-run-core](evidence/hill-run-core.md)（HL01–HL04）。可用，别神化。
+- **跑+力量的蛋白与能量**：[concurrent-fuel-framework](concurrent-fuel-framework.md) + [concurrent-fuel-core](evidence/concurrent-fuel-core.md)（CF01–CF04）。
 - **文献检索（全库）**：[evidence/INDEX-all](evidence/INDEX-all.md)。按项目/中文关键词调用。
 - 项目与通用理论：[event-frameworks](event-frameworks.md)。
 - 恢复与工作场景：[recovery-working-athletes](recovery-working-athletes.md)。

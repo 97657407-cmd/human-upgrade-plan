@@ -1,10 +1,12 @@
-# 证据卡：精英800/1500框架（Haugen系综述线）
+# 证据卡：精英 800/1500 框架（入口）
 
-问题：世界级800/1500怎么练。
-方法：科学+最佳实践整合框架：高有氧底（大量阈值下）+速度储备+专项配速块。
-结果：800约60%有氧贡献，速度储备决定后程；阈值与vVO2max块交替，赛前转专项配速。
-局限：观察性+教练经验整合，非RCT。
-外推边界：大众800先补有氧底与最大速度，再谈专项乳酸课；不照抄精英量。
-对训练的改变：回归/入门800=轻松跑+短加速+1次长间歇，专项期才加乳酸耐受。
-阅读深度：摘要+框架口径。
-引用：Crossing the Golden Training Divide. Sports Med. 800/1500 framework.
+核验日期：2026-10-28。课形与降级见 [middle-distance-framework](../middle-distance-framework.md)，证据包 [middle-distance-core](middle-distance-core.md) MD01–MD06。
+
+**Haugen T 等. Crossing the Golden Training Divide.** Sports Med. 2021. PMC [8363530](https://pmc.ncbi.nlm.nih.gov/articles/PMC8363530/)  
+证据类型：科学 + 最佳实践整合（非 RCT）
+
+**一句话精华**  
+高有氧底 + 速度储备 + 专项块。800 有氧贡献大约六到七成，1500 更高。阈值与摄氧块交替，乳酸耐受/产生在 800 更多见，赛前转向专项配速。不能照抄周公里。
+
+**今天这场** 金样 2；一周一个主刺激。  
+**阅读深度**：摘要；课形细节以 MD01 Table 2 为准。

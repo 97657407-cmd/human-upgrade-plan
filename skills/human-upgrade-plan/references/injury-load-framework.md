@@ -1,9 +1,9 @@
 # 伤病负荷管理手册（不是诊断库）
 
 核验日期：2026-10-10。  
-本文件管：**红旗转介、减冲击、换动作、回归节奏**。不命名疾病、不开药、不设「疼低于几分就能跑」。
+本文件管：**红旗转介、减冲击、换动作、回归节奏**。不命名疾病、不开药、不设「疼低于几分就能跑」。部位复跑顺序（先距离或先力量，后速度）抄 [跑痛闸门](runner-pain-framework.md) 第 3 节，总入口见 [决策流](decision-flow.md)。
 
-阶段门仍走 [伤后回归树](gold-weeks-and-return.md)。动作替换走 [力量第9节](strength-training-modes.md)。证据：[iwr-core](evidence/iwr-core.md)。膝外侧 / 胫骨内侧 / 髌前 / 夜间骨点痛的课表改法抄 [跑痛闸门](runner-pain-framework.md) RI01–RI05。
+阶段门仍走 [伤后回归树](gold-weeks-and-return.md)。动作替换走 [力量第9节](strength-training-modes.md)。证据：[iwr-core](evidence/iwr-core.md)。膝外侧 / 胫骨内侧 / 髌前 / 跟腱复跑 / 夜间骨点痛抄 [跑痛闸门](runner-pain-framework.md) RI01–RI12。总分流见 [决策流](decision-flow.md)。
 
 ---
 

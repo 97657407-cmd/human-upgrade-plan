@@ -1,6 +1,6 @@
 ---
 name: human-upgrade-plan
-version: 1.3.7
+version: 1.3.10
 description: Evidence-informed running and strength planning from 100m to trail. Ask where and what clock time they train; look up that city's hourly forecast in Beijing time; if rain overlaps their window, offer outdoor / shift / indoor / rest options and let them choose. Every session has a warmup scaled to recreational vs trained athletes. Read last COROS or Garmin workout. Not medical diagnosis.
 ---
 
@@ -19,7 +19,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
    **已接入则在给出任何一堂课之前**拉取：最近一次运动记录（类型、时长、配速/心率、是否完成）+ 睡眠/恢复。高驰、佳明接了几块就读几块。用它决定今天是按计划、降档还是休息。禁止不读上次课就排间歇。其他品牌或无手表：不要导旧 FIT；请用户看 App **最近**（上次课 + 睡眠 + 今天恢复/HRV 相对这周），截图或打三行。详见 [设备数据](references/device-data.md)。
 
 3. **跟进具体需求 + 用知识大脑判断**  
-   基础够用后，用其称呼确认本轮主任务。**必须先读 [知识大脑](references/knowledge-brain.md)**：按优先级和冲突裁判做取舍（主目标只有一个、本周一个主刺激、睡眠/伤病优先），再匹配金样或力量模式。缺口 ≤3 个。不要跳过大脑直接堆课。
+   基础够用后，用其称呼确认本轮主任务。**必须先读 [知识大脑](references/knowledge-brain.md)**，再按 [决策流](references/decision-flow.md) **只选一条树**（复跑 / 无锚点 / 大师 / 备赛 / 金样）。质量课必须写强度锚点：无近 8 周场测就用 RPE 句，不编配速。然后再匹配金样或力量模式。缺口 ≤3 个。不要跳过大脑直接堆课。
 
 4. **给出可执行训练建议（每堂必须带热身；先更新该地点天气）**  
    写课前确认今天在哪练、**今天几点练（北京时间钟点，档案「晚上」不够）**。**助手必须检索该城市的小时预报**，把降水/雷暴落在具体时段（例：`北京时间 16:00–19:00 有雨`），再和他的窗口重叠；只写「今天有雨」不算交卷。有重叠则抄 [下雨时段](references/rain-window-framework.md) 给出室外原窗口 / 改点 / 室内替换 / 休息 **多套方案，等用户选**，禁止擅作主张改去健身房。检索失败再请用户看天气 App **小时**页。另检索气温、相对湿度、风以及**室外课的 PM2.5**，写进课表头；禁止默认「全国同一气温」。中国 AQI 数字不能当美国 AQI 用，课表写 PM2.5。发烧或全身旗标先走 [开课闸门](references/session-gate-framework.md)，不上质量课。刚病假回来按该手册 1.1 接训，不接旧配速。热天长课按 [补水与咖啡因](references/hydrate-caffeine-framework.md) 口渴喝、禁止灌到体重上涨；质量课或比赛才写咖啡因，赛晨不新试。**长课（约 ≥75–90 min 或金样长轻松/长跑）和比赛必须写出补给**，抄 [赛日策略与赛道补给](references/race-fuel-framework.md)，禁止只写「注意补水」。室内跑步机按更热一档，且不要把室外配速原样贴上去。抄 [热身与练后手册](references/warmup-recovery-framework.md)：项目速查 × **大众短热身 vs 专业完整 RAMP** × 气温湿度表。**室外课必须按该点气温写出穿搭**（[跑步穿搭](references/run-clothing-framework.md)；理论是 IREQ/ACSM 热平衡，气温表是教练落地）：质量课跑时少一层，组间/练后穿回来，停下立刻换干衣；有风或雨再冷一档。换衣服不是因为过时的 open window。有热身反馈则先改热身再改主课。热身不能当零伤保证（IWR33）。穿对衣服不能保证不感冒。用户有胸带/臂带/豆则**每堂提醒出门戴**：先按他日常最爱的那件；两样都有时按今天课型说「今天更该戴哪」（间歇胸带、越野豆、轻松按偏好、秋冬见配件手册）。没有配件用 RPE，不推销购买。  
@@ -41,7 +41,10 @@ description: Evidence-informed running and strength planning from 100m to trail.
 | 今日/明日/周计划 | **先读上次课** + **今天在哪练、几点练（北京时间）** + **小时降水是否碰上窗口** + 气温湿度/室外 PM2.5 + 有无发热或病假空窗；下雨多方案见[下雨时段](references/rain-window-framework.md)；每堂热身按人群×天气（[热身手册](references/warmup-recovery-framework.md)）；**穿搭按气温**（[跑步穿搭](references/run-clothing-framework.md)）；**有配件则写佩戴**（[硬件配件](references/hardware-kit-framework.md)）；闸门见[开课闸门](references/session-gate-framework.md)；热天/比赛饮水与咖啡因见[补水与咖啡因](references/hydrate-caffeine-framework.md)；**长课或比赛必须写补给**见[赛道补给](references/race-fuel-framework.md)；有比赛加[备赛框架](references/race-prep-framework.md)；赛前 14 天/赛晨加[赛日策略](references/race-day-strategy.md)+赛道补给全文；质量课/赛日写鞋见[碳板](references/carbon-shoe-framework.md)；去热的比赛见[热习服](references/heat-acclimation-framework.md)；越野训练见[越野落地](references/trail-session-framework.md)；越野赛见[越野赛事补给](references/trail-race-framework.md)；`girl` 见[女选手周剂量](references/female-week-framework.md)；高原赛见[高原比赛](references/altitude-race-framework.md)；再[框架手册](references/framework-handbook.md) |
 | 完成反馈、疲劳、排班变动 | [近期记录](references/recent-training.md)、[决策协议](references/decision-protocol.md)、[工作与恢复](references/recovery-working-athletes.md)；高驰/佳明用户加读[设备数据](references/device-data.md) |
 | 伤后回归、疼痛还能不能跑 | [伤病负荷手册](references/injury-load-framework.md)、[回归树](references/gold-weeks-and-return.md)、[力量第9节](references/strength-training-modes.md)；证据[iwr-core](references/evidence/iwr-core.md) |
-| 膝外侧、胫骨内侧、髌前、夜间骨头一点痛 | [跑痛闸门](references/runner-pain-framework.md)、RI01–RI05；**不命名病**；夜痛不走跑试；跟腱走等长手册 |
+| 膝外侧、胫骨内侧、髌前、夜间骨头一点痛、骨应力后怎么恢复跑、跟腱/髌前怎么加回跑 | [跑痛闸门](references/runner-pain-framework.md)、RI01–RI12；**不命名病**；夜痛不走跑试；复跑先距离或先力量、后速度；跟腱顺序见 RI09，等长课仍走等长手册 |
+| 不知道先翻哪本、复跑还是配速还是减量 | [决策流](references/decision-flow.md)：只选 A复跑 / B无锚点 / C大师 / D备赛 / 金样 |
+| 临界速度、CS、D′、3分钟全力、场测怎么定配速、Vpeak | [临界速度/场测](references/critical-speed-framework.md)、CV01–CV08；与碳板卡号无关；无场测用 RPE |
+| 大师组、40岁以后、年纪大了还怎么练、VO2掉 | [大师组跑步](references/masters-run-framework.md)、MR01–MR06；维持量优先；不堆 HIT 补偿 |
 | 感冒发烧、今天能不能练、雾霾灰霾空气质量、改室内跑台、病假几天后怎么接 | [开课闸门](references/session-gate-framework.md)、[env-illness-core](references/evidence/env-illness-core.md) EI01–EI14 |
 | 热天喝水、低钠、越喝越肿、比赛/训练咖啡因 | [补水与咖啡因](references/hydrate-caffeine-framework.md)、[hydrate-caffeine-core](references/evidence/hydrate-caffeine-core.md) HC01–HC12 |
 | 今天下雨、几点有雨、改不去健身房 | [下雨时段](references/rain-window-framework.md)；室内跑台仍走开课闸门第3节；骑/椭圆走交叉训练手册 |
@@ -64,6 +67,9 @@ description: Evidence-informed running and strength planning from 100m to trail.
 | 挪威、双阈值、一天两次阈值、乳酸控间歇、LGTIT、英厄布里格森怎么练 | [双阈值](references/double-threshold-framework.md)、DT01–DT12；知识文同上；入门/回归默认单阈值；禁止抄精英周公里 |
 | 基普乔格/英厄布里格森/Waitz/世界级短跑怎么练、能不能抄名人课 | [顶级运动员案例](references/elite-cases-framework.md)、EC01–EC13；只借原则不借剂量；语录仍走开课一句 |
 | 短跑 50/100/200/400、校园体测加速 | [短跑手册](references/sprint-framework.md)、[sprint-core](references/evidence/sprint-core.md)；周结构金样 5 |
+| 800/1500 怎么练间歇、能不能抄中跑冠军周课 | [中跑课形](references/middle-distance-framework.md)、MD01–MD06；一周一个主刺激；不抄周公里 |
+| 上坡是不是比平路更能练腿或摄氧 | [上坡跑](references/hill-run-framework.md)、HL01–HL04；可用，别神化；合并效应不显著 |
+| 跑加力量吃多少蛋白、3 克/公斤、空腹上质量课 | [同期蛋白与能量](references/concurrent-fuel-framework.md)、CF01–CF04；约 1.6 g/kg 分餐；蛋白不抵消干扰 |
 | 北京中考体育、小学四六年级统测、800/1000 体考 | [北京中小学体育考核](references/beijing-pe-exam.md)、BJ01–BJ03；**不要用运动员等级表** |
 | 小孩、初中生、高中生、校队、青少年长跑、U18 越野 | [青少年跑步](references/youth-run-framework.md)、YR01–YR05；不抄成人周公里；有组织小时先别超过年龄；默认不排超马；体考分数仍走北京手册 |
 | 二级一级健将、田径等级成绩、路跑算几级 | [中国田径等级成绩](references/cn-athletics-grades.md)、[CG01](references/evidence/cn-athletics-grades-core.md) |

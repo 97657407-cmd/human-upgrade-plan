@@ -1,6 +1,6 @@
 # 全库文献总索引（专项卡 + 主题包 + 力量/恢复，均可检索调用）
 
-更新日期：2026-10-28（1.3.7 精英案例补 Waitz / Haugen 表 2 / Kipchoge 周骨架）。  
+更新日期：2026-10-28（1.3.10 上坡 meta + 同期蛋白能量 + 800/1500 降级课形）。  
 **排课不要用本文件当课表。** 先加载 [知识大脑](../knowledge-brain.md) 做判断，周结构走 [框架手册](../framework-handbook.md)；这里只负责按项目/主题找到卡。
 
 ## 库存规模
@@ -11,7 +11,12 @@
 | 恢复与工作专题 | **6 张卡** | 睡眠、超量、HIIT 休息、强度分布、久坐、同期 |
 | 间歇组间休息 + 控时（跨项目→跑） | **18 条** | 九变量、tVO₂max、Seiler、4×4、短冲、RSA、跨项目、80/20、Billat、Midgley、长期游戏、Bacon、短vs长、精英恢复、休息评述、Laursen 已训 HIT、Tschakert 转折点处方 |
 | 双阈值 / LGTIT（挪威线） | **12 条** | Casado、Kelemen、Talsnes、挪威教练、Bakken、控时交叉、Billat/Midgley、大众边界、Ingebrigtsen 个案、课形细节、Bakken 补强、知识文入口 |
-| 顶级运动员案例（短/中/长） | **10 条** | Haugen 短跑整合、Vittori/Powell 边界、Ingebrigtsen、双阈值课形、Kipchoge 周例、挪威马vs田径、世界级 TID 方法、剂量范围、大众边界 |
+| 顶级运动员案例（短/中/长） | **13 条** | Haugen Table 2、Vittori/Powell、Pfaff、Ingebrigtsen、Kipchoge、Waitz、挪威马vs田径、TID 方法、三条路径对照、大众边界 |
+| 临界速度 / 场测定强度 | **8 条** | 域界、灰区、HAB≈TT、CS≠MLSS、间歇上下、Vpeak 对照、CS vs CP、大众边界 |
+| 大师组 / 年龄增长 | **6 条** | 训练量解释 VO₂ 下降、停训加速、力量勿先砍、不堆 HIT 补偿、近况锚点、边界 |
+| 上坡跑 | **4 条** | meta 合并效应不显著、精英准备期工具、越野交叉、别神化 |
+| 800/1500 课形 | **6 条** | Haugen 表 2、周量、课次 vs 时间分布、个案周、坡、大众边界 |
+| 同期蛋白与能量 | **4 条** | 干扰靠课表、蛋白不救功率、1.6 vs 3.2、关键课要有碳水 |
 | 近三年主题包 | **50 篇** | 冬季 12 + 工作日 13 + 恢复饮食睡眠 14 + 可穿戴 11 |
 | 力量专题 | **10 条** | ACSM 处方、同期、弹性、超组、防伤、伤变式（含交叉索引） |
 | 长期备赛 | **28 条** | 减量、成绩分层、天气与全马预测、配速、热环境比赛、波士顿气温；操作另见赛日策略手册 |
@@ -31,12 +36,12 @@
 | 热习服 / 赛前降温 | **5 条** | 1–2 周最重要、更长更有效、约 2.5%/天掉、赛前 4–5 天再诱导、冰浆是预冷不是习服 |
 | 越野落地（爬升/下坡/杖） | **5 条** | 坡度改力学与能耗、下坡离心、次日仍疲、名称不能混、陡爬杖省能很少但 RPE 可降 |
 | 女选手周剂量 | **5 条** | REDs 先加能、周期公式无效、铁要医嘱、LEA≠热量收支、三联征复训是医疗 |
-| 大众跑痛闸门 | **5 条** | 骨应力连续谱、不是都叫骨折、胫骨内侧治疗无高质证据、ITB 冲突、髌前髋+膝力量 |
+| 大众跑痛闸门 | **12 条** | 骨/胫/ITB/髌前 + 骨复跑 + 跟腱/髌前/膝外侧复跑顺序 + 四部位对照 |
 | 高原比赛 / 住高练低 | **5 条** | VO2max 从很低就掉、2500–3000 m 先等 2 天、AMS 1–5 天、LHTL 是营地、有人无应答 |
 | HRV / 晨脉改课 | **5 条** | 精英双向、看趋势和误差、正负适应都会抬部分 HRV、引导算法不能抄周结构、课后迷走会拖 |
 | 越野赛事 / 检查点补给 | **5 条** | 超马 30–50 g/h、现场难吃 90、恶心是常见退出、山赛正分割、胃肠和皮肤伤会让你吃更少 |
 | 青少年跑步 / 专项化 / U18 超马 | **5 条** | 适跑距离证据弱、IOC 发展观、过劳与倦怠、小时超过年龄抬伤、青少年超马要逐人评估 |
-| **合计** | **358 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| **合计** | **396 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -74,7 +79,8 @@
 
 | 调用场景 | 打开 |
 |---|---|
-| 世界级框架怎么拆、大众怎么降级 | [middle-distance-framework](middle-distance-framework.md) |
+| 世界级框架怎么拆、大众怎么降级 | [middle-distance-framework](../middle-distance-framework.md) · [middle-distance-core](middle-distance-core.md) MD01–MD06 |
+| 场测定强度 / 临界速度 | [critical-speed-framework](../critical-speed-framework.md) · CV01–CV08 |
 | 有氧功率间歇 | [vo2max-4x4-2024](vo2max-4x4-2024.md) · [R03 HIIT 高摄氧时间](recovery-work.md) · [间歇组间休息](../interval-rest-framework.md) IR01–IR04 |
 | 组间歇多久、走还是跑 | [interval-rest-framework](../interval-rest-framework.md) · [interval-rest-core](interval-rest-core.md) |
 | 阈值怎么理解 | [lactate-threshold-2023](lactate-threshold-2023.md) |
@@ -151,7 +157,9 @@
 | 北京中考 小学体测 800 1000 | 手册 + 3 条 | [beijing-pe-exam](../beijing-pe-exam.md) · BJ01–BJ03 |
 | 青少年 校队 小孩长跑 U18 越野 | 手册 + 5 条 | [youth-run-framework](../youth-run-framework.md) · YR01–YR05 |
 | 水泡 磨脚 血泡 黑趾甲 越野脚 | 手册 + 6 条 | [skin-hotspot-framework](../skin-hotspot-framework.md) · SH01–SH06 |
-| 膝外侧 胫骨内侧 髌前 夜间骨痛 | 手册 + 5 条 | [runner-pain-framework](../runner-pain-framework.md) · RI01–RI05 |
+| 膝外侧 胫骨内侧 髌前 夜间骨痛 骨应力复跑 跟腱复跑 | 手册 + 12 条 | [runner-pain-framework](../runner-pain-framework.md) · RI01–RI12 |
+| 临界速度 CS 场测 3MT Vpeak | 手册 + 8 条 | [critical-speed-framework](../critical-speed-framework.md) · CV01–CV08 |
+| 大师组 40岁以后 VO2掉 | 手册 + 6 条 | [masters-run-framework](../masters-run-framework.md) · MR01–MR06 |
 | 越野 爬升 下坡 杖 首野 | 手册 + 5 条 | [trail-session-framework](../trail-session-framework.md) · TR01–TR05 |
 | 女选手周剂量 漏饭 REDs 黄体期配速 铁 | 手册 + 5 条 | [female-week-framework](../female-week-framework.md) · FW01–FW05 |
 | 赛道补给 能量胶 盐丸 几公里吃 补给站 | 手册 + 12 条 | [race-fuel-framework](../race-fuel-framework.md) · [race-fuel-core](race-fuel-core.md) RF01–RF12 |
@@ -169,7 +177,9 @@
 | 水泡 血泡 磨破 黑趾甲 擦伤 | [skin-hotspot-framework](../skin-hotspot-framework.md) · SH01–SH06 |
 | 经期 女选手头晕 漏饭 | [female-session-gate](../female-session-gate.md) |
 | 女选手周剂量 漏饭 相对能量不足 黄体期配速 补铁 | [female-week-framework](../female-week-framework.md) · FW01–FW05 |
-| 800 1500 中跑 乳酸 | middle-distance-framework · lactate-threshold · norwegian-double-threshold |
+| 800 1500 中跑 乳酸 课形 | [middle-distance-framework](../middle-distance-framework.md) · MD01–MD06 |
+| 上坡跑 坡冲 替代力量 | [hill-run-framework](../hill-run-framework.md) · HL01–HL04 |
+| 同期训练 蛋白 1.6 3.2 空腹跑 | [concurrent-fuel-framework](../concurrent-fuel-framework.md) · CF01–CF04 |
 | 4x4 VO2max 有氧功率 | vo2max-4x4-2024 · recovery-work R03 · interval-rest IR03/IR04 |
 | 间歇 组间休息 1:1 主动恢复 被动 30-30 控时 | [interval-rest-framework](../interval-rest-framework.md) · [interval-training-playbook](../interval-training-playbook.md) · IR01–IR16 · R03 |
 | 双阈值 LGTIT 挪威 英厄布里格森 | double-threshold-framework · DT01–DT12 · playbook |
@@ -189,7 +199,9 @@
 | 上班 没时间 零食式 久坐 | workday-time-core · recovery-work R05 |
 | 困 睡眠 夜班 | sleep-performance-2024 · recovery-work R01/R02 · 营养包 35–37 |
 | 铁 女选手 月经 | iron-female-2024 · female-endurance-2024 · 营养包 32 · [female-week-framework](../female-week-framework.md) FW01–FW05 |
-| 膝外侧 髂胫束 胫骨内侧 髌前 夜间骨痛 应力骨折 | [runner-pain-framework](../runner-pain-framework.md) · RI01–RI05 |
+| 膝外侧 髂胫束 胫骨内侧 髌前 夜间骨痛 应力骨折 复跑 跟腱 | [runner-pain-framework](../runner-pain-framework.md) · RI01–RI12 |
+| 临界速度 CS Dprime 3分钟全力 场测配速 Vpeak | [critical-speed-framework](../critical-speed-framework.md) · CV01–CV08 |
+| 大师组 年龄 40+ 大师运动员 | [masters-run-framework](../masters-run-framework.md) · MR01–MR06 |
 | 冷 哮喘 冰浴 | cold-air-eib-winter · winter-cold-core |
 | 热 高原 昆明 西宁 丽江 拉萨 住高练低 | [heat-acclimation-framework](../heat-acclimation-framework.md) HA01–HA05 · [altitude-race-framework](../altitude-race-framework.md) AL01–AL05 |
 | 感冒 发烧 今天能不能练 脖子以上 | [session-gate-framework](../session-gate-framework.md) · env-illness EI01–EI04 |
@@ -299,6 +311,69 @@
 | EC11 | Grete Waitz：相对低量 + 连续跑路径 |
 | EC12 | Pfaff / Bailey：分日目的 + 短到长 |
 | EC13 | Waitz / Kipchoge / Ingebrigtsen 三条路径对照 |
+
+## 临界速度 / 场测（8）
+
+操作：[critical-speed-framework](../critical-speed-framework.md)。正文：[critical-speed-core](critical-speed-core.md)。**卡号 CV，勿与碳板 CS 混淆。**
+
+| ID | 要点 |
+|---|---|
+| CV01 | CS/CP 为 heavy–severe 域界 |
+| CV02 | 灰区约 ±5%，勿赌稳态 |
+| CV03 | HAB≈TT；D′ 勿互换 |
+| CV04 | CS ≠ MLSS 同义词 |
+| CV05 | 间歇可按 CS 上下开（原则） |
+| CV06 | 爱好者 CS 与 Vpeak 处方均可 |
+| CV07 | CS 与功率 CP 二选一 |
+| CV08 | 大众外推边界 |
+
+## 大师组（6）
+
+操作：[masters-run-framework](../masters-run-framework.md)。正文：[masters-run-core](masters-run-core.md)。
+
+| ID | 要点 |
+|---|---|
+| MR01 | 训练量变化大幅解释大师 VO₂ 下降 |
+| MR02 | 停训加速掉、再训可部分救 |
+| MR03 | 力量勿先于跑量砍 |
+| MR04 | 不因抗衰老默认加 HIT |
+| MR05 | 锚点用近况场测 |
+| MR06 | 大众外推边界 |
+
+## 上坡跑（4）
+
+操作：[hill-run-framework](../hill-run-framework.md)。正文：[hill-run-core](hill-run-core.md)。
+
+| ID | 要点 |
+|---|---|
+| HL01 | Tham 2026 meta：力量/跳跃/有氧合并效应不显著 |
+| HL02 | Haugen：坡是中跑准备期工具 |
+| HL03 | 越野坡度是能耗与力学，不是公路配速加成 |
+| HL04 | 可用，别神化 |
+
+## 800 / 1500 课形（6）
+
+操作：[middle-distance-framework](../middle-distance-framework.md)。正文：[middle-distance-core](middle-distance-core.md)。
+
+| ID | 要点 |
+|---|---|
+| MD01 | Haugen Table 2 手段清单与降级 |
+| MD02 | 800 与 1500 周量不是处方 |
+| MD03 | 课次比例 ≠ 时间在区内 |
+| MD04 | 罗达尔 / 卡萨多个案周只看结构 |
+| MD05 | 坡在准备期，效应另见 HL01 |
+| MD06 | 大众一周一个主刺激 |
+
+## 同期蛋白与能量（4）
+
+操作：[concurrent-fuel-framework](../concurrent-fuel-framework.md)。正文：[concurrent-fuel-core](concurrent-fuel-core.md)。
+
+| ID | 要点 |
+|---|---|
+| CF01 | 干扰靠错开硬课 |
+| CF02 | Camera：高蛋白不必然换成更大力量或救回功率 |
+| CF03 | 1.6 vs 3.2 g/kg：不把 3.2 当默认 |
+| CF04 | 关键课要有碳水，不空腹上质量课 |
 
 ## 双阈值 / LGTIT（12）
 
@@ -412,9 +487,9 @@
 | FW04 | LEA 不是热量收支表 |
 | FW05 | 三联征复训是医疗许可 |
 
-## 大众跑痛闸门（5）
+## 大众跑痛闸门（12）
 
-操作：[runner-pain-framework](../runner-pain-framework.md)。正文：[runner-pain-core](runner-pain-core.md)。
+操作：[runner-pain-framework](../runner-pain-framework.md)。正文：[runner-pain-core](runner-pain-core.md)。总分流：[决策流](../decision-flow.md) 树 A。
 
 | ID | 条 |
 |---|---|
@@ -423,6 +498,13 @@
 | RI03 | 胫骨内侧治疗试验质量差 |
 | RI04 | 膝外侧/ITB 区证据冲突 |
 | RI05 | 髌前痛指南：减加载，髋+膝力量 |
+| RI06 | 胫骨 BSI 复跑前门槛（范围综述） |
+| RI07 | 走跑起步；先距离后速度；+10% 不通用 |
+| RI08 | 骨应力回归禁令（合成） |
+| RI09 | 跟腱：先力量再跳再跑；不设疼痛分数许可 |
+| RI10 | 髌前：距离先于下坡与速度 |
+| RI11 | 膝外侧：平路先于下坡（证据弱） |
+| RI12 | 四部位同一套闸 |
 
 ## 高原比赛 / 住高练低（5）
 
