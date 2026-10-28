@@ -1,6 +1,6 @@
 # 全库文献总索引（专项卡 + 主题包 + 力量/恢复，均可检索调用）
 
-更新日期：2026-10-25。  
+更新日期：2026-10-28（1.3.7 精英案例补 Waitz / Haugen 表 2 / Kipchoge 周骨架）。  
 **排课不要用本文件当课表。** 先加载 [知识大脑](../knowledge-brain.md) 做判断，周结构走 [框架手册](../framework-handbook.md)；这里只负责按项目/主题找到卡。
 
 ## 库存规模
@@ -9,6 +9,9 @@
 |---|---|---|
 | 专项蒸馏（100m→越野） | **26 张卡** | 中短跑、长距离、越野、同期、环境、补给、手表模型 |
 | 恢复与工作专题 | **6 张卡** | 睡眠、超量、HIIT 休息、强度分布、久坐、同期 |
+| 间歇组间休息 + 控时（跨项目→跑） | **18 条** | 九变量、tVO₂max、Seiler、4×4、短冲、RSA、跨项目、80/20、Billat、Midgley、长期游戏、Bacon、短vs长、精英恢复、休息评述、Laursen 已训 HIT、Tschakert 转折点处方 |
+| 双阈值 / LGTIT（挪威线） | **12 条** | Casado、Kelemen、Talsnes、挪威教练、Bakken、控时交叉、Billat/Midgley、大众边界、Ingebrigtsen 个案、课形细节、Bakken 补强、知识文入口 |
+| 顶级运动员案例（短/中/长） | **10 条** | Haugen 短跑整合、Vittori/Powell 边界、Ingebrigtsen、双阈值课形、Kipchoge 周例、挪威马vs田径、世界级 TID 方法、剂量范围、大众边界 |
 | 近三年主题包 | **50 篇** | 冬季 12 + 工作日 13 + 恢复饮食睡眠 14 + 可穿戴 11 |
 | 力量专题 | **10 条** | ACSM 处方、同期、弹性、超组、防伤、伤变式（含交叉索引） |
 | 长期备赛 | **28 条** | 减量、成绩分层、天气与全马预测、配速、热环境比赛、波士顿气温；操作另见赛日策略手册 |
@@ -33,7 +36,7 @@
 | HRV / 晨脉改课 | **5 条** | 精英双向、看趋势和误差、正负适应都会抬部分 HRV、引导算法不能抄周结构、课后迷走会拖 |
 | 越野赛事 / 检查点补给 | **5 条** | 超马 30–50 g/h、现场难吃 90、恶心是常见退出、山赛正分割、胃肠和皮肤伤会让你吃更少 |
 | 青少年跑步 / 专项化 / U18 超马 | **5 条** | 适跑距离证据弱、IOC 发展观、过劳与倦怠、小时超过年龄抬伤、青少年超马要逐人评估 |
-| **合计** | **318 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| **合计** | **358 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -72,10 +75,11 @@
 | 调用场景 | 打开 |
 |---|---|
 | 世界级框架怎么拆、大众怎么降级 | [middle-distance-framework](middle-distance-framework.md) |
-| 有氧功率间歇 | [vo2max-4x4-2024](vo2max-4x4-2024.md) · [R03 HIIT 高摄氧时间](recovery-work.md) |
+| 有氧功率间歇 | [vo2max-4x4-2024](vo2max-4x4-2024.md) · [R03 HIIT 高摄氧时间](recovery-work.md) · [间歇组间休息](../interval-rest-framework.md) IR01–IR04 |
+| 组间歇多久、走还是跑 | [interval-rest-framework](../interval-rest-framework.md) · [interval-rest-core](interval-rest-core.md) |
 | 阈值怎么理解 | [lactate-threshold-2023](lactate-threshold-2023.md) |
 | 极化 vs 其他 TID | [tid-polarized-2024](tid-polarized-2024.md) · [tid-scoping-2025](tid-scoping-2025.md) · [R04 Rosenblat](recovery-work.md) |
-| 挪威双阈值 | [norwegian-double-threshold-2024](norwegian-double-threshold-2024.md) |
+| 挪威双阈值 / LGTIT / 一天两次阈值 | [double-threshold-framework](../double-threshold-framework.md) · [double-threshold-core](double-threshold-core.md) · [norwegian-double-threshold-2024](norwegian-double-threshold-2024.md)（入口） |
 | 中长跑该练哪种力量 | [midlong-strength-2024](midlong-strength-2024.md) · [strength 04 plyo vs RT 5K](strength-modes-core-2023-2026.md) |
 | 乳酸引导阈值课（冬季包） | [winter 09 36900796](winter-cold-core-2023-2026.md) |
 | 800 热身容量 / priming | [warmup-recovery 项目速查](../warmup-recovery-framework.md) · IWR18/21 |
@@ -166,7 +170,10 @@
 | 经期 女选手头晕 漏饭 | [female-session-gate](../female-session-gate.md) |
 | 女选手周剂量 漏饭 相对能量不足 黄体期配速 补铁 | [female-week-framework](../female-week-framework.md) · FW01–FW05 |
 | 800 1500 中跑 乳酸 | middle-distance-framework · lactate-threshold · norwegian-double-threshold |
-| 4x4 VO2max 有氧功率 | vo2max-4x4-2024 · recovery-work R03 |
+| 4x4 VO2max 有氧功率 | vo2max-4x4-2024 · recovery-work R03 · interval-rest IR03/IR04 |
+| 间歇 组间休息 1:1 主动恢复 被动 30-30 控时 | [interval-rest-framework](../interval-rest-framework.md) · [interval-training-playbook](../interval-training-playbook.md) · IR01–IR16 · R03 |
+| 双阈值 LGTIT 挪威 英厄布里格森 | double-threshold-framework · DT01–DT12 · playbook |
+| 骑行游泳划船间歇抄到跑步 | interval-rest IR07 · cross-train-framework |
 | 极化 金字塔 TID | tid-polarized-2024 · tid-scoping-2025 · recovery-work R04 |
 | 5K 10K 半马 打底 | winter-base-5k-hm-2025 · longrun-dose-2024 · 金样 1/4 |
 | 马拉松 胶 碳板 90克糖 | marathon-fueling-shoes · [carbon-shoe-framework](../carbon-shoe-framework.md) CS01–CS05 · carbs-90g · 营养包 · race-prep RP04/RP22 · [race-fuel RF01–RF07](race-fuel-core.md) |
@@ -247,6 +254,70 @@
 | R04 | 强度分布网状 Meta（Rosenblat，PMID 39888556） |
 | R05 | 办公室久坐（Wang，PMID 38503064） |
 | R06 | 力量与耐力并行（Huiberts，PMID 37847373） |
+
+## 间歇组间休息 + 控时（18）
+
+操作手册：[interval-rest-framework](../interval-rest-framework.md)。正文：[interval-rest-core](interval-rest-core.md)。知识文：[interval-training-playbook](../interval-training-playbook.md)。
+
+| ID | 要点 |
+|---|---|
+| IR01 | Buchheit & Laursen HIT 九变量；工作/休息最关键 |
+| IR02 | Schoenmakers：长工作段抬 tVO₂max；主动/被动无差 |
+| IR03 | Seiler：约 4 min 工作 + ~2 min 歇；再长歇收益有限 |
+| IR04 | 4×4 工具课；强度×累计时间互动（含 4×8 线） |
+| IR05 | 最大速度组间要够（交叉短跑包） |
+| IR06 | 跑上 RSA 被动常更能保成绩 |
+| IR07 | 泳/划恢复期 VO₂ 回落慢于骑——秒表不跨项粘贴 |
+| IR08 | 精英约 80/20；爱好者缩短总高强度时间 |
+| IR09 | Billat 30-30 与高摄氧时间 |
+| IR10 | Midgley T@VO₂max 参数讨论带 |
+| IR11 | 耐力 HIIT 长期游戏，勿每周史诗 |
+| IR12 | 双阈值索引入口 |
+| IR13 | Bacon meta：较长间歇与 VO₂max 可训练性 |
+| IR14 | 2024：加强 30 s 短间歇未必赢传统 3 min（>90% VO₂） |
+| IR15 | 精英 HIIT meta：恢复 ≥约 2 min、恢复强度偏低 |
+| IR16 | Schoenmakers 评述：RST/SIT vs AIT 休息逻辑不同 |
+| IR17 | Laursen & Jenkins：已训运动员再堆轻松不够，HIT 才常再进步 |
+| IR18 | Tschakert & Hofmann：LTP 处方优于 %HRmax；短段与长段急性不同 |
+
+## 顶级运动员案例（13）
+
+操作：[elite-cases-framework](../elite-cases-framework.md)。正文：[elite-cases-core](elite-cases-core.md)。
+
+| ID | 要点 |
+|---|---|
+| EC01 | Haugen 短跑整合 + Table 2 控时 |
+| EC02 | Vittori 速度耐力 vs Powell 重雪橇边界 |
+| EC03 | Ingebrigtsen 三兄弟个案 |
+| EC04 | 双阈值日课形（早长晚短） |
+| EC05 | Henrik 等：分期 TID 会变 |
+| EC06 | Kipchoge 马拉松周骨架（Haugen 2022 表 4） |
+| EC07 | 挪威田径 vs 马拉松：~80% 低强度 |
+| EC08 | 世界级组：配速分区 vs 生理分区会改 TID 标签 |
+| EC09 | 世界级长跑剂量范围总述 |
+| EC10 | 大众外推边界 |
+| EC11 | Grete Waitz：相对低量 + 连续跑路径 |
+| EC12 | Pfaff / Bailey：分日目的 + 短到长 |
+| EC13 | Waitz / Kipchoge / Ingebrigtsen 三条路径对照 |
+
+## 双阈值 / LGTIT（12）
+
+操作：[double-threshold-framework](../double-threshold-framework.md)。正文：[double-threshold-core](double-threshold-core.md)。
+
+| ID | 要点 |
+|---|---|
+| DT01 | Casado LGTIT 模型（高容量低强度内的阈值间歇） |
+| DT02 | Kelemen：挪威精英双阈值周结构综述 |
+| DT03 | Talsnes：一次长 MIT vs 拆成两次短 MIT |
+| DT04 | Tønnessen：挪威教练 MIT 多用间歇、双阈值常见 |
+| DT05 | Bakken 实践：乳酸甜区、聚类、微间歇 |
+| DT06 | 交叉 Seiler 控时（工作段时长） |
+| DT07 | Billat/Midgley：为 t@VO₂max 的短间歇（与阈值分家） |
+| DT08 | 大众外推边界 |
+| DT09 | Ingebrigtsen 兄弟个案：阈值比例 + 乳酸监控 |
+| DT10 | Casado 转述课形：2000–3000 / 400–1000、8–12 km 硬 |
+| DT11 | Bakken 方法补强：双阈值聚类史 |
+| DT12 | 知识文入口 |
 
 ## 力量专题（10）
 

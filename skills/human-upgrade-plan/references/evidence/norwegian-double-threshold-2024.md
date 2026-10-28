@@ -1,10 +1,13 @@
-# 证据卡：挪威双阈值（2024 SJSP系统综述）
+# 证据卡：挪威双阈值（入口）
 
-问题：挪威1500-10000m精英怎么练出成绩。
-方法：Kelemen 2024系统文献综述，精英挪威长跑训练（Bakken体系+Ingebrigtsen实践）。
-结果：核心=双阈值日（早晚两次阈值下短间歇，总阈值量大、单次强度压在乳酸阈下）+低强度大底+1次高质量；冬季是堆阈值量的窗口。
-局限：综述多基于观察与教练记录，非RCT；大众直接抄量必崩。
-外推边界：大众版=单阈值起步（周1次阈值下长间歇），跑稳8周再谈双阈值；5K-半马冬季用此打底最划算。
-对训练的改变：冬季8-12周：轻松跑底+周1阈值下（4-6×6-8分钟）+周1长距离，春季再转专项配速。
-阅读深度：摘要+综述框架口径。
-引用：Kelemen B. 2024. Norwegian double-threshold method in distance running. SJSP.
+完整证据包已升级为 [double-threshold-core](double-threshold-core.md)（DT01–DT12）。  
+操作手册：[double-threshold-framework](../double-threshold-framework.md)。  
+知识文：[interval-training-playbook](../interval-training-playbook.md)。
+
+历史一句话口径（仍成立）：
+
+- 精英：高轻松底 + 周多次乳酸控阈值间歇，常做成同日早晚「双阈值」+ 少量更高刺激（Kelemen 系统综述；Casado/Bakken/Tjelta LGTIT）。
+- 大众：单阈值起步；禁止抄 120–180 km 与一周四次双阈值。
+- 急性：一次长 MIT 更易上漂；拆成两次短 MIT 可能更好攒该强度时间（Talsnes 2024）——不是成绩保证。
+
+阅读深度：见 double-threshold-core 各条。

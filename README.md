@@ -1,6 +1,6 @@
 # 人类耐力变强计划
 
-版本 **1.3.1**（`skills/human-upgrade-plan/SKILL.md` 的 `version` 字段）。
+版本 **1.3.6**（`skills/human-upgrade-plan/SKILL.md` 的 `version` 字段）。
 
 面向不同训练基础的跑步、力量与恢复辅助 skill，支持 100m 至马拉松及越野、工作日训练、反馈分析、教练学习，以及（可选）高驰 COROS、佳明 Garmin MCP 数据接入。
 
@@ -53,12 +53,16 @@ coros-mcp --issuer https://mcpcn.coros.com login-start
 - 训练产出：[框架手册](skills/human-upgrade-plan/references/framework-handbook.md)（金样课表、伤后树、项目、力量菜单）。课表不从论文堆出来。
 - 项目框架：11 个项目（100m 至越野）的能力需求、课型选择与评估重点。
 - 恢复与工作：睡眠、精神疲劳、坐站工作、组间休息、力量与耐力组合。
-- 文献全库：[INDEX-all](skills/human-upgrade-plan/references/evidence/INDEX-all.md) — 约 318 条可检索入口。主题包细目见 [INDEX-core50](skills/human-upgrade-plan/references/evidence/INDEX-core50-2023-2026.md)。
+- 文献全库：[INDEX-all](skills/human-upgrade-plan/references/evidence/INDEX-all.md) — 约 358 条可检索入口。主题包细目见 [INDEX-core50](skills/human-upgrade-plan/references/evidence/INDEX-core50-2023-2026.md)。
 - 青少年跑步：[youth-run-framework](skills/human-upgrade-plan/references/youth-run-framework.md) YR01–YR05。不抄成人周公里；默认不排超马。
 - 赛道策略与补给：[race-fuel-framework](skills/human-upgrade-plan/references/race-fuel-framework.md) — 分段配速、补给站、能量胶、盐丸边界；证据 RF01–RF12。
 - 碳板/比赛鞋：[carbon-shoe-framework](skills/human-upgrade-plan/references/carbon-shoe-framework.md) CS01–CS05。
 - 热习服：[heat-acclimation-framework](skills/human-upgrade-plan/references/heat-acclimation-framework.md) HA01–HA05。
 - 伤停交叉训练：[自行车与椭圆机手册](skills/human-upgrade-plan/references/cross-train-framework.md)。
+- 间歇组间休息 + 控时：[interval-rest-framework](skills/human-upgrade-plan/references/interval-rest-framework.md) IR01–IR18 — 工作钟与休息钟一起定。
+- 双阈值 / LGTIT：[double-threshold-framework](skills/human-upgrade-plan/references/double-threshold-framework.md) DT01–DT12 — 研究报告方法模板 + 爱好者降级。
+- 间歇·控时·双阈值知识文：[interval-training-playbook](skills/human-upgrade-plan/references/interval-training-playbook.md) — 含方法卡与一千米速查。
+- 顶级运动员案例：[elite-cases-framework](skills/human-upgrade-plan/references/elite-cases-framework.md) EC01–EC10 — 短跑/中跑/长跑；只借原则不借剂量。
 - 赛日：[赛事预测与赛日策略](skills/human-upgrade-plan/references/race-day-strategy.md)（气温、身体、三档预测）。
 - 手表绑定：README 本节高驰 / 佳明；细节 [device-data](skills/human-upgrade-plan/references/device-data.md)、[garmin-mcp](skills/human-upgrade-plan/references/garmin-mcp.md)。未接 MCP 走手动三行。
 - 维护：公共文件白名单与隐私检查，个人数据不随包发布。

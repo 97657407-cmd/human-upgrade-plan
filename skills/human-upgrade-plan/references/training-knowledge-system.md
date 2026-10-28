@@ -28,6 +28,10 @@
 - **胸带 / 臂带 / 跑步豆**：[hardware-kit-framework](hardware-kit-framework.md) + [hardware-kit-core](evidence/hardware-kit-core.md)（6 条）。建档问有什么和日常最爱戴哪件；每堂提醒；两样都有按课型选今天更该戴哪。
 - **开课一句（运动员或教练）**：[elite-encouragement](elite-encouragement.md)。每堂一条，只抄该文件；运动员与教练交错；外国人中英并列。
 - **热身与练后**：[warmup-recovery-framework](warmup-recovery-framework.md)（每堂必写；检索地点预报；大众 vs 专业；热身反馈改下一堂；IWR16–34）。
+- **间歇组间休息 + 控时**：[interval-rest-framework](interval-rest-framework.md) + [interval-rest-core](evidence/interval-rest-core.md)（18 条）。先定目的再定工作钟与休息钟；长段优先摄氧；LTP/%HRmax 边界见 IR18。
+- **双阈值 / LGTIT（挪威线）**：[double-threshold-framework](double-threshold-framework.md) + [double-threshold-core](evidence/double-threshold-core.md)（12 条）。精英观察+急性实验+个案课形；爱好者单阈值起步。
+- **间歇·控时·双阈值知识文**：[interval-training-playbook](interval-training-playbook.md)。
+- **顶级运动员案例（短/中/长）**：[elite-cases-framework](elite-cases-framework.md) + [elite-cases-core](evidence/elite-cases-core.md)（13 条：短跑 Haugen/Pfaff、中跑 Ingebrigtsen、长跑 Kipchoge/Waitz + 三条路径对照）。只借原则不借剂量；语录仍走 elite-encouragement。
 - **文献检索（全库）**：[evidence/INDEX-all](evidence/INDEX-all.md)。按项目/中文关键词调用。
 - 项目与通用理论：[event-frameworks](event-frameworks.md)。
 - 恢复与工作场景：[recovery-working-athletes](recovery-working-athletes.md)。
