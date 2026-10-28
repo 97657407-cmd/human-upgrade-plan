@@ -37,6 +37,7 @@
 - **中跑 800/1500 课形**：[middle-distance-framework](middle-distance-framework.md) + [middle-distance-core](evidence/middle-distance-core.md)（MD01–MD06）。只降级 Haugen 表 2 的一行。
 - **上坡跑**：[hill-run-framework](hill-run-framework.md) + [hill-run-core](evidence/hill-run-core.md)（HL01–HL04）。可用，别神化。
 - **跑+力量的蛋白与能量**：[concurrent-fuel-framework](concurrent-fuel-framework.md) + [concurrent-fuel-core](evidence/concurrent-fuel-core.md)（CF01–CF04）。
+- **5 公里到马拉松：本周只留一行**：[distance-quality-framework](distance-quality-framework.md) + [distance-quality-core](evidence/distance-quality-core.md)（DQ01–DQ04）。耐久性用来缩短长课，不另开课型。
 - **文献检索（全库）**：[evidence/INDEX-all](evidence/INDEX-all.md)。按项目/中文关键词调用。
 - 项目与通用理论：[event-frameworks](event-frameworks.md)。
 - 恢复与工作场景：[recovery-working-athletes](recovery-working-athletes.md)。

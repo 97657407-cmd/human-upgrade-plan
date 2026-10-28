@@ -1,6 +1,6 @@
 ---
 name: human-upgrade-plan
-version: 1.3.10
+version: 1.3.11
 description: Evidence-informed running and strength planning from 100m to trail. Ask where and what clock time they train; look up that city's hourly forecast in Beijing time; if rain overlaps their window, offer outdoor / shift / indoor / rest options and let them choose. Every session has a warmup scaled to recreational vs trained athletes. Read last COROS or Garmin workout. Not medical diagnosis.
 ---
 
@@ -68,6 +68,7 @@ description: Evidence-informed running and strength planning from 100m to trail.
 | 基普乔格/英厄布里格森/Waitz/世界级短跑怎么练、能不能抄名人课 | [顶级运动员案例](references/elite-cases-framework.md)、EC01–EC13；只借原则不借剂量；语录仍走开课一句 |
 | 短跑 50/100/200/400、校园体测加速 | [短跑手册](references/sprint-framework.md)、[sprint-core](references/evidence/sprint-core.md)；周结构金样 5 |
 | 800/1500 怎么练间歇、能不能抄中跑冠军周课 | [中跑课形](references/middle-distance-framework.md)、MD01–MD06；一周一个主刺激；不抄周公里 |
+| 5K/10K/半马/全马这一周留哪次质量、长课后程掉速怎么办 | [质量课选择](references/distance-quality-framework.md)、DQ01–DQ04；一周一行；耐久性用来缩短，不另开一种课 |
 | 上坡是不是比平路更能练腿或摄氧 | [上坡跑](references/hill-run-framework.md)、HL01–HL04；可用，别神化；合并效应不显著 |
 | 跑加力量吃多少蛋白、3 克/公斤、空腹上质量课 | [同期蛋白与能量](references/concurrent-fuel-framework.md)、CF01–CF04；约 1.6 g/kg 分餐；蛋白不抵消干扰 |
 | 北京中考体育、小学四六年级统测、800/1000 体考 | [北京中小学体育考核](references/beijing-pe-exam.md)、BJ01–BJ03；**不要用运动员等级表** |

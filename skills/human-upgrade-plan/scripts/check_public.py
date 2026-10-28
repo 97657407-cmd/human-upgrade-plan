@@ -28,6 +28,7 @@ ALLOWED_RELATIVE = {
     "skills/human-upgrade-plan/references/decision-protocol.md",
     "skills/human-upgrade-plan/references/decision-flow.md",
     "skills/human-upgrade-plan/references/device-data.md",
+    "skills/human-upgrade-plan/references/distance-quality-framework.md",
     "skills/human-upgrade-plan/references/double-threshold-framework.md",
     "skills/human-upgrade-plan/references/elite-cases-framework.md",
     "skills/human-upgrade-plan/references/elite-encouragement.md",

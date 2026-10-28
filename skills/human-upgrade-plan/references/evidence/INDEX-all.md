@@ -1,6 +1,6 @@
 # 全库文献总索引（专项卡 + 主题包 + 力量/恢复，均可检索调用）
 
-更新日期：2026-10-28（1.3.10 上坡 meta + 同期蛋白能量 + 800/1500 降级课形）。  
+更新日期：2026-10-28（1.3.11 5K–马拉松一周一行质量课 + 耐久性约束）。  
 **排课不要用本文件当课表。** 先加载 [知识大脑](../knowledge-brain.md) 做判断，周结构走 [框架手册](../framework-handbook.md)；这里只负责按项目/主题找到卡。
 
 ## 库存规模
@@ -17,6 +17,7 @@
 | 上坡跑 | **4 条** | meta 合并效应不显著、精英准备期工具、越野交叉、别神化 |
 | 800/1500 课形 | **6 条** | Haugen 表 2、周量、课次 vs 时间分布、个案周、坡、大众边界 |
 | 同期蛋白与能量 | **4 条** | 干扰靠课表、蛋白不救功率、1.6 vs 3.2、关键课要有碳水 |
+| 5K–马拉松质量课选择 | **4 条** | 一周一行、耐久性是第四维、长课与配速分家、边界 |
 | 近三年主题包 | **50 篇** | 冬季 12 + 工作日 13 + 恢复饮食睡眠 14 + 可穿戴 11 |
 | 力量专题 | **10 条** | ACSM 处方、同期、弹性、超组、防伤、伤变式（含交叉索引） |
 | 长期备赛 | **28 条** | 减量、成绩分层、天气与全马预测、配速、热环境比赛、波士顿气温；操作另见赛日策略手册 |
@@ -41,7 +42,7 @@
 | HRV / 晨脉改课 | **5 条** | 精英双向、看趋势和误差、正负适应都会抬部分 HRV、引导算法不能抄周结构、课后迷走会拖 |
 | 越野赛事 / 检查点补给 | **5 条** | 超马 30–50 g/h、现场难吃 90、恶心是常见退出、山赛正分割、胃肠和皮肤伤会让你吃更少 |
 | 青少年跑步 / 专项化 / U18 超马 | **5 条** | 适跑距离证据弱、IOC 发展观、过劳与倦怠、小时超过年龄抬伤、青少年超马要逐人评估 |
-| **合计** | **396 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
+| **合计** | **400 条入口** | 同一篇论文可出现在多条入口，便于从项目或主题两侧搜到 |
 
 主题包细目仍见 [INDEX-core50](INDEX-core50-2023-2026.md)。力量正文见 [strength-modes-core](strength-modes-core-2023-2026.md)。恢复正文见 [recovery-work](recovery-work.md)。
 
@@ -177,6 +178,7 @@
 | 水泡 血泡 磨破 黑趾甲 擦伤 | [skin-hotspot-framework](../skin-hotspot-framework.md) · SH01–SH06 |
 | 经期 女选手头晕 漏饭 | [female-session-gate](../female-session-gate.md) |
 | 女选手周剂量 漏饭 相对能量不足 黄体期配速 补铁 | [female-week-framework](../female-week-framework.md) · FW01–FW05 |
+| 5K 10K 半马 全马 本周质量课 后程掉速 耐久性 | [distance-quality-framework](../distance-quality-framework.md) · DQ01–DQ04 |
 | 800 1500 中跑 乳酸 课形 | [middle-distance-framework](../middle-distance-framework.md) · MD01–MD06 |
 | 上坡跑 坡冲 替代力量 | [hill-run-framework](../hill-run-framework.md) · HL01–HL04 |
 | 同期训练 蛋白 1.6 3.2 空腹跑 | [concurrent-fuel-framework](../concurrent-fuel-framework.md) · CF01–CF04 |
@@ -374,6 +376,17 @@
 | CF02 | Camera：高蛋白不必然换成更大力量或救回功率 |
 | CF03 | 1.6 vs 3.2 g/kg：不把 3.2 当默认 |
 | CF04 | 关键课要有碳水，不空腹上质量课 |
+
+## 5 公里到马拉松：一周一行（4）
+
+操作：[distance-quality-framework](../distance-quality-framework.md)。正文：[distance-quality-core](distance-quality-core.md)。附在金样上，不另开决策树。
+
+| ID | 要点 |
+|---|---|
+| DQ01 | 一周只留一行主刺激 |
+| DQ02 | Jones：耐久性是成绩的第四维；用来缩短，不另开课 |
+| DQ03 | 长课与比赛配速分日，配速段靠后 |
+| DQ04 | 不覆盖 800、越野、复跑、减量 |
 
 ## 双阈值 / LGTIT（12）
 
