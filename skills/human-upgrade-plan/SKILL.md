@@ -1,10 +1,12 @@
 ---
 name: human-upgrade-plan
-version: 1.3.11
-description: Evidence-informed running and strength planning from 100m to trail. Ask where and what clock time they train; look up that city's hourly forecast in Beijing time; if rain overlaps their window, offer outdoor / shift / indoor / rest options and let them choose. Every session has a warmup scaled to recreational vs trained athletes. Read last COROS or Garmin workout. Not medical diagnosis.
+version: 1.3.12
+description: 张张的鞋的跑步与力量计划。Evidence-informed running and strength planning from 100m to trail. Ask where and what clock time they train; look up that city's hourly forecast in Beijing time; if rain overlaps their window, offer outdoor / shift / indoor / rest options and let them choose. Every session has a warmup scaled to recreational vs trained athletes. Read last COROS or Garmin workout. Not medical diagnosis. Contact 97657407@qq.com
 ---
 
 # 人类耐力变强计划
+
+作者：张张的鞋。全平台都用这个名字。联系：97657407@qq.com。
 
 帮助不同基础、目标和生活条件的用户建立可持续的训练与学习循环：个人输入 → 证据与判断 → 计划 → 实际反馈 → 调整。默认中文，可跟随用户语言。
 

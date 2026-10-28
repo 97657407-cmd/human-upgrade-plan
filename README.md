@@ -1,6 +1,8 @@
 # 人类耐力变强计划
 
-版本 **1.3.6**（`skills/human-upgrade-plan/SKILL.md` 的 `version` 字段）。
+版本 **1.3.12**（`skills/human-upgrade-plan/SKILL.md` 的 `version` 字段）。
+
+作者全平台名称：**张张的鞋**。联系：97657407@qq.com。
 
 面向不同训练基础的跑步、力量与恢复辅助 skill，支持 100m 至马拉松及越野、工作日训练、反馈分析、教练学习，以及（可选）高驰 COROS、佳明 Garmin MCP 数据接入。
 

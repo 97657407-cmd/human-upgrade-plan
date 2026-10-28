@@ -83,6 +83,9 @@ BLANK_TEMPLATES = {
     "skills/human-upgrade-plan/assets/training-log-template.md",
 }
 
+# Author asked to publish this contact. Other emails and phone numbers stay blocked.
+PUBLIC_CONTACT = "97657407@qq.com"
+
 DEFAULT_DENY_PATTERNS = [
     re.compile(r"/Users/[^\s)'\"`]+"),
     re.compile(r"/home/[^\s)'\"`]+"),
@@ -201,7 +204,7 @@ def check_deny_terms(root: Path, files: list[Path], extra_terms: list[str]) -> l
         for pattern in patterns:
             for match in pattern.finditer(text):
                 snippet = match.group(0)
-                if snippet.startswith(("https://", "http://")):
+                if snippet.startswith(("https://", "http://")) or snippet == PUBLIC_CONTACT:
                     continue
                 errors.append(f"deny match in {rel}: {snippet}")
     return errors
